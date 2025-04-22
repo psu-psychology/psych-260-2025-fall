@@ -1,0 +1,9 @@
+---
+title: "Home"
+format: html
+---
+
+## About {-}
+
+Welcome to PSYCH 260.001.
+
