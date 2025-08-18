@@ -1,0 +1,15 @@
+{
+  "hash": "1b2eada0b37b81e75bba3f9c65a2055a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Schedule\"\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n## Week 01 {- #week-01}\n\n### Tue\\, Aug 26\\, 2025 {-}\n\n*Course introduction*\n\n- Read:\n- Slides: | [html](slides/wk-01-2025-08-26-intro.html) |\n\n### Thu\\, Aug 28\\, 2025 {-}\n\n*History of neuroscience\\, levels of analysis\\, methods*\n\n## Week 02 {- #week-02}\n\n### Tue\\, Sep 2\\, 2025 {-}\n\n*Methods II*\n\n### Thu\\, Sep 4\\, 2025 {-}\n\n*Neuroanatomy I*\n\n## Week 03 {- #week-03}\n\n### Tue\\, Sep 9\\, 2025 {-}\n\n*Neuroanatomy II*\n\n### Thu\\, Sep 11\\, 2025 {-}\n\n*Neuroanatomy III; Quiz 1*\n\n## Week 04 {- #week-04}\n\n### Tue\\, Sep 16\\, 2025 {-}\n\n*Cells of the nervous system; Neurophysiology I*\n\n### Thu\\, Sep 18\\, 2025 {-}\n\n*Neurophysiology II*\n\n## Week 05 {- #week-05}\n\n### Tue\\, Sep 23\\, 2025 {-}\n\n*Neurophysiology III; Exam 1 Review*\n\n### Thu\\, Sep 25\\, 2025 {-}\n\n*Exam 1*\n\n## Week 06 {- #week-06}\n\n### Tue\\, Sep 30\\, 2025 {-}\n\n*Neurochemistry I*\n\n### Thu\\, Oct 2\\, 2025 {-}\n\n*No Class*\n\n## Week 07 {- #week-07}\n\n### Tue\\, Oct 7\\, 2025 {-}\n\n*Neurochemistry II*\n\n### Thu\\, Oct 9\\, 2025 {-}\n\n*Hormones*\n\n## Week 08 {- #week-08}\n\n### Tue\\, Oct 14\\, 2025 {-}\n\n*Quiz 2; Evolution*\n\n### Thu\\, Oct 16\\, 2025 {-}\n\n*Development*\n\n## Week 09 {- #week-09}\n\n### Tue\\, Oct 21\\, 2025 {-}\n\n*Exam 2 Review*\n\n### Thu\\, Oct 23\\, 2025 {-}\n\n*Exam 2*\n\n## Week 10 {- #week-10}\n\n### Tue\\, Oct 28\\, 2025 {-}\n\n*Psychopathology I*\n\n### Thu\\, Oct 30\\, 2025 {-}\n\n*Psychopathology II*\n\n## Week 11 {- #week-11}\n\n### Tue\\, Nov 4\\, 2025 {-}\n\n*Election Day • No Class*\n\n### Thu\\, Nov 6\\, 2025 {-}\n\n*Emotion I; Quiz 3*\n\n## Week 12 {- #week-12}\n\n### Tue\\, Nov 11\\, 2025 {-}\n\n*Emotion II*\n\n### Thu\\, Nov 13\\, 2025 {-}\n\n*Sensory Systems*\n\n## Week 13 {- #week-13}\n\n### Tue\\, Nov 18\\, 2025 {-}\n\n*Somatosensation*\n\n### Thu\\, Nov 20\\, 2025 {-}\n\n*Action I; Exam 3 Review*\n\n## Thanksgiving {- #week-14}\n\n### NO CLASS\n\n## Week 14 {- #week-15}\n\n### Tue\\, Dec 2\\, 2025 {-}\n\n*Exam 3*\n\n### Thu\\, Dec 4\\, 2025 {-}\n\n*Action II*\n\n## Week 15 {- #week-16}\n\n### Tue\\, Dec 9\\, 2025 {-}\n\n*Memory; Quiz 4*\n\n### Fri\\, Dec 12\\, 2025 {-}\n\n*Frontiers in neuroscience; Exam 4 review; The Cerebral Sympony*\n\n## Finals {- #finals-week}\n\n*Exam 4 (date TBD)*\n\n\n\n## References\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,4 +1,6 @@
-# Evaluation {- #evaluation}
+---
+title: "Evaluation"
+---
 
 <!-- How to make Canvas do what I like it to do: -->
 

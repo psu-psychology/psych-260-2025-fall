@@ -8,7 +8,17 @@ fig-align: "center"
 
 {{< video https://www.youtube.com/embed/JB7jSFeVz1U height="70%" width="100%">}}
 
-<https://www.youtube.com/embed/JB7jSFeVz1U>
+<p style="text-align:center;">
+@Melodysheep2011-wg
+</p>
+
+---
+
+> "*If understanding everything we need to know about the brain is a mile, how far have we walked?*"
+
+<p style="text-align:center;">
+@National_Geographic2014-gv
+</p>
 
 ## Today's topics {-}
 
@@ -47,9 +57,11 @@ fig-align: "center"
 - My mom says my frontal cortex isn't fully mature. Is she right?
 - Is it safe for high school athletes to play football (or soccer, hockey, etc.)?
 
-## Genes {-}
+## There are many "neurological" bases...
 
-![[@Jimenez2009]](http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg)
+<!-- ## Genes {-} -->
+
+<!-- ![[@Jimenez2009]](http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg) -->
 
 ## Neurotransmitters {-}
 
@@ -61,7 +73,7 @@ fig-align: "center"
 
 ## Networks {-}
 
-![](https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg){fig-align="center"}
+![From https://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/](https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg)
 
 ## Brains {-}
 
@@ -127,7 +139,8 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=40%}
-+ has led to huge advances in human health & prosperity
+- has led to huge advances in human health & prosperity
+- We *all* pay for scientific research, substantially through tax-payer support of government agencies like the National Institutes of Health (NIH) [@Unknown2022-fu]
 :::
 ::: {.column width=60%}
 ![[@owid-its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages]](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10a0ca12-415d-41c8-f6b8-0fcdd9fac900/w=3080)
@@ -136,7 +149,7 @@ fig-align: "center"
 
 ## Gilmore's opinion:
 
-+ Science will be essential for maintaining & extending those advances in the future 
++ Science will be essential for maintaining & extending these advances in the future Federal funding agencies [@Unknown2022-fu]
     
 ## Similarities among sciences {-}
 
@@ -176,21 +189,15 @@ fig-align: "center"
 
 ## Spatial and temporal scales in neuroscience {-}
 
-```{r, fig.cap="[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)"}
-knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp")
-```
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
 
 ## Why neuroscience is harder than physics {-}
 
-<div class="centered">
-<img src="include/img/psych-harder-1.jpg" width=800px/>
-</div>
+![](../include/img/psych-harder-1.jpg)
 
 ---
 
-<div class="centered">
-<img src="include/img/psych-harder-2.jpg" width=800px/>
-</div>
+![](../include/img/psych-harder-2.jpg)
 
 # Resources
 

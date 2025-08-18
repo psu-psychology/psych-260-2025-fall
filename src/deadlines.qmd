@@ -1,4 +1,6 @@
-# Deadlines {- #deadlines}
+---
+title: "Deadlines"
+---
 
 ::: {.callout-warning}
 

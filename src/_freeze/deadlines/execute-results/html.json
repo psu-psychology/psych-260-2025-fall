@@ -1,0 +1,17 @@
+{
+  "hash": "4acb993a78cedff41c2da2a89caead8b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Deadlines\"\n---\n\n\n\n\n\n\n::: {.callout-warning}\n\nThis page is under construction.\n:::\n\n\n\n\n\n\n\n\n\n\n\n\n\n| Date      | What's due/happening |\n|-----------|----------------------|\n| [Thu Sep 11](schedule.qmd#thu-sep-11-2025)   | Quiz 1 |\n| [Thu Sep 25](schedule.qmd#thu-sep-25-2025) | Exam 1 |\n| [Tue Oct 14](schedule.qmd#tue-oct-14-2025)  | Quiz 2 |\n| [Thu Oct 23](schedule.qmd#thu-oct-23-2025)  | Exam 2 |\n| [Thu Nov 06](schedule.qmd#thu-nov-6-2025)  | Quiz 3 |\n| [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | Exam 3 |\n| [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | Quiz 4 |\n| TBD  | Exam 4 |",
+    "supporting": [
+      "deadlines_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

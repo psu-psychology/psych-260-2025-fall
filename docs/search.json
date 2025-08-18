@@ -1,102 +1,12 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PSYCH 260.001",
-    "section": "",
-    "text": "The Neurological Bases of Human Behavior",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#the-neurological-bases-of-human-behavior",
-    "href": "index.html#the-neurological-bases-of-human-behavior",
-    "title": "PSYCH 260.001",
-    "section": "",
-    "text": "(“A GPS for your mind,” 2023)",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#themes",
-    "href": "index.html#themes",
-    "title": "PSYCH 260.001",
-    "section": "Themes",
-    "text": "Themes\nThere is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#instructor",
-    "href": "index.html#instructor",
-    "title": "PSYCH 260.001",
-    "section": "Instructor",
-    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\nSchedule an appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#teaching-assistant",
-    "href": "index.html#teaching-assistant",
-    "title": "PSYCH 260.001",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nKatie Billedeaux\nGraduate Student in Developmental Psychology",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#meeting-time-location",
-    "href": "index.html#meeting-time-location",
-    "title": "PSYCH 260.001",
-    "section": "Meeting time & location",
-    "text": "Meeting time & location\nTuesday & Thursday, 12:05p-1:20p\n114 Steidle Building",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#text",
-    "href": "index.html#text",
-    "title": "PSYCH 260.001",
-    "section": "Text",
-    "text": "Text\n\n\nWatson, N.V. & Breedlove, S.M. (2024), The Mind’s Machine: Foundations of Brain and Behavior (5th ed), PSU Bookstore Page",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#canvas-site",
-    "href": "index.html#canvas-site",
-    "title": "PSYCH 260.001",
-    "section": "Canvas site",
-    "text": "Canvas site\nWe will use Canvas to submit assignments and grade them. The Canvas site may be found here:\n\n\n\n\n\n\nUnder construction\n\n\n\nThis site is still a work-in-progress.\n\n\n\nMost of the course content will be found on this site.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#references",
-    "href": "index.html#references",
-    "title": "PSYCH 260.001",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\nA GPS for your mind: Penn State Health’s Brainlab surgical system helps teen recover from hemorrhage. (2023, October 30). Retrieved August 18, 2025, from https://pennstatehealthnews.org/2023/10/a-gps-for-your-mind-penn-state-healths-brainlab-surgical-system-helps-teen-recover-from-hemorrhage/",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
-    ]
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week 01",
+    "text": "Course introduction\n\nRead:\nSlides: | html |\n\n\n\n\nHistory of neuroscience, levels of analysis, methods",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -104,9 +14,9 @@
     "href": "schedule.html#week-01",
     "title": "Schedule",
     "section": "",
-    "text": "Tue, Aug 26, 2025\nCourse introduction\n\nRead:\nSlides: | html |\n\n\n\nThu, Aug 28, 2025\nHistory of neuroscience, levels of analysis, methods",
+    "text": "Course introduction\n\nRead:\nSlides: | html |\n\n\n\n\nHistory of neuroscience, levels of analysis, methods",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -116,7 +26,7 @@
     "section": "Week 02",
     "text": "Week 02\n\nTue, Sep 2, 2025\nMethods II\n\n\nThu, Sep 4, 2025\nNeuroanatomy I",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -126,7 +36,7 @@
     "section": "Week 03",
     "text": "Week 03\n\nTue, Sep 9, 2025\nNeuroanatomy II\n\n\nThu, Sep 11, 2025\nNeuroanatomy III; Quiz 1",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -136,7 +46,7 @@
     "section": "Week 04",
     "text": "Week 04\n\nTue, Sep 16, 2025\nCells of the nervous system; Neurophysiology I\n\n\nThu, Sep 18, 2025\nNeurophysiology II",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -146,7 +56,7 @@
     "section": "Week 05",
     "text": "Week 05\n\nTue, Sep 23, 2025\nNeurophysiology III; Exam 1 Review\n\n\nThu, Sep 25, 2025\nExam 1",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -156,7 +66,7 @@
     "section": "Week 06",
     "text": "Week 06\n\nTue, Sep 30, 2025\nNeurochemistry I\n\n\nThu, Oct 2, 2025\nNo Class",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -166,7 +76,7 @@
     "section": "Week 07",
     "text": "Week 07\n\nTue, Oct 7, 2025\nNeurochemistry II\n\n\nThu, Oct 9, 2025\nHormones",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -176,7 +86,7 @@
     "section": "Week 08",
     "text": "Week 08\n\nTue, Oct 14, 2025\nQuiz 2; Evolution\n\n\nThu, Oct 16, 2025\nDevelopment",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -186,7 +96,7 @@
     "section": "Week 09",
     "text": "Week 09\n\nTue, Oct 21, 2025\nExam 2 Review\n\n\nThu, Oct 23, 2025\nExam 2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -196,7 +106,7 @@
     "section": "Week 10",
     "text": "Week 10\n\nTue, Oct 28, 2025\nPsychopathology I\n\n\nThu, Oct 30, 2025\nPsychopathology II",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -206,7 +116,7 @@
     "section": "Week 11",
     "text": "Week 11\n\nTue, Nov 4, 2025\nElection Day • No Class\n\n\nThu, Nov 6, 2025\nEmotion I; Quiz 3",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -216,7 +126,7 @@
     "section": "Week 12",
     "text": "Week 12\n\nTue, Nov 11, 2025\nEmotion II\n\n\nThu, Nov 13, 2025\nSensory Systems",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -226,7 +136,7 @@
     "section": "Week 13",
     "text": "Week 13\n\nTue, Nov 18, 2025\nSomatosensation\n\n\nThu, Nov 20, 2025\nAction I; Exam 3 Review",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -236,7 +146,7 @@
     "section": "Thanksgiving",
     "text": "Thanksgiving\n\nNO CLASS",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -246,7 +156,7 @@
     "section": "Week 14",
     "text": "Week 14\n\nTue, Dec 2, 2025\nExam 3\n\n\nThu, Dec 4, 2025\nAction II",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -256,7 +166,7 @@
     "section": "Week 15",
     "text": "Week 15\n\nTue, Dec 9, 2025\nMemory; Quiz 4\n\n\nFri, Dec 12, 2025\nFrontiers in neuroscience; Exam 4 review; The Cerebral Sympony",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -266,7 +176,7 @@
     "section": "Finals",
     "text": "Finals\nExam 4 (date TBD)",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
     ]
   },
   {
@@ -276,7 +186,438 @@
     "section": "References",
     "text": "References",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "(“A GPS for your mind,” 2023)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#the-neurological-bases-of-human-behavior",
+    "href": "index.html#the-neurological-bases-of-human-behavior",
+    "title": "Home",
+    "section": "",
+    "text": "(“A GPS for your mind,” 2023)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#themes",
+    "href": "index.html#themes",
+    "title": "Home",
+    "section": "Themes",
+    "text": "Themes\nThere is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Home",
+    "section": "Instructor",
+    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\nSchedule an appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-assistant",
+    "href": "index.html#teaching-assistant",
+    "title": "Home",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nKatie Billedeaux\nGraduate Student in Developmental Psychology",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#meeting-time-location",
+    "href": "index.html#meeting-time-location",
+    "title": "Home",
+    "section": "Meeting time & location",
+    "text": "Meeting time & location\nTuesday & Thursday, 12:05p-1:20p\n114 Steidle Building",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#textbook",
+    "href": "index.html#textbook",
+    "title": "Home",
+    "section": "Textbook",
+    "text": "Textbook\n\n\nWatson, N.V. & Breedlove, S.M. (2024), The Mind’s Machine: Foundations of Brain and Behavior (5th ed), PSU Bookstore Page",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#canvas-site",
+    "href": "index.html#canvas-site",
+    "title": "Home",
+    "section": "Canvas site",
+    "text": "Canvas site\nWe will use Canvas to submit assignments and grade them. The Canvas site may be found here:\n\n\n\n\n\n\nUnder construction\n\n\n\nThis site is still a work-in-progress.\n\n\n\nMost of the course content will be found on this site.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "deadlines.html",
+    "href": "deadlines.html",
+    "title": "Deadlines",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\n\n\n\n\nThu Sep 11\nQuiz 1\n\n\nThu Sep 25\nExam 1\n\n\nTue Oct 14\nQuiz 2\n\n\nThu Oct 23\nExam 2\n\n\nThu Nov 06\nQuiz 3\n\n\nTue Dec 02\nExam 3\n\n\nTue Dec 09\nQuiz 4\n\n\nTBD\nExam 4",
+    "crumbs": [
+      "Deadlines"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#prelude",
+    "href": "slides/wk-01-2025-08-26-intro.html#prelude",
+    "title": "Course intro",
+    "section": "Prelude",
+    "text": "Prelude\n\n\nmelodysheep (2011)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#todays-topics",
+    "href": "slides/wk-01-2025-08-26-intro.html#todays-topics",
+    "title": "Course intro",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nIntroductions\nStructure of the course\nWhat’s this course about?\nOn systems",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#teaching-assistant",
+    "href": "slides/wk-01-2025-08-26-intro.html#teaching-assistant",
+    "title": "Course intro",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#professor",
+    "href": "slides/wk-01-2025-08-26-intro.html#professor",
+    "title": "Course intro",
+    "section": "Professor",
+    "text": "Professor",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#structure-of-the-course",
+    "href": "slides/wk-01-2025-08-26-intro.html#structure-of-the-course",
+    "title": "Course intro",
+    "section": "Structure of the course",
+    "text": "Structure of the course\n\nSchedule\nEvaluation",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#what-is-this-course-about",
+    "href": "slides/wk-01-2025-08-26-intro.html#what-is-this-course-about",
+    "title": "Course intro",
+    "section": "What is this course about?",
+    "text": "What is this course about?\n\nWhat is behavior?\nHow is human behavior similar to/different from other animals?\nWhat are the neurological bases (of human) behavior?\nWhat other bases (of human behavior) are there?\nHow do the neurological bases of human behavior affect your life?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#genes",
+    "href": "slides/wk-01-2025-08-26-intro.html#genes",
+    "title": "Course intro",
+    "section": "Genes",
+    "text": "Genes\n\n(Jimenez2009?)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#neurotransmitters",
+    "href": "slides/wk-01-2025-08-26-intro.html#neurotransmitters",
+    "title": "Course intro",
+    "section": "Neurotransmitters",
+    "text": "Neurotransmitters",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#neurons",
+    "href": "slides/wk-01-2025-08-26-intro.html#neurons",
+    "title": "Course intro",
+    "section": "Neurons",
+    "text": "Neurons",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#networks",
+    "href": "slides/wk-01-2025-08-26-intro.html#networks",
+    "title": "Course intro",
+    "section": "Networks",
+    "text": "Networks\n\nFrom https://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#brains",
+    "href": "slides/wk-01-2025-08-26-intro.html#brains",
+    "title": "Course intro",
+    "section": "Brains",
+    "text": "Brains",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#behavior",
+    "href": "slides/wk-01-2025-08-26-intro.html#behavior",
+    "title": "Course intro",
+    "section": "Behavior",
+    "text": "Behavior",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#keys-for-success",
+    "href": "slides/wk-01-2025-08-26-intro.html#keys-for-success",
+    "title": "Course intro",
+    "section": "Keys for success",
+    "text": "Keys for success\n\nStudy the figures, not just the text.\nStudy regularly – don’t cram.\nCome to class.\nParticipate!",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#why-is-biology-essential-for-the-science-of-behavior",
+    "href": "slides/wk-01-2025-08-26-intro.html#why-is-biology-essential-for-the-science-of-behavior",
+    "title": "Course intro",
+    "section": "Why is biology essential for the science of behavior?",
+    "text": "Why is biology essential for the science of behavior?\n\nWhat is science?\n\nWhat distinguishes sciences?\nWhat is neuroscience?\n\nWhy is neuroscience harder than physics?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#what-is-science",
+    "href": "slides/wk-01-2025-08-26-intro.html#what-is-science",
+    "title": "Course intro",
+    "section": "What is science?",
+    "text": "What is science?\n\nBody of facts or truths\nProcess of acquiring knowledge\n\nSystematic study\nObservation, experiment, description\nAims at reliable, reproducible, general, systematic, universal laws\nStrives for objectivity",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science-vs.-other-ways-of-thinking",
+    "href": "slides/wk-01-2025-08-26-intro.html#science-vs.-other-ways-of-thinking",
+    "title": "Course intro",
+    "section": "Science vs. other ways of thinking",
+    "text": "Science vs. other ways of thinking\n\nScience is a way of thinking and a set of behaviors\nScientists strive toward communal norms (Merton1979-le?): communalism, universalism, disinterestedness, organized skepticism.\nScience describes, tries to predict",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science-alone",
+    "href": "slides/wk-01-2025-08-26-intro.html#science-alone",
+    "title": "Course intro",
+    "section": "Science alone…",
+    "text": "Science alone…\n\nNot well-suited to prescribing (recommending) or proscribing (prohibiting)\n\nlittle to say about what is good, just, right, moral, etc.\n(Although systematic descriptions of phenomena can be used to make pre/proscriptive claims…)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science-rests-on-evidence-and-logic",
+    "href": "slides/wk-01-2025-08-26-intro.html#science-rests-on-evidence-and-logic",
+    "title": "Course intro",
+    "section": "Science rests on evidence and logic",
+    "text": "Science rests on evidence and logic\n\nNOT on authorities (e.g., people whose stature is largely or solely based on their position or economic status)\nHowever, some scientific claims (and scientists) are more credible and authoritative than others.\nEveryone has opinions. Are yours supported by evidence?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science-respects-tradition",
+    "href": "slides/wk-01-2025-08-26-intro.html#science-respects-tradition",
+    "title": "Course intro",
+    "section": "Science respects tradition",
+    "text": "Science respects tradition\n\nbut not uncritically\n\nquestions and tests it repeatedly…",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science-should-be",
+    "href": "slides/wk-01-2025-08-26-intro.html#science-should-be",
+    "title": "Course intro",
+    "section": "Science should be…",
+    "text": "Science should be…\n\nreproducible, robust, transparent\n\nothers can get the same answer if they follow the same procedures\n\nbut see PSYCH 490.003",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#science",
+    "href": "slides/wk-01-2025-08-26-intro.html#science",
+    "title": "Course intro",
+    "section": "Science…",
+    "text": "Science…\n\n\n\nhas led to huge advances in human health & prosperity\nWe all pay for scientific research, substantially through tax-payer support of government agencies like the National Institutes of Health (NIH) (“Who pays for science? - understanding science,” 2022)\n\n\n\n\n\n(Roser, 2020)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#gilmores-opinion",
+    "href": "slides/wk-01-2025-08-26-intro.html#gilmores-opinion",
+    "title": "Course intro",
+    "section": "Gilmore’s opinion:",
+    "text": "Gilmore’s opinion:\n\nScience will be essential for maintaining & extending these advances in the future Federal funding agencies (“Who pays for science? - understanding science,” 2022)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#similarities-among-sciences",
+    "href": "slides/wk-01-2025-08-26-intro.html#similarities-among-sciences",
+    "title": "Course intro",
+    "section": "Similarities among sciences",
+    "text": "Similarities among sciences\n\nWhat are the different kinds of X?\n\nForm, e.g., anatomy\n\nHow does X work?\n\nFunction, e.g., physiology\n\nWhere did X come from?\n\nOrigins, e.g., development/evolution",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#examples",
+    "href": "slides/wk-01-2025-08-26-intro.html#examples",
+    "title": "Course intro",
+    "section": "Examples",
+    "text": "Examples\n\n“Coronavirus gets its name because of its crown-like shape.”\n“Viruses reproduce (and cause illness) by forcing host organisms to create massive quantities of the virus that then spread to others.”\n“Coronavirus appears to have originated in non-human animals in China.”",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#we-are-family",
+    "href": "slides/wk-01-2025-08-26-intro.html#we-are-family",
+    "title": "Course intro",
+    "section": "We are family",
+    "text": "We are family\n\n“The tree of life” (n.d.)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#differences-among-sciences",
+    "href": "slides/wk-01-2025-08-26-intro.html#differences-among-sciences",
+    "title": "Course intro",
+    "section": "Differences among sciences",
+    "text": "Differences among sciences\n\nPhenomena of interest (studying what)\nMethods or tools (studying it how)\nAt what level(s) of analysis\n\nSpatial scale (nanometers \\(10^{-9}m\\) to light-years \\(10^{15}m\\))\nTemporal scale (milliseconds \\(10^{-3}s\\) to millenia \\(10^3s\\))",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#what-is-neuroscience",
+    "href": "slides/wk-01-2025-08-26-intro.html#what-is-neuroscience",
+    "title": "Course intro",
+    "section": "What is neuroscience?",
+    "text": "What is neuroscience?\n\nThe study of the nervous system\n\nAnd the behavior it makes possible\n\nQuestions neuroscience asks…\n\nWhat are the parts of the nervous system?\nHow do the parts work? What do they do?\nWhere did they come from?",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#spatial-and-temporal-scales-in-neuroscience",
+    "href": "slides/wk-01-2025-08-26-intro.html#spatial-and-temporal-scales-in-neuroscience",
+    "title": "Course intro",
+    "section": "Spatial and temporal scales in neuroscience",
+    "text": "Spatial and temporal scales in neuroscience\n\nSejnowski, Churchland, & Movshon (2014)",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#why-neuroscience-is-harder-than-physics",
+    "href": "slides/wk-01-2025-08-26-intro.html#why-neuroscience-is-harder-than-physics",
+    "title": "Course intro",
+    "section": "Why neuroscience is harder than physics",
+    "text": "Why neuroscience is harder than physics",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#about",
+    "href": "slides/wk-01-2025-08-26-intro.html#about",
+    "title": "Course intro",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.5.1.513.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#references",
+    "href": "slides/wk-01-2025-08-26-intro.html#references",
+    "title": "Course intro",
+    "section": "References",
+    "text": "References\n\n\n\n\nmelodysheep. (2011, March). Ode to the brain! By symphony of science. Youtube. Retrieved from https://www.youtube.com/watch?v=JB7jSFeVz1U\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nRoser, M. (2020). It’s not just about child mortality, life expectancy increased at all ages. Our World in Data.\n\n\nSejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nat. Neurosci., 17(11), 1440–1441. https://doi.org/10.1038/nn.3839\n\n\nThe tree of life: We are related to every living thing! (n.d.). Retrieved August 18, 2025, from https://www.evogeneao.com/en\n\n\nWho pays for science? - understanding science. (2022, April 18). Retrieved August 18, 2025, from https://undsci.berkeley.edu/who-pays-for-science/",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
     ]
   },
   {
@@ -284,7 +625,7 @@
     "href": "evaluation.html",
     "title": "Evaluation",
     "section": "",
-    "text": "Elements",
+    "text": "Warning\n\n\n\nThis page is under construction.",
     "crumbs": [
       "Evaluation"
     ]
@@ -293,8 +634,8 @@
     "objectID": "evaluation.html#eval-components",
     "href": "evaluation.html#eval-components",
     "title": "Evaluation",
-    "section": "",
-    "text": "Component\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\nParticipation\nThere are a total of 15 points available by completing EITHER a paper or a set of 3 blog posts.\n15\n\n\n\nBlog: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, http://sites.psu.edu. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. Assignment\n\n\n\n\nPaper: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. Assignment\n\n\n\n\nTOTAL POINTS POSSIBLE\n165\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
+    "section": "Elements",
+    "text": "Elements\n\n\n\nComponent\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\nParticipation\nThere are a total of 15 points available by completing EITHER a paper or a set of 3 blog posts.\n15\n\n\n\nBlog: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, http://sites.psu.edu. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. Assignment\n\n\n\n\nPaper: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. Assignment\n\n\n\n\nTOTAL POINTS POSSIBLE\n165\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
     "crumbs": [
       "Evaluation"
     ]
@@ -330,23 +671,13 @@
     ]
   },
   {
-    "objectID": "deadlines.html",
-    "href": "deadlines.html",
-    "title": "Deadlines",
-    "section": "",
-    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\n\n\n\n\nThu Sep 11\nQuiz 1\n\n\nThu Sep 25\nExam 1\n\n\nTue Oct 14\nQuiz 2\n\n\nThu Oct 23\nExam 2\n\n\nThu Nov 06\nQuiz 3\n\n\nTue Dec 02\nExam 3\n\n\nTue Dec 09\nQuiz 4\n\n\nTBD\nExam 4",
-    "crumbs": [
-      "Deadlines"
-    ]
-  },
-  {
     "objectID": "policies.html",
     "href": "policies.html",
     "title": "Policies",
     "section": "",
-    "text": "Academic Integrity\nStudents with questions about academic integrity should visit http://www.la.psu.edu/current-students/undergraduate-students/education/academic-integrity.\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nUnless you are told otherwise, you must complete all course work entirely on your own, using only sources that have been permitted by your instructor, and you may not assist other students with papers, quizzes, exams, or other assessments. If I allow you to use ideas, images, or word phrases created by another person (e.g., from Course Hero or Chegg) or by generative technology, such as ChatGPT, you must identify their source.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\nStudents with questions about academic integrity should ask me or the TA before submitting work.\nStudents facing allegations of academic misconduct may not drop/withdraw from the affected course unless they are cleared of wrongdoing (see G-9: Academic Integrity). Attempted drops will be prevented or reversed, and students will be expected to complete course work and meet course deadlines. Students who are found responsible for academic integrity violations face academic outcomes, which can be severe, and put themselves at jeopardy for other outcomes which may include ineligibility for Dean’s List, pass/fail elections, and grade forgiveness. Students may also face consequences from their home/major program and/or The Schreyer Honors College.",
+    "text": "Students with questions about academic integrity should visit http://www.la.psu.edu/current-students/undergraduate-students/education/academic-integrity.\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nUnless you are told otherwise, you must complete all course work entirely on your own, using only sources that have been permitted by your instructor, and you may not assist other students with papers, quizzes, exams, or other assessments. If I allow you to use ideas, images, or word phrases created by another person (e.g., from Course Hero or Chegg) or by generative technology, such as ChatGPT, you must identify their source.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\nStudents with questions about academic integrity should ask me or the TA before submitting work.\nStudents facing allegations of academic misconduct may not drop/withdraw from the affected course unless they are cleared of wrongdoing (see G-9: Academic Integrity). Attempted drops will be prevented or reversed, and students will be expected to complete course work and meet course deadlines. Students who are found responsible for academic integrity violations face academic outcomes, which can be severe, and put themselves at jeopardy for other outcomes which may include ineligibility for Dean’s List, pass/fail elections, and grade forgiveness. Students may also face consequences from their home/major program and/or The Schreyer Honors College.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Policies</span>"
+      "Policies"
     ]
   },
   {
@@ -356,7 +687,18 @@
     "section": "Values",
     "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Policies</span>"
+      "Policies"
+    ]
+  },
+  {
+    "objectID": "slides/wk-01-2025-08-26-intro.html#there-are-many-neurological-bases",
+    "href": "slides/wk-01-2025-08-26-intro.html#there-are-many-neurological-bases",
+    "title": "Course intro",
+    "section": "There are many “neurological” bases…",
+    "text": "There are many “neurological” bases…",
+    "crumbs": [
+      "Slides",
+      "Wk 01 • Tue Aug 26"
     ]
   }
 ]

@@ -1,20 +1,62 @@
+# project:
+#   type: book
+#   output-dir: ../docs
+#   render:
+#     - "slides/*.qmd"
+#     - "*.qmd"
+#   lib-dir: include/site_libs
+
 project:
-  type: book
+  type: website
   output-dir: ../docs
   render:
-  - "./*.qmd"
-  - "slides/*.qmd"
+    - "slides/*.qmd"
+    - "*.qmd"
+  lib-dir: include/site_libs
+  
+execute:
+  freeze: auto
 
-book:
+# book:
+#   title: "PSYCH 260.001"
+#   author: "Rick Gilmore"
+#   date: today
+#   chapters:
+#     - index.qmd
+#     - schedule.qmd
+#     - evaluation.qmd
+#     - deadlines.qmd
+#     - policies.qmd
+#   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
+#   repo-actions: [edit, issue]
+#   repo-subdir: src
+#   page-footer:
+#     left: "Copyright © Rick Gilmore • [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+#     center: "Built with [Quarto](https://quarto.org/)"
+#     right: 
+#       - icon: github
+#         href: https://github.com/psu-psychology/psych-260-2025-fall
+#     background: light
+#     border: true
+#   page-navigation: true
+#   bread-crumbs: false
+#   reader-mode: false
+
+website:
   title: "PSYCH 260.001"
-  author: "Rick Gilmore"
-  date: today
-  chapters:
-    - index.qmd
-    - schedule.qmd
-    - evaluation.qmd
-    - deadlines.qmd
-    - policies.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - schedule.qmd
+      - evaluation.qmd
+      - deadlines.qmd
+      - policies.qmd
+      - section: "Slides"
+        contents:
+          - text: "Wk 01 • Tue Aug 26"
+            href: slides/wk-01-2025-08-26-intro.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src
@@ -29,7 +71,7 @@ book:
   page-navigation: true
   bread-crumbs: false
   reader-mode: false
-
+  
 bibliography: [include/bib/psych-260.bib]
 csl: include/bib/apa.csl
 
@@ -53,5 +95,3 @@ format:
 
   pdf:
     documentclass: scrreprt
-  # epub:
-  #   cover-image: include/img/childrens-thinking.jpg
