@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Rick Gilmore">
-<meta name="dcterms.date" content="2025-04-22">
+<meta name="dcterms.date" content="2025-08-18">
 
 <title>PSYCH 260.001</title>
 <style>
@@ -22,7 +22,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -41,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ef72312a110691827d8fc556ef07c0a6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-57819c8ecdc64a55ca78e446e2b27417.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,7 +125,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="include/css/styles.css">
 </head>
 
 <body class="nav-sidebar floating">
@@ -101,11 +154,6 @@ ul.task-list li input[type="checkbox"] {
       <a href="./">PSYCH 260.001</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/psu-psychology/psych-260-2025-fall/tree/main/src/" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
 </div>
     </div>
       </div>
@@ -126,6 +174,23 @@ ul.task-list li input[type="checkbox"] {
   <a href="./schedule.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Schedule</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./evaluation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Evaluation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./deadlines.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Deadlines</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./policies.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Policies</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -136,7 +201,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
+  <li><a href="#the-neurological-bases-of-human-behavior" id="toc-the-neurological-bases-of-human-behavior" class="nav-link active" data-scroll-target="#the-neurological-bases-of-human-behavior">The Neurological Bases of Human Behavior</a></li>
+  <li><a href="#themes" id="toc-themes" class="nav-link" data-scroll-target="#themes">Themes</a></li>
+  <li><a href="#instructor" id="toc-instructor" class="nav-link" data-scroll-target="#instructor">Instructor</a></li>
+  <li><a href="#teaching-assistant" id="toc-teaching-assistant" class="nav-link" data-scroll-target="#teaching-assistant">Teaching Assistant</a></li>
+  <li><a href="#meeting-time-location" id="toc-meeting-time-location" class="nav-link" data-scroll-target="#meeting-time-location">Meeting time &amp; location</a></li>
+  <li><a href="#text" id="toc-text" class="nav-link" data-scroll-target="#text">Text</a></li>
+  <li><a href="#canvas-site" id="toc-canvas-site" class="nav-link" data-scroll-target="#canvas-site">Canvas site</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/psu-psychology/psych-260-2025-fall/edit/main/src/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/psu-psychology/psych-260-2025-fall/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -145,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">PSYCH 260.001</h1>
+<div class="quarto-title-block"><div><h1 class="title d-none d-lg-block">PSYCH 260.001</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 </div>
 
 
@@ -162,14 +234,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 22, 2025</p>
+      <p class="date">August 18, 2025</p>
     </div>
   </div>
   
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">April 22, 2025</p>
+      <p class="date-modified">August 18, 2025</p>
     </div>
   </div>
     
@@ -180,11 +252,81 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="about" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="about">About</h2>
-<p>Welcome to PSYCH 260.001.</p>
+<section id="the-neurological-bases-of-human-behavior" class="level2">
+<h2 class="anchored" data-anchor-id="the-neurological-bases-of-human-behavior">The Neurological Bases of Human Behavior</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://pennstatehealthnews.org/wp-content/uploads/2023/10/SURG-MixedRealityAVMSurgery_01.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="Unknown2023-ea">(<a href="#ref-Unknown2023-ea" role="doc-biblioref"><span>“A <span>GPS</span> for your mind,”</span> 2023</a>)</span></figcaption>
+</figure>
+</div>
+</section>
+<section id="themes" class="level2">
+<h2 class="anchored" data-anchor-id="themes">Themes</h2>
+<p>There is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.</p>
+</section>
+<section id="instructor" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="instructor">Instructor</h2>
+<p>Rick O. Gilmore, Ph.D.&nbsp;<br>
+Professor of Psychology<br>
+rog1 AT-SIGN psu PERIOD edu<br>
+</p>
+<p>Schedule an appointment: <a href="https://doodle.com/mm/rickgilmore/book-a-time" class="uri">https://doodle.com/mm/rickgilmore/book-a-time</a><br></p>
+<p>Lab web site: <a href="https://gilmore-lab.github.io" class="uri">https://gilmore-lab.github.io</a></p>
+</section>
+<section id="teaching-assistant" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="teaching-assistant">Teaching Assistant</h2>
+<p>Katie Billedeaux<br>
+Graduate Student in Developmental Psychology<br>
+<!-- cfh5558 AT-SIGN psu PERIOD edu \ --> <!-- Meetings by appointment over Zoom \ --></p>
+</section>
+<section id="meeting-time-location" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="meeting-time-location">Meeting time &amp; location</h2>
+<p>Tuesday &amp; Thursday, 12:05p-1:20p<br>
+114 <a href="https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?m/272173?s/stei">Steidle Building</a></p>
+</section>
+<section id="text" class="level2">
+<h2 class="anchored" data-anchor-id="text">Text</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>Watson, N.V. &amp; Breedlove, S.M. (2024), <em>The Mind’s Machine: Foundations of Brain and Behavior (5th ed)</em>, <a href="https://psu.bncollege.com/c/Minds-Machine/p/MBS_9633092_used?currentCampus=435&amp;currentTerm=435_1_25_F&amp;currentCourse=435_1_25_F_806_260_1&amp;rental=true">PSU Bookstore Page</a></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:35%;">
+<p><img src="include/img/watson-breedlove-5e.jpg" class="img-fluid"></p>
+</div>
+</div>
+</section>
+<section id="canvas-site" class="level2">
+<h2 class="anchored" data-anchor-id="canvas-site">Canvas site</h2>
+<p>We will use Canvas to submit assignments and grade them. The Canvas site may be found here:</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Under construction
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This site is still a work-in-progress.</p>
+</div>
+</div>
+<!-- <https://psu.instructure.com/courses/2381584> -->
+<p>Most of the course content will be found on this site.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
 
 
+<!-- -->
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Unknown2023-ea" class="csl-entry" role="listitem">
+A <span>GPS</span> for your mind: Penn <span>S</span>tate <span>H</span>ealth’s <span>B</span>rainlab surgical system helps teen recover from hemorrhage. (2023, October 30). Retrieved August 18, 2025, from <a href="https://pennstatehealthnews.org/2023/10/a-gps-for-your-mind-penn-state-healths-brainlab-surgical-system-helps-teen-recover-from-hemorrhage/">https://pennstatehealthnews.org/2023/10/a-gps-for-your-mind-penn-state-healths-brainlab-surgical-system-helps-teen-recover-from-hemorrhage/</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -275,6 +417,57 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       container: window.document.getElementById('quarto-embedded-source-code-modal')
     });
     clipboardModal.on('success', onCopySuccess);
+  }
+  const viewSource = window.document.getElementById('quarto-view-source') ||
+                     window.document.getElementById('quarto-code-tools-source');
+  if (viewSource) {
+    const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+    viewSource.addEventListener("click", function(e) {
+      if (sourceUrl) {
+        // rstudio viewer pane
+        if (/\bcapabilities=\b/.test(window.location)) {
+          window.open(sourceUrl);
+        } else {
+          window.location.href = sourceUrl;
+        }
+      } else {
+        const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+        modal.show();
+      }
+      return false;
+    });
+  }
+  function toggleCodeHandler(show) {
+    return function(e) {
+      const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+      for (let i=0; i<detailsSrc.length; i++) {
+        const details = detailsSrc[i].parentElement;
+        if (show) {
+          details.open = true;
+        } else {
+          details.removeAttribute("open");
+        }
+      }
+      const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+      const fromCls = show ? "hidden" : "unhidden";
+      const toCls = show ? "unhidden" : "hidden";
+      for (let i=0; i<cellCodeDivs.length; i++) {
+        const codeDiv = cellCodeDivs[i];
+        if (codeDiv.classList.contains(fromCls)) {
+          codeDiv.classList.remove(fromCls);
+          codeDiv.classList.add(toCls);
+        } 
+      }
+      return false;
+    }
+  }
+  const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+  if (hideAllCode) {
+    hideAllCode.addEventListener("click", toggleCodeHandler(false));
+  }
+  const showAllCode = window.document.getElementById("quarto-show-all-code");
+  if (showAllCode) {
+    showAllCode.addEventListener("click", toggleCodeHandler(true));
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
@@ -613,12 +806,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         <span class="nav-page-text"><span class="chapter-title">Schedule</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
-</nav>
+</nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Home"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">format:</span><span class="co"> html</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>{{&lt; include _index.qmd &gt;}}</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>{{&lt; include _about.qmd &gt;}}</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">## References</span></span></code><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></pre></div>
+</div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2025- Rick Gilmore • <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+<p>Copyright © Rick Gilmore • <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 </div>   
     <div class="nav-footer-center">
 <p>Built with <a href="https://quarto.org/">Quarto</a></p>

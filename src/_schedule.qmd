@@ -11,7 +11,7 @@ if (!dir.exists('csv')) {
 csv_fn <- "csv/sched.csv"
 
 googledrive::drive_download(
-  file = 'PSYCH-260.001-2025-Fall',
+    file = 'PSYCH-260.001-2025-Fall',
   path = csv_fn,
   type = 'csv',
   overwrite = TRUE
@@ -31,7 +31,9 @@ sched_df <- sched_df |>
 
 ```{r}
 #| label: helper-functions
-
+#| echo: false
+#| message: false
+#| 
 prettify_date <- function(date) {
   paste0(
     lubridate::wday(date, label = TRUE), ", ",
@@ -49,62 +51,101 @@ prettify_date <- function(date) {
 
 ### `{r} prettify_date(sched_df$class_day_1[1])` {-}
 
+*`{r} sched_df$class_1_theme[1]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[1])` {-}
+
+*`{r} sched_df$class_2_theme[1]`*
 
 ## `{r} sched_df$week[2]` {- #week-02}
 
 ### `{r} prettify_date(sched_df$class_day_1[2])` {-}
 
+*`{r} sched_df$class_1_theme[2]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[2])` {-}
+
+*`{r} sched_df$class_2_theme[2]`*
 
 ## `{r} sched_df$week[3]` {- #week-03}
 
 ### `{r} prettify_date(sched_df$class_day_1[3])` {-}
 
+*`{r} sched_df$class_1_theme[3]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[3])` {-}
+
+*`{r} sched_df$class_2_theme[3]`*
 
 ## `{r} sched_df$week[4]` {- #week-04}
 
 ### `{r} prettify_date(sched_df$class_day_1[4])` {-}
 
+*`{r} sched_df$class_1_theme[4]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[4])` {-}
 
+*`{r} sched_df$class_2_theme[4]`*
 
 ## `{r} sched_df$week[5]` {- #week-05}
 
 ### `{r} prettify_date(sched_df$class_day_1[5])` {-}
 
+*`{r} sched_df$class_1_theme[5]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[5])` {-}
+
+*`{r} sched_df$class_2_theme[5]`*
 
 ## `{r} sched_df$week[6]` {- #week-06}
 
 ### `{r} prettify_date(sched_df$class_day_1[6])` {-}
 
+*`{r} sched_df$class_1_theme[6]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[6])` {-}
+
+*`{r} sched_df$class_2_theme[6]`*
 
 ## `{r} sched_df$week[7]` {- #week-07}
 
 ### `{r} prettify_date(sched_df$class_day_1[7])` {-}
 
+*`{r} sched_df$class_1_theme[7]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[7])` {-}
+
+*`{r} sched_df$class_2_theme[7]`*
 
 ## `{r} sched_df$week[8]` {- #week-08}
 
 ### `{r} prettify_date(sched_df$class_day_1[8])` {-}
 
+*`{r} sched_df$class_1_theme[8]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[8])` {-}
+
+*`{r} sched_df$class_2_theme[8]`*
 
 ## `{r} sched_df$week[9]` {- #week-09}
 
 ### `{r} prettify_date(sched_df$class_day_1[9])` {-}
 
+*`{r} sched_df$class_1_theme[9]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[9])` {-}
+
+*`{r} sched_df$class_2_theme[9]`*
 
 ## `{r} sched_df$week[10]` {- #week-10}
 
 ### `{r} prettify_date(sched_df$class_day_1[10])` {-}
 
+*`{r} sched_df$class_1_theme[10]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[10])` {-}
+
+*`{r} sched_df$class_2_theme[10]`*
 
 ## `{r} sched_df$week[11]` {- #week-11}
 
@@ -114,17 +155,27 @@ prettify_date <- function(date) {
 
 ### `{r} prettify_date(sched_df$class_day_2[11])` {-}
 
+*`{r} sched_df$class_2_theme[11]`*
+
 ## `{r} sched_df$week[12]` {- #week-12}
 
 ### `{r} prettify_date(sched_df$class_day_1[12])` {-}
 
+*`{r} sched_df$class_1_theme[12]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[12])` {-}
+
+*`{r} sched_df$class_2_theme[12]`*
 
 ## `{r} sched_df$week[13]` {- #week-13}
 
 ### `{r} prettify_date(sched_df$class_day_1[13])` {-}
 
+*`{r} sched_df$class_1_theme[13]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[13])` {-}
+
+*`{r} sched_df$class_2_theme[13]`*
 
 ## `{r} sched_df$week[14]` {- #week-14}
 
@@ -134,11 +185,22 @@ prettify_date <- function(date) {
 
 ### `{r} prettify_date(sched_df$class_day_1[15])` {-}
 
+*`{r} sched_df$class_1_theme[15]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[15])` {-}
+
+*`{r} sched_df$class_2_theme[15]`*
 
 ## `{r} sched_df$week[16]` {- #week-16}
 
 ### `{r} prettify_date(sched_df$class_day_1[16])` {-}
 
+*`{r} sched_df$class_1_theme[16]`*
+
 ### `{r} prettify_date(sched_df$class_day_2[16])` {-}
 
+*`{r} sched_df$class_2_theme[16]`*
+
+## `{r} sched_df$week[17]` {- #finals-week}
+
+*Exam 4 (date TBD)*

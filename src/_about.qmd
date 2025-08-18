@@ -1,0 +1,50 @@
+## Instructor {-}
+
+Rick O. Gilmore, Ph.D. \
+Professor of Psychology \
+rog1 AT-SIGN psu PERIOD edu \
+
+Schedule an appointment: <https://doodle.com/mm/rickgilmore/book-a-time></br>
+
+Lab web site: <https://gilmore-lab.github.io>
+
+## Teaching Assistant {-}
+
+Katie Billedeaux \
+Graduate Student in Developmental Psychology \
+<!-- cfh5558 AT-SIGN psu PERIOD edu \ -->
+<!-- Meetings by appointment over Zoom \ -->
+
+## Meeting time & location {-}
+
+Tuesday & Thursday, 12:05p-1:20p \
+114 [Steidle Building](https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?m/272173?s/stei)
+
+## Text
+
+:::: {.columns}
+::: {.column width=60%}
+Watson, N.V. & Breedlove, S.M. (2024), *The Mind's Machine: Foundations of Brain and Behavior (5th ed)*, [PSU Bookstore Page](https://psu.bncollege.com/c/Minds-Machine/p/MBS_9633092_used?currentCampus=435&currentTerm=435_1_25_F&currentCourse=435_1_25_F_806_260_1&rental=true)
+:::
+::: {.column width=5%}
+:::
+::: {.column width=35%}
+![](include/img/watson-breedlove-5e.jpg)
+:::
+::::
+
+## Canvas site
+
+We will use Canvas to submit assignments and grade them.
+The Canvas site may be found here: 
+
+::: {.callout-warning}
+### Under construction
+
+This site is still a work-in-progress.
+:::
+
+
+<!-- <https://psu.instructure.com/courses/2381584> -->
+
+Most of the course content will be found on this site.

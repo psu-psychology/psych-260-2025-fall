@@ -4,7 +4,87 @@
     "href": "index.html",
     "title": "PSYCH 260.001",
     "section": "",
-    "text": "About\nWelcome to PSYCH 260.001.",
+    "text": "The Neurological Bases of Human Behavior",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#the-neurological-bases-of-human-behavior",
+    "href": "index.html#the-neurological-bases-of-human-behavior",
+    "title": "PSYCH 260.001",
+    "section": "",
+    "text": "(“A GPS for your mind,” 2023)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#themes",
+    "href": "index.html#themes",
+    "title": "PSYCH 260.001",
+    "section": "Themes",
+    "text": "Themes\nThere is no more fascinating or challenging field of inquiry than the nature, origin, structure, and functioning of the human mind and the behavior it enables. This course will examine human mental states and observable behaviors from a biological basis, especially focusing on the evolution, development, structure, and functioning of the nervous system.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "PSYCH 260.001",
+    "section": "Instructor",
+    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\nSchedule an appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-assistant",
+    "href": "index.html#teaching-assistant",
+    "title": "PSYCH 260.001",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nKatie Billedeaux\nGraduate Student in Developmental Psychology",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#meeting-time-location",
+    "href": "index.html#meeting-time-location",
+    "title": "PSYCH 260.001",
+    "section": "Meeting time & location",
+    "text": "Meeting time & location\nTuesday & Thursday, 12:05p-1:20p\n114 Steidle Building",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#text",
+    "href": "index.html#text",
+    "title": "PSYCH 260.001",
+    "section": "Text",
+    "text": "Text\n\n\nWatson, N.V. & Breedlove, S.M. (2024), The Mind’s Machine: Foundations of Brain and Behavior (5th ed), PSU Bookstore Page",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#canvas-site",
+    "href": "index.html#canvas-site",
+    "title": "PSYCH 260.001",
+    "section": "Canvas site",
+    "text": "Canvas site\nWe will use Canvas to submit assignments and grade them. The Canvas site may be found here:\n\n\n\n\n\n\nUnder construction\n\n\n\nThis site is still a work-in-progress.\n\n\n\nMost of the course content will be found on this site.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "PSYCH 260.001",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\nA GPS for your mind: Penn State Health’s Brainlab surgical system helps teen recover from hemorrhage. (2023, October 30). Retrieved August 18, 2025, from https://pennstatehealthnews.org/2023/10/a-gps-for-your-mind-penn-state-healths-brainlab-surgical-system-helps-teen-recover-from-hemorrhage/",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -24,7 +104,7 @@
     "href": "schedule.html#week-01",
     "title": "Schedule",
     "section": "",
-    "text": "Tue, Aug 26, 2025\n\n\nThu, Aug 28, 2025",
+    "text": "Tue, Aug 26, 2025\nCourse introduction\n\n\nThu, Aug 28, 2025\nHistory of neuroscience, levels of analysis, methods",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -34,7 +114,7 @@
     "href": "schedule.html#week-02",
     "title": "Schedule",
     "section": "Week 02",
-    "text": "Week 02\n\nTue, Sep 2, 2025\n\n\nThu, Sep 4, 2025",
+    "text": "Week 02\n\nTue, Sep 2, 2025\nMethods II\n\n\nThu, Sep 4, 2025\nNeuroanatomy I",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -44,7 +124,7 @@
     "href": "schedule.html#week-03",
     "title": "Schedule",
     "section": "Week 03",
-    "text": "Week 03\n\nTue, Sep 9, 2025\n\n\nThu, Sep 11, 2025",
+    "text": "Week 03\n\nTue, Sep 9, 2025\nNeuroanatomy II\n\n\nThu, Sep 11, 2025\nNeuroanatomy III; Quiz 1",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -54,7 +134,7 @@
     "href": "schedule.html#week-04",
     "title": "Schedule",
     "section": "Week 04",
-    "text": "Week 04\n\nTue, Sep 16, 2025\n\n\nThu, Sep 18, 2025",
+    "text": "Week 04\n\nTue, Sep 16, 2025\nCells of the nervous system; Neurophysiology I\n\n\nThu, Sep 18, 2025\nNeurophysiology II",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -64,7 +144,7 @@
     "href": "schedule.html#week-05",
     "title": "Schedule",
     "section": "Week 05",
-    "text": "Week 05\n\nTue, Sep 23, 2025\n\n\nThu, Sep 25, 2025",
+    "text": "Week 05\n\nTue, Sep 23, 2025\nNeurophysiology III; Exam 1 Review\n\n\nThu, Sep 25, 2025\nExam 1",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -74,7 +154,7 @@
     "href": "schedule.html#week-06",
     "title": "Schedule",
     "section": "Week 06",
-    "text": "Week 06\n\nTue, Sep 30, 2025\n\n\nThu, Oct 2, 2025",
+    "text": "Week 06\n\nTue, Sep 30, 2025\nNeurochemistry I\n\n\nThu, Oct 2, 2025\nNo Class",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -84,7 +164,7 @@
     "href": "schedule.html#week-07",
     "title": "Schedule",
     "section": "Week 07",
-    "text": "Week 07\n\nTue, Oct 7, 2025\n\n\nThu, Oct 9, 2025",
+    "text": "Week 07\n\nTue, Oct 7, 2025\nNeurochemistry II\n\n\nThu, Oct 9, 2025\nHormones",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -94,7 +174,7 @@
     "href": "schedule.html#week-08",
     "title": "Schedule",
     "section": "Week 08",
-    "text": "Week 08\n\nTue, Oct 14, 2025\n\n\nThu, Oct 16, 2025",
+    "text": "Week 08\n\nTue, Oct 14, 2025\nQuiz 2; Evolution\n\n\nThu, Oct 16, 2025\nDevelopment",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -104,7 +184,7 @@
     "href": "schedule.html#week-09",
     "title": "Schedule",
     "section": "Week 09",
-    "text": "Week 09\n\nTue, Oct 21, 2025\n\n\nThu, Oct 23, 2025",
+    "text": "Week 09\n\nTue, Oct 21, 2025\nExam 2 Review\n\n\nThu, Oct 23, 2025\nExam 2",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -114,7 +194,7 @@
     "href": "schedule.html#week-10",
     "title": "Schedule",
     "section": "Week 10",
-    "text": "Week 10\n\nTue, Oct 28, 2025\n\n\nThu, Oct 30, 2025",
+    "text": "Week 10\n\nTue, Oct 28, 2025\nPsychopathology I\n\n\nThu, Oct 30, 2025\nPsychopathology II",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -124,7 +204,7 @@
     "href": "schedule.html#week-11",
     "title": "Schedule",
     "section": "Week 11",
-    "text": "Week 11\n\nTue, Nov 4, 2025\nElection Day • No Class\n\n\nThu, Nov 6, 2025",
+    "text": "Week 11\n\nTue, Nov 4, 2025\nElection Day • No Class\n\n\nThu, Nov 6, 2025\nEmotion I; Quiz 3",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -134,7 +214,7 @@
     "href": "schedule.html#week-12",
     "title": "Schedule",
     "section": "Week 12",
-    "text": "Week 12\n\nTue, Nov 11, 2025\n\n\nThu, Nov 13, 2025",
+    "text": "Week 12\n\nTue, Nov 11, 2025\nEmotion II\n\n\nThu, Nov 13, 2025\nSensory Systems",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -144,7 +224,7 @@
     "href": "schedule.html#week-13",
     "title": "Schedule",
     "section": "Week 13",
-    "text": "Week 13\n\nTue, Nov 18, 2025\n\n\nThu, Nov 20, 2025",
+    "text": "Week 13\n\nTue, Nov 18, 2025\nSomatosensation\n\n\nThu, Nov 20, 2025\nAction I; Exam 3 Review",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -164,7 +244,7 @@
     "href": "schedule.html#week-15",
     "title": "Schedule",
     "section": "Week 14",
-    "text": "Week 14\n\nTue, Dec 2, 2025\n\n\nThu, Dec 4, 2025",
+    "text": "Week 14\n\nTue, Dec 2, 2025\nExam 3\n\n\nThu, Dec 4, 2025\nAction II",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -174,9 +254,109 @@
     "href": "schedule.html#week-16",
     "title": "Schedule",
     "section": "Week 15",
-    "text": "Week 15\n\nTue, Dec 9, 2025\n\n\nThu, Dec 11, 2025",
+    "text": "Week 15\n\nTue, Dec 9, 2025\nMemory; Quiz 4\n\n\nFri, Dec 12, 2025\nFrontiers in neuroscience; Exam 4 review; The Cerebral Sympony",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+    ]
+  },
+  {
+    "objectID": "schedule.html#finals-week",
+    "href": "schedule.html#finals-week",
+    "title": "Schedule",
+    "section": "Finals",
+    "text": "Finals\nExam 4 (date TBD)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+    ]
+  },
+  {
+    "objectID": "schedule.html#references",
+    "href": "schedule.html#references",
+    "title": "Schedule",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+    ]
+  },
+  {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Elements",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#eval-components",
+    "href": "evaluation.html#eval-components",
+    "title": "Evaluation",
+    "section": "",
+    "text": "Component\nDescription\nPoints\n\n\n\n\nExams\nThere will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final.\n120\n\n\nQuizzes\nThere will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.\n30\n\n\nParticipation\nThere are a total of 15 points available by completing EITHER a paper or a set of 3 blog posts assignment.\n15\n\n\n\nBlog: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, http://sites.psu.edu. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. Assignment\n\n\n\n\nPaper: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. Assignment\n\n\n\n\nTOTAL POINTS POSSIBLE\n165\n\n\nExtra Credit\nThere may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#grading-scheme",
+    "href": "evaluation.html#grading-scheme",
+    "title": "Evaluation",
+    "section": "Grading Scheme",
+    "text": "Grading Scheme\n\n\n\nPoints\nPercent\nGrade\n\n\n\n\n165+\n100+\nA+\n\n\n155-164\n94-99\nA\n\n\n148-154\n90-93\nA-\n\n\n143-147\n87-89\nB+\n\n\n139-142\n84-86\nB\n\n\n132-138\n80-83\nB-\n\n\n127-131\n77-79\nC+\n\n\n115-126\n70-76\nC\n\n\n99-114\n60-69\nD\n\n\n0-98\n&lt;59\nF",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#blog_assignment",
+    "href": "evaluation.html#blog_assignment",
+    "title": "Evaluation",
+    "section": "Blog assignment",
+    "text": "Blog assignment\n\nFormat, due date\n\nCreate a blog at http://sites.psu.edu or add pages to an existing blog; make at least three posts.\nWorth 15 points in total (5 points/post)\nDue dates/times\n\nPost 1: Tuesday, February 21, 2023, 5:00 pm\nPost 2: Tuesday, March 21, 2023, 5:00 pm\nPost 3: Tuesday, April 11, 2023 at 5:00 pm\n\nSubmit by sending email with link (URL) to the TA via Canvas, cc (carbon copy) the instructor.\nPlease indicate in your email whether you wish to have the link to your blog added to the course web site.\n\n\n\nAssignment\nCreate a blog at http://sites.psu.edu or add to an existing blog you have created.\nWrite at least three posts between now and Tuesday, April 11, 2023 at 5:00 pm that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length, or approximately 1-1.5 pp double-spaced.\nYou may choose to comment on articles from the popular or scientific press. You can find appropriate articles in general interest magazines such as Time, The Economist, in a newspaper such as The New York Times, in general science publications such as Scientific American, The American Scientist, Science News, or Discover, or scientific journals such as Science, Nature, Current Directions in Psychological Science, etc. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know but you should incorporate the scientific literature.\nSummarize and discuss the main points of the articles as follows:\n\nDescribe the main purposes and findings of the research reported on in the articles. Remember the strategy that good reporters use: Who did what to whom, when and how did they do it, and why?\nDiscuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.\nDiscuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?\n\nIf your non-textbook references are unavailable online, submit printed paper copies. NOTE: Remember to include proper APA in-text citations and also include full references for your sources at the end of each post.\nTHE TA OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.\nBe mindful of personal privacy. You should not reveal sensitive or personal information about yourself or another person in any way that could cause harm or embarrassment.\n\n\nHow to submit\nSend an email to Dr. Gilmore and the TA. Include the URL (web link) to your blog in the message.\n\n\nSources\nYou may use your textbook or other reference materials as resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper. Wherever possible, link to articles or figures in your post so that others can follow what you’ve found.",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#paper_assignment",
+    "href": "evaluation.html#paper_assignment",
+    "title": "Evaluation",
+    "section": "Paper assignment",
+    "text": "Paper assignment\n\nFormat, due date\n\n3-5 pages double-spaced, worth 15 points\nDue Tuesday, April 11, 2023 at 5:00 pm.\n\n\n\nAssignment\nYou are the psychology and neuroscience correspondent for an international news service. Your job is to scan the popular and scientific press for recent findings in psychology and neuroscience and to describe them to a general audience in a succinct and thoughtful way.\nChoose two articles from the popular or scientific press on the same issue or recent finding of relevance to the biology of behavior. You may find appropriate articles in general interest magazines such as Time, The Economist, in a newspaper such as The New York Times, in general science publications such as Scientific American, The American Scientist, Science News, or Discover, or scientific journals such as Science, Nature, Current Directions in Psychological Science, etc. Summarize and discuss the main points of the articles as follows:\n\nIn an introductory paragraph or two, describe the main purposes and findings of the research reported on in the articles. Remember the strategy that good reporters use: Who did what to whom, when and how did they do it, and why?\nIn another paragraph or two, discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.\nIn a concluding paragraph, discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?\nIf your non-textbook references are unavailable online, submit printed paper copies.\nYour paper should be about three to five pages in length, using double-spacing, margins no smaller than 1” and a 12 point typeface. This is approximately 500-1,000 words.\nTHE TA OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.\n\n\n\nHow to submit\nSend an email to Dr. Gilmore and the TA via Canvas. Attach your paper with the message.\n\n\nSources\nYou may use your textbook or other reference materials as additional resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper.\n\n\nTips for success\n\nAlways use page numbers.\nMake sure that your essay has introductory and concluding paragraphs.\nSave your paper with a file name in this format: PSYCH260.001_paper_Gilmore_R.docx, substituting your last name and first initial for mine.",
+    "crumbs": [
+      "Evaluation"
+    ]
+  },
+  {
+    "objectID": "deadlines.html",
+    "href": "deadlines.html",
+    "title": "Deadlines",
+    "section": "",
+    "text": "Warning\n\n\n\nThis page is under construction.\n\n\n\n\n\nDate\nWhat’s due/happening\n\n\n\n\nThu Sep 11\nQuiz 1\n\n\nThu Sep 25\nExam 1\n\n\nTue Oct 14\nQuiz 2\n\n\nThu Oct 23\nExam 2\n\n\nThu Nov 06\nQuiz 3\n\n\nTue Dec 02\nExam 3\n\n\nTue Dec 09\nQuiz 4\n\n\nTBD\nExam 4",
+    "crumbs": [
+      "Deadlines"
+    ]
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "Academic Integrity\nStudents with questions about academic integrity should visit http://www.la.psu.edu/current-students/undergraduate-students/education/academic-integrity.\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nUnless you are told otherwise, you must complete all course work entirely on your own, using only sources that have been permitted by your instructor, and you may not assist other students with papers, quizzes, exams, or other assessments. If I allow you to use ideas, images, or word phrases created by another person (e.g., from Course Hero or Chegg) or by generative technology, such as ChatGPT, you must identify their source.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\nStudents with questions about academic integrity should ask me or the TA before submitting work.\nStudents facing allegations of academic misconduct may not drop/withdraw from the affected course unless they are cleared of wrongdoing (see G-9: Academic Integrity). Attempted drops will be prevented or reversed, and students will be expected to complete course work and meet course deadlines. Students who are found responsible for academic integrity violations face academic outcomes, which can be severe, and put themselves at jeopardy for other outcomes which may include ineligibility for Dean’s List, pass/fail elections, and grade forgiveness. Students may also face consequences from their home/major program and/or The Schreyer Honors College.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Policies</span>"
+    ]
+  },
+  {
+    "objectID": "policies.html#values",
+    "href": "policies.html#values",
+    "title": "Policies",
+    "section": "Values",
+    "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Policies</span>"
     ]
   }
 ]

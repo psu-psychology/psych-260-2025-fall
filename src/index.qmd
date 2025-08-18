@@ -3,7 +3,9 @@ title: "Home"
 format: html
 ---
 
-## About {-}
+{{< include _index.qmd >}}
 
-Welcome to PSYCH 260.001.
+{{< include _about.qmd >}}
+
+## References
 
