@@ -1,0 +1,202 @@
+# Course intro 
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      cache=FALSE, 
+                      fig.align = "center",
+                      out.width = "75%")
+```
+
+## Prelude {-}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/JB7jSFeVz1U>
+
+## Today's topics {-}
+
+- Introductions
+- Structure of the course
+- What's this course about?
+- On systems
+
+---
+
+## People {-}
+
+### Teaching Assistant {-}
+
+**Megan Bradson, M.S.</br>**
+
+- Graduate student in clinical psychology
+
+### Professor {-}
+
+```{r child="rmd/gilmore-photo-bio.Rmd"}
+```
+
+- [PSYCH 490 -- The reproducibility crisis in science](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring)
+
+## Structure of the course {-}
+
+- [Schedule](https://psu-psychology.github.io/psych-260-2023-spring/schedule.html)
+- [Evaluation](https://psu-psychology.github.io/psych-260-2023-spring/evaluation.html)
+
+---
+
+## What is this course about? {-}
+
+- What is behavior?
+- How is human behavior similar to/different from other animals?
+- What are the *neurological* bases (of human) behavior?
+- What *other* bases (of human behavior) are there?
+- How do the neurological bases of human behavior affect your life?
+
+---
+
+- Why does taking/drinking X make me feel Y?
+- My grandmother has Alzheimer's disease. What's happening to her brain?
+- Carrie Fisher had bipolar disorder. What's that about?
+- Why is sleep so important for brain health?
+- My mom says my frontal cortex isn't fully mature. Is she right?
+- Is it safe for high school athletes to play football (or soccer, hockey, etc.)?
+
+### Genes {-}
+
+```{r, fig.cap='[@Jimenez2009]'}
+knitr::include_graphics("http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg")
+```
+
+### Neurotransmitters {-}
+
+```{r, fig.cap="http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg"}
+knitr::include_graphics("http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg")
+```
+
+### Neurons {-}
+
+```{r, out.width="50%", fig.cap="https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg"}
+knitr::include_graphics("https://i.pinimg.com/originals/4d/6f/52/4d6f5259aacce4588beb564b693b55b0.jpg")
+```
+
+### Networks {-}
+
+```{r, fig.cap="https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg"}
+knitr::include_graphics("https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg")
+```
+
+### Brains {-}
+
+```{r, fig.cap="https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg"}
+knitr::include_graphics("https://i.pinimg.com/originals/ee/b8/84/eeb88466dc592d26748329ab6a9d57e8.jpg")
+```
+
+### Behavior {-}
+
+```{r, fig.cap="http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif"}
+knitr::include_graphics("http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif")
+```
+
+## Keys for success {-}
+
+- Study the figures, not just the text.
+- Study regularly -- don't cram.
+- Come to class.
+- Participate!
+
+## Why is biology essential for the science of behavior? {-}
+
+- What is science?
+    - What distinguishes sciences?
+    - What is neuroscience?
+- Why is neuroscience harder than physics?
+
+## What is [science](http://dictionary.reference.com/browse/science)? {-}
+
+- Body of facts or truths
+- Process of acquiring knowledge
+    - Systematic study
+    - Observation, experiment, description
+    - Aims at reliable, reproducible, general, systematic, universal laws
+    - *Strives* for objectivity
+ 
+### Science vs. other ways of thinking {-}
+
+- Science is a *way of thinking* and a *set of behaviors*
+- Scientists strive toward *communal norms* [[@Merton1979-le]](https://www.amazon.com/Sociology-Science-Theoretical-Empirical-Investigations/dp/0226520927): communalism, universalism, disinterestedness, organized skepticism.
+- Science *describes*, tries to *predict*
+- Science alone not well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
+    - little to say about what is good, just, right, moral, etc.
+    - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
+- Science rests on **evidence and logic** 
+    - <span class="blue">NOT on authorities</span> (e.g., people whose stature is largely or solely based on their position or economic status)
+    - However, some scientific claims (and scientists) are more credible and authoritative than others.
+- Science respects tradition
+    - but not uncritically
+    - questions and tests it repeatedly...
+- Science should be reproducible, robust, transparent
+    - others can get the same answer, but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring)
+- Science
+    + led to huge advances in human health & prosperity
+    + essential for maintaining & extending those advances
+    + Example: Rapid development and deployment of multiple, effective, and safe vaccines for SARS-CoV-2 that sharply reduce severe illness and death.
+    
+### Similarities among sciences {-}
+
+- What are the different kinds of X?
+    - **Form**, e.g., anatomy
+- How does X work?
+    - **Function**, e.g., physiology
+- Where did X come from?
+    - **Origins**, e.g., development/evolution
+    
+### Examples {-}
+
+- "Coronavirus gets its name because of its crown-like shape."
+- "Viruses reproduce (and cause illness) by forcing host organisms to create massive quantities of the virus that then spread to others."
+- "Coronavirus appears to have originated in non-human animals in China."
+
+---
+
+An example of scientific perspectives on origins...
+
+```{r evo-tree-of-life-fig, fig.cap="<https://www.evogeneao.com>"}
+knitr::include_graphics("https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png")
+```
+
+### Differences among sciences {-}
+
+- Phenomena of interest (studying *what*)
+- Methods or tools (studying it *how*)
+- At what *level(s) of analysis*
+    - Spatial scale (nanometers $10^{-9}m$ to light-years $10^{15}m$)
+    - Temporal scale (milliseconds $10^{-3}s$ to millenia $10^3s$)
+    
+## What is neuroscience? {-}
+
+- The study of the nervous system
+    - And the behavior it makes possible
+- Questions neuroscience asks...
+    - What are the parts of the nervous system?
+    - How do the parts work?  What do they do?
+    - Where did they come from?
+    
+---
+
+## Spatial and temporal scales in neuroscience {-}
+
+```{r, fig.cap="[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)"}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp")
+```
+
+### Why neuroscience is harder than physics {-}
+
+<div class="centered">
+<img src="include/img/psych-harder-1.jpg" width=800px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="include/img/psych-harder-2.jpg" width=800px/>
+</div>

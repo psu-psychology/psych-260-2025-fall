@@ -53,6 +53,9 @@ prettify_date <- function(date) {
 
 *`{r} sched_df$class_1_theme[1]`*
 
+- Read:
+- Slides: | [html](slides/wk-01-2025-08-26-intro.html) |
+
 ### `{r} prettify_date(sched_df$class_day_2[1])` {-}
 
 *`{r} sched_df$class_2_theme[1]`*

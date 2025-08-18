@@ -1,0 +1,22 @@
+project:
+  output-dir: ../../docs
+format: 
+  revealjs:
+    footer: "[PSYCH 260.001](https://psu-psychology.github.io/psych-260-2025-fall) | © Rick Gilmore under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    bibliography: [../include/bib/psych-260.bib]
+    csl: ../include/bib/apa.csl
+    theme: [serif, ../include/css/psu.scss]
+    mainfont: roboto
+    code-fold: true
+    code-tools: true
+    chalkboard: true
+    link-external-icon: true
+    citations-hover: true
+    author: "Rick Gilmore"
+    institute: "Department of Psychology"
+knitr:
+  opts_chunk:
+    fig.path: ../include/fig

@@ -1,6 +1,9 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: ../docs
+  render:
+  - "./*.qmd"
+  - "slides/*.qmd"
 
 book:
   title: "PSYCH 260.001"
@@ -27,7 +30,8 @@ book:
   bread-crumbs: false
   reader-mode: false
 
-bibliography: include/bib/psy-260.bib
+bibliography: [include/bib/psych-260.bib]
+csl: include/bib/apa.csl
 
 format:
   html:
@@ -45,8 +49,6 @@ format:
     code-fold: true
     date-modified: last-modified
     date: today
-    bibliography: [include/bib/psy-260.bib]
-    csl: include/bib/apa.csl
     html-math-method: mathjax
 
   pdf:
