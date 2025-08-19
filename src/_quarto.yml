@@ -57,6 +57,8 @@ website:
         contents:
           - text: "Wk 01 • Tue Aug 26"
             href: slides/wk-01-2025-08-26-intro.qmd
+          - text: "Wk 01 • Tue Aug 28"
+            href: slides/wk-01-2025-08-28-hist-methods.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src
@@ -91,7 +93,7 @@ format:
     code-fold: true
     date-modified: last-modified
     date: today
-    html-math-method: mathjax
+    # html-math-method: mathjax
 
   pdf:
     documentclass: scrreprt

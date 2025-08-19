@@ -1,0 +1,75 @@
+# Systems
+
+---
+
+![https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg](https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg)
+- Neuroscience studies the nervous system...
+- But what are systems?
+
+## Related ideas {-}
+
+- Wikipedia on [systems theory](https://en.wikipedia.org/wiki/Systems_theory)
+- Wikipedia on [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking)
+
+- Wikipedia on [cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+
+> *Science concerned with the study of systems of any nature which are capable of receiving, storing, and processing information so as to use it for control.*
+
+## Your turn
+    
+::: {.callout-important}
+Think of a system you know something about.
+
+What makes it a system?
+:::
+
+## Non-biological examples {-}
+
+- Solar system
+- Climate system
+- Economic system
+- Internet
+
+## Systems have... {-}
+
+- Boundaries
+- Components
+- Interactions
+- Forces/influences
+- Inputs, outputs, processes
+
+## Systems...
+
+- "Behave" or change state across time
+- May (or may not) return to starting state
+- Appear to be regulated, controlled, influenced by feedback loops
+
+## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science) {-}
+
+![[@Cole2013-zj]](https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg)
+
+## Why is studying systems so hard? {-}
+
+- Single parts -> multiple functions
+- Single functions -> multiple parts
+- Change structure/function over time (learning, development, evolution) == are *dynamic*
+
+## Why is studying systems so hard? {-}
+
+- Naturally occurring systems not "designed" like human-engineered ones
+- What is being exchanged/processed? 
+    - Answer (often): Information
+- What is being controlled?
+
+## Extra credit assignment {-}
+
+::: {.callout-important}
+
+Take your own example system from earlier.
+What are the *components* of that system?
+What are the *inputs and outputs*?
+What do the components *exchange*?
+
+**Send a 1 page write-up describing your system and answers to these questions to Katie via Canvas by Friday, September 5 at 5:00 PM for 2 extra credit points.**
+
+:::

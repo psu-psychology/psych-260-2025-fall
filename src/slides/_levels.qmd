@@ -1,0 +1,109 @@
+# Levels of analysis
+
+## Powers of Ten {-}
+
+{{< video https://www.youtube.com/embed/0fKBhvDjuy0 height="70%" width="100%" >}}
+
+[@Eames_Office2010-xd]
+
+## Spatial resolution
+
+![Churchland](../include/img/churchland-levels-of-analysis.gif)
+
+## Spatial and Temporal Resolution {- #spatial-temporal-resolution}
+
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+
+## Your turn
+
+- What's a micro (spatially small) influence on/aspect of behavior or mental experience?
+- What's a macro (spatially large)...
+- What's a micro (temporally short)...
+- What's a macro (temporally long)...
+
+## Why does this matter?
+
+- Different phenomena, -> levels of resolution
+- Different resolution -> different methods
+- How does the micro affect macro or vice versa?
+- What's cause and what's effect?
+
+---
+
+::: {.callout-important}
+### Skill-building
+
+Being able to think about spatial and temporal levels of analysis inside and outside of neuroscience is extremely useful.
+
+Example: How does *your* personal spending affect the global economy?
+:::
+
+## Spatial Resolution in Detail {-}
+
+- Within an individual
+    + molecular
+        * genetic
+        * receptor
+    + chemical
+        * neurotransmitter/hormonal
+    + cellular
+        * neuronal firing
+        
+---
+
+- Internal to individuals
+    + network
+        * lateral inhibition
+    + area
+        * V1 varies by ~2x
+    + region
+        * Wiring/connectivity differences
+    + system
+    
+---
+
+- External to individuals
+    + Social
+        * Friends, family, teachers, others
+    + Non-social
+        * Neighborhood, school, state/region, country
+        * Physical environment
+
+## Temporal Resolution in Detail {-}
+
+- Within one lifetime
+    + Microseconds
+        * detection position from acoustic stimulation
+    + Milliseconds
+        * action potential
+    + Seconds
+        * changes in EEG power
+        * short-term memory
+
+---
+
+- Within one lifetime
+    + Minutes
+        * synaptic plasticity
+    + Hours
+        * memory consolidation
+        * Hormone (melatonin, cortisol) levels
+    + Days
+
+---
+
+- Within one lifetime
+    + Weeks
+    + Months
+    + Years
+        * education & training
+        * disease processes
+        * cultural change
+        
+---
+
+- Across lifetimes
+    + Centuries
+        * cultural changes
+    + Millenia
+        * Natural & sexual selection

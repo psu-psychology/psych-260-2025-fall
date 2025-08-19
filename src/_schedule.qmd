@@ -46,6 +46,10 @@ prettify_date <- function(date) {
 }
 ```
 
+::: {.callout-note}
+Textbook reading assignments in the Watson & Breedlove text, *The Mind's Machine* will be indicated by the following shorthand: 'MM pp 3-15'.
+This means to read pages 3 to 15.
+:::
 
 ## `{r} sched_df$week[1]` {- #week-01}
 
@@ -53,12 +57,16 @@ prettify_date <- function(date) {
 
 *`{r} sched_df$class_1_theme[1]`*
 
-- Read:
-- Slides: | [html](slides/wk-01-2025-08-26-intro.html) |
+- *Read*: MM pp 3-16
+- *Slides*: | [html](slides/wk-01-2025-08-26-intro.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[1])` {-}
 
 *`{r} sched_df$class_2_theme[1]`*
+
+- *Read*: MM pp 3-16
+- *Watch*: @National_Geographic2014-gv, @NeuroBriefs2011-pd, @Eames_Office2010-xd
+- *Slides*: | [html](slides/wk-01-2025-08-28-hist-methods.qmd) |
 
 ## `{r} sched_df$week[2]` {- #week-02}
 

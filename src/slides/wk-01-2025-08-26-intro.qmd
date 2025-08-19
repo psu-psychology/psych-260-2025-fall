@@ -199,6 +199,21 @@ fig-align: "center"
 
 ![](../include/img/psych-harder-2.jpg)
 
+---
+
+{{< include _systems.qmd >}}
+
+## Take homes
+
+- Evaluation: 3 exams/4; 3 quizzes/4; 1 paper or 3 blogs.
+- Systematic description and study of the nervous system touches on multiple aspects of behavior and mental experience
+
+## Next time
+
+- History of neuroscience
+- Levels of analysis
+- (if time) Methods
+
 # Resources
 
 ## About

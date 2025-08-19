@@ -1,0 +1,210 @@
+# History of neuroscience
+
+---
+
+{{< video https://www.youtube.com/watch?v=S0HKupSZq8k height="70%" width="100%" >}}
+
+<p style="text-align:center;">
+@NeuroBriefs2011-pd
+</p>
+
+## Why study history? {-}
+
+- What can *observation* tell us about brain and behavior?
+- Vital role of *tools/methods/techniques* in discovery
+- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676
+
+## Pre/Early history  {-}
+
+## [*Trephining* (trepanning)](https://en.wikipedia.org/wiki/Trepanning) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Deliberate creation of openings in the skull
+- Earliest evidence +7,000 yrs old
+:::
+::: {.column width=50%}
+![[@The_MIT_Press_Reader_undated-bl]](https://thereader.mitpress.mit.edu/wp-content/uploads/2019/08/1.1.jpg)
+:::
+::::
+
+## Egyptians (1,500-3,000 BCE)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- First written (hieroglyphic) record of the term “brain”
+:::
+::: {.column width=50%}
+![[@chudler_undated-ac]](http://faculty.washington.edu/chudler/gif/papybr.gif)
+:::
+::::
+
+## [Beer-making (~2-5,000 BCE)](https://en.wikipedia.org/wiki/History_of_beer)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- What does beer-making have to do with the neurological bases of human behavior?
+:::
+::: {.column width=50%}
+![Alulu beer receipt – This records a purchase of 'best' beer from a brewer, c. 2050 BC from the Sumerian city of Umma in ancient Iraq (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/f/f7/Alulu_Beer_Receipt.jpg)
+:::
+::::
+
+## Greek and Roman era  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates)
+    - Epilepsy a disease of the brain [[@Chudler_undated-lu]](http://faculty.washington.edu/chudler/hist.html)
+    - Brain seat of intelligence [[@Chudler_undated-lu]](http://faculty.washington.edu/chudler/hist.html)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hippocrates_rubens.jpg/500px-Hippocrates_rubens.jpg){width="70%"}
+:::
+::::
+
+## Aristotle
+
+:::: {.columns}
+::: {.column width=50%}
+- [*Aristotle* (~335 BCE)](https://en.wikipedia.org/wiki/Aristotle)
+    - mind and body *not* distinct
+    - brain “cools” the body, *heart* is the mental organ
+:::
+::: {.column width=50%}
+![Aristotle](http://classicalwisdom.com/wp-content/uploads/2013/02/aristotle-face-1.jpg){width="70%"}
+:::
+::::
+
+## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen)  {-}
+
+:::: {.columns}
+::: {.column width=70%}
+- Physician in Roman Empire, of Greek descent
+- Anatomical reports based on dissection of monkeys, pigs
+- Influenced by Hippocrates notion of human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm
+:::
+::: {.column width=30%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Galenus.jpg/220px-Galenus.jpg)
+:::
+::::
+
+## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen)
+
+:::: {.columns}
+::: {.column width=70%}
+- Observed that gladiators' head injuries impaired thinking, movement
+- Speculated that fluid filling the brain cavities called *ventricles*, circulates through nerves, body == "ventricular" theory of nervous system function.
+:::
+::: {.column width=30%}
+![http://www.cerebromente.org.br/n06/historia/am1.gif](http://www.cerebromente.org.br/n06/historia/am1.gif)
+:::
+::::
+
+## What did early humans know about the mind and brain?  {-}
+
+- Mental functions controlled by organs in the head, i.e., the brain
+- Mental functions can be influenced by substances we consume
+- Head injury can impair behavior and thinking
+- Something flows from brain to body via nerves
+
+## Why didn't they know more? {-}
+
+::: {.incremental}
+- Limited technology (tools & techniques)
+- Limited cultural support for systematic observation & description. = **SCIENCE**
+- Lack of ability to use knowledge even if it were acquired
+:::
+
+## The "dark" ages (in Europe, not elsewhere) {-}
+
+- [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen) *Optics*, ~1000 CE
+- [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/) ~1400 CE
+
+## *Leonardo da Vinci* (~1508) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Wax casts of ventricles
+    - fluid filled inner regions of brain
+- Ventricles not spherical!
+:::
+::: {.column width=50%}
+![[@UnknownUnknown-fb]](https://www.wildculture.com/sites/default/files/inline-images/Leonardo-4-complete-brain-news-2019.jpg){width="60%"}
+:::
+::::
+
+## *Andreas Vesalius* (1543) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- *De Humani Corporis Fabrica Libri Septem (On the fabric of the human body in seven books)* [@Wikipedia-contributors2025-gu]
+- 1st detailed drawings of brain and body anatomy
+:::
+::: {.column width=50%}
+![[@Wikipedia-contributors2025-gu]](https://upload.wikimedia.org/wikipedia/commons/a/a7/Vesalius_609c.png)
+:::
+::::
+
+## René Descartes -- mid 1600’s {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Reflexes “reflect” sensory events in the world
+- Not the same as voluntary functions
+- Reflexes and animal “minds” are physical, machine-like
+:::
+::: {.column width=50%}
+![https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG](https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG)
+:::
+::::
+
+## René Descartes -- mid 1600’s
+
+:::: {.columns}
+::: {.column width=50%}
+- Human mind is not machine-like
+    - “Dual” influences on behavior
+    - Physical + spiritual
+    - Descartes a *philosophical dualist*
+:::
+::: {.column width=50%}
+![https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG](https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG)
+:::
+::::
+
+## René Descartes -- mid 1600’s
+
+:::: {.columns}
+::: {.column width=50%}
+- Soul controls body via *pineal gland*
+    - Fluid from ventricles cause muscles to “inflate” (another ventricular theory)
+:::
+::: {.column width=50%}
+![Figure of the pineal gland by Descartes: http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg](http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg)
+:::
+::::
+
+## Your turn
+
+- Do you agree with Descartes?
+  - **Yes**, human minds are fundamentally different from animal minds. The human mind is influenced by both physical and extraphysical processes.
+  - **No**, human minds are similar to animal minds. The human mind arises solely from physical processes.
+- Why or why not?
+- How would you _scientifically_ test Descartes idea about the role of the pineal gland?
+
+## Other milestones  {-}
+
+- Invention of [light microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php) (1609 CE), [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope) (1926)
+- Cell stains -- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi), [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal) -- late 1800s
+- Recording of electrical activity of nerves, [Luigi Galvani](https://en.wikipedia.org/wiki/Luigi_Galvani)
+- [Magnetic resonance imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+## Some lessons from early history {-}
+
+- Neuroscience shaped by new methods, tools
+- If you can't see it/measure it, you can't say much about it
+- Neuroscience shaped by [great debates](http://www.columbia.edu/cu/psychology/courses/1010/mangels/neugiro/history/history.html)
+    - Is the mind == brain?
+    - Are functions local or distributed?
+    - Do neurons connect like pipes or pass info like relay runners?
