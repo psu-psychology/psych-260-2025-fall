@@ -4,7 +4,7 @@
 
 {{< video https://www.youtube.com/embed/0fKBhvDjuy0 height="70%" width="100%" >}}
 
-[@Eames_Office2010-xd]
+@Eames_Office2010-xd
 
 ## Spatial resolution
 

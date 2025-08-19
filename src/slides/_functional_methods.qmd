@@ -1,0 +1,274 @@
+# Functional methods {-}
+
+## Types of functional methods {-}
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+- Simulating the brain
+
+## Recording from the brain {-}
+
+- Single/multi unit recording
+    - Microelectrodes
+    - Units -> Small numbers of nerve cells
+
+## Single/multi-unit Recording {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- What does neuron X respond to?
+- High temporal (ms) & spatial resolution (um)
+- Invasive
+- Used in non-human animals for purely research purposes
+:::
+::: {.column width=50%}
+![[@Maren2004-uz]](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fnrn1535/MediaObjects/41583_2004_Article_BFnrn1535_Figa_HTML.jpg?as=webp)
+:::
+::::
+
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Used in human neurosurgery
+:::
+::: {.column width=50%}
+![](https://sites.uci.edu/alns/files/2015/03/eCOG-stock-photo-22578962-brain-surgery.jpg)
+:::
+::::
+
+## ECoG
+
+{{< video https://www.youtube.com/embed/gFky09ekmzw width="100%" height="70%">}}
+
+@AANSNeurosurgery2019-ik
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Radioactive tracers (glucose, oxygen) delivered intravenously 
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/watch?v=GHLBcCv4rqk width="100%" height="60%">}}
+
+@National-Institute-of-Biomedical-Imaging-and-Bioengineering2013-nc
+:::
+::::
+
+## PET
+
+:::: {.columns}
+::: {.column width=50%}
++ Temporal (~ s) and spatial (mm-cm) resolution *worse* than fMRI
++ Radioactive exposures + mildly invasive 
++ Dose < airline crew exposure in 1 yr
+:::
+::: {.column width=50%}
+![@Petersen1988-rc](../include/img/petersen-1988-pet.png)
+:::
+::::
+
+## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Neural activity -> local $O_2$ consumption increase
+:::
+::: {.column width=50%}
+![fMRI data on emotion processing: https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg"](https://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg)
+:::
+::::
+
+## fMRI
+
+:::: {.columns}
+::: {.column width=50%}
+- <span class="blue">*Blood Oxygen Level Dependent (BOLD) response*</span>
+    + Oxygenated vs. deoxygenated hemoglobin creates magnetic contrast
+    + Do regional blood $O_2$ volumes (and flow) vary with behavior X?
+:::
+::: {.column width=50%}
+Content
+:::
+::::
+
+## Mapping visual cortex
+
+:::: {.columns}
+::: {.column width=50%}
+![](../include/img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg)
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/embed/DcgHJIlwQCo >}} \
+@Charting2020-gi \
+{{< video https://www.youtube.com/embed/rsykP-9-moA >}} \
+@Charting2020-fi
+:::
+::::
+
+## fMRI
+
++ Non-invasive, but expensive
++ Moderate but improving (mm) spatial, temporal (~sec) resolution
++ **Indirect** measure of brain activity
+
+## fMRI
+
+:::: {.columns}
+::: {.column width=50%}
+- [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
+    + 1s delay plus 3-6 s 'initial-dip'
+:::
+::: {.column width=50%}
+![@UnknownUnknown-oj](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861.png?347)
+:::
+::::
+
+## [Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography)
+
+:::: {.columns}
+::: {.column width=50%}
+- How does it work?
+    - Electrodes on scalp or brain surface
+- What do we measure?
+    - Combined activity of huge # of neurons
+- High/fine temporal resolution (detect fast changes) but poor spatial resolution
+:::
+::: {.column width=50%}
+![Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
+:::
+::::
+
+## EEG
+
+:::: {.columns}
+::: {.column width=50%}
+- Analyze frequency bands
+    + LOW: deep sleep
+    + MIDDLE: Quiet, alert state
+    + HIGH:“Binding” information across senses
+:::
+::: {.column width=50%}
+![@VallatUnknown-jg](https://raphaelvallat.com/images/tutorials/bandpower/brain_waves.png)
+:::
+::::
+
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- EEGs time-locked to some event 
+- Averaged over many repetitions of that event
+:::
+::: {.column width=50%}
+![](https://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif)
+:::
+::::
+
+## [Brain Computer Interface (BCI)](https://computer.howstuffworks.com/brain-computer-interface.htm)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Often based on EEG.
+:::
+::: {.column width=50%}
+![](https://cdn.hswstatic.com/gif/brain-computer-interface-3.gif)
+:::
+::::
+
+## [Magneto-encephalography (MEG)](https://en.wikipedia.org/wiki/Magnetoencephalography)  {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Like EEG, but measures magnetic fields
+- High temporal resolution, low spatial resolution
+- Magnetic field propagates with minimal distortion from brain/skull, *unlike electric field*
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NIMH_MEG.jpg/580px-NIMH_MEG.jpg){width="60%"}
+:::
+::::
+
+## Manipulating the brain  {-}
+
+- Nature’s “experiments”
+    + Stroke, head injury, tumor
+    + Neuropsychology
+- If damage to X impairs performance on Y -> X critical for/controls Y
+- Poor spatial/temporal resolution, limited experimental control
+
+## The case of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)  {-}
+
+![](http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png){fig-align="center"}
+
+## Stimulating the brain  {-}
+
+- Pharmacological
+- Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+- Magnetic (Transcranial magnetic stimulation - *TMS*)
+- Optically (optogenetics)
+
+## Trans-cranial Direct Current Stimulation (tDCS)  {-}
+
+![@Dayan2013-gp](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3422/MediaObjects/41593_2013_Article_BFnn3422_Fig4_HTML.jpg?as=webp)
+
+## Trans-cranial Magnetic Stimulation (TMS) {-}
+
+![@Dayan2013-gp](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3422/MediaObjects/41593_2013_Article_BFnn3422_Fig1_HTML.jpg?as=webp)
+
+## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation  {-}
+
+{{< https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G >}}
+
+@Video2010-jw
+
+## Evaluating stimulation methods  {-}
+
+- Spatial/temporal resolution?
+    + Does stimulation mimic natural activity?
+    + Optogenetic stimulation highly similar, others less so
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+## [Deep brain stimulation (DBS)](https://en.wikipedia.org/wiki/Deep_brain_stimulation) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://www.nimh.nih.gov/sites/default/files/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/vns-200.jpg)
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/embed/KDjWdtDyz5I >}}
+
+[@Understanding_Animal_Research2009-vq]
+:::
+::::
+
+## *Sim*ulating the brain  {-}
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+## Application: AI {-}
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://viso.ai/wp-content/uploads/2021/04/multilayer-perceptrons-MLP-concept-1.jpg)
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/embed/MPU2HistivI >}}
+
+@Redmon2018-pb
+:::
+::::
+
+## Spatial and Temporal Resolution revisited {-}
+
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)

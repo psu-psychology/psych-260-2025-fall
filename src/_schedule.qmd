@@ -74,6 +74,9 @@ This means to read pages 3 to 15.
 
 *`{r} sched_df$class_1_theme[2]`*
 
+- *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
+- *Slides*: [html]()
+
 ### `{r} prettify_date(sched_df$class_day_2[2])` {-}
 
 *`{r} sched_df$class_2_theme[2]`*

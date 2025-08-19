@@ -112,44 +112,44 @@ fig-align: "center"
 - Scientists strive toward *communal norms* [@Merton1979-le]: communalism, universalism, disinterestedness, organized skepticism.
 - Science *describes*, tries to *predict*
 
-## Science alone...
+<!-- ## Science alone... -->
 
-- Not well-suited to *prescribing* (recommending) or *proscribing* (prohibiting)
-    - little to say about what is good, just, right, moral, etc.
-    - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...)
-    
-## Science rests on **evidence and logic** 
-    
-- <span class="blue">NOT on authorities</span> (e.g., people whose stature is largely or solely based on their position or economic status)
-- However, some scientific claims (and scientists) are more credible and authoritative than others.
-- Everyone has opinions. Are yours supported by *evidence*?
-    
-## Science respects tradition
-    
-- but not uncritically
-  - questions and tests it repeatedly...
-  
-## Science should be...
+<!-- - Not well-suited to *prescribing* (recommending) or *proscribing* (prohibiting) -->
+<!--     - little to say about what is good, just, right, moral, etc. -->
+<!--     - (Although systematic descriptions of phenomena can be used to make pre/proscriptive claims...) -->
 
-- reproducible, robust, transparent
-  - others can get the same answer if they follow the same procedures
-- but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring)
+<!-- ## Science rests on **evidence and logic**  -->
 
-## Science...
+<!-- - <span class="blue">NOT on authorities</span> (e.g., people whose stature is largely or solely based on their position or economic status) -->
+<!-- - However, some scientific claims (and scientists) are more credible and authoritative than others. -->
+<!-- - Everyone has opinions. Are yours supported by *evidence*? -->
 
-:::: {.columns}
-::: {.column width=40%}
-- has led to huge advances in human health & prosperity
-- We *all* pay for scientific research, substantially through tax-payer support of government agencies like the National Institutes of Health (NIH) [@Unknown2022-fu]
-:::
-::: {.column width=60%}
-![[@owid-its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages]](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10a0ca12-415d-41c8-f6b8-0fcdd9fac900/w=3080)
-:::
-::::
+<!-- ## Science respects tradition -->
 
-## Gilmore's opinion:
+<!-- - but not uncritically -->
+<!--   - questions and tests it repeatedly... -->
 
-+ Science will be essential for maintaining & extending these advances in the future Federal funding agencies [@Unknown2022-fu]
+<!-- ## Science should be... -->
+
+<!-- - reproducible, robust, transparent -->
+<!--   - others can get the same answer if they follow the same procedures -->
+<!-- - but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring) -->
+
+<!-- ## Science... -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- - has led to huge advances in human health & prosperity -->
+<!-- - We *all* pay for scientific research, substantially through tax-payer support of government agencies like the National Institutes of Health (NIH) [@Unknown2022-fu] -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- ![[@owid-its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages]](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10a0ca12-415d-41c8-f6b8-0fcdd9fac900/w=3080) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## Gilmore's opinion: -->
+
+<!-- + Science will be essential for maintaining & extending these advances in the future Federal funding agencies [@Unknown2022-fu] -->
     
 ## Similarities among sciences {-}
 

@@ -71,6 +71,10 @@ fig-align: "center"
 
 {{< include _levels.qmd >}}
 
+---
+
+{{< include _methods.qmd >}}
+
 ## Take homes
 
 - History of neuroscience -> 

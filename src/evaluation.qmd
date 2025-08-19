@@ -10,16 +10,14 @@ title: "Evaluation"
 <!-- Dropping lowest grades: https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-rules-for-an-assignment-group/ta-p/848 -->
 
 ::: {.callout-warning}
-
 This page is under construction.
-
 :::
 
 ## Elements {- #eval-components}
 
 | Component | Description                                  | Points |
 |-----------|----------------------------------------------|--------:|
-| Exams     |There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final. | 120 |
+| Exams     | There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, but you may choose to drop (or not take) one of the other three exams. | 120 |
 | Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
 | Participation | There are a total of 15 points available by completing **EITHER** a paper or a set of 3 blog posts. | 15 |
 |  |   *Blog*: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, <http://sites.psu.edu>. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. [Assignment](blog-assignment.html) | |

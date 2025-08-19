@@ -1,0 +1,46 @@
+---
+title: "More on methods"
+subtitle: 2025-09-02
+fig-align: "center"
+---
+
+## Prelude {-}
+
+## Today's topics {-}
+
+- Last time...
+- Wrap up on structural methods
+- Functional methods
+
+---
+
+{{< include _functional_methods.qmd >}}
+
+## Take homes
+
+- Functional methods differ in
+  - Spatial resolution
+  - Temporal resolution
+  - Invasiveness
+  - Cost
+- Which one is best? Depends on question.
+
+## Next time
+
+- Cells of the nervous system
+- Neuroanatomy
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
+

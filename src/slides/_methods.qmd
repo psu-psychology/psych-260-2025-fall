@@ -1,0 +1,249 @@
+# Methods
+
+## Evaluating methods {-}
+
+- What question does method X answer?
+- What are we measuring?
+    + Structure
+    + Activity (function?)
+    
+## Evaluating methods
+
+- Strengths & Weaknesses
+    + Cost (time/$)
+    + Invasiveness (surgery vs. no)
+    + Spatial/temporal resolution
+      - high/fine (small details, fast events)
+      - low/poor (big picture, slow events)
+
+---
+
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+
+## Types of methods {-}
+
+- Structural
+    + What are the parts?
+    + How do they connect?
+- Functional (next time)
+    + What do the parts do?
+    
+## Cellular methods  {-}
+
+## Golgi stain {-}
+
+:::: {.columns}
+::: {.column width=70%}
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+- [Complete nerve cells, but only 1-5\% of total]{.blue-text}
+- Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$)
+
+:::
+::: {.column width=30%}
+![http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+:::
+::::
+
+## Do neurons connect like pipes?
+
+:::: {.columns}
+::: {.column width=33%}
+- Yes!
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+:::
+::: {.column width=33%}
+![](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
+:::
+::: {.column width=33%}
+- No!
+- [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal)
+
+:::
+::::
+
+## [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal)
+
+:::: {.columns}
+::: {.column width=50%}
+- Argued for *neuron doctrine*: there are gaps between neurons
+- Neurons pass info like relay runners
+- Shared 1906 Nobel Prize with Golgi
+:::
+::: {.column width=50%}
+![https://upload.wikimedia.org/wikipedia/commons/0/00/Santiago_Ramón_y_Cajal%2C_estudiante_de_medicina_en_Zaragoza_1876.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/Santiago_Ramón_y_Cajal%2C_estudiante_de_medicina_en_Zaragoza_1876.jpg)
+:::
+::::
+
+## Nissl stain {-}
+
+:::: {.columns}
+::: {.column width=60%}
+- [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl)
+- [Only cell bodies]{.blue-text}
+- Cellular distribution, concentration, microanatomy
+- Density of staining ~ cell density/number
+:::
+::: {.column width=40%}
+![https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+:::
+::::
+
+
+## [Histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Neuron information flow *polarized*--flows in one direction
+    - ≠ electronic wires, but like pipes
+- Tracers are substances that flow one direction down the neuron, allow starting/ending points to be traced
+:::
+::: {.column width=50%}
+![By Manuel Almagro Rivas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47268587](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HRP-xray.png/1280px-HRP-xray.png)
+:::
+::::
+
+## [Histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Retrograde* ("backward" from *axon terminal* to *cell body*)
+- *Anterograde* ("forward" from cell body to axon terminal)
+:::
+::: {.column width=50%}
+![[@WanischUnknown-ny]](https://blog.addgene.org/hs-fs/hubfs/7_18_to_9_18/neuronalTracingAAV_KW_2018_7_5/Figure%202%20Anterograde%20and%20Retrograde%20Tracing-01.png?width=1200&name=Figure%202%20Anterograde%20and%20Retrograde%20Tracing-01.png)
+:::
+::::
+
+
+## Large-scale cellular techniques
+
+:::: {.columns}
+::: {.column width=50%}
+> *"If understanding everything we need to know about the brain is a mile, how far have we walked?"*
+> -- J. Lichtman
+:::
+::: {.column width=50%}
+
+{{< video https://www.youtube.com/watch?v=nvXuq9jRWKE width="70%" height="40%">}}
+
+@National_Geographic2014-gv
+:::
+::::
+
+## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
+
+{{< video https://www.youtube.com/embed/c-NMfp13Uug width="100%" height="70%" >}}
+
+@Video2013-bj
+
+## Evaluating cellular techniques {-}
+
+- Pros:
+  - High spatial resolution (resolve small details)
+- Cons:
+  - Poor temporal resolution
+  - Invasive
+
+## Computed axial tomography (CAT) {-}
+
+:::: {.columns}
+::: {.column width=40%}
+- Computed tomography [CT](https://en.wikipedia.org/wiki/CT_scan)
+- X-ray based
+:::
+::: {.column width=60%}
+![CT scan of stroke](../include/img/mca-inferior-division-infarct-ct-brain.png)
+:::
+::::
+
+## How tomography works
+
+![How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg](https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg)
+
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) {-}
+
+{{< video https://www.youtube.com/embed/1CGzk-nV06g height="70%" width="100%" >}}
+
+<p style="text-align:center;">
+@National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
+</p>
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+- Some common substances (e.g., H) & complex molecules have magnetic dipole
+- Axes align with strong magnetic field
+:::
+::: {.column width=50%}
+![](https://www.brainfacts.org/-/media/Brainfacts2/In-the-Lab/Tools-and-Techniques/Article-Images/patient-sm-brain-byte.jpg)
+:::
+::::
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- When alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue
+- Realignment emits RF signals
+:::
+::: {.column width=50%}
+![](https://americanhealthimaging.com/wp-content/uploads/2021/04/Understanding-Knee-MRI-Images-2048x1365.jpg)
+:::
+::::
+
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Types
+    - Structural
+    - Functional
+- Reveals tissue density/type differences
+- [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
+:::
+::: {.column width=50%}
+![Wikimedia CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MRI_of_Human_Brain.jpg/1119px-MRI_of_Human_Brain.jpg)
+:::
+::::
+
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+:::: {.columns}
+::: {.column width=50%}
+- Type of structural MRI
+- Measures patterns of movement/diffusion of $H_{2}O$
+- Reveals integrity/density of axon fibers
+- Measure of connectivity
+:::
+::: {.column width=50%}
+![](https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg)
+
+- Colors used to visualize *orientation* of fibers
+:::
+::::
+
+## MR Spectroscopy
+
+:::: {.columns}
+::: {.column width=50%}
+- Some complex molecules generate distinctive signals that MR detects
+:::
+::: {.column width=50%}
+![https://radiopaedia.org/cases/glioma-mr-spectroscopy](https://prod-images-static.radiopaedia.org/images/556479/0dc08a48892084b4c3b717feb9dfa4_big_gallery.jpg)
+:::
+::::
+
+## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
+
+:::: {.columns}
+::: {.column width=50%}
+- [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
+    - like pixels in an image, but volumes of tissue
+- Morphometry, measure ("metry") form/morphology
+- How does brain size or thickness vary by age, disease status, etc.?
+:::
+::: {.column width=50%}
+![[@Williamson2012-uj]](http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg)
+:::
+::::

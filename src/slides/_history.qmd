@@ -24,7 +24,7 @@
 - Earliest evidence +7,000 yrs old
 :::
 ::: {.column width=50%}
-![[@The_MIT_Press_Reader_undated-bl]](https://thereader.mitpress.mit.edu/wp-content/uploads/2019/08/1.1.jpg)
+![@The_MIT_Press_Reader_undated-bl](https://thereader.mitpress.mit.edu/wp-content/uploads/2019/08/1.1.jpg)
 :::
 ::::
 
@@ -35,7 +35,7 @@
 - First written (hieroglyphic) record of the term “brain”
 :::
 ::: {.column width=50%}
-![[@chudler_undated-ac]](http://faculty.washington.edu/chudler/gif/papybr.gif)
+![@Chudler_undated-ac](http://faculty.washington.edu/chudler/gif/papybr.gif)
 :::
 ::::
 
@@ -55,8 +55,8 @@
 :::: {.columns}
 ::: {.column width=50%}
 - [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates)
-    - Epilepsy a disease of the brain [[@Chudler_undated-lu]](http://faculty.washington.edu/chudler/hist.html)
-    - Brain seat of intelligence [[@Chudler_undated-lu]](http://faculty.washington.edu/chudler/hist.html)
+    - Epilepsy a disease of the brain [@Chudler_undated-lu](http://faculty.washington.edu/chudler/hist.html)
+    - Brain seat of intelligence [@Chudler_undated-lu](http://faculty.washington.edu/chudler/hist.html)
 :::
 ::: {.column width=50%}
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hippocrates_rubens.jpg/500px-Hippocrates_rubens.jpg){width="70%"}
@@ -130,7 +130,7 @@
 - Ventricles not spherical!
 :::
 ::: {.column width=50%}
-![[@UnknownUnknown-fb]](https://www.wildculture.com/sites/default/files/inline-images/Leonardo-4-complete-brain-news-2019.jpg){width="60%"}
+![@UnknownUnknown-fb](https://www.wildculture.com/sites/default/files/inline-images/Leonardo-4-complete-brain-news-2019.jpg){width="60%"}
 :::
 ::::
 
@@ -142,7 +142,7 @@
 - 1st detailed drawings of brain and body anatomy
 :::
 ::: {.column width=50%}
-![[@Wikipedia-contributors2025-gu]](https://upload.wikimedia.org/wikipedia/commons/a/a7/Vesalius_609c.png)
+![@Wikipedia-contributors2025-gu](https://upload.wikimedia.org/wikipedia/commons/a/a7/Vesalius_609c.png)
 :::
 ::::
 

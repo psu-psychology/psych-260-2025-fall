@@ -1,11 +1,3 @@
-# project:
-#   type: book
-#   output-dir: ../docs
-#   render:
-#     - "slides/*.qmd"
-#     - "*.qmd"
-#   lib-dir: include/site_libs
-
 project:
   type: website
   output-dir: ../docs
@@ -14,33 +6,8 @@ project:
     - "*.qmd"
   lib-dir: include/site_libs
   
-execute:
-  freeze: auto
-
-# book:
-#   title: "PSYCH 260.001"
-#   author: "Rick Gilmore"
-#   date: today
-#   chapters:
-#     - index.qmd
-#     - schedule.qmd
-#     - evaluation.qmd
-#     - deadlines.qmd
-#     - policies.qmd
-#   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
-#   repo-actions: [edit, issue]
-#   repo-subdir: src
-#   page-footer:
-#     left: "Copyright © Rick Gilmore • [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
-#     center: "Built with [Quarto](https://quarto.org/)"
-#     right: 
-#       - icon: github
-#         href: https://github.com/psu-psychology/psych-260-2025-fall
-#     background: light
-#     border: true
-#   page-navigation: true
-#   bread-crumbs: false
-#   reader-mode: false
+# execute:
+#   freeze: auto
 
 website:
   title: "PSYCH 260.001"
