@@ -23,7 +23,7 @@
 - Used in non-human animals for purely research purposes
 :::
 ::: {.column width=50%}
-![[@Maren2004-uz]](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fnrn1535/MediaObjects/41583_2004_Article_BFnrn1535_Figa_HTML.jpg?as=webp)
+![Figure 1 from @Nishimura2021-ne](https://ars.els-cdn.com/content/image/1-s2.0-S2211124721001996-fx1.jpg)
 :::
 ::::
 

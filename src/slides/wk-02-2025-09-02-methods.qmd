@@ -8,9 +8,57 @@ fig-align: "center"
 
 ## Today's topics {-}
 
-- Last time...
+- Warm up
 - Wrap up on structural methods
 - Functional methods
+
+# Warm up
+
+## What method does the image reflect?
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+:::
+::: {.column width=50%}
+::: {.incremental}
+- A. Retrograde tract tracing
+- B. Magnetic Resonance Imaging (MRI)
+- C. Computed Tomography (CT)
+- D. Nissl (whole cell) stain
+:::
+:::
+::::
+
+## What method does the image reflect?
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg)
+:::
+::: {.column width=50%}
+- ~~A. Retrograde tract tracing~~
+- ~~B. Magnetic Resonance Imaging (MRI)~~
+- ~~C. Computed Tomography (CT)~~
+- D. Nissl (whole cell) stain
+:::
+::::
+
+## Descartes thought that the pineal gland...
+
+::: {.incremental}
+- A. Was the location where the soul controlled the body
+- B. "Inflates" the muscles
+- C. Both A and B.
+- D. Releases melatonin into the blood stream
+:::
+
+## Descartes thought that the pineal gland...
+
+- A. Was the location where the soul controlled the body
+- B. "Inflates" the muscles
+- **C. Both A and B.**
+- D. Releases melatonin into the blood stream
 
 ---
 
@@ -21,9 +69,10 @@ fig-align: "center"
 - Functional methods differ in
   - Spatial resolution
   - Temporal resolution
+  - What's measured
   - Invasiveness
   - Cost
-- Which one is best? Depends on question.
+- Which one is best? Depends on your question. 
 
 ## Next time
 
