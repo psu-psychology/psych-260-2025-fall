@@ -19,104 +19,20 @@ This page is under construction.
 |-----------|----------------------------------------------|--------:|
 | Exams     | There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You must take the final, but you may choose to drop (or not take) one of the other three exams. | 120 |
 | Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
-| Participation | There are a total of 15 points available by completing **EITHER** a paper or a set of 3 blog posts. | 15 |
-|  |   *Blog*: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, <http://sites.psu.edu>. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. [Assignment](blog-assignment.html) | |
-| |  *Paper*: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. [Assignment](paper-assignment.html)| |
-| | **TOTAL POINTS POSSIBLE** | 165 |
+| | **TOTAL POINTS POSSIBLE** | 150 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.| |
 
 ## Grading Scheme {- #grading-scheme}
 
 | Points  | Percent | Grade |
 |---------|---------|-------|
-| 165+    | 100+    | A+    |
-| 155-164 | 94-99   | A     |
+| 141+ | 94-100+   | A     |
 | 148-154 | 90-93   | A-    |
-| 143-147 | 87-89   | B+    |
-| 139-142 | 84-86   | B     |
-| 132-138 | 80-83   | B-    |
-| 127-131 | 77-79   | C+    |
-| 115-126 | 70-76   | C     |
-| 99-114  | 60-69   | D     |
-| 0-98    | <59     | F     |
+| 135-147 | 87-89   | B+    |
+| 126-134 | 84-86   | B     |
+| 120-125 | 80-83   | B-    |
+| 115-119 | 77-79   | C+    |
+| 105-114 | 70-76   | C     |
+| 90-104  | 60-69   | D     |
+| 0-89    | <59     | F     |
 
-## Blog assignment {- #blog_assignment}
-
-### Format, due date {-}
-
-- Create a blog at <http://sites.psu.edu> or add pages to an existing blog; make at least three posts.
-- Worth 15 points in total (5 points/post)
-- Due dates/times
-    - Post 1: **Tuesday, February 21, 2023, 5:00 pm**
-    - Post 2: **Tuesday, March 21, 2023, 5:00 pm**
-    - Post 3:  **Tuesday, April 11, 2023 at 5:00 pm**
-- Submit by sending email with link (URL) to the TA via Canvas, cc (carbon copy) the instructor.
-- Please indicate in your email whether you wish to have the link to your blog added to the course web site.
-
-### Assignment {-}
-
-Create a blog at <http://sites.psu.edu> or add to an existing blog you have created.
-
-Write at least three posts between now and **Tuesday, April 11, 2023 at 5:00 pm** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length, or approximately 1-1.5 pp double-spaced.
-
-You may choose to comment on articles from the popular or scientific press. You can find appropriate articles in general interest magazines such as Time, The Economist, in a newspaper such as *The New York Times*, in general science publications such as *Scientific American*, *The American Scientist*, *Science News*, or *Discover*, or scientific journals such as *Science*, *Nature*, *Current Directions in Psychological Science*, etc. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know but you should incorporate the scientific literature.
-
-Summarize and discuss the main points of the articles as follows:
-
-1. Describe the main purposes and findings of the research reported on in the articles. Remember the strategy that good reporters use: Who did what to whom, when and how did they do it, and why?
-2. Discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.
-3. Discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?
-
-If your non-textbook references are unavailable online, submit printed paper copies. NOTE: Remember to include proper APA in-text citations and also include full references for your sources at the end of each post.
-
-::: {.callout-important}
-Katie and I are happy to discuss your topic with you.
-:::
-
-::: {.callout-caution}
-Be mindful of personal privacy. You should not reveal sensitive or personal information about yourself or another person in any way that could cause harm or embarrassment.
-:::
-
-### How to submit {-}
-
-Send an email to Dr. Gilmore and the TA. Include the URL (web link) to your blog in the message.
-
-### Sources {-}
-
-You may use your textbook or other reference materials as resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper. Wherever possible, link to articles or figures in your post so that others can follow what you've found.
-
----
-
-## Paper assignment {- #paper_assignment}
-
-### Format, due date {-}
-
-- **3-5 pages double-spaced**, worth 15 points
-- Due **Tuesday, April 11, 2023 at 5:00 pm**.
-
-### Assignment {-}
-
-You are the psychology and neuroscience correspondent for an international news service. Your job is to scan the popular and scientific press for recent findings in psychology and neuroscience and to describe them to a general audience in a succinct and thoughtful way.
-
-Choose two articles from the popular or scientific press on the same issue or recent finding of relevance to the biology of behavior. You may find appropriate articles in general interest magazines such as *Time*, *The Economist*, in a newspaper such as *The New York Times*, in general science publications such as *Scientific American*, *The American Scientist*, *Science News*, or *Discover*, or scientific journals such as *Science*, *Nature*, *Current Directions in Psychological Science*, etc. Summarize and discuss the main points of the articles as follows:
-
-1. In an introductory paragraph or two, describe the main purposes and findings of the research reported on in the articles. Remember the strategy that good reporters use: Who did what to whom, when and how did they do it, and why?
-2. In another paragraph or two, discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.
-3. In a concluding paragraph, discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?
-4. If your non-textbook references are unavailable online, submit printed paper copies.
-5. Your paper should be about three to five pages in length, using double-spacing, margins no smaller than 1" and a 12 point typeface. This is approximately 500-1,000 words.
-6. THE TA OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.
-
-### How to submit {-}
-
-Send an email to Dr. Gilmore and the TA via Canvas. Attach your paper with the message.
-
-### Sources {-}
-
-You may use your textbook or other reference materials as additional resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper.
-
-### Tips for success {-}
-
-- Always use page numbers.
-- Make sure that your essay has introductory and concluding paragraphs.
-- Save your paper with a file name in this format: `PSYCH260.001_paper_Gilmore_R.docx`, substituting your last name and first initial for mine.

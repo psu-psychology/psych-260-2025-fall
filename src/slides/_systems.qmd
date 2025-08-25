@@ -2,18 +2,29 @@
 
 ---
 
-![https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg](https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg)
+:::: {.columns}
+::: {.column width=50%}
 - Neuroscience studies the nervous system...
 - But what are systems?
+:::
+::: {.column width=50%}
+![](https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg)
+:::
+::::
 
 ## Related ideas {-}
 
 - Wikipedia on [systems theory](https://en.wikipedia.org/wiki/Systems_theory)
 - Wikipedia on [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking)
 
+:::: {.columns}
+::: {.column width=50%}
 - Wikipedia on [cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
-
+:::
+::: {.column width=50%}
 > *Science concerned with the study of systems of any nature which are capable of receiving, storing, and processing information so as to use it for control.*
+:::
+::::
 
 ## Your turn
     
@@ -25,10 +36,25 @@ What makes it a system?
 
 ## Non-biological examples {-}
 
-- Solar system
-- Climate system
-- Economic system
-- Internet
+## 
+
+![Solar System (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/2880px-Solar_System_true_color_%28title_and_caption%29.jpg){fig-width="100%" fig-height="70%"}
+
+##
+
+![Earth's climate system (https://scied.ucar.edu/learning-zone/earth-system/climate-system)](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/media/images/faq-1-2-figure-1-l.png.webp?itok=s3UvRv-s){fig-align="center"}
+
+##
+
+![Economic system](https://hendersonsocial9.weebly.com/uploads/2/0/7/3/20733106/136221.jpeg?305){fig-align="center"}
+
+## 
+
+![](https://www.testingdocs.com/wp-content/uploads/Computer-System-Poster.png){fig-align="center"}
+
+##
+
+![](https://external-preview.redd.it/tycMUkyvCz12lo75r-dXv8YP_thWGRuVa6hWwtpnLto.jpg?width=1080&crop=smart&auto=webp&s=2b64deaf2f6d59b3e5fbd8bb9f50bd39da47a616){fig-align="center"}
 
 ## Systems have... {-}
 
@@ -46,7 +72,7 @@ What makes it a system?
 
 ## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science) {-}
 
-![[@Cole2013-zj]](https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg)
+![@Cole2013-zj](https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg)
 
 ## Why is studying systems so hard? {-}
 
@@ -60,6 +86,12 @@ What makes it a system?
 - What is being exchanged/processed? 
     - Answer (often): Information
 - What is being controlled?
+- *Stochastic* not *deterministic*
+
+## "Butterfly effect"
+
+- https://en.wikipedia.org/wiki/Butterfly_effect
+- @Wikipedia-contributors2025-sm
 
 ## Extra credit assignment {-}
 

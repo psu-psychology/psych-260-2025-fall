@@ -31,7 +31,18 @@ fig-align: "center"
 
 ## Teaching Assistant {-}
 
-## Professor {-}
+:::: {.columns}
+::: {.column width=50%}
+- Katherine "Katie" Billetdeaux
+:::
+::: {.column width=50%}
+![](https://psych.la.psu.edu/wp-content/uploads/sites/15/2024/11/Katie-Billetdeaux.png)
+:::
+::::
+
+## Rick Gilmore
+
+{{< include _gilmore-photo-bio.qmd >}}
 
 ## Structure of the course {-}
 
@@ -109,7 +120,7 @@ fig-align: "center"
 ## Science vs. other ways of thinking {-}
 
 - Science is a *way of thinking* and a *set of behaviors*
-- Scientists strive toward *communal norms* [@Merton1979-le]: communalism, universalism, disinterestedness, organized skepticism.
+- Scientists strive toward *communal norms* @Merton1979-ys: communalism, universalism, disinterestedness, organized skepticism.
 - Science *describes*, tries to *predict*
 
 <!-- ## Science alone... -->
@@ -135,21 +146,21 @@ fig-align: "center"
 <!--   - others can get the same answer if they follow the same procedures -->
 <!-- - but see [PSYCH 490.003](https://psu-psychology.github.io/psych-490-reproducibility-2023-spring) -->
 
-<!-- ## Science... -->
+## Science...
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- - has led to huge advances in human health & prosperity -->
-<!-- - We *all* pay for scientific research, substantially through tax-payer support of government agencies like the National Institutes of Health (NIH) [@Unknown2022-fu] -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- ![[@owid-its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages]](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10a0ca12-415d-41c8-f6b8-0fcdd9fac900/w=3080) -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns}
+::: {.column width=40%}
+- has led to huge advances in human health & prosperity
+:::
+::: {.column width=60%}
+![[@owid-its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages]](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/10a0ca12-415d-41c8-f6b8-0fcdd9fac900/w=3080)
+:::
+::::
 
-<!-- ## Gilmore's opinion: -->
+## Gilmore's opinion:
 
-<!-- + Science will be essential for maintaining & extending these advances in the future Federal funding agencies [@Unknown2022-fu] -->
++ Science will be essential for maintaining & extending these advances in the future
+- We all pay (taxes) for scientific research [@Unknown2022-fu]
     
 ## Similarities among sciences {-}
 
@@ -164,7 +175,7 @@ fig-align: "center"
 
 - "Coronavirus gets its name because of its crown-like shape."
 - "Viruses reproduce (and cause illness) by forcing host organisms to create massive quantities of the virus that then spread to others."
-- "Coronavirus appears to have originated in non-human animals in China."
+- "Coronavirus originated in non-human animals in China or escaped from a biological laboratory."
 
 ## We are family
 
@@ -187,17 +198,17 @@ fig-align: "center"
     - How do the parts work?  What do they do?
     - Where did they come from?
 
-## Spatial and temporal scales in neuroscience {-}
+## Spatial and temporal scales {-}
 
 ![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
 
 ## Why neuroscience is harder than physics {-}
 
-![](../include/img/psych-harder-1.jpg)
+![](../include/img/psych-harder-1.jpg){fig-align="center"}
 
 ---
 
-![](../include/img/psych-harder-2.jpg)
+![](../include/img/psych-harder-2.jpg){fig-align="center"}
 
 ---
 
@@ -205,7 +216,7 @@ fig-align: "center"
 
 ## Take homes
 
-- Evaluation: 3 exams/4; 3 quizzes/4; 1 paper or 3 blogs.
+- Evaluation: 3 exams/4; 3 quizzes/4.
 - Systematic description and study of the nervous system touches on multiple aspects of behavior and mental experience
 
 ## Next time
