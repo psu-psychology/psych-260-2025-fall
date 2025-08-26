@@ -76,14 +76,15 @@ This means to read pages 3 to 15.
 
 - *Read*: MM pp 44-50
 - *Watch*: @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz, @Video2010-jw, @Understanding_Animal_Research2009-vq
-- *Slides*: [html](slides/wk-02-2025-09-02-methods.qmd)
+- *Slides*: | [html](slides/wk-02-2025-09-02-methods.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[2])` {-}
 
 *`{r} sched_df$class_2_theme[2]`*
 
 - *Read*: MM pp 27-44
-- Extra credit assignment due; [Canvas dropbox](https://psu.instructure.com/courses/2415710/assignments/17605818)
+- Extra credit assignment due: [Canvas dropbox](https://psu.instructure.com/courses/2415710/assignments/17605818)
+- *Slides*:  | [html](slides/wk-02-2025-09-04-anatomy-I.qmd) |
 
 ## `{r} sched_df$week[3]` {- #week-03}
 
