@@ -27,7 +27,7 @@
 :::
 ::::
 
-## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)  {-}
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -44,7 +44,7 @@
 
 @AANSNeurosurgery2019-ik
 
-## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)  {-}
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -73,7 +73,7 @@
 :::
 ::::
 
-## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)  {-}
+## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -93,7 +93,7 @@
     + Do regional blood $O_2$ volumes (and flow) vary with behavior X?
 :::
 ::: {.column width=50%}
-Content
+![https://mriquestions.com/does-boldbrain-activity.html](https://mriquestions.com/uploads/3/4/5/7/34572113/7115861_orig.png)
 :::
 ::::
 
@@ -101,6 +101,8 @@ Content
 
 :::: {.columns}
 ::: {.column width=50%}
+- "Mapping" = what areas respond to what input
+
 ![](../include/img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg)
 :::
 ::: {.column width=50%}
@@ -113,8 +115,8 @@ Content
 
 ## fMRI
 
-+ Non-invasive, but expensive
-+ Moderate but improving (mm) spatial, temporal (~sec) resolution
++ Non-invasive, but expensive ($500/hr)
++ Moderate but improving spatial (mm), temporal (~sec) resolution
 + **Indirect** measure of brain activity
 
 ## fMRI
@@ -133,11 +135,13 @@ Content
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - How does it work?
     - Electrodes on scalp or brain surface
 - What do we measure?
     - Combined activity of huge # of neurons
 - High/fine temporal resolution (detect fast changes) but poor spatial resolution
+:::
 :::
 ::: {.column width=50%}
 ![Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
@@ -148,21 +152,21 @@ Content
 
 :::: {.columns}
 ::: {.column width=50%}
-- Analyze frequency bands
-    + LOW: deep sleep
-    + MIDDLE: Quiet, alert state
-    + HIGH:“Binding” information across senses
+- Activity in different frequency bands
+  + LOW (slow changes): deep sleep
+  + MIDDLE: Quiet, alert state
+  + HIGH (fast changes): “Binding” information across senses
 :::
 ::: {.column width=50%}
 ![@VallatUnknown-jg](https://raphaelvallat.com/images/tutorials/bandpower/brain_waves.png)
 :::
 ::::
 
-## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)  {-}
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)
 
 :::: {.columns}
 ::: {.column width=50%}
-- EEGs time-locked to some event 
+- EEGs related (in time) to some event 
 - Averaged over many repetitions of that event
 :::
 ::: {.column width=50%}
@@ -170,7 +174,7 @@ Content
 :::
 ::::
 
-## [Brain Computer Interface (BCI)](https://computer.howstuffworks.com/brain-computer-interface.htm)  {-}
+## [Brain Computer Interface (BCI)](https://computer.howstuffworks.com/brain-computer-interface.htm)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -181,20 +185,22 @@ Content
 :::
 ::::
 
-## [Magneto-encephalography (MEG)](https://en.wikipedia.org/wiki/Magnetoencephalography)  {-}
+## [Magneto-encephalography (MEG)](https://en.wikipedia.org/wiki/Magnetoencephalography)
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - Like EEG, but measures magnetic fields
 - High temporal resolution, low spatial resolution
 - Magnetic field propagates with minimal distortion from brain/skull, *unlike electric field*
 :::
+:::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NIMH_MEG.jpg/580px-NIMH_MEG.jpg){width="60%"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NIMH_MEG.jpg/580px-NIMH_MEG.jpg){width="60%" fig-align="right"}
 :::
 ::::
 
-## Manipulating the brain  {-}
+## Manipulating the brain
 
 - Nature’s “experiments”
     + Stroke, head injury, tumor
@@ -202,18 +208,18 @@ Content
 - If damage to X impairs performance on Y -> X critical for/controls Y
 - Poor spatial/temporal resolution, limited experimental control
 
-## The case of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)  {-}
+## The case of [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)
 
 ![](http://www.doctorsimpossible.com/wp-content/uploads/2017/11/Phineas-Gage-with-skull-picture.png){fig-align="center"}
 
-## Stimulating the brain  {-}
+## Stimulating the brain
 
 - Pharmacological
 - Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
 - Magnetic (Transcranial magnetic stimulation - *TMS*)
-- Optically (optogenetics)
+- Optical (optogenetics)
 
-## Trans-cranial Direct Current Stimulation (tDCS)  {-}
+## Trans-cranial Direct Current Stimulation (tDCS)
 
 ![@Dayan2013-gp](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3422/MediaObjects/41593_2013_Article_BFnn3422_Fig4_HTML.jpg?as=webp)
 
@@ -221,13 +227,13 @@ Content
 
 ![@Dayan2013-gp](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.3422/MediaObjects/41593_2013_Article_BFnn3422_Fig1_HTML.jpg?as=webp)
 
-## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation  {-}
+## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation
 
-{{< https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G >}}
+{{< video https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G width="100%" height="70%" >}}
 
 @Video2010-jw
 
-## Evaluating stimulation methods  {-}
+## Evaluating stimulation methods
 
 - Spatial/temporal resolution?
     + Does stimulation mimic natural activity?
@@ -246,11 +252,11 @@ Content
 ::: {.column width=50%}
 {{< video https://www.youtube.com/embed/KDjWdtDyz5I >}}
 
-[@Understanding_Animal_Research2009-vq]
+@Understanding_Animal_Research2009-vq
 :::
 ::::
 
-## *Sim*ulating the brain  {-}
+## *Sim*ulating the brain
 
 - Computer/mathematical models of brain function
 - Example: neural networks

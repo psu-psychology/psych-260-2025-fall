@@ -24,8 +24,12 @@ website:
         contents:
           - text: "Wk 01 • Tue Aug 26"
             href: slides/wk-01-2025-08-26-intro.qmd
-          - text: "Wk 01 • Tue Aug 28"
+          - text: "Wk 01 • Thu Aug 28"
             href: slides/wk-01-2025-08-28-hist-methods.qmd
+          - text: "Wk 02 • Tue Sep 02"
+            href: slides/wk-02-2025-09-02-methods.qmd
+          - text: "Wk 02 • Thu Sep 04"
+            href: slides/wk-02-2025-09-04-anatomy-I.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src

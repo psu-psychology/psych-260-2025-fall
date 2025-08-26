@@ -34,7 +34,7 @@ Think of a system you know something about.
 What makes it a system?
 :::
 
-## Non-biological examples {-}
+## Examples {-}
 
 ## 
 
@@ -87,11 +87,7 @@ What makes it a system?
     - Answer (often): Information
 - What is being controlled?
 - *Stochastic* not *deterministic*
-
-## "Butterfly effect"
-
-- https://en.wikipedia.org/wiki/Butterfly_effect
-- @Wikipedia-contributors2025-sm
+- [Butterfly effect, @Wikipedia-contributors2025-sm](https://en.wikipedia.org/wiki/Butterfly_effect){preview-link="true"}
 
 ## Extra credit assignment {-}
 
@@ -102,6 +98,8 @@ What are the *components* of that system?
 What are the *inputs and outputs*?
 What do the components *exchange*?
 
-**Send a 1 page write-up describing your system and answers to these questions to Katie via Canvas by Friday, September 5 at 5:00 PM for 2 extra credit points.**
+**Submit a 1 page write-up describing your system and answers to these questions via Canvas by Friday, September 5 at midnight for 2 extra credit points.**
+
+- [Canvas dropbox](https://psu.instructure.com/courses/2415710/assignments/17605818)
 
 :::

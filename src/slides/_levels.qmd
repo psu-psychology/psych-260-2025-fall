@@ -23,7 +23,7 @@
 
 ## Why does this matter?
 
-- Different phenomena, -> levels of resolution
+- Different phenomena -> levels of resolution
 - Different resolution -> different methods
 - How does the micro affect macro or vice versa?
 - What's cause and what's effect?
@@ -107,3 +107,8 @@ Example: How does *your* personal spending affect the global economy?
         * cultural changes
     + Millenia
         * Natural & sexual selection
+
+## Ecological systems theory [@Wikipedia-contributors2025-ad]
+
+![Uri Bronfenbrenner](https://www.simplypsychology.org/wp-content/uploads/Bronfenbrenner-Ecological-Systems-Theory.jpeg)
+

@@ -6,6 +6,10 @@ fig-align: "center"
 
 ## Prelude {-}
 
+{{< video https://www.youtube.com/embed/0fKBhvDjuy0 height="70%" width="100%" >}}
+
+@Eames_Office2010-xd
+
 ## Today's topics {-}
 
 - Warm up
@@ -40,7 +44,7 @@ fig-align: "center"
 - ~~A. Retrograde tract tracing~~
 - ~~B. Magnetic Resonance Imaging (MRI)~~
 - ~~C. Computed Tomography (CT)~~
-- D. Nissl (whole cell) stain
+- **D. Nissl (whole cell) stain**
 :::
 ::::
 
@@ -92,4 +96,3 @@ The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/
 <https://psu-psychology.github.io/psych-260-2025-fall/>
 
 ## References
-

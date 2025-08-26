@@ -18,14 +18,14 @@
 
 :::: {.columns}
 ::: {.column width=50%}
-![https://acousticbrew.org](https://acousticbrew.org/wp-content/uploads/2022/03/Acoustic-Brew-logo.jpg){height=150px fig-align="center"}
+![](https://acousticbrew.org/wp-content/uploads/2022/03/Acoustic-Brew-logo.jpg){height=150px fig-align="center"}
 
-![https://www.nextstagetheatre.org](img_gilmore_bio/next-stage-logo.jpg){height=150px fig-align="center"}
+![](img_gilmore_bio/next-stage-logo.jpg){height=150px fig-align="center"}
 
 ![](https://w3tm.org/img/w3tm-qsl.png){height=150px fig-align="center"}
 :::
 ::: {.column width=50%}
-![https://cpoclub.org](img_gilmore_bio/cpo-logo.jpg){height=150px fig-align="center"}
+![](img_gilmore_bio/cpo-logo.jpg){height=150px fig-align="center"}
 
 ![](img_gilmore_bio/2024-04-08-151856-Solar-timelapse_thn.jpeg){height=150px fig-align="center"}
 

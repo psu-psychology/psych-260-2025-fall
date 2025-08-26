@@ -1,0 +1,189 @@
+# Hormones and the brain
+
+## Background {-}
+
+### Hormones are... {-}
+
+- Chemicals secreted into blood
+- Act on specific target tissues via receptors
+- Produce specific effects
+
+::: {.infobox}
+
+Can a substance be a hormone AND a neurotransmitter?
+
+Yes, if the substances are 1) released by neurons, 2) bind to neurons, and 3) bind to other cells in the body.
+
+:::
+
+### Substances that are both hormones and neurotransmitters {-}
+
+- Melatonin
+- Epinephrine/adrenaline
+- Oxytocin
+- Vasopressin
+    
+### Physiological responses and behaviors under hormonal influence {-}
+
+```{r}
+knitr::include_graphics("https://yourkidstable.com/wp-content/uploads/2017/12/graphicstock-close-up-of-cute-little-girl-in-the-kitchen-sitting-in-high-chair-eating-watermelon_r_bBNYOUfb-768x511.jpg")
+```
+
+- Ingestive (eating/ drinking)
+    + Fluid levels
+    + Na, K, Ca levels 
+    + Digestion
+    + Blood glucose levels
+    
+```{r, fig.cap="Snails mating: http://2.bp.blogspot.com/-LziO1SbCVbU/UeqmTPOCJiI/AAAAAAAACUI/u7mCG4vlf_U/s1600/reprodution.JPG+51.jpg"}
+knitr::include_graphics("http://2.bp.blogspot.com/-LziO1SbCVbU/UeqmTPOCJiI/AAAAAAAACUI/u7mCG4vlf_U/s1600/reprodution.JPG+51.jpg")
+```
+    
+- Reproduction
+    + Sexual Maturation
+    + Mating
+    + Birth
+    + Care giving
+    
+```{r}
+knitr::include_graphics("http://www.howitworksdaily.com/wp-content/uploads/2012/07/dreamstime_s_14557293.jpg")
+```
+    
+- Responses to threat/challenge
+    + Metabolism
+    + Heart rate, blood pressure 
+    + Digestion
+    + Arousal
+
+### Commonalities {-}
+
+- Biological imperatives
+- Events restricted in space and time
+
+### Differences: Neural vs. hormonal communication {-}
+
+- Point to point vs.“broadcast”
+    + Wider broadcast than neuromodulators
+    + Everywhere in body via bloodstream
+- Fast vs. slow-acting
+- Short-acting vs. long-acting
+- Digital (yes-no) vs. analog (graded) 
+- Voluntary control vs. involuntary
+
+### Similarities: Neural vs. hormonal communication {-}
+
+- Chemical messengers stored for later release 
+- Release follows stimulation
+- Action depends on specific receptors
+- 2nd messenger systems common
+
+## Biology {-}
+
+```{r}
+knitr::include_graphics("include/img/glands.jpg")
+```
+
+- Rest of body
+    + *Thyroid*
+    +  *Adrenal (ad=adjacent, renal=kidney) gland*
+        - *Adrenal cortex*
+        - *Adrenal medulla*
+    + *Gonads* (testes/ovaries)
+- CNS
+    + Hypothalamus
+    + *Pituitary*
+        - *Anterior*
+        - *Posterior*
+    + Pineal gland
+
+### Two hypothalamus/pituitary release systems {-}
+
+- Direct
+- Indirect
+
+#### Direct hormone release into bloodstream {-}
+
+- Hypothalamus (paraventricular nucleus, supraoptic nucleus) to
+- Posterior pituitary
+    + *Oxytocin*
+    + *Arginine Vasopressin (AVP, vasopressin)*, also known as anti-diurectic hormone (ADH)
+    
+
+```{r, fig.cap="Posterior pituitary: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg")
+```    
+        
+#### Indirect release (multiple steps before end organs) {-}
+
+- Hypothalamus -> *releasing hormones* 
+- Anterior pituitary -> *tropic hormones*
+- Blood stream ->
+- End organs
+
+```{r}
+knitr::include_graphics("include/img/indirect-release.jpg")
+```
+    
+## Case studies {-}
+
+### Case 1: Responses to threat or challenge {-}
+
+- Neural response
+    + *Sympathetic Adrenal Medulla (SAM) response*
+    + Sympathetic NS activation of adrenal medulla, other organs
+    + Releases NE and Epi
+    
+```{r, fig.cap="[@Deussing2018-ub](http://dx.doi.org/10.1152/physrev.00042.2017)", out.height="500px"}
+knitr::include_graphics("https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif")
+```
+
+- Endocrine response
+    + *Hypothalamic Pituitary Adrenal (HPA) axis*
+- Hypothalamus
+    + *Corticotropin Releasing Hormone (CRH)*
+- Anterior pituitary
+    + *Adrenocorticotropic hormone (ACTH)*
+- Adrenal cortex
+    + *Glucocorticoids (e.g., cortisol)*
+        + increases blood glucose, anti-inflammatory
+        + negative consequences of prolonged exposure 
+    + *Mineralocorticoids (e.g. aldosterone)*
+        + Regulates Na (and water) retention in kidneys
+
+#### Cortisol-related receptors widespread in brain {-}
+
+```{r, fig.cap="[@Deussing2018-ub](http://dx.doi.org/10.1152/physrev.00042.2017)", out.width="800px"}
+knitr::include_graphics("https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650004.gif")
+```
+
+- Cortisol release affects the brain
+
+### Case 2: Reproductive behavior -- the milk letdown reflex {-}
+
+- Hypothalamus releases oxytocin into posterior pituitary
+- Targets milk ducts in breast tissue
+
+```{r}
+knitr::include_graphics("http://3.bp.blogspot.com/-TT2oIWLv4iA/UnNV-beoVhI/AAAAAAAAej4/fwgeNn-N8p0/s1600/ssuibu2.jpg")
+```
+
+#### Oxytocin's multiple roles {-}
+
+- Sexual arousal
+- Released in bursts during orgasm
+- Stimulates uterine, vaginal contraction
+- Links to social interaction, bonding:  [@Weisman2013158](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
+- Alters face processing in autism:  [@Domes2013164](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
+
+#### But, can oxytocin treat social impairments in autism? {-}
+
+```{r, fig.cap="[@Sikich2021-az](https://doi.org/10.1056/NEJMoa2103583)"}
+knitr::include_graphics("include/img/nejmoa2103583_f2.jpg")
+```
+
+#### What are effects of "knocking-out" oxytocin receptors {-}
+
+```{r, fig.cap="[@Ledford2023-kg](http://dx.doi.org/10.1038/d41586-023-00197-9)"}
+knitr::include_graphics("include/img/crispr-voles-oxytocin.png")
+```
+

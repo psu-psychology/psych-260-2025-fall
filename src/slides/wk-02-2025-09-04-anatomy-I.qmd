@@ -1,0 +1,567 @@
+---
+title: "Neuroanatomy I"
+subtitle: 2025-09-94
+fig-align: "center"
+---
+
+## Prelude
+
+---
+
+{{< video https://www.youtube.com/embed/snO68aJTOpM width="100%" height="70%" >}}
+
+@Ctdalilah2006-co
+<!-- Pinky and the Brain video -->
+
+---
+
+{{< video https://www.youtube.com/embed/Qw8E9WnZTQk width="100%" height="70%" >}}
+
+@Kids_Learning_Tube2015-pb
+<!-- Kids brain song -->
+
+## Today's topics
+
+- Warm up
+- Anatomy of the brain
+
+# Warm up
+
+## Which of the following is *not* a functional neuroscience method?
+
+::: {.incremental}
+- A. Diffusion Tensor Imaging (DTI/MRI)
+- B. functional MRI (fMRI)
+- C. Positron Emission Tomography (PET)
+- D. Single-unit recording
+:::
+
+## Which of the following is *not* a functional neuroscience method?
+
+- **A. Diffusion Tensor Imaging (DTI/MRI)**
+- ~~B. functional MRI (fMRI)~~
+- ~~C. Positron Emission Tomography (PET)~~
+- ~~D. Single-unit recording~~
+
+## Which of the following methods measures electromagnetic fields?
+
+::: {.incremental}
+- A. Event-related potentials (ERP)
+- B. Electroencephalography (EEG)
+- C. Magnetoencephalography (MEG)
+- D. All of the above
+:::
+
+## Which of the following methods measures electromagnetic fields?
+
+- A. Event-related potentials (ERP)
+- B. Electroencephalography (EEG)
+- C. Magnetoencephalography (MEG)
+- **D. All of the above**
+
+## Why is fMRI an *indirect* measure of brain activity?
+
+::: {.incremental}
+- A. fMRI measures change in blood oxygen that stem from activity several seconds earlier
+- B. fMRI measures electrical activity of individual neurons
+- C. fMRI measures things inside the head
+:::
+
+## Why is fMRI an *indirect* measure of brain activity?
+
+- A. **fMRI measures changes in blood oxygen that stem from activity several seconds earlier**
+- B. ~~fMRI measures electrical activity of individual neurons~~
+- C. ~~fMRI measures things inside the head~~
+
+# Anatomy of the brain
+
+## Brain anatomy through dance
+
+<audio controls loop="loop">
+
+<source src="../include/snd/brain_boxing.m4a" type="audio/mpeg">
+
+Your browser does not support the audio tag. </audio>
+
+## Directional terms
+
+:::: {.columns}
+::: {.column width=50%}
+- *Anterior/Posterior* -> front/back
+- *Medial/Lateral* -> inside/outside
+- *Superior/Inferior* -> upward/downward
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png)
+:::
+::::
+
+## Directional terms
+
+:::: {.columns}
+::: {.column width=50%}
+- *Dorsal/Ventral* -> back-ward/belly-ward
+- *Rostral/Caudal* -> head-ward/tail-ward
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png)
+:::
+::::
+
+## Planar (slice) terms
+
+:::: {.columns}
+::: {.column width=50%}
+- *Horizontal/Axial*
+- *Coronal*/Transverse/Frontal
+- *Sagittal* (from the side)
+:::
+::: {.column width=50%}
+![http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif](http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif)
+:::
+::::
+
+## Supporting structures
+
+- Meninges
+- Ventricles
+- Blood supply
+  - Blood/brain barrier
+
+## [Meninges](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-meninges)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Dura mater*
+- *Arachnoid mater/membrane*
+- *Subarachnoid space*
+- *Pia mater*
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png)
+:::
+::::
+
+---
+
+::: {.callout-note}
+What disease is associated with inflammation of (e.g., '-itis') of the [meninges](https://en.wikipedia.org/wiki/Meningitis){preview-link="true"}?
+:::
+
+## Cerebral [Ventricles](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-ventricles)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Lateral* (1st & 2nd)
+- *3rd*
+- *Cerebral aqueduct*
+- *4th*
+- Ventricles are filled with *Cerebrospinal fluid (CSF)*
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png)
+:::
+::::
+
+---
+
+::: {.callout-note}
+
+[Hydrocephalus](https://en.wikipedia.org/wiki/Hydrocephalus) can occur there is a blockage in the flow of CSF through the cerebral ventricles.
+
+:::
+
+## Blood Supply
+
+:::: {.columns}
+::: {.column width=50%}
+- Arteries
+  - external & internal carotid; vertebral -> basilar
+  - *Circle of Willis*
+  - anterior, middle, & posterior cerebral
+:::
+::: {.column width=50%}
+![](https://www.researchgate.net/profile/Yohannes_Mamo/publication/280830140/figure/fig1/AS:649635857174600@1531896666424/1-Organization-of-the-human-cerebral-circulation-The-brain-receives-its-blood-supply.png)
+:::
+::::
+
+---
+
+::: {.callout-note}
+
+The Circle of Willis helps equalize blood pressures among the ascending arteries from the heart.
+
+:::
+
+## Blood/brain barrier
+
+
+:::: {.columns}
+::: {.column width=50%}
+- Isolates CNS from blood stream
+- Active transport of molecules typically required
+    - Astrocytes contribute to
+- (endothelial) cells forming blood vessel walls are tightly packed
+:::
+::: {.column width=50%}
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig2_HTML.jpg?as=webp)
+:::
+::::
+
+## Blood/brain barrier
+
+:::: {.columns}
+::: {.column width=50%}
+- Exception is *Area Postrema*
+    - In brainstem (see AP in the figure below)
+    - Blood-brain barrier thin
+    - Detects toxins, evokes vomiting (emesis)
+:::
+::: {.column width=50%}
+![@Begg2013-fb](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrendo.2013.136/MediaObjects/41574_2013_Article_BFnrendo2013136_Fig2_HTML.jpg?as=webp)
+:::
+::::
+
+## Organization of the Nervous System
+
+- Central Nervous System (CNS)
+    - Brain
+    - Spinal Cord
+    - Everything encased in bone
+- Peripheral Nervous System (PNS)
+    - Everything else!
+
+## Interactive brain atlas
+
+- [Interactive brain atlas](https://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm){preview-link="true"}
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| *Forebrain*  | Lateral              | Telencephalon      | *Cerebral cortex* |
+|                |                      |                    | [*Basal ganglia*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-basal_ganglia){preview-link="true"}   |
+|                |                      |                    | [*Hippocampus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hippocampus-hippocampus){preview-link="true"}, [*Amygdala*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-amygdala){preview-link="true"} |
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+|                | Third                | Diencephalon       | [*Thalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-thalamus){preview-link="true"}        |
+|                |                      |                    | [*Hypothalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hypothalamus){preview-link="true"}    |
+| [*Midbrain*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-midbrain){preview-link="true"}   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum*, [*pons*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-pons){preview-link="true"}  |
+|                | --                   |                    | [*Medulla oblongata*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-medulla_oblongata){preview-link="true"} |
+
+---
+
+::: {.callout-note}
+
+Some of these terms arise from the developmental stages of the human embryo.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg)
+
+:::
+
+## Components of the brain
+
+## Hindbrain
+
+:::: {.columns}
+::: {.column width=50%}
+- Structures adjacent to 4th ventricle
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png)
+:::
+::::
+
+## Medulla oblongata
+
+:::: {.columns}
+::: {.column width=50%}
+- Fibers of passage (to/from spinal cord)
+- Cranial nerves VI-XII
+- Cardiovascular regulation
+- Muscle tone
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png)
+:::
+::::
+
+## [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+
+:::: {.columns}
+::: {.column width=50%}
+- “Little brain”
+- Dorsal to pons
+- Movement coordination, classical conditioning (associative learning), + ???
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif)
+:::
+::::
+
+---
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/interestingasfuck/comments/sa58hm/how_a_craniectomy_is_performed_to_remove_a_tumor/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="476" width="640" scrolling="no"></iframe>
+
+<!-- How to remove a tumor in the cerebellum -->
+
+## Pons
+
+:::: {.columns}
+::: {.column width=50%}
+- Bulge on brain stem
+- Neuromodulatory nuclei
+- Relay to cerebellum
+- Cranial nerve V
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png)
+:::
+::::
+
+## Midbrain
+
+:::: {.columns}
+::: {.column width=50%}
+![](http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg)
+:::
+::: {.column width=50%}
+![](https://vignette.wikia.nocookie.net/brain-for-ai/images/b/bd/Tectum.png/revision/latest?cb=20170613125935)
+:::
+::::
+
+## Midbrain
+
+:::: {.columns}
+::: {.column width=50%}
+- Tectum
+  - Tectum -> "roof"
+  - *Superior colliculus* (reflexive orienting of eyes, head, ears)
+  - *Inferior colliculus* (sound/auditory processing)
+:::
+::: {.column width=50%}
+- Tegmentum
+  - Tegmentum -> "floor"
+  - Species-typical movement sequences (e.g., cat: hissing, pouncing)
+  - Cranial nerves III, IV
+  - *Nuclei* that release modulatory neurotransmitters ("neuromodulators")
+    + *Dopamine (DA)*
+    + *Norepinephrine (NE)*
+    + *Serotonin (5-HT)*
+:::
+::::
+
+## Pineal gland
+
+:::: {.columns}
+::: {.column width=50%}
+- Releases melatonin (hormone) into bloodstream
+- Does *not* inflate the muscles (sorry Descartes)
+:::
+::: {.column width=50%}
+![](https://www.researchgate.net/profile/Russel-Reiter/publication/50228025/figure/fig1/AS:195936652402693@1423726346200/Human-pineal-gland-in-related-to-its-surrounding-structures-Horizontal-brain-section.png)
+:::
+::::
+
+## Forebrain
+
+![@Samanthi2019-jt](https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2019/05/Difference-Between-Forebrain-Midbrain-and-Hindbrain_Figure-1-e1557922693725.png?w=724&ssl=1)
+
+## Diencephalon ("between" brain)
+
+:::: {.columns}
+::: {.column width=50%}
+- Thalamus
+- Hypothalamus
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg)
+:::
+::::
+
+## Thalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Input to cortex
+- Functionally distinct nuclei (collection of neurons)
+    - *Lateral geniculate nucleus (LGN)*, vision
+    - *Medial geniculate nucleus (MGN)*, audition
+:::
+::: {.column width=50%}
+![](http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231)
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
+- Controls *Autonomic Nervous System (ANS)*
+    - Sympathetic branch
+    - Parasympathetic branch
+:::
+::: {.column width=50%}
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Controls *endocrine system* via *pituitary gland* (“master” gland)
+    + *Anterior pituitary* (indirect release of hormones)
+    + *Posterior* (direct release of hormones)
+        - *Oxytocin*
+        - *Vasopressin*
+:::
+::: {.column width=50%}
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Regulates circadian rhythms (via Suprachiasmatic Nucleus)
+:::
+::: {.column width=50%}
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+:::
+::::
+
+## Telencephalon
+
+- Basal (not basil!) ganglia
+- Hippocampus
+- Amygdala
+- Cerebral cortex
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- Skill and habit learning
+- Sequencing of movement
+- Example: Parkinson’s Disease
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- [Striatum](https://en.wikipedia.org/wiki/Striatum){preview-link="true"}
+    - Dorsal
+        - [Caudate nucleus](https://en.wikipedia.org/wiki/Caudate_nucleus)
+        - [Putamen](https://en.wikipedia.org/wiki/Putamen){preview-link="true"}
+    - Ventral
+        - [Nucleus accumbens (NAcc)](https://en.wikipedia.org/wiki/Nucleus_accumbens){preview-link="true"}
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- [Globus pallidus](https://en.wikipedia.org/wiki/Globus_pallidus){preview-link="true"}
+- [Subthalamic nucleus](https://en.wikipedia.org/wiki/Subthalamic_nucleus){preview-link="true"}
+- [Substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra) (in tegmentum){preview-link="true"}
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- From Greek for "sea horse"
+:::
+::: {.column width=50%}
+
+![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w)
+:::
+::::
+
+## Hippocampus
+
+:::: {.columns}
+::: {.column width=50%}
+- Immediately lateral to (inferior) lateral ventricles
+- Medial temporal lobe
+- Memories of specific facts or events, spatial locations
+- Implicated in Alzheimer's Disease
+:::
+::: {.column width=50%}
+![](https://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/5750f2a32fe1315b8d98018d/1526033957297/hippocampus.jpg?format=1500w)
+:::
+::::
+
+## Hippocampus
+
+:::: {.columns}
+::: {.column width=50%}
+- [Fornix](https://en.wikipedia.org/wiki/Fornix_(neuroanatomy)){preview-link="true"} projects to hypothalamus
+- [Mammillary bodies](https://en.wikipedia.org/wiki/Mammillary_body){preview-link="true"}
+:::
+::: {.column width=50%}
+![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w)
+:::
+::::
+
+## Amygdala
+
+:::: {.columns}
+::: {.column width=50%}
+- “almond”-shaped
+- Influences physiological state, behavioral readiness, affect
+- NOT the fear center! [@ledoux_amygdala_2015].
+:::
+::: {.column width=50%}
+![](https://3.bp.blogspot.com/-DLYYDLYHSKc/WsV2203SrdI/AAAAAAAADwE/2K3dvkV9rporkTwHFmeeLQ1w4yGZk6xEwCLcBGAs/s1600/Amygdala.png){preview-link="true"}
+:::
+::::
+
+## Take homes
+
+- CNS (encased in bone) vs. PNS
+- Structures defined relative to others using specific anatomical terms
+
+## Next time
+
+- Neuroanatomy II -- the cerebral cortex
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

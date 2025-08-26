@@ -55,8 +55,8 @@
 :::: {.columns}
 ::: {.column width=50%}
 - [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates)
-    - Epilepsy a disease of the brain [@Chudler_undated-lu](http://faculty.washington.edu/chudler/hist.html)
-    - Brain seat of intelligence [@Chudler_undated-lu](http://faculty.washington.edu/chudler/hist.html)
+    - *Brain* seat of intelligence [@Chudler_undated-lu]
+    - Epilepsy a disease of the brain [@Chudler_undated-lu]
 :::
 ::: {.column width=50%}
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hippocrates_rubens.jpg/500px-Hippocrates_rubens.jpg){width="70%"}
@@ -89,12 +89,21 @@
 :::
 ::::
 
+## Your turn
+
+::: {.callout-important}
+
+Do modern humans think that individual differences in thought, mood, and behavior relate to biological factors?
+
+:::
+
 ## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen)
 
 :::: {.columns}
 ::: {.column width=70%}
 - Observed that gladiators' head injuries impaired thinking, movement
-- Speculated that fluid filling the brain cavities called *ventricles*, circulates through nerves, body == "ventricular" theory of nervous system function.
+- Speculated that fluid filling the brain cavities called *ventricles*, circulates through nerves, body
+- "Ventricular" theory of nervous system function
 :::
 ::: {.column width=30%}
 ![http://www.cerebromente.org.br/n06/historia/am1.gif](http://www.cerebromente.org.br/n06/historia/am1.gif)
@@ -118,8 +127,8 @@
 
 ## The "dark" ages (in Europe, not elsewhere) {-}
 
-- [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen) *Optics*, ~1000 CE
-- [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/) ~1400 CE
+- [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen){preview-link="true"} *Optics*, ~1000 CE
+- [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/){preview-link="true"} ~1400 CE
 
 ## *Leonardo da Vinci* (~1508) {-}
 
@@ -151,7 +160,7 @@
 :::: {.columns}
 ::: {.column width=50%}
 - Reflexes “reflect” sensory events in the world
-- Not the same as voluntary functions
+- Reflexes ≠ voluntary functions
 - Reflexes and animal “minds” are physical, machine-like
 :::
 ::: {.column width=50%}
@@ -166,7 +175,7 @@
 - Human mind is not machine-like
     - “Dual” influences on behavior
     - Physical + spiritual
-    - Descartes a *philosophical dualist*
+    - *Philosophical dualism*
 :::
 ::: {.column width=50%}
 ![https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG](https://upload.wikimedia.org/wikipedia/commons/8/8a/Descartes-reflex.JPG)
@@ -178,7 +187,7 @@
 :::: {.columns}
 ::: {.column width=50%}
 - Soul controls body via *pineal gland*
-    - Fluid from ventricles cause muscles to “inflate” (another ventricular theory)
+    - Fluid from ventricles cause muscles to “inflate”
 :::
 ::: {.column width=50%}
 ![Figure of the pineal gland by Descartes: http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg](http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg)
@@ -191,7 +200,7 @@
   - **Yes**, human minds are fundamentally different from animal minds. The human mind is influenced by both physical and extraphysical processes.
   - **No**, human minds are similar to animal minds. The human mind arises solely from physical processes.
 - Why or why not?
-- How would you _scientifically_ test Descartes idea about the role of the pineal gland?
+- How would you _scientifically_ test Descartes' idea about the role of the pineal gland?
 
 ## Other milestones  {-}
 

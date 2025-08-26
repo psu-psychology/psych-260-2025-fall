@@ -1,0 +1,595 @@
+# Cells of the nervous system {#cells}
+
+## How many cells in the nervous system? {-}
+
+### Human vs. non-human cells {-}
+
+- ~ 37 trillion (10^9) [[@Roy2018-wo]](http://dx.doi.org/10.1091/mbc.E18-04-0260) cells
+- 10-100 trillion non-human cells (gut, skin/hair, bloodstream, etc.)
+- Human bodies are a community
+
+### How many neurons and glia? {-}
+
+- Old "lore": ~100 billion neurons
+- New estimate [@azevedo2009equal]
+    + ~86 +/- 8 billion neurons
+    + ~85 +/- 9 billion glia
+- 100-500 trillion synapses, 1 billion/mm^3
+
+::: {.infobox}
+
+How long would it take you to count 170 billion cells?
+
+How would you estimate how long?
+
+- 60 s/min x 60 min/hr x 24 hrs/day x 365 days/ yr = 31,536,000 s/yr
+- 1.7e11/31,536,000 = 5,390 years
+
+"Back of the envelope" calculations/guess-timates are extremely useful--in science and in other aspects of life.
+
+:::
+
+### Mass of neurons and non-neurons {-}
+
+```{r, fig.cap="[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)"}
+knitr::include_graphics("include/img/azevedo-et-al-fig-1.jpg")
+```
+
+```{r, echo=FALSE, fig.align='center', fig.cap="Non-neurons: Mass vs. number of cells"}
+# data from Azevedo
+suppressPackageStartupMessages("tidyverse")
+library(tidyverse)
+
+mass_g <- c(1232.93, 154.02, 117.66)
+portion <- c("cerebral ctx", "cerebellum", "rest")
+b_neurons <- c(16.34, 69.03, 0.69)
+b_nonneurons <- c(60.84, 16.04, 7.73)
+brain <- data.frame(portion, mass_g, b_neurons, b_nonneurons)
+
+brain %>% ggplot() +
+  aes(x=mass_g, b_nonneurons, color=portion) +
+  geom_point(size = 5) +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+```{r echo=FALSE, fig.align='center', fig.cap="Neurons: Mass vs. number of cells"}
+brain %>% ggplot() +
+  aes(x=mass_g, b_neurons, color=portion) +
+  geom_point(size = 5) +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+- \# of glial cells scales with brain size/mass
+- \# of neurons doesn't scale with brain size/mass
+    - cerebellum small but \# of neurons large
+
+> *"These findings challenge the common view that humans stand out from other primates in their brain composition and indicate that, with regard to numbers of neuronal and nonneuronal cells, the human brain is an isometrically scaled-up primate brain."*
+>
+> [[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
+
+```{r fig-human-advantage, fig.cap="The Human Advantage"}
+knitr::include_graphics("https://mit-press-us.imgix.net/covers/9780262034258.jpg?auto=format&w=298&dpr=1&q=20")
+```
+
+## Glia (neuroglia) {-}
+
+- "Glia" means glue
+- Functions
+	+ Structural support
+	+ Metabolic support
+	+ Brain development
+	+ Neural plasticity?
+- Multiple types of glial cells
+
+### Astrocytes {-}
+
+- "Star-shaped"
+- Physical and metabolic support
+	+ Blood/brain barrier
+	+ Regulate concentration of key ions (Ca++/K+) for neural communication
+	+ Regulate concentration of key neurotransmitters (e.g., glutamate)
+
+- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Regulate local blood flow (part of fMRI's blood oxygen-dependent BOLD response)
+- Regulate/influence communication between neurons, [[@bazargani_astrocyte_2016]](http://doi.org/10.1038/nn.4201)
+- Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
+
+```{r fig-astrocyte, fig.cap="Human astrocyte: Wikipedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png")
+```
+
+### Myelinating cells {-}
+
+- Produce [myelin](https://en.wikipedia.org/wiki/Myelin) or myelin sheath
+  + White, fatty substance
+  + Surrounds many neurons
+  + The "white" in white matter
+- Provide electrical/chemical insulation
+- Make neuronal messages faster, less susceptible to noise
+  
+### [Oligodendrocytes](https://en.wikipedia.org/wiki/Oligodendrocyte) {-}
+
++ In brain and spinal cord (Central Nervous System or CNS)
++ 1:many neurons
+
+```{r fig-oligodendrocyte, fig.cap="Oligodendrocyte: Wikipedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg")
+```
+	
+### [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell) {-}
+
++ In Peripheral Nervous System (PNS)
++ 1:1 neuron
++ Facilitate neuro-regeneration
+	
+```{r fig-schwann-cell, fig.cap="Schwann Cell"}
+knitr::include_graphics("http://medcell.med.yale.edu/systems_cell_biology/nervous_system_lab/images/myelinated_axon_em_labels.jpg")
+```
+
+::: {.infobox}
+
+A (TV-show-inspired) mnemonic for remembering which myelinating glia are found where:
+
+```{r, fig.cap="Law & Order", out.width="40%"}
+knitr::include_graphics("https://images.fineartamerica.com/images-medium-large-5/law-and-order-logo-brand-a.jpg")
+```
+
+**C**entral **O**ligodendrocytes  **Peripheral** **S**chwann cells
+
+```{r, fig.cap="Spock: https://www.syfy.com/sites/syfy/files/styles/blog-post-embedded--tablet/public/2022/05/stangenewworlds_29_spockenviro_jd_3422_v2_fnl_f.jpg", out.width="40%"}
+knitr::include_graphics("https://www.syfy.com/sites/syfy/files/styles/blog-post-embedded--tablet/public/2022/05/stangenewworlds_29_spockenviro_jd_3422_v2_fnl_f.jpg")
+```
+
+**S**chwann cells **P**eripheral **O**ligodendrocytes **C**entral
+
+:::
+
+### Microglia {-}
+
+- Clean-up damaged, dead tissue
+    - [Phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- Prune synapses in normal development and disease
+- Disruptions in microglia pruning -> impaired functional brain connectivity and social behavior, [[@zhan_deficient_2014]](http://doi.org/10.1038/nn.3641)
+
+```{r fig-microglia, fig.cap="Microglia (red): http://faculty.sites.uci.edu/kimgreen/bio/microglia-in-the-healthy-brain/"}
+knitr::include_graphics("http://faculty.sites.uci.edu/kimgreen/files/2012/03/Lesion-mouse-NeuN-Iba-cool-DG-300x300.jpg")
+```
+
+## [Neurons](https://en.wikipedia.org/wiki/Neuron) {-}
+
+```{r fig-neurons-hippocampus, fig.cap="Neurons in mouse hippocampus: http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg"}
+knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg")
+```
+
+### Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron) {-}
+
+- Specialized for electrical & chemical communication
+- Post-mitotic -- don't divide
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [[@bhardwaj_neocortical_2006]](http://doi.org/10.1073/pnas.0605177103)
+- Among longest-lived cells in body, may scale with organism lifespan [[@magrassi_lifespan_2013]](http://doi.org/10.1073/pnas.1217505110)
+- Can extend over long distances
+
+### Macrostructure of [neurons](https://en.wikipedia.org/wiki/Neuron) {-}
+
+- [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+- [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology))
+- [Axons](https://en.wikipedia.org/wiki/Axon)
+- [Terminal buttons (boutons)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+```{r fig-neuron-structure, fig.cap="Neuron structure: Wikipedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png")
+```
+
+### [Dendrites](https://en.wikipedia.org/wiki/Dendrite) {-}
+
+- Branch-like "extrusions" from cell body
+- Majority of input to neuron
+- Cluster close to cell body/soma
+- Usually receive info
+- Passive (do not regenerate electrical signal) vs. active (regenerate signal)
+
+```{r fig-dendrites, fig.cap="Dendrites: https://i.stack.imgur.com/kfriB.jpg"}
+knitr::include_graphics("https://i.stack.imgur.com/kfriB.jpg")
+```
+
+- Dendritic Spines (protrusions from dendrites)
+
+```{r fig-dendritic-spines, fig.cap="Dendritic spines: https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg")
+```
+
+### [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology)) {-}
+
+- Varied shapes
+- Nucleus
+	+ Chromosomes (genetic material)
+- Organelles
+	+ Mitochondria
+	+ Smooth and Rough Endoplasmic reticulum (ER)
+	
+```{r fig-soma, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png")
+```
+
+### [Axons](https://en.wikipedia.org/wiki/Axon) {-}
+
+- Another branch-like "extrusion" from soma
+- Extend farther than dendrites
+- Usually transmit info
+- Parts
+    + **Initial segment** (closest to soma, unmyelinated)
+    + **Nodes of Ranvier** (unmyelinated segments along axon)
+    + Terminals, axon terminals, terminal buttons, synaptic terminals, synaptic boutons
+
+```{r fig-axons, fig.cap="Axon: https://commons.wikimedia.org/wiki/File:Blausen_0657_MultipolarNeuron.png#/media/File:Blausen_0657_MultipolarNeuron.png"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1920px-Blausen_0657_MultipolarNeuron.png")
+```
+
+### [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal) {-}
+
+- [Synapse](https://en.wikipedia.org/wiki/Chemical_synapse#Structure) (~5-10K per neuron) 
+- Presynaptic membrane (sending cell) and postsynaptic (receiving cell) membrane
+- Synaptic cleft -- space between cells
+- [Synaptic vesicles](https://en.wikipedia.org/wiki/Synaptic_vesicle)
+    + Pouches of neurotransmitters
+- [Autoreceptors](https://en.wikipedia.org/wiki/Autoreceptor) (detect NTs); [transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter) (transport NTs across membrane)
+
+```{r fig-synapse, fig.cap="http://antranik.org/wp-content/uploads/2012/04/synapse.jpg"}
+knitr::include_graphics("http://antranik.org/wp-content/uploads/2012/04/synapse.jpg")
+```
+
+### Classifying neurons {-}
+
+- Functional role
+    + Input (sensory), output (motor/secretory), interneurons 
+- Anatomy of axons
+    + Unipolar
+    + Bipolar
+    + Multipolar
+
+```{r fig-neuron-types, fig.cap="Types of neurons: Wikipedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Neurons_uni_bi_multi_pseudouni.svg/2000px-Neurons_uni_bi_multi_pseudouni.svg.png")
+```
+
+- By specific anatomy
+    + Pyramidal cells
+    + Stellate cells 
+    + Purkinje cells 
+    + Granule cells
+    
+```{r fig-neuron-anatomy-types, fig.cap="Neuronal subtypes: http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/figures/Cytology-Neurons_types_small.png"}
+knitr::include_graphics("http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/figures/Cytology-Neurons_types_small.png")
+```
+
+## How do neurons communicate? {-}
+
+### Two communication 'modes' {-}
+
+- Electrical
+- Chemical
+  
+### Types of neural electrical potentials {-}
+
+- [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+    - Voltage across neuronal membrane when cell is 'at-rest' (not firing)
+- [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+    - Voltage across neuronal membrane when cell is active or firing
+
+## Resting potential {-}
+
+- Ions (charged particles)
+    - Potassium, $K^+$
+    - Sodium, $Na^+$
+    - Chloride, $Cl^-$
+    - Organic anions, $A^-$
+- Ion channels
+    - Molecular gateways or doors
+- Separation between charges
+    - Positive and negative charges spatially separated
+- A balance of forces
+    + *Force of diffusion*
+    + *Electrostatic force*
+- Forces cause ion flows across *membrane*
+    - Force of diffusion consistent (over time)
+    - Electrostatic force changes
+
+::: {.infobox}
+
+**A mnemonic metaphor**
+
+- Annie ($A^-$) was having a party.
+    + Used to date Nate ($Na^+$), but now sees Karl ($K^+$)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends ($A^-$) and Karl's ($K^+$) mostly inside
+- Nate and friends ($Na^+$) mostly outside
+- Claudia ($Cl^-$) tagging along
+
+:::
+
+### Ion channels {-}
+
+- Openings in neural membrane
+- Selective for specific ions
+- Vary in permeability (how readily ions flow)
+    - Some ions can flow more easily than others at different times
+- Types
+    + *Passive/leak (always open)*
+    + *Voltage-gated*
+    + *Ligand-gated (chemically-gated)*
+    + *Transporters/pumps*
+    
+```{r, fig.cap="http://www.zoology.ubc.ca/~gardner/F21-08.GIF", out.width="80%"}
+knitr::include_graphics("http://www.zoology.ubc.ca/~gardner/F21-08.GIF")
+```
+
+### Neuron at rest permeable to $K^+$ {-}
+
+- *Permeable*: Permits flow across/through
+- Passive $K^+$ channels open
+- [$K^+$] concentration inside >> outside
+- $K^+$ flows out
+    - Neuron constantly brings $K^+$ in
+
+### Force of diffusion {-}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png")
+```
+
+::: {.infobox}
+
+A practical illustration of the force of diffusion.
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg", out.width="50%"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg")
+```
+
+:::
+
+- Organic anions ($A^-$) too large to move outside of cell
+- $A^-$ and $K^+$ largely in balance == no net internal charge
+- $K^+$ outflow creates *charge separation*: $K^+$ (outside) <-> $A^-$ (inside)
+- Charge separation creates a voltage
+- Outside +/inside -
+- Voltage build-up stops outflow of $K^+$
+
+### The resting potential {-}
+
+```{r, fig.cap="The resting potential"}
+knitr::include_graphics("include/img/350px-Membrane_potential_ions_en.svg.png")
+```
+
+#### Balance of forces in the neuron at rest {-}
+
+- **Force of diffusion**
+    + $K^+$ moves from high concentration (inside) to low (outside)
+- **Electrostatic force**
+    + Voltage build-up stops $K^+$ outflow
+    + Specific voltage that stops flow == *equilibrium potential* for $K^+$+
+    + $K^+$ positive, so equilibrium potential negative (w/ respect to outside)
+    + Equilibrium potential close to neuron's resting potential
+
+
+::: {.infobox}
+
+In PSYCH 260, we do not emphasize the calculation of equilibrium potentials and the Nernst equation or the Goldman-Hodgkin-Katz equation.
+
+We provide information about this, and the equivalent circuit model, for your reference.
+
+:::
+
+#### Equilibrium potential and Nernst equation {-}
+
+[Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| $K^+$  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| $Na^+$ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| $Cl^-$ | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+```{r, fig.cap="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif", out.width="400px"}
+knitr::include_graphics("http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif")
+```
+
+#### Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm) {-}
+
+- Resting potential not just due to $K^+$
+- Other ions flow
+- Resting potential == net effects of *all* ion flows across membrane
+- Goldman-Hodgkin-Katz equation 
+
+```{r, fig.cap="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif", out.width="900px"}
+knitr::include_graphics("http://www.physiologyweb.com/calculators/figs/ghk_equation.gif")
+```
+
+#### $Na^+$ role {-}
+
+- $Na^+$ concentrated **outside** neuron
+- Membrane at rest not very permeable to $Na^+$
+- Some, but not much $Na^+$ flows *in*
+- $Na^+$ has equilibrium potential ~ + 60 mV
+- Equilibrium potential is positive (with respect to outside)
+- Would need positive interior to keep $Na^+$ from flowing in
+
+```{r, out.width="700px"}
+knitr::include_graphics("include/img/350px-Membrane_potential_ions_en.svg.png")
+```
+
+#### Electrical circuit model {-}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg", out.width="700px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg")
+```
+
+### Summary of forces in neuron at rest {-}
+
+| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
+|-----|------------------------|---------------------|---------------------------|--------------------|
+| $K^+$  | Inside >> Outside   | pushes $K^+$ **out**  | more - | pulls $K^+$ **in**       |
+| $Na^+$ | Outside >> Inside   | pushes $Na^+$ **in** | more + | pulls  $Na^+$ **in**       |
+
+### What happens if something changes? {-}
+
+- "Something" == ion channels open (or close)
+- Easier for Karl [$K^+$] to exit?
+- Easier for Nate [$Na^+$] to enter?
+- Some action!
+
+## Action potential {-}
+
+```{r, fig.cap="The action potential: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png")
+```
+
+### Phases of the action potential {-}
+
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated $Na^+$ channels open, $Na^+$ flows in |
+| Peak              | Voltage-gated $Na^+$ channels close and deactivate; voltage-gated $K^+$ channels open |
+| Falling phase     | $K^+$ flows out |
+| Refractory period | $Na^+$/$K^+$ pump restores [$Na^+$], [$K^+$]; voltage-gated $K^+$ channels close |
+
+### What's a [$Na^+$/$K^+$ pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)?  {-}
+
+- Enzyme -- $Na^+$/$K^+$ ATP-ase -- embedded in neuron membrane
+- Pumps $Na^+$ and $K^+$ *against* concentration gradients
+- $Na^+$ out; $K^+$ in
+- Uses adensosine triphosphate ([ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate)) form of chemical energy
+
+```{r, fig.cap="Sodium/Potassium pump: https://commons.wikimedia.org/wiki/File:Scheme_sodium-potassium_pump-en.svg"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/a5/Scheme_sodium-potassium_pump-en.svg")
+```
+
+### Refractory phases (periods) {-}
+
+#### Absolute {-}
+   
+- Voltage-gated $K^+$ channels closing
+    - Driving force on $K^+$ tiny or absent
+- $Na^+$/$K^+$ pump restoring concentration balance
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+#### *Relative* {-}
+
+- Can generate AP with larg(er) stimulus
+- Some voltage-gated $Na^+$ 'de-inactivate', can open if
+    - Larger input
+    - Membrane potential is more negative than resting potential
+
+### Generating action potentials {-}
+
+- *Axon hillock*
+    + Portion of soma adjacent to axon
+    + Integrates/sums input to soma
+- *Axon initial segment*
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated $Na^+$ and $K^+$ channels exposed
+    + If sum of input to soma > threshold, voltage-gated $Na^+$ channels open
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px>
+
+<a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>
+</div>
+
+### Nodes of Ranvier {-}
+
+- *Regenerate* action potential
+- $Na^+$ and $K^+$ channels exposed to extracellular environment
+- Between Nodes of Ranvier, ions can't move out, so move along
+- Nodes of Ranvier -> Action potentials faster & reliable for a given diameter
+
+## How action potentials propagate {-}
+
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+
+### Axon is like an electrical cable {-}
+
+```{r, fig.cap="http://pittmedneuro.com/synaptic.html"}
+knitr::include_graphics("http://pittmedneuro.com/img/Cable.jpg")
+```
+
+### Propagation in unmyelinated axon {-}
+
++ Each segment "excites" the next
+    
+```{r, fig.cap="World record for the wave: https://www.youtube.com/watch?v=H0K2dvB-7WY"}
+knitr::include_url("https://www.youtube.com/watch?v=H0K2dvB-7WY")
+```
+
+### Propagation in myelinated axon {-}
+
++ AP "jumps" between *Nodes of Ranvier* via *saltatory conduction*
++ Nodes of Ranvier == unmyelinated sections of axon
+    + voltage-gated $Na^+$, $K^+$ channels exposed
+    + current flows through/down myelinated segments
+    
+#### Why does AP flow in one direction, away from soma? {-}
+
++ Soma does not have (many) voltage-gated $Na^+$ channels.
++ Soma is not myelinated.
++ Refractory periods mean polarization only in one direction.
+
+#### Why does AP flow in one direction, away from soma? {-}
+
++ **Soma does not have (many) voltage-gated $Na^+$ channels.**
++ Soma is not myelinated.
+  + **Refractory periods mean polarization only in one direction.**
+
+### Conduction velocities {-}
+
+<iframe width="600" height="450" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity" frameborder="0" allowfullscreen></iframe>
+
+- Axons carry information at different rates
+    - More myelin -> faster
+    - Larger diameter axon -> faster
+- PNS seems to prioritize
+    - Somatosensory information & muscle control
+
+### Information processing {-}
+
+- AP amplitudes don't vary (much)
+    + All or none
+    + $Na^+$/$K^+$ pumps working all the time
+    + $[K^+]$ & $[Na^+]$ don't vary much, so
+    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
+- AP frequency and timing vary
+    + Rate vs. timing codes
+    + Neurons use both
+
+::: {.infobox}
+
+```{r fig.cap="Hodgkin-Huxley: https://www.youtube.com/watch?v=k48jXzFGMc8"}
+knitr::include_url("https://www.youtube.com/watch?v=k48jXzFGMc8")
+```
+
+**The Hodgkin-Huxley (HH) model**
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Hodgkin-Huxley.svg#/media/File:Hodgkin-Huxley.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/1200px-Hodgkin-Huxley.svg.png" height="500px" alt="Hodgkin-Huxley.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Krishnavedala" title="User:Krishnavedala">Krishnavedala</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21725464">Link</a></p>
+
+**HH model: Membrane as simple circuit**
+
+- Membrane as capacitor (C): stores charge
+- Ion channels: resistors that can vary in conductance ($g=\frac{1}{R}$)
+- Ion flows create current (I)
+- Ohms Law: $V=\frac{I}{g}$ or $Vg=I$
+
+:::

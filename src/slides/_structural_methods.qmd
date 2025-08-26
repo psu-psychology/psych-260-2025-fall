@@ -34,7 +34,7 @@
 
 :::: {.columns}
 ::: {.column width=70%}
-- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
 - [Complete nerve cells, but only 1-5\% of total]{.blue-text}
 <!-- - Soak tissue in Potassium Dichromate ($K_2Cr_2O_7$) then apply Silver Nitrate ($AgNO_3$) -->
 :::
@@ -48,18 +48,18 @@
 :::: {.columns}
 ::: {.column width=33%}
 - Yes!
-- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}
 :::
 ::: {.column width=33%}
 ![](http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg)
 :::
 ::: {.column width=33%}
 - No!
-- [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal)
+- [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal){preview-link="true"}
 :::
 ::::
 
-## [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal)
+## [Santiago Ramon Y Cajal](https://en.wikipedia.org/wiki/Santiago_Ramón_y_Cajal){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -76,7 +76,7 @@
 
 :::: {.columns}
 ::: {.column width=60%}
-- [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl)
+- [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl){preview-link="true"}
 - [Only cell bodies]{.blue-text}
 - Cellular distribution, concentration, microanatomy
 - Density of staining ~ cell density/number
@@ -161,7 +161,7 @@
 
 :::: {.columns}
 ::: {.column width=50%}
-![http://img.tfd.com/mk/T/X2604-T-22.png](../include/img/tomography.png){
+![http://img.tfd.com/mk/T/X2604-T-22.png](../include/img/tomography.png)
 :::
 ::: {.column width=50%}
 ![How tomography works: https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg](https://cdn.hswstatic.com/gif/cat-scan-pineapple.jpg)
@@ -206,7 +206,7 @@
 ::: {.column width=50%}
 - Types
     - Structural
-    - Functional
+    - Functional (*f*MRI)
 - Reveals tissue density/type differences
 - [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
 :::
@@ -253,5 +253,24 @@
 :::
 ::: {.column width=50%}
 ![@Williamson2012-uj](http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg)
+:::
+::::
+
+## Summing up
+
+:::: {.columns}
+::: {.column width=50%}
+- Cellular methods
+  - Golgi, Nissl stains
+  - Tract-tracing
+  - CLARITY
+:::
+::: {.column width=50%}
+- Whole-brain methods
+  - CT/CAT
+  - MRI
+    - DTI
+    - Spectroscopy
+    - VBM
 :::
 ::::
