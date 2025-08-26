@@ -4,7 +4,9 @@ subtitle: 2025-08-26
 fig-align: "center"
 ---
 
-## Prelude {-}
+# Prelude {-}
+
+---
 
 {{< video https://www.youtube.com/watch?v=nvXuq9jRWKE height="70%" width="100%" >}}
 

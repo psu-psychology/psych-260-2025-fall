@@ -4,7 +4,7 @@ subtitle: 2025-09-94
 fig-align: "center"
 ---
 
-## Prelude
+# Prelude
 
 ---
 
@@ -92,7 +92,7 @@ Your browser does not support the audio tag. </audio>
 - *Superior/Inferior* -> upward/downward
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png){fig-align="right"}
 :::
 ::::
 
@@ -104,7 +104,7 @@ Your browser does not support the audio tag. </audio>
 - *Rostral/Caudal* -> head-ward/tail-ward
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png){fig-align="right"}
 :::
 ::::
 
@@ -112,6 +112,7 @@ Your browser does not support the audio tag. </audio>
 
 :::: {.columns}
 ::: {.column width=50%}
+- Brain is 3D but view in 2D
 - *Horizontal/Axial*
 - *Coronal*/Transverse/Frontal
 - *Sagittal* (from the side)
@@ -123,12 +124,12 @@ Your browser does not support the audio tag. </audio>
 
 ## Supporting structures
 
-- Meninges
-- Ventricles
+- [Meninges](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-meninges){preview-link="true"}
+- Cerebral [Ventricles](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-ventricles){preview-link="true"}
 - Blood supply
   - Blood/brain barrier
 
-## [Meninges](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-meninges)
+## [Meninges](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-meninges){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -144,11 +145,14 @@ Your browser does not support the audio tag. </audio>
 
 ---
 
-::: {.callout-note}
-What disease is associated with inflammation of (e.g., '-itis') of the [meninges](https://en.wikipedia.org/wiki/Meningitis){preview-link="true"}?
+::: {.callout-important}
+### Clinical relevance
+Q: What disease is associated with inflammation of (e.g., '-itis') of the [meninges](https://en.wikipedia.org/wiki/Meningitis){preview-link="true"}?
+
+![https://www.webmd.com/children/understanding-meningitis-basics](https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_and_medical_reference/brain_and_nervous_system/meningitis.jpg)
 :::
 
-## Cerebral [Ventricles](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-ventricles)
+## Cerebral [Ventricles](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-ventricles){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -159,15 +163,18 @@ What disease is associated with inflammation of (e.g., '-itis') of the [meninges
 - Ventricles are filled with *Cerebrospinal fluid (CSF)*
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png){fig-align="right" width="100%"}
 :::
 ::::
 
 ---
 
-::: {.callout-note}
+::: {.callout-tip}
+### Clinical relevance
 
 [Hydrocephalus](https://en.wikipedia.org/wiki/Hydrocephalus) can occur there is a blockage in the flow of CSF through the cerebral ventricles.
+
+![https://en.wikipedia.org/wiki/Hydrocephalus](https://upload.wikimedia.org/wikipedia/commons/a/ab/Hydrocephalus_%28cropped%29.jpg)
 
 :::
 
@@ -181,7 +188,7 @@ What disease is associated with inflammation of (e.g., '-itis') of the [meninges
   - anterior, middle, & posterior cerebral
 :::
 ::: {.column width=50%}
-![](https://www.researchgate.net/profile/Yohannes_Mamo/publication/280830140/figure/fig1/AS:649635857174600@1531896666424/1-Organization-of-the-human-cerebral-circulation-The-brain-receives-its-blood-supply.png)
+![https://en.wikipedia.org/wiki/Cerebral_arteries](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Circle_of_Willis_en.svg/500px-Circle_of_Willis_en.svg.png){width="60%"}
 :::
 ::::
 
@@ -199,9 +206,8 @@ The Circle of Willis helps equalize blood pressures among the ascending arteries
 :::: {.columns}
 ::: {.column width=50%}
 - Isolates CNS from blood stream
-- Active transport of molecules typically required
-    - Astrocytes contribute to
-- (endothelial) cells forming blood vessel walls are tightly packed
+- Tighly packed endothelial cells form blood vessel walls
+- Astrocytes (a glial cell) participate in transporting substances to the brain
 :::
 ::: {.column width=50%}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig2_HTML.jpg?as=webp)
@@ -222,14 +228,19 @@ The Circle of Willis helps equalize blood pressures among the ascending arteries
 :::
 ::::
 
-## Organization of the Nervous System
+## The Nervous System
 
+:::: {.columns}
+::: {.column width=50%}
 - Central Nervous System (CNS)
-    - Brain
-    - Spinal Cord
     - Everything encased in bone
 - Peripheral Nervous System (PNS)
-    - Everything else!
+    - Everything else!ent
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Peripheral_nervous_system](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nervous_system_diagram-en.svg/1920px-Nervous_system_diagram-en.svg.png)
+:::
+::::
 
 ## Interactive brain atlas
 
@@ -265,7 +276,7 @@ The Circle of Willis helps equalize blood pressures among the ascending arteries
 
 Some of these terms arise from the developmental stages of the human embryo.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg){fig-align="center"}
 
 :::
 
@@ -275,7 +286,7 @@ Some of these terms arise from the developmental stages of the human embryo.
 
 :::: {.columns}
 ::: {.column width=50%}
-- Structures adjacent to 4th ventricle
+- Structures adjacent to 4th ventricle ^[Ventricles are useful landmarks for CNS anatomy.]
 :::
 ::: {.column width=50%}
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png)
@@ -303,9 +314,12 @@ Some of these terms arise from the developmental stages of the human embryo.
 - “Little brain”
 - Dorsal to pons
 - Movement coordination, classical conditioning (associative learning), + ???
+- [3D atlas](https://www.brainfacts.org/3d-brain#intro=false&focus=Brain-cerebellum){preview-link="true"}
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif)
+![https://en.wikipedia.org/wiki/Cerebellum](https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif){fig-align="center"} \
+
+![https://en.wikipedia.org/wiki/Cerebellum](https://upload.wikimedia.org/wikipedia/commons/1/1d/Sobo_1909_653.png)
 :::
 ::::
 
@@ -344,6 +358,27 @@ Some of these terms arise from the developmental stages of the human embryo.
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.fragment}
+- Tectum
+  - Tectum -> "roof"
+  - *Superior colliculus* (reflexive orienting of eyes, head, ears)
+  - *Inferior colliculus* (sound/auditory processing)
+:::
+:::
+::: {.column width=50%}
+::: {.fragment}
+- Tegmentum
+  - Tegmentum -> "floor"
+  - Species-typical movement sequences (e.g., cat: hissing, pouncing)
+  - Cranial nerves III, IV
+:::
+:::
+::::
+
+## Midbrain
+
+:::: {.columns}
+::: {.column width=50%}
 - Tectum
   - Tectum -> "roof"
   - *Superior colliculus* (reflexive orienting of eyes, head, ears)
@@ -351,9 +386,6 @@ Some of these terms arise from the developmental stages of the human embryo.
 :::
 ::: {.column width=50%}
 - Tegmentum
-  - Tegmentum -> "floor"
-  - Species-typical movement sequences (e.g., cat: hissing, pouncing)
-  - Cranial nerves III, IV
   - *Nuclei* that release modulatory neurotransmitters ("neuromodulators")
     + *Dopamine (DA)*
     + *Norepinephrine (NE)*
@@ -369,13 +401,13 @@ Some of these terms arise from the developmental stages of the human embryo.
 - Does *not* inflate the muscles (sorry Descartes)
 :::
 ::: {.column width=50%}
-![](https://www.researchgate.net/profile/Russel-Reiter/publication/50228025/figure/fig1/AS:195936652402693@1423726346200/Human-pineal-gland-in-related-to-its-surrounding-structures-Horizontal-brain-section.png)
+![](../include/img/Human-pineal-gland-in-related-to-its-surrounding-structures-Horizontal-brain-section.png)
 :::
 ::::
 
 ## Forebrain
 
-![@Samanthi2019-jt](https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2019/05/Difference-Between-Forebrain-Midbrain-and-Hindbrain_Figure-1-e1557922693725.png?w=724&ssl=1)
+![https://www.simplypsychology.org/forebrain-midbrain-hindbrain.html](https://www.simplypsychology.org/wp-content/uploads/brain-structure.jpg)
 
 ## Diencephalon ("between" brain)
 
@@ -399,7 +431,7 @@ Some of these terms arise from the developmental stages of the human embryo.
     - *Medial geniculate nucleus (MGN)*, audition
 :::
 ::: {.column width=50%}
-![](http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231)
+![](http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231){fig-align="right"}
 :::
 ::::
 
@@ -413,7 +445,7 @@ Some of these terms arise from the developmental stages of the human embryo.
     - Parasympathetic branch
 :::
 ::: {.column width=50%}
-![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg){fig-align="right"}
 :::
 ::::
 
@@ -428,7 +460,7 @@ Some of these terms arise from the developmental stages of the human embryo.
         - *Vasopressin*
 :::
 ::: {.column width=50%}
-![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg){fig-align="right"}
 :::
 ::::
 
@@ -439,7 +471,7 @@ Some of these terms arise from the developmental stages of the human embryo.
 - Regulates circadian rhythms (via Suprachiasmatic Nucleus)
 :::
 ::: {.column width=50%}
-![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg)
+![https://en.wikipedia.org/wiki/Hypothalamus](https://upload.wikimedia.org/wikipedia/commons/b/b6/Hypothalamus.jpg){fig-align="center"}
 :::
 ::::
 
@@ -500,7 +532,7 @@ Some of these terms arise from the developmental stages of the human embryo.
 :::
 ::: {.column width=50%}
 
-![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w)
+![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w){fig-align="right"}
 :::
 ::::
 
@@ -514,7 +546,7 @@ Some of these terms arise from the developmental stages of the human embryo.
 - Implicated in Alzheimer's Disease
 :::
 ::: {.column width=50%}
-![](https://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/5750f2a32fe1315b8d98018d/1526033957297/hippocampus.jpg?format=1500w)
+![](https://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/5750f2a32fe1315b8d98018d/1526033957297/hippocampus.jpg?format=1500w){fig-align="right"}
 :::
 ::::
 
@@ -526,7 +558,7 @@ Some of these terms arise from the developmental stages of the human embryo.
 - [Mammillary bodies](https://en.wikipedia.org/wiki/Mammillary_body){preview-link="true"}
 :::
 ::: {.column width=50%}
-![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w)
+![https://en.wikipedia.org/wiki/Hippocampus](https://upload.wikimedia.org/wikipedia/commons/a/ae/Sobo_1909_639.png){width="60%"}
 :::
 ::::
 
