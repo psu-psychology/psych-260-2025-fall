@@ -1,6 +1,6 @@
 # Methods
 
-## Evaluating methods {-}
+## Evaluating methods
 
 - What question does method X answer?
 - What are we measuring?
@@ -20,7 +20,7 @@
 
 ![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
 
-## Types of methods {-}
+## Types of methods
 
 - Structural
     + What are the parts?
@@ -28,9 +28,28 @@
 - Functional (next time)
     + What do the parts do?
     
-## Cellular methods  {-}
+## Structural methods
 
-## Golgi stain {-}
+:::: {.columns}
+::: {.column width=50%}
+- Cellular methods
+  - Golgi, Nissl stains
+  - Tract-tracing
+  - Whole brain cellular, e.g. CLARITY
+:::
+::: {.column width=50%}
+- Whole-brain methods
+  - Computed Tomography/Computed Axial Tomography
+  - MRI-related
+    - Diffusion Tensor Imaging (DTI)
+    - MR Spectroscopy
+    - Voxel-based Morphometry (VBM)
+:::
+::::
+    
+## Cellular methods
+
+## Golgi stain
 
 :::: {.columns}
 ::: {.column width=70%}
@@ -72,7 +91,7 @@
 :::
 ::::
 
-## Nissl stain {-}
+## Nissl stain
 
 :::: {.columns}
 ::: {.column width=60%}
@@ -87,7 +106,7 @@
 ::::
 
 
-## [Histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer) {-}
+## [Histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -137,7 +156,7 @@
 
 @Video2013-bj
 
-## Evaluating cellular techniques {-}
+## Evaluating cellular techniques
 
 - Pros:
   - High spatial resolution (resolve small details)
@@ -149,7 +168,7 @@
 
 - Why aren't cellular techniques especially useful for studing living humans?
 
-## Computed axial tomography (CAT) {-}
+## Computed axial tomography (CAT)
 
 :::: {.columns}
 ::: {.column width=40%}
@@ -172,7 +191,7 @@
 :::
 ::::
 
-## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) {-}
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
 {{< video https://www.youtube.com/embed/1CGzk-nV06g height="70%" width="100%" >}}
 
@@ -180,7 +199,7 @@
 @National-Institute-on-Biomedical-Imaging-and-BioengineeringUnknown-vz
 </p>
 
-## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) {-}
+## [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -259,22 +278,22 @@
 :::
 ::::
 
-## Summing up
+## Recap: Structural methods
 
 :::: {.columns}
 ::: {.column width=50%}
 - Cellular methods
   - Golgi, Nissl stains
   - Tract-tracing
-  - CLARITY
+  - Whole brain cellular, e.g. CLARITY
 :::
 ::: {.column width=50%}
 - Whole-brain methods
-  - CT/CAT
-  - MRI
-    - DTI
-    - Spectroscopy
-    - VBM
+  - Computed Tomography/Computed Axial Tomography
+  - MRI-related
+    - Diffusion Tensor Imaging (DTI)
+    - MR Spectroscopy
+    - Voxel-based Morphometry (VBM)
 :::
 ::::
 

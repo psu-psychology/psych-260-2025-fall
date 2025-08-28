@@ -13,7 +13,7 @@
 ::: {.incremental}
 - What can *observation* tell us about brain and behavior?
 - Vital role of *tools/methods/techniques* in discovery
-- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676
+- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676; [@Wikipedia-contributors2024-qw]
 :::
 
 ## Pre/Early history
@@ -26,7 +26,7 @@
 - Deliberate creation of openings in the skull
 - Earliest evidence +7,000 yrs old
 - Q: Why did they do this?
-- A: Treat head injury, epilepsy, mental disorders
+- A: Treat head injury, epilepsy, mental disorders, release evil spirits
 :::
 :::
 ::: {.column width=50%}

@@ -61,9 +61,14 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-> "*If understanding everything we need to know about the brain is a mile, how far have we walked?*"
+>"*If understanding everything we need to know about the brain is a mile, how far have we walked?*"
+
+::: {.fragment}
+>"*About three inches.*"
+:::
 
 @National_Geographic2014-gv
+
 :::
 ::: {.column width=50%}
 ![Jeff Lichtman](https://dmg5c1valy4me.cloudfront.net/wp-content/uploads/2023/09/26164654/Lichtman039_hex.jpg)
