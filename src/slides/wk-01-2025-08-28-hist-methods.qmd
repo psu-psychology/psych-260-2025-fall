@@ -88,7 +88,7 @@ fig-align: "center"
   - history of *methods* for observing & measuring
   - history of *ideas* about what observations mean
 - Neurological bases of human behavior involve
-  - Mutliple spatial scales (small to large)
+  - Multiple spatial scales (small to large)
   - Multiple temporal scales (small to large)
 
 # Resources

@@ -127,6 +127,10 @@
 :::
 ::::
 
+## You can help map the connectome
+
+![<https://eyewire.org>](../include/img/eyewire.png)
+
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
 {{< video https://www.youtube.com/embed/c-NMfp13Uug width="100%" height="70%" >}}
@@ -223,11 +227,10 @@
 - Measures patterns of movement/diffusion of $H_{2}O$
 - Reveals integrity/density of axon fibers
 - Measure of connectivity
+- Colors used to visualize *orientation* of fibers
 :::
 ::: {.column width=50%}
 ![](https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg)
-
-- Colors used to visualize *orientation* of fibers
 :::
 ::::
 
@@ -248,7 +251,7 @@
 ::: {.column width=50%}
 - [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
     - like pixels in an image, but volumes of tissue
-- Morphometry, measure ("metry") form/morphology
+- *Morphometry*: measure ("metry") form/morphology
 - How does brain size or thickness vary by age, disease status, etc.?
 :::
 ::: {.column width=50%}
@@ -274,3 +277,5 @@
     - VBM
 :::
 ::::
+
+

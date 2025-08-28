@@ -10,25 +10,31 @@
 
 ## Why study history? {-}
 
+::: {.incremental}
 - What can *observation* tell us about brain and behavior?
 - Vital role of *tools/methods/techniques* in discovery
 - *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676
+:::
 
-## Pre/Early history  {-}
+## Pre/Early history
 
-## [*Trephining* (trepanning)](https://en.wikipedia.org/wiki/Trepanning) {-}
+## [*Trephining* (trepanning)](https://en.wikipedia.org/wiki/Trepanning){preview-link="true"} {-}
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - Deliberate creation of openings in the skull
 - Earliest evidence +7,000 yrs old
+- Q: Why did they do this?
+- A: Treat head injury, epilepsy, mental disorders
+:::
 :::
 ::: {.column width=50%}
 ![@The_MIT_Press_Reader_undated-bl](https://thereader.mitpress.mit.edu/wp-content/uploads/2019/08/1.1.jpg)
 :::
 ::::
 
-## Egyptians (1,500-3,000 BCE)  {-}
+## Egyptians (1,500-3,000 BCE)
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -39,24 +45,25 @@
 :::
 ::::
 
-## [Beer-making (~2-5,000 BCE)](https://en.wikipedia.org/wiki/History_of_beer)  {-}
+## [Beer-making (~2-5,000 BCE)](https://en.wikipedia.org/wiki/History_of_beer){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=50%}
-- What does beer-making have to do with the neurological bases of human behavior?
+- Speculate: What might beer-making have to do with the neurological bases of human behavior?
 :::
 ::: {.column width=50%}
 ![Alulu beer receipt – This records a purchase of 'best' beer from a brewer, c. 2050 BC from the Sumerian city of Umma in ancient Iraq (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/f/f7/Alulu_Beer_Receipt.jpg)
 :::
 ::::
 
-## Greek and Roman era  {-}
+## Greek and Roman era
 
 :::: {.columns}
 ::: {.column width=50%}
-- [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates)
-    - *Brain* seat of intelligence [@Chudler_undated-lu]
-    - Epilepsy a disease of the brain [@Chudler_undated-lu]
+- [*Hippocrates*](https://en.wikipedia.org/wiki/Hippocrates){preview-link="true"}
+  - "Father of Medicine"; [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath){preview-link="true"}
+  - *Brain* seat of intelligence [@Chudler_undated-lu]
+  - Epilepsy a disease of the brain [@Chudler_undated-lu]
 :::
 ::: {.column width=50%}
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hippocrates_rubens.jpg/500px-Hippocrates_rubens.jpg){width="70%"}
@@ -76,13 +83,13 @@
 :::
 ::::
 
-## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen)  {-}
+## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=70%}
 - Physician in Roman Empire, of Greek descent
 - Anatomical reports based on dissection of monkeys, pigs
-- Influenced by Hippocrates notion of human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm
+- Influenced by Hippocrates' notion that human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm
 :::
 ::: {.column width=30%}
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Galenus.jpg/220px-Galenus.jpg)
@@ -92,12 +99,14 @@
 ## Your turn
 
 ::: {.callout-important}
+Do modern humans think that individual differences in thought, mood, and behavior relate to biological factors? 
 
-Do modern humans think that individual differences in thought, mood, and behavior relate to biological factors?
+How so?
 
+So, were Galen's ideas prescient?
 :::
 
-## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen)
+## [*Galen* (~177 CE)](https://en.wikipedia.org/wiki/Galen){preview-link="true"}
 
 :::: {.columns}
 ::: {.column width=70%}
@@ -110,7 +119,7 @@ Do modern humans think that individual differences in thought, mood, and behavio
 :::
 ::::
 
-## What did early humans know about the mind and brain?  {-}
+## Summing up: Early knowledge
 
 - Mental functions controlled by organs in the head, i.e., the brain
 - Mental functions can be influenced by substances we consume
@@ -125,18 +134,13 @@ Do modern humans think that individual differences in thought, mood, and behavio
 - Lack of ability to use knowledge even if it were acquired
 :::
 
-## The "dark" ages (in Europe, not elsewhere) {-}
-
-- [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen){preview-link="true"} *Optics*, ~1000 CE
-- [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/){preview-link="true"} ~1400 CE
-
 ## *Leonardo da Vinci* (~1508) {-}
 
 :::: {.columns}
 ::: {.column width=50%}
 - Wax casts of ventricles
-    - fluid filled inner regions of brain
-- Ventricles not spherical!
+- Ventricles *not* spherical!
+- Better "measure" $\rightarrow$ more precise evidence
 :::
 ::: {.column width=50%}
 ![@UnknownUnknown-fb](https://www.wildculture.com/sites/default/files/inline-images/Leonardo-4-complete-brain-news-2019.jpg){width="60%"}
@@ -187,7 +191,8 @@ Do modern humans think that individual differences in thought, mood, and behavio
 :::: {.columns}
 ::: {.column width=50%}
 - Soul controls body via *pineal gland*
-    - Fluid from ventricles cause muscles to “inflate”
+  - Fluid from ventricles cause muscles to “inflate”
+- One of the earliest "[mechanistic](https://en.wikipedia.org/wiki/Mechanism_(philosophy)#Mechanical_philosophy)" accounts of behavior
 :::
 ::: {.column width=50%}
 ![Figure of the pineal gland by Descartes: http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg](http://images.fineartamerica.com/images-medium-large-5/descartes-pineal-gland-granger.jpg)
@@ -202,18 +207,30 @@ Do modern humans think that individual differences in thought, mood, and behavio
 - Why or why not?
 - How would you _scientifically_ test Descartes' idea about the role of the pineal gland?
 
-## Other milestones  {-}
+## Other critical milestones
 
-- Invention of [light microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php) (1609 CE), [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope) (1926)
-- Cell stains -- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi), [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal) -- late 1800s
-- Recording of electrical activity of nerves, [Luigi Galvani](https://en.wikipedia.org/wiki/Luigi_Galvani)
-- [Magnetic resonance imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+- Invention of [light microscope](http://www.history-of-the-microscope.org/invention-of-glass-lenses-and-the-history-of-the-light-microscope.php){preview-link="true"} (1609 CE), [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope){preview-link="true"} (1926)
+- Cell stains -- [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi){preview-link="true"}, [Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal){preview-link="true"} -- late 1800s
+- Recording of electrical activity of nerves, [Luigi Galvani](https://en.wikipedia.org/wiki/Luigi_Galvani){preview-link="true"}
 
-## Some lessons from early history {-}
+## Lessons from early history {-}
 
-- Neuroscience shaped by new methods, tools
+- Understanding shaped by new methods, tools
 - If you can't see it/measure it, you can't say much about it
+
+## Lessons from early history {-}
+
 - Neuroscience shaped by [great debates](http://www.columbia.edu/cu/psychology/courses/1010/mangels/neugiro/history/history.html)
-    - Is the mind == brain?
-    - Are functions local or distributed?
-    - Do neurons connect like pipes or pass info like relay runners?
+  - Is the mind == brain?
+  - Are human minds and animal minds similar or categorically different?
+  - Are functions local or distributed?
+  - Do neurons connect like pipes or pass info like relay runners?
+  - What flows from the head to the body?
+
+---
+
+{{< video https://www.youtube.com/watch?v=R4GLAKEjU4w&list=RDR4GLAKEjU4w&start_radio=1 height="70%" width="100%" >}}
+
+<p style="text-align:center;">
+@SamCookeVEVO2015-my
+</p>

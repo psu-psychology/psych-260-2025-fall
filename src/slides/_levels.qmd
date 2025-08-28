@@ -23,10 +23,10 @@
 
 ## Why does this matter?
 
-- Different phenomena -> levels of resolution
-- Different resolution -> different methods
-- How does the micro affect macro or vice versa?
-- What's cause and what's effect?
+- Different phenomena -> levels of analysis
+- Different levels analysis -> different methods
+- How does the micro affect macro and vice versa?
+  - Does the [butterfly](https://en.wikipedia.org/wiki/Butterfly_effect){preview-link="true"} *really* cause a hurricane [@Wikipedia-contributors2025-sm]?
 
 ---
 
@@ -40,37 +40,65 @@ Example: How does *your* personal spending affect the global economy?
 
 ## Spatial Resolution in Detail {-}
 
+---
+
+:::: {.columns}
+::: {.column width=50%}
 - Within an individual
     + molecular
         * genetic
         * receptor
     + chemical
-        * neurotransmitter/hormonal
+        * neurotransmitters & hormones
     + cellular
         * neuronal firing
-        
+:::
+::: {.column width=50%}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+:::
+::::
+
 ---
 
+:::: {.columns}
+::: {.column width=50%}
 - Internal to individuals
     + network
         * lateral inhibition
     + area
-        * V1 varies by ~2x
+        * Visual cortex (V1) varies by ~2x between people
     + region
         * Wiring/connectivity differences
     + system
-    
+:::
+::: {.column width=50%}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+:::
+::::
+
 ---
 
+:::: {.columns}
+::: {.column width=50%}
 - External to individuals
     + Social
         * Friends, family, teachers, others
     + Non-social
         * Neighborhood, school, state/region, country
         * Physical environment
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-ad](https://www.simplypsychology.org/wp-content/uploads/Bronfenbrenner-Ecological-Systems-Theory.jpeg)
+:::
+::::
+
 
 ## Temporal Resolution in Detail {-}
 
+---
+
+:::: {.columns}
+::: {.column width=50%}
 - Within one lifetime
     + Microseconds
         * detection position from acoustic stimulation
@@ -79,9 +107,16 @@ Example: How does *your* personal spending affect the global economy?
     + Seconds
         * changes in EEG power
         * short-term memory
+:::
+::: {.column width=50%}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+:::
+::::
 
 ---
 
+:::: {.columns}
+::: {.column width=50%}
 - Within one lifetime
     + Minutes
         * synaptic plasticity
@@ -89,9 +124,16 @@ Example: How does *your* personal spending affect the global economy?
         * memory consolidation
         * Hormone (melatonin, cortisol) levels
     + Days
+:::
+::: {.column width=50%}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+:::
+::::
 
 ---
 
+:::: {.columns}
+::: {.column width=50%}
 - Within one lifetime
     + Weeks
     + Months
@@ -99,16 +141,23 @@ Example: How does *your* personal spending affect the global economy?
         * education & training
         * disease processes
         * cultural change
+:::
+::: {.column width=50%}
+![@Sejnowski2014-aa](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg)
+:::
+::::
         
 ---
 
+:::: {.columns}
+::: {.column width=50%}
 - Across lifetimes
     + Centuries
         * cultural changes
     + Millenia
         * Natural & sexual selection
-
-## Ecological systems theory [@Wikipedia-contributors2025-ad]
-
-![Uri Bronfenbrenner](https://www.simplypsychology.org/wp-content/uploads/Bronfenbrenner-Ecological-Systems-Theory.jpeg)
-
+:::
+::: {.column width=50%}
+![@tree-of-life](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png)
+:::
+::::
