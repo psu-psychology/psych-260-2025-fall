@@ -160,6 +160,7 @@
 
 - Pros:
   - High spatial resolution (resolve small details)
+  - e.g., what are the parts, where are they located, how do they connect
 - Cons:
   - Poor temporal resolution
   - Invasive
@@ -167,6 +168,10 @@
 ## Your turn
 
 - Why aren't cellular techniques especially useful for studing living humans?
+
+## On to whole brain measures
+
+- Larger spatial *scale* but poorer spatial *resolution*
 
 ## Computed axial tomography (CAT)
 
@@ -296,5 +301,3 @@
     - Voxel-based Morphometry (VBM)
 :::
 ::::
-
-
