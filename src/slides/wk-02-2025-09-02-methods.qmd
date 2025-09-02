@@ -12,9 +12,15 @@ fig-align: "center"
 
 ## Today's topics {-}
 
+- Announcement
 - Warm up
 - Wrap up on structural methods
 - Functional methods
+
+## Announcement
+
+- Quiz 1 next [Thursday, September 11](https://psu-psychology.github.io/psych-260-2025-fall/schedule.html#thu-sep-11-2025).
+- 10 multiple choice questions; + 1-2 extra credit/bonus questions
 
 # Warm up
 

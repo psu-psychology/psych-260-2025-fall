@@ -285,7 +285,7 @@
     "href": "slides/wk-02-2025-09-02-methods.html#todays-topics",
     "title": "More on methods",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm up\nWrap up on structural methods\nFunctional methods",
+    "text": "Today’s topics\n\nAnnouncement\nWarm up\nWrap up on structural methods\nFunctional methods",
     "crumbs": [
       "Slides",
       "Wk 02 • Tue Sep 02"
@@ -2448,6 +2448,17 @@
     "title": "More on methods",
     "section": "Why should we care?",
     "text": "Why should we care?\n\n\n“We just have to see the wires.” (J. Lichtman)\nWhat are the parts?\nHow do they connect?\nHow do they interact?\nDifferent methods reveal different aspects of structure & function",
+    "crumbs": [
+      "Slides",
+      "Wk 02 • Tue Sep 02"
+    ]
+  },
+  {
+    "objectID": "slides/wk-02-2025-09-02-methods.html#announcement",
+    "href": "slides/wk-02-2025-09-02-methods.html#announcement",
+    "title": "More on methods",
+    "section": "Announcement",
+    "text": "Announcement\n\nQuiz 1 next Thursday, September 11.\n10 multiple choice questions; + 1-2 extra credit/bonus questions",
     "crumbs": [
       "Slides",
       "Wk 02 • Tue Sep 02"
