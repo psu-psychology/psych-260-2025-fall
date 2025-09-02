@@ -18,6 +18,16 @@ fig-align: "center"
 
 # Warm up
 
+## Why should we care?
+
+::: {.incremental}
+- "We just have to see the wires." (J. Lichtman)
+- What are the parts?
+- How do they connect?
+- How do they interact?
+- Different methods reveal different aspects of structure & function
+:::
+
 ## What method does the image reflect?
 
 :::: {.columns}
