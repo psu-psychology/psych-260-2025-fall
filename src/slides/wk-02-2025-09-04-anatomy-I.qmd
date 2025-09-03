@@ -22,8 +22,14 @@ fig-align: "center"
 
 ## Today's topics
 
+- Announcement
 - Warm up
+- Wrap up on functional methods
 - Anatomy of the brain
+
+## Announcement
+
+- Quiz 1 next [Thursday, September 11](https://psu-psychology.github.io/psych-260-2025-fall/schedule.html#thu-sep-11-2025)
 
 # Warm up
 
@@ -72,6 +78,12 @@ fig-align: "center"
 - A. **fMRI measures changes in blood oxygen that stem from activity several seconds earlier**
 - B. ~~fMRI measures electrical activity of individual neurons~~
 - C. ~~fMRI measures things inside the head~~
+
+# Wrap-up on functional methods
+
+## Functional methods
+
+- [Link to stopping point last time](https://psu-psychology.github.io/psych-260-2025-fall/slides/wk-02-2025-09-02-methods.html#/simulating-the-brain)
 
 # Anatomy of the brain
 
