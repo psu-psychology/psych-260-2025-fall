@@ -1,0 +1,560 @@
+---
+title: "Neuroanatomy II"
+subtitle: 2025-09-09
+fig-align: "center"
+---
+
+# Prelude
+
+## Suprachiasmatic nucleus (SCN)
+
+{{< video https://www.youtube.com/watch?v=fgJPnQCJ9eE height="70%" width="100%" >}}
+
+-- @McGee2011-ew
+
+## Today's topics
+
+- Announcement
+- Warm up
+- Wrap up on functional methods
+- Anatomy of the brain
+
+## Announcement
+
+- Quiz 1 next time
+
+# Warm up
+
+## Which of the following structures are *not* part of the hindbrain?
+
+::: {.incremental}
+- A. 4th ventricle
+- B. Tectum
+- C. Medulla oblongata
+- D. Pons
+:::
+
+## Which of the following structures are *not* part of the hindbrain?
+
+:::: {.columns}
+::: {.column width=50%}
+- A. ~~4th ventricle~~
+- B. **Tectum**
+- C. ~~Medulla oblongata~~
+- D. ~~Pons~~
+:::
+::: {.column width=50%}
+::: {.fragment}
+![](https://vignette.wikia.nocookie.net/brain-for-ai/images/b/bd/Tectum.png/revision/latest?cb=20170613125935)
+:::
+:::
+::::
+
+## What plane of section does this image represent?
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- A. Dorsal
+- B. Sagittal
+- C. Axial
+- D. Coronal/Frontal
+:::
+:::
+::: {.column width=50%}
+![](../include/img/frontal-harvard-brain.png)
+:::
+::::
+
+## What plane of section does this image represent?
+
+:::: {.columns}
+::: {.column width=50%}
+- A. ~~Dorsal~~
+- B. ~~Sagittal~~
+- C. ~~Axial~~
+- D. **Coronal/Frontal**
+:::
+::: {.column width=50%}
+![](../include/img/frontal-harvard-brain.png)
+:::
+::::
+
+## What's inside the cerebral ventricles?
+
+::: {.incremental}
+- A. Nothing
+- B. Cerebrospinal Fluid (CSF)
+- C. We don't know because we can't measure it
+- D. Oxygenated blood
+:::
+
+## What's inside the cerebral ventricles?
+
+- A. ~~Nothing~~
+- B. **Cerebrospinal Fluid (CSF)**
+- C. ~~We don't know because we can't measure it~~
+- D. ~~Oxygenated blood~~
+
+# Anatomy of the brain
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| *Forebrain*  | Lateral              | Telencephalon      | *Cerebral cortex* |
+|                |                      |                    | [*Basal ganglia*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-basal_ganglia){preview-link="true"}   |
+|                |                      |                    | [*Hippocampus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hippocampus-hippocampus){preview-link="true"}, [*Amygdala*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-amygdala){preview-link="true"} |
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+|                | Third                | Diencephalon       | [*Thalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-thalamus){preview-link="true"}        |
+|                |                      |                    | [*Hypothalamus*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-limbic_system-hypothalamus){preview-link="true"}    |
+| [*Midbrain*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-midbrain){preview-link="true"}   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum*, [*pons*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-pons){preview-link="true"}  |
+|                | --                   |                    | [*Medulla oblongata*](https://www.brainfacts.org/3D-Brain?__hstc=177771770.77b16463fbc715940e874d00368bdb13.1643137967770.1643137967770.1643137967770.1&__hssc=177771770.2.1643137967771&__hsfp=799304230#intro=false&focus=Brain-brain_stem-medulla_oblongata){preview-link="true"} |
+
+## Diencephalon ("between" brain)
+
+:::: {.columns}
+::: {.column width=50%}
+- Thalamus
+- Hypothalamus
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg)
+:::
+::::
+
+## Thalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Input to cortex
+- Functionally distinct nuclei (collection of neurons)
+    - *Lateral geniculate nucleus (LGN)*, vision
+    - *Medial geniculate nucleus (MGN)*, audition
+:::
+::: {.column width=50%}
+![](http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231){fig-align="right"}
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
+- Controls *Autonomic Nervous System (ANS)*
+    - Sympathetic branch
+    - Parasympathetic branch
+:::
+::: {.column width=50%}
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg){fig-align="right"}
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Controls *endocrine system* via *pituitary gland* (“master” gland)
+    + *Anterior pituitary* (indirect release of hormones)
+    + *Posterior* (direct release of hormones)
+        - *Oxytocin*
+        - *Vasopressin*
+:::
+::: {.column width=50%}
+![](http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg){fig-align="right"}
+:::
+::::
+
+## Hypothalamus
+
+:::: {.columns}
+::: {.column width=50%}
+- Regulates circadian rhythms (via Suprachiasmatic Nucleus)
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Hypothalamus](https://upload.wikimedia.org/wikipedia/commons/b/b6/Hypothalamus.jpg){fig-align="center"}
+:::
+::::
+
+## Telencephalon
+
+- Basal (not basil!) ganglia
+- Hippocampus
+- Amygdala
+- Cerebral cortex
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- Skill and habit learning
+- Sequencing of movement
+- Example: Parkinson’s Disease
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- [Striatum](https://en.wikipedia.org/wiki/Striatum){preview-link="true"}
+    - Dorsal
+        - [Caudate nucleus](https://en.wikipedia.org/wiki/Caudate_nucleus)
+        - [Putamen](https://en.wikipedia.org/wiki/Putamen){preview-link="true"}
+    - Ventral
+        - [Nucleus accumbens (NAcc)](https://en.wikipedia.org/wiki/Nucleus_accumbens){preview-link="true"}
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- [Globus pallidus](https://en.wikipedia.org/wiki/Globus_pallidus){preview-link="true"}
+- [Subthalamic nucleus](https://en.wikipedia.org/wiki/Subthalamic_nucleus){preview-link="true"}
+- [Substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra) (in tegmentum){preview-link="true"}
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg)
+:::
+::::
+
+## [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus){preview-link="true"}
+
+:::: {.columns}
+::: {.column width=50%}
+- From Greek for "sea horse"
+:::
+::: {.column width=50%}
+
+![](http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w){fig-align="right"}
+:::
+::::
+
+## Hippocampus
+
+:::: {.columns}
+::: {.column width=50%}
+- Immediately lateral to (inferior) lateral ventricles
+- Medial temporal lobe
+- Memories of specific facts or events, spatial locations
+- Implicated in Alzheimer's Disease
+:::
+::: {.column width=50%}
+![](https://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/5750f2a32fe1315b8d98018d/1526033957297/hippocampus.jpg?format=1500w){fig-align="right"}
+:::
+::::
+
+## Hippocampus
+
+:::: {.columns}
+::: {.column width=50%}
+- [Fornix](https://en.wikipedia.org/wiki/Fornix_(neuroanatomy)){preview-link="true"} projects to hypothalamus
+- [Mammillary bodies](https://en.wikipedia.org/wiki/Mammillary_body){preview-link="true"}
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Hippocampus](https://upload.wikimedia.org/wikipedia/commons/a/ae/Sobo_1909_639.png){width="60%"}
+:::
+::::
+
+## Amygdala
+
+:::: {.columns}
+::: {.column width=50%}
+- “almond”-shaped
+- Influences physiological state, behavioral readiness, affect
+- NOT the fear center! [@ledoux_amygdala_2015].
+:::
+::: {.column width=50%}
+![](https://3.bp.blogspot.com/-DLYYDLYHSKc/WsV2203SrdI/AAAAAAAADwE/2K3dvkV9rporkTwHFmeeLQ1w4yGZk6xEwCLcBGAs/s1600/Amygdala.png){preview-link="true"}
+:::
+::::
+
+## Cerebral Cortex
+
+![](../include/img/cerebral-cortex.png)
+
+## Hemispheres
+- [Right cerebral hemisphere](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-right)
+- [Left cerebral hemisphere](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-left)
+- Gyrus/gyri (bumps)
+- Sulcus/sulci, fissures (grooves)
+
+## Landmarks
+
+| Landmark | Identifies/separates |
+|----------|----------------------|
+| [Medial longitudinal fissure (longitudinal fissure)](https://en.wikipedia.org/wiki/Medial_longitudinal_fissure) | Divides hemispheres |
+| [Lateral sulcus/fissure](https://en.wikipedia.org/wiki/Lateral_sulcus) *aka Sylvian Fissure* | Divides temporal lobe from frontal & parietal |
+| [Central sulcus](https://en.wikipedia.org/wiki/Central_sulcus) *aka Rolandic Fissure* | Divides frontal from parietal lobe |
+
+## (Medial) Longitudinal fissure
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png)
+
+## Lateral sulcus/fissure
+
+![https://en.wikipedia.org/wiki/Lateral_sulcus](https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png)
+
+## Central sulcus
+
+![https://en.wikipedia.org/wiki/Central_sulcus](https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png)
+
+## Lobes of the Cerebral Cortex
+
+![](../include/img/cerebral-cortex.png)
+
+## [Frontal lobe](https://en.wikipedia.org/wiki/Frontal_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- Where is it?
+    - Anterior to central sulcus
+    - Superior to lateral fissure
+    - Dorsal to temporal lobe
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png)
+:::
+::::
+
+## [Frontal lobe](https://en.wikipedia.org/wiki/Frontal_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- What does it do/contain?
+    - Pre-central gyrus (pre/anterior to central sulcus)
+        - [Primary motor cortex (M1)](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-frontal_lobe-motor_cortex) 
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png)
+:::
+::::
+
+
+## [Frontal lobe](https://en.wikipedia.org/wiki/Frontal_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- What does it do/contain?
+    - [Prefrontal cortex](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-frontal_lobe-prefrontal_cortex)
+        + Planning, problem solving, working memory...? 
+    - Primary olfactory cortex
+    - Gustatory cortex
+    - Anterior cingulate cortex (ACC)
+:::
+::: {.column width=50%}
+![[Cingulate Gyrus](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-temporal_lobe-cingulate_cortex)](http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg)
+:::
+::::
+
+## [Temporal lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-temporal_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- Where is it?
+    - Ventral to frontal, parietal lobes
+    - Inferior to lateral fissure
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png)
+:::
+::::
+
+## [Temporal lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-temporal_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- What does it do/contain?
+    - [Primary auditory cortex (A-I)](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-primary_auditory_cortex)
+    - Object, face recognition
+    - [Amygdala](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-limbic_system-amygdala), [hippocampus](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-limbic_system-hippocampus-hippocampus)
+    - Storage/recall of memories about events, objects
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png)
+:::
+::::
+
+
+## [Parietal lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-pareital_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- Where is it?
+    - Caudal to frontal lobe
+    - Dorsal to temporal lobe
+    - Posterior to central sulcus
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png)
+:::
+::::
+
+## [Parietal lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-pareital_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- What does it do/contain?
+    - Perception of spatial relations, action planning
+    - Post-central gyrus
+        - Post-central -> "posterior to" central sulcus
+        - [Primary somatosensory cortex (S-I)](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-pareital_lobe-somatosensory_cortex)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png)
+:::
+::::
+
+## [Parietal lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-pareital_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blausen_0103_Brain_Sensory%26Motor.png/1200px-Blausen_0103_Brain_Sensory%26Motor.png)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png)
+:::
+::::
+
+## [Occipital lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-occipital_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- Where is it?
+    - Caudal to parietal & temporal lobes
+- What does it do/contain?
+    - [Primary visual cortex (V1)](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-occipital_lobe-primary_visual_cortex)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png)
+:::
+::::
+
+## [Occipital lobe](https://www.brainfacts.org/3d-brain#intro=true&focus=Brain-cerebral_hemisphere-occipital_lobe)
+
+:::: {.columns}
+::: {.column width=50%}
+- Multiple visual areas in occipital lobe
+:::
+::: {.column width=50%}
+![](https://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png)
+:::
+::::
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex)
+
+:::: {.columns}
+::: {.column width=50%}
+-  Where is it?
+    - medial to temporal lobe
+    - deep inside lateral fissure
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png)
+:::
+::::
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex)
+
+:::: {.columns}
+::: {.column width=50%}
+- What does it do/contain?
+    + Primary gustatory cortex
+    + self-awareness, interpersonal experiences, motor control
+:::
+::: {.column width=50%}
+![@Namkung2018-xn](https://www.cell.com/cms/10.1016/j.tins.2018.05.004/asset/f29dbf3a-456e-44e6-ac19-9e92e0fdb5d6/main.assets/gr1.jpg)
+:::
+::::
+
+
+## Summary: Lobes, landmarks, areas
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Frontal  | Central sulcus | Precentral gyrus | motor cortex |
+|          | Corpus callosum | Cingulate gyrus | anterior cingulate cortex   |
+|          |                 |                 | olfactory cortex |
+|          |                 |                 | gustatory cortex |
+
+---
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Temporal | Lateral fissure |               | auditory cortex |
+|          |                 |               | olfactory cortex |
+|          |                 |               | hipppocampus |
+|          |                 |               | amygdala |
+
+---
+
+| Lobe     | Sulci      | Gyri          | Areas |
+|----------|------------|---------------|-----------|
+| Parietal | Central sulcus  | Postcentral gyrus | somatosensory ctx |
+| Occipital |     |     | visual ctx |
+| Insula    | Lateral fissure |             | gustatory ctx |
+
+## Brodmann Areas
+
+:::: {.columns}
+::: {.column width=50%}
+- Regions of cerebral cortex that differ in cellular architecture.
+- Korbinian Brodmann
+:::
+::: {.column width=50%}
+![](http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg)
+:::
+::::
+
+## Brodmann areas
+
+:::: {.columns}
+::: {.column width=50%}
+- Sequential (arbitrary) numbering scheme
+- Brodmann Area (BA) 4: precentral gyrus of frontal lobe (M1)
+- BA 17 and 18: Primary visual cortex (V1) in occipital lobe
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png)
+:::
+::::
+
+## Next time
+
+- Quiz 1 (15-20 min)
+- Neuroanatomy III
+  - Spinal cord
+  - Peripheral Nervous System (PNS)
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
