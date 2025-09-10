@@ -1,0 +1,156 @@
+---
+title: "Neuroanatomy III"
+subtitle: 2025-09-11
+fig-align: "center"
+---
+
+## Today's topics
+
+- Quiz 1
+- Neuroanatomy III
+  - Spinal cord
+  - Peripheral Nervous System (PNS)
+  
+# Neuroanatomy III
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 nerve pairs 
+    - Cauda equina
+:::
+::: {.column width=50%}
+![](http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg){width="50%"}
+:::
+::::
+
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Dorsal/Ventral
+  + Dorsal root (sensory)
+  + Ventral root (mostly motor)
+- Grey (interior) vs. white matter (exterior)
+:::
+::: {.column width=50%}
+![https://www.britannica.com/science/spinal-cord](https://cdn.britannica.com/75/2975-050-0D5D3A36/views-cross-section-Photograph-cord-segment-drawing.jpg?w=400&h=300&c=crop)
+:::
+::::
+
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Afferent (input/sensory) and efferent (output/motor) tracts
+:::
+::: {.column width=50%}
+![U.S. National Academy of Sciences](https://www.nap.edu/openbook/0309095859/xhtml/images/p2000d3bdg31001.jpg)
+:::
+::::
+
+## Organization of the PNS  
+
+- Somatic division
+    - Voluntary sensory & motor function
+- Autonomic division
+    - Involuntary sensory & motor function
+- Cranial nerves
+- Spinal nerves
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Sensory & motor functions of the cranium (head) and neck
+- Afferents (input/sensory), efferents (output/motor), or mixed/both
+  - On Old Olympus' Towering Top...
+  - Some Say Marry Money...
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+## Cranial nerves
+
+:::: {.columns}
+::: {.column width=50%}
+- Innervate head and neck
+- Olfactory (I), optic (II), (VIII) auditory,
+vagus (X), etc. 
+:::
+::: {.column width=50%}
+![Encyclopedia Britannica](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg)
+:::
+::::
+
+---
+
+::: {.callout-note}
+
+You will have to memorize the cranial nerves in other classes, but not this one.
+
+Still, this might be helpful to you:
+
+![](https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/33802482_1983049471728042_1024163216910974976_n.png?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1O7B4nP7Xi4Q7kNvwGPZoVd&_nc_oc=AdkNziM0RMksdClJjmjA_I05w5r6NF2pgrggEJ3VnhHsblfzbLpOuvkSNUn1bZaX85c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=cc3eJbSmC5UzSiDIESPeoQ&oh=00_Afbkyqu1_TfNsB0cd_P5grUBFssUpFva-_oNLPay4MiEhg&oe=68E8E191){width="65%" fig-align="center"}
+
+:::
+
+## Autonomic nervous system (ANS) 
+
+:::: {.columns}
+::: {.column width=50%}
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif)
+:::
+::::
+
+## Sympathetic division 
+
+- Prepares body for action
+- "Fight or flight""
+- Spinal cord
+    + ganglion chain along spinal column to end organs
+- Neurotransmitters
+    + Preganglionic: Acetylcholine (ACh) 
+    + Post: Norepinephrine (NE)
+
+## Parasympathetic division 
+
+- Para -> "around"
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + Neurotransmitter: Acetylcholine (ACh)
+
+## Next time
+
+- Cells of the nervous system
+- Neurophysiology I
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

@@ -32,6 +32,8 @@ website:
             href: slides/wk-02-2025-09-04-anatomy-I.qmd
           - text: "Wk 03 • Tue Sep 09"
             href: slides/wk-03-2025-09-09-anatomy-II.qmd
+          - text: "Wk 03 • Thu Sep 11"
+            href: slides/wk-03-2025-09-11-anatomy-III.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src
