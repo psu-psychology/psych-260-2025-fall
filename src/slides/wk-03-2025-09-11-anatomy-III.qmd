@@ -28,6 +28,18 @@ fig-align: "center"
 :::
 ::::
 
+## Spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- Nerves map to specific regions of the body
+- [Dermatomes](https://en.wikipedia.org/wiki/Dermatome_(anatomy))
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/960px-Grant_1962_663.png)
+:::
+::::
+
 
 ## Spinal cord
 
@@ -114,27 +126,118 @@ Still, this might be helpful to you:
     + Parasympathetic
 :::
 ::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif)
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%"}
 :::
 ::::
 
 ## Sympathetic division 
 
+:::: {.columns}
+::: {.column width=50%}
 - Prepares body for action
-- "Fight or flight""
+- "Fight or flight"
 - Spinal cord
     + ganglion chain along spinal column to end organs
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Sympathetic division
+
+:::: {.columns}
+::: {.column width=50%}
 - Neurotransmitters
     + Preganglionic: Acetylcholine (ACh) 
     + Post: Norepinephrine (NE)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
 
 ## Parasympathetic division 
 
+:::: {.columns}
+::: {.column width=50%}
 - Para -> "around"
 - Restorative function
 - "Rest & digest"
 - Spinal cord -> ganglia near end organs -> end organ
     + Neurotransmitter: Acetylcholine (ACh)
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+  
+
+## Putting the pieces together
+
+:::: {.columns}
+::: {.column width=50%}
+- Vision
+  - Eyes
+  - Optic (II cranial)
+  - LGN of thalamus
+  - V1 in occipital lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+## Putting the pieces together
+
+:::: {.columns}
+::: {.column width=50%}
+- Audition
+  - Ears
+  - VIIIth cranial nerve
+  - MGN of thalamus
+  - A1 in temporal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+## Putting the pieces together
+
+:::: {.columns}
+::: {.column width=50%}
+- Somatosensory
+  - Skin, muscles, joints
+  - Spinal nerves
+  - Thalamus
+  - S1 in parietal lobe
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+## Putting the pieces together
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor
+  - Frontal lobe
+  - III, IV, VI cranial nerves
+    - Eye movementS
+  - Spinal cord
+    - Motor neurons that move shoulder, elbow, hand
+:::
+::: {.column width=50%}
+![](https://cdn.prometheanworld.com/wp-content/uploads/2023/08/08163712/GettyImages-154341147-1-1-1296x550.jpg)
+:::
+::::
+
+## Putting the pieces together
+
+- What happens to that information when it gets to the cerebral cortex?
+- Where and how do behaviors, thoughts, and feelings arise?
 
 ## Next time
 

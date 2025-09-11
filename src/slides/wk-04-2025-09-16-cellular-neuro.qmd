@@ -1,0 +1,414 @@
+---
+title: "Cellular Neuroscience"
+subtitle: 2025-09-16
+fig-align: "center"
+---
+
+## Today's topics
+
+- Warm-up
+- Cells of the nervous system
+- Neurophysiology I
+
+# Warm-up
+
+# Cells of the nervous system
+
+# Neurophysiology
+
+# Cells of the nervous system
+
+## By the numbers...
+
+## Human vs. non-human cells
+
+- ~ 37 trillion (10^9) cells [@Roy2018-wo]
+- 10-100 trillion non-human cells (gut, skin/hair, bloodstream, etc.)
+- Human bodies are a community
+
+## How many neurons and glia?
+
+- Old "lore": ~100 billion (10^6) neurons
+- New estimate [@azevedo2009equal]
+    + ~86 +/- 8 billion neurons
+    + ~85 +/- 9 billion glia
+- 100-500 trillion synapses, 1 billion/mm^3
+
+---
+
+::: {.callout-tip}
+
+How long would it take you to count 170 billion cells?
+
+How would you estimate how long?
+
+- 60 s/min x 60 min/hr x 24 hrs/day x 365 days/ yr = 31,536,000 s/yr
+- 1.7e11/31,536,000 = 5,390 years
+
+"Back of the envelope" calculations/guess-timates are extremely useful--in science and in other aspects of life.
+
+:::
+
+## Quantifying the brain
+
+![Figure 2 from @azevedo2009equal](../include/img/azevedo-et-al-fig-1.jpg){fig-align="center"}
+
+## Quantifying the brain
+
+```{r, echo=FALSE, fig.align='center', fig.cap="Non-neurons: Mass vs. number of cells"}
+# data from Azevedo
+suppressPackageStartupMessages(library(tidyverse))
+library(tidyverse)
+
+mass_g <- c(1232.93, 154.02, 117.66)
+portion <- c("cerebral ctx", "cerebellum", "rest")
+b_neurons <- c(16.34, 69.03, 0.69)
+b_nonneurons <- c(60.84, 16.04, 7.73)
+brain <- data.frame(portion, mass_g, b_neurons, b_nonneurons)
+
+brain %>% ggplot() +
+  aes(x=mass_g, b_nonneurons, color=portion) +
+  geom_point(size = 5) +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+## Quantifying the brain
+
+```{r echo=FALSE, fig.align='center', fig.cap="Neurons: Mass vs. number of cells"}
+brain %>% ggplot() +
+  aes(x=mass_g, b_neurons, color=portion) +
+  geom_point(size = 5) +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+## Quantifying the brain
+
+- \# of glial cells scales with brain size/mass
+- \# of neurons doesn't scale with brain size/mass
+    - cerebellum small but \# of neurons large
+    
+## Quantifying the brain
+
+:::: {.columns}
+::: {.column width=50%}
+> *"These findings challenge the common view that humans stand out from other primates in their brain composition and indicate that...the human brain is an isometrically scaled-up primate brain."*
+>
+-- @azevedo2009equal
+:::
+::: {.column width=50%}
+![@Herculano-Houzel2016-oy](https://pictures.abebooks.com/isbn/9780262533539-us.jpg)
+:::
+::::
+
+## Glia (neuroglia)
+
+:::: {.columns}
+::: {.column width=50%}
+- "Glia" means glue
+- Functions
+	+ Structural support
+	+ Metabolic support
+	+ Brain development
+	+ Neural plasticity?
+- Multiple types
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/ca/Glial_Cell_Types.png){width="60%" fig-align="right"}
+:::
+::::
+
+
+
+## Astrocytes
+
+:::: {.columns}
+::: {.column width=50%}
+- "Star-shaped"
+- Physical and metabolic support
+	+ [Blood/brain barrier](https://en.wikipedia.org/wiki/Blood%E2%80%93brain_barrier)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right"}
+:::
+::::
+
+## Astrocytes
+
+:::: {.columns}
+::: {.column width=50%}
+- Regulate concentration of key ions (Ca++/K+) for neural communication
+- Regulate concentration of key neurotransmitters (e.g., glutamate)
+- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Regulate local blood flow
+
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right"}
+:::
+::::
+
+## Astrocytes
+
+:::: {.columns}
+::: {.column width=50%}
+- Regulate/influence communication between neurons [@Bazargani2016-io]
+- Disruption linked to cognitive impairment, disease [@chung_glia_2015]
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right"}
+:::
+::::
+
+## Myelinating cells
+
+:::: {.columns}
+::: {.column width=50%}
+- Produce [myelin](https://en.wikipedia.org/wiki/Myelin) or myelin sheath
+  + White, fatty substance
+  + Surrounds many neurons
+  + The "white" in white matter
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/580px-Neuron.svg.png)
+:::
+::::
+
+## Myelinating cells
+
+:::: {.columns}
+::: {.column width=50%}
+- Provide electrical/chemical insulation
+- Make neuronal messages faster, less susceptible to noise
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neuron_with_oligodendrocyte_and_myelin_sheath.svg/580px-Neuron_with_oligodendrocyte_and_myelin_sheath.svg.png)
+:::
+::::
+  
+## [Oligodendrocytes](https://en.wikipedia.org/wiki/Oligodendrocyte)
+
+:::: {.columns}
+::: {.column width=50%}
+- In brain and spinal cord (Central Nervous System or CNS)
+- 1:many neurons
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg)
+:::
+::::
+	
+## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell)
+
+:::: {.columns}
+::: {.column width=50%}
++ In Peripheral Nervous System (PNS)
++ 1:1 neuron
+:::
+::: {.column width=50%}
+![](http://medsci.indiana.edu/a464/images/schwan2.jpg){fig-align="right"}
+:::
+::::
+
+## TV-show-inspired mnemonic
+
+![](https://images.fineartamerica.com/images-medium-large-5/law-and-order-logo-brand-a.jpg){width="50%"}
+
+**C**entral **O**ligodendrocytes  **Peripheral** **S**chwann cells
+
+## TV-show-inspired mnemonic
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leonard_Nimoy_as_Spock_1967.jpg/500px-Leonard_Nimoy_as_Spock_1967.jpg)
+
+**S**chwann cells **P**eripheral **O**ligodendrocytes **C**entral
+
+## Microglia
+
+:::: {.columns}
+::: {.column width=50%}
+- Clean-up damaged, dead tissue
+    - [Phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- Prune synapses in normal development and disease
+- Disruptions -> impaired connectivity and social behavior [@Zhan2014-lx]
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-do](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microglia_and_neurons.jpg/500px-Microglia_and_neurons.jpg)
+:::
+::::
+
+## [Neurons](https://en.wikipedia.org/wiki/Neuron)
+
+```{r fig-neurons-hippocampus, fig.cap="Neurons in mouse hippocampus: http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg"}
+knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg")
+```
+
+## Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+- Specialized for electrical & chemical communication
+- Post-mitotic -- don't divide
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [Bhardwaj2006-ny]
+- Among longest-lived cells in body, may scale with *organism* lifespan [@Magrassi2013-il]
+- Can extend over long distances
+
+## Macrostructure of [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+:::: {.columns}
+::: {.column width=50%}
+- [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+- [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology))
+- [Axons](https://en.wikipedia.org/wiki/Axon)
+- [Terminal buttons (boutons)](https://en.wikipedia.org/wiki/Axon_terminal)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png)
+:::
+::::
+
+
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+
+:::: {.columns}
+::: {.column width=50%}
+- Branch-like "extrusions" from cell body
+- Majority of input to neuron
+- Cluster close to cell body/soma
+- Usually receive info
+- Passive (do not regenerate electrical signal) vs. active (regenerate signal)
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2009-ii](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anatomy_of_neuron.png/1000px-Anatomy_of_neuron.png)
+:::
+::::
+
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+
+:::: {.columns}
+::: {.column width=50%}
+- Dendritic Spines (protrusions from dendrites)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg)
+:::
+::::
+
+## [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology))
+
+:::: {.columns}
+::: {.column width=50%}
+- Varied shapes
+- Nucleus
+	+ Chromosomes (genetic material)
+- Organelles
+	+ Mitochondria
+	+ Smooth and Rough Endoplasmic reticulum (ER)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png)
+:::
+::::
+
+## [Axons](https://en.wikipedia.org/wiki/Axon)
+
+:::: {.columns}
+::: {.column width=50%}
+- Another branch-like "extrusion" from soma
+- Extend farther than dendrites
+- Usually transmit info
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1920px-Blausen_0657_MultipolarNeuron.png)
+:::
+::::
+
+## [Axons](https://en.wikipedia.org/wiki/Axon)
+
+:::: {.columns}
+::: {.column width=50%}
+- Parts
+    + **Axon hillock** (closest to soma, unmyelinated)
+    + **Nodes of Ranvier** (unmyelinated segments along axon)
+    + Terminals, axon terminals, terminal buttons, synaptic terminals, synaptic boutons
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png)
+:::
+::::
+
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+:::: {.columns}
+::: {.column width=50%}
+- [Synapse](https://en.wikipedia.org/wiki/Chemical_synapse#Structure) (~5-10K per neuron) 
+- Presynaptic membrane (sending cell) and postsynaptic (receiving cell) membrane
+- Synaptic cleft -- space between cells
+:::
+::: {.column width=50%}
+![](http://antranik.org/wp-content/uploads/2012/04/synapse.jpg)
+:::
+::::
+
+
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+:::: {.columns}
+::: {.column width=50%}
+- [Synaptic vesicles](https://en.wikipedia.org/wiki/Synaptic_vesicle)
+    - Pouches of neurotransmitters
+    - Release contents into synaptic cleft
+- [autoreceptors](https://en.wikipedia.org/wiki/Autoreceptor) (detect NTs)
+- [transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter) (transport NTs across membrane)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Autorezeptor.png/960px-Autorezeptor.png)
+:::
+::::
+
+## Classifying neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Functional role
+    + Input (sensory), output (motor/secretory), interneurons 
+- Anatomy of axons
+    + Unipolar
+    + Bipolar
+    + Multipolar
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Neurons_uni_bi_multi_pseudouni.svg/2000px-Neurons_uni_bi_multi_pseudouni.svg.png)
+:::
+::::
+
+## Classifying neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- By specific anatomy
+    + Pyramidal cells
+    + Stellate cells 
+    + Purkinje cells 
+    + Granule cells
+:::
+::: {.column width=50%}
+![](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/figures/Cytology-Neurons_types_small.png){fig-align="right" width="70%"}
+:::
+::::
+
+## Next time
+
+- Neurophysiology II
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
