@@ -310,6 +310,21 @@ fig-align: "center"
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png)
 
+## [Corpus Callosum](https://en.wikipedia.org/wiki/Corpus_callosum)
+
+:::: {.columns}
+::: {.column width=50%}
+- Axon (fiber) bundle
+- Bottom of longitudinal fissure
+- Connects left and right hemispheres
+- Part of "roof" of lateral ventricles
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-ff](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Gray720.png/580px-Gray720.png)
+:::
+::::
+
+
 ## Lateral sulcus/fissure
 
 ![https://en.wikipedia.org/wiki/Lateral_sulcus](https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png)

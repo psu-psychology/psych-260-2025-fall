@@ -6,11 +6,133 @@ fig-align: "center"
 
 ## Today's topics
 
-- Warm-up
+<!-- - Warm-up -->
 - Cells of the nervous system
 - Neurophysiology I
 
-# Warm-up
+<!-- # Warm-up -->
+
+<!-- ## 1. The image represents what type of slice? -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. Sagittal -->
+<!-- - B. Horizontal -->
+<!-- - C. Coronal -->
+<!-- - D. Axial -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 1. The image represents what type of slice? -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - **A. Sagittal** -->
+<!-- - ~~B. Horizontal~~ -->
+<!-- - ~~C. Coronal~~ -->
+<!-- - ~~D. Axial~~ -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 2. All of the following structures can be seen in the figure EXCEPT -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. Cerebellum -->
+<!-- - B. Corpus callosum -->
+<!-- - C. Lateral ventricles -->
+<!-- - D. Cerebral cortex -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 2. All of the following structures can be seen in the figure EXCEPT -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - ~~A. Cerebellum~~ -->
+<!-- - ~~B. Corpus callosum~~ -->
+<!-- - **C. Lateral ventricles** -->
+<!-- - ~~D. Cerebral cortex~~ -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 3.	The figure illustrates which imaging model? -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. CT -->
+<!-- - B. PET -->
+<!-- - C. Magnetoencephalography (MEG) -->
+<!-- - D. MRI -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 3.	The figure illustrates which imaging mode? -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. ~~CT~~ -->
+<!-- - B. ~~PET~~ -->
+<!-- - ~~C. Magnetoencephalography (MEG)~~ -->
+<!-- - **D. MRI** -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](../include/img/quiz-1-figure.png) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 4.	In the mid-1600s, reflexes and animal minds were thought of as __________. -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. Human minds -->
+<!-- - B. Machines -->
+<!-- - C. Early computers -->
+<!-- - D. Artificial intelligence -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ::: {.fragment} -->
+<!-- - ~~A. Human minds~~ -->
+<!-- - **B. Machines** -->
+<!-- - ~~C. Early computers~~ -->
+<!-- - ~~D. Artificial intelligence~~ -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## 5.	Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements. -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - A. The pons -->
+<!-- - B. The pituitary gland -->
+<!-- - C. The pineal gland -->
+<!-- - D. The reflexive complex -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ::: {.fragment} -->
+<!-- - ~~A. The pons~~ -->
+<!-- - ~~B. The pituitary gland~~ -->
+<!-- - **C. The pineal gland** -->
+<!-- - ~~D. The reflexive complex~~ -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::: -->
 
 # Cells of the nervous system
 
@@ -213,13 +335,13 @@ brain %>% ggplot() +
 
 ## TV-show-inspired mnemonic
 
-![](https://images.fineartamerica.com/images-medium-large-5/law-and-order-logo-brand-a.jpg){width="50%"}
+![](https://images.fineartamerica.com/images-medium-large-5/law-and-order-logo-brand-a.jpg){width="50%" fig-align="center"}
 
 **C**entral **O**ligodendrocytes  **Peripheral** **S**chwann cells
 
 ## TV-show-inspired mnemonic
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leonard_Nimoy_as_Spock_1967.jpg/500px-Leonard_Nimoy_as_Spock_1967.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leonard_Nimoy_as_Spock_1967.jpg/500px-Leonard_Nimoy_as_Spock_1967.jpg){fig-align="center"}
 
 **S**chwann cells **P**eripheral **O**ligodendrocytes **C**entral
 
@@ -247,7 +369,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 
 - Specialized for electrical & chemical communication
 - Post-mitotic -- don't divide
-- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [Bhardwaj2006-ny]
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [@Bhardwaj2006-ny]
 - Among longest-lived cells in body, may scale with *organism* lifespan [@Magrassi2013-il]
 - Can extend over long distances
 
@@ -394,6 +516,258 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 ![](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/figures/Cytology-Neurons_types_small.png){fig-align="right" width="70%"}
 :::
 ::::
+
+# Neurophysiology I
+
+## Or how do neurons communicate?
+
+## Two communication 'modes'
+
+- Electrical
+- Chemical
+
+## Two communication 'modes'
+
+- Electrical
+- ~~Chemical~~
+  
+## Types of neural electrical potentials
+
+- Potential $\rightarrow$ voltage
+- Voltage $\approx$ pressure
+- [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+    - Voltage across neuronal membrane when cell is 'at-rest' (not firing)
+- [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+    - Voltage across neuronal membrane when cell is active or firing
+    
+## Neuron as a [dynamical system](https://en.wikipedia.org/wiki/Dynamical_system)
+
+- In a (temporarily stable) equilibrium
+  - Not really at "rest"
+- Influenced by multiple forces
+- Forces balance-out (for now)
+    
+## Metaphor I
+
+![](https://cdn.britannica.com/73/124073-050-8CA8D40F/Tug-of-war-US-Naval-Academy-Maryland-Annapolis-2005.jpg)
+
+## Metaphor II
+
+- Annie/Alex ($A^-$) was having a party.
+    + Used to date Nate/Natalie ($Na^+$), but now sees Karl/Kristie ($K^+$)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl/Kristie and friends in or out, keep Nate/Natalie out
+
+## Metaphor II
+
+- Annie/Alex's friends ($A^-$) and Karl/Kristie's ($K^+$) mostly inside
+- Nate/Natalie and friends ($Na^+$) mostly outside
+- Claudia/Claude ($Cl^-$) tagging along
+
+## Studying systems in equilibrium
+
+- What are the forces?
+- How do the forces act on the system *individually*?
+- How do the forces act on the system *collectively*?
+- What happens when the forces or the balance among them changes?
+
+## Resting potential
+
+- Ions (charged particles)
+    - Potassium, $K^+$
+    - Sodium, $Na^+$
+    - Chloride, $Cl^-$
+    - Organic anions, $A^-$
+- Ion channels
+    - Molecular gateways or doors
+    
+## Resting potential
+
+- Separation between charges
+    - Positive and negative charges spatially separated
+- A balance of forces
+    + *Force of diffusion*
+    + *Electrostatic force*
+- Forces cause ion flows across *membrane*
+    - Force of diffusion consistent (over time)
+    - Electrostatic force changes
+    
+## Ion channels
+
+:::: {.columns}
+::: {.column width=50%}
+- Openings in neural membrane
+- Selective for specific ions
+- Vary in permeability (how readily ions flow)
+    - Some ions can flow more easily than others at different times
+:::
+::: {.column width=50%}
+![](https://www.news-medical.net/image-handler/ts/20181025104435/ri/673/picture/2018/10/shutterstock_480412786.jpg)
+:::
+::::
+
+## Ion channels
+
+:::: {.columns}
+::: {.column width=50%}
+- Types
+    + *Ligand-gated (chemically-gated)*
+    + *Mechanically-gated*
+    + *Passive/leak (always open)*
+    + *Voltage-gated*
+:::
+::: {.column width=50%}
+![](https://www.news-medical.net/image-handler/ts/20181025104435/ri/673/picture/2018/10/shutterstock_480412786.jpg)
+:::
+::::
+
+## [Na+/K+ "pump"](https://en.wikipedia.org/wiki/Sodium%E2%80%93potassium_pump)
+
+:::: {.columns}
+::: {.column width=50%}
+- Also known as Na+/K+-ATPase
+- Moves ions across membrane 
+- With metabolic "help" (energy expenditure)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/8/89/0308_Sodium_Potassium_Pump.jpg)
+:::
+::::
+
+## Metaphor III
+
+![Figure 6 from @Kaunda2012-qa](../include/img/hydro.webp)
+
+## Neuron at rest permeable to $K^+$
+
+- [$K^+$] concentration inside >> outside
+  - Na+/K+ pump moves it in
+- *Permeable*: Permits flow across/through
+- Passive $K^+$ channels open
+- $K^+$ flows out
+    - Neuron constantly brings $K^+$ in
+
+## Force of diffusion
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png)
+
+---
+
+::: {.infobox}
+
+A practical illustration of the force of diffusion.
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg)
+
+:::
+
+---
+
+- Organic anions ($A^-$) too large to move outside of cell
+- $A^-$ and $K^+$ largely in balance == no net internal charge
+- $K^+$ outflow creates *charge separation*: $K^+$ (outside) <-> $A^-$ (inside)
+- Charge separation creates a voltage
+- Outside +/inside -
+- Voltage build-up stops outflow of $K^+$
+
+## The resting potential
+
+![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="center"}
+
+## Balance of forces in the neuron at rest
+
+- **Force of diffusion**
+    + $K^+$ moves from high concentration (inside) to low (outside)
+    
+## Balance of forces in the neuron at rest
+
+- **Electrostatic force**
+    + Voltage build-up stops $K^+$ outflow
+    + Specific voltage that stops flow == *equilibrium potential* for $K^+$+
+    + $K^+$ positive, so equilibrium potential negative (w/ respect to outside)
+    + Equilibrium potential close to neuron's resting potential
+
+---
+
+::: {.callout-note}
+
+In PSYCH 260, we do not emphasize the calculation of equilibrium potentials and the Nernst equation or the Goldman-Hodgkin-Katz equation.
+
+We provide information about this, and the equivalent circuit model, in the next few slides for your reference.
+
+:::
+
+## Equilibrium potential
+
+[Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| $K^+$  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| $Na^+$ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| $Cl^-$ | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+- Magnitude and sign of voltage indicates which direction a given ion will "drive" the neuron
+
+## Nernst equation
+
+![](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif)
+
+---
+
+## Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
+
+- Resting potential not just due to $K^+$
+- Other ions flow
+- Resting potential == net effects of *all* ion flows across membrane
+
+## Goldman-Hodgkin-Katz equation
+
+![](http://www.physiologyweb.com/calculators/figs/ghk_equation.gif)
+
+## $Na^+$ role
+
+:::: {.columns}
+::: {.column width=50%}
+- $Na^+$ concentrated **outside** neuron
+- Membrane at rest not very permeable to $Na^+$
+- Some, but not much $Na^+$ flows *in*
+- $Na^+$ has equilibrium potential ~ + 60 mV
+:::
+::: {.column width=50%}
+![](../include/img/350px-Membrane_potential_ions_en.svg.png)
+:::
+::::
+
+
+## $Na^+$ role
+
+:::: {.columns}
+::: {.column width=50%}
+- Equilibrium potential is positive (with respect to outside)
+- Would need positive interior to keep $Na^+$ from flowing in
+:::
+::: {.column width=50%}
+![](../include/img/350px-Membrane_potential_ions_en.svg.png)
+:::
+::::
+
+## Electrical circuit model
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg)
+
+## Summary of forces in neuron at rest
+
+| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
+|-----|------------------------|---------------------|---------------------------|--------------------|
+| $K^+$  | Inside >> Outside   | pushes $K^+$ **out**  | more - | pulls $K^+$ **in**       |
+
+## Summary of forces in neuron at rest
+
+| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
+|-----|------------------------|---------------------|---------------------------|--------------------|
+| $Na^+$ | Outside >> Inside   | pushes $Na^+$ **in** | more + | pulls  $Na^+$ **in**       |
 
 ## Next time
 

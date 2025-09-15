@@ -214,7 +214,7 @@
     "href": "index.html#instructor",
     "title": "Home",
     "section": "Instructor",
-    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\n\nOffice hours\nTuesday & Thursday, 11:00a - 11:45a or by appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
+    "text": "Instructor\nRick O. Gilmore, Ph.D. \nProfessor of Psychology\nrog1 AT-SIGN psu PERIOD edu\n\n\nOffice hours\nTuesday & Thursday, 11:00a - 11:45a in 114 Moore or by appointment: https://doodle.com/mm/rickgilmore/book-a-time\nLab web site: https://gilmore-lab.github.io",
     "crumbs": [
       "Home"
     ]
@@ -2976,6 +2976,17 @@
     ]
   },
   {
+    "objectID": "slides/wk-03-2025-09-09-anatomy-II.html#corpus-callosum",
+    "href": "slides/wk-03-2025-09-09-anatomy-II.html#corpus-callosum",
+    "title": "Neuroanatomy II",
+    "section": "Corpus Callosum",
+    "text": "Corpus Callosum\n\n\n\nAxon (fiber) bundle\nBottom of longitudinal fissure\nConnects left and right hemispheres\nPart of “roof” of lateral ventricles\n\n\n\n\n\nWikipedia contributors (2025)",
+    "crumbs": [
+      "Slides",
+      "Wk 03 • Tue Sep 09"
+    ]
+  },
+  {
     "objectID": "slides/wk-03-2025-09-09-anatomy-II.html#lateral-sulcusfissure",
     "href": "slides/wk-03-2025-09-09-anatomy-II.html#lateral-sulcusfissure",
     "title": "Neuroanatomy II",
@@ -3200,7 +3211,7 @@
     "href": "slides/wk-03-2025-09-09-anatomy-II.html#references",
     "title": "Neuroanatomy II",
     "section": "References",
-    "text": "References\n\n\n\n\nLeDoux, J. (2015, August 10). The Amygdala Is NOT the Brain’s Fear Center. Psychology Today. Retrieved from https://www.psychologytoday.com/blog/i-got-mind-tell-you/201508/the-amygdala-is-not-the-brains-fear-center\n\n\nMcGee, M. (2011). Suprachiasmatic nucleus of hypothalamus. Youtube. Retrieved from https://www.youtube.com/watch?v=fgJPnQCJ9eE\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2018). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology: (Trends in neuroscience 40, 200-207, 2017). Trends in Neurosciences, 41, 551–554. https://doi.org/10.1016/j.tins.2018.05.004",
+    "text": "References\n\n\n\n\nLeDoux, J. (2015, August 10). The Amygdala Is NOT the Brain’s Fear Center. Psychology Today. Retrieved from https://www.psychologytoday.com/blog/i-got-mind-tell-you/201508/the-amygdala-is-not-the-brains-fear-center\n\n\nMcGee, M. (2011). Suprachiasmatic nucleus of hypothalamus. Youtube. Retrieved from https://www.youtube.com/watch?v=fgJPnQCJ9eE\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2018). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology: (Trends in neuroscience 40, 200-207, 2017). Trends in Neurosciences, 41, 551–554. https://doi.org/10.1016/j.tins.2018.05.004\n\n\nWikipedia contributors. (2025, August 17). Corpus callosum. Retrieved from https://en.wikipedia.org/wiki/Corpus_callosum",
     "crumbs": [
       "Slides",
       "Wk 03 • Tue Sep 09"
@@ -3211,7 +3222,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#todays-topics",
     "title": "Cellular Neuroscience",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm-up\nCells of the nervous system\nNeurophysiology I",
+    "text": "Today’s topics\n\n\nCells of the nervous system\nNeurophysiology I",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3442,7 +3453,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#fun-facts-about-neurons",
     "title": "Cellular Neuroscience",
     "section": "Fun facts about neurons",
-    "text": "Fun facts about neurons\n\nSpecialized for electrical & chemical communication\nPost-mitotic – don’t divide\nMost born early in life, [Bhardwaj2006-ny]\nAmong longest-lived cells in body, may scale with organism lifespan (Magrassi, Leto, & Rossi, 2013)\nCan extend over long distances",
+    "text": "Fun facts about neurons\n\nSpecialized for electrical & chemical communication\nPost-mitotic – don’t divide\nMost born early in life, (Bhardwaj et al., 2006)\nAmong longest-lived cells in body, may scale with organism lifespan (Magrassi, Leto, & Rossi, 2013)\nCan extend over long distances",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3559,6 +3570,325 @@
     ]
   },
   {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#or-how-do-neurons-communicate",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#or-how-do-neurons-communicate",
+    "title": "Cellular Neuroscience",
+    "section": "Or how do neurons communicate?",
+    "text": "Or how do neurons communicate?",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#two-communication-modes",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#two-communication-modes",
+    "title": "Cellular Neuroscience",
+    "section": "Two communication ‘modes’",
+    "text": "Two communication ‘modes’\n\nElectrical\nChemical",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#two-communication-modes-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#two-communication-modes-1",
+    "title": "Cellular Neuroscience",
+    "section": "Two communication ‘modes’",
+    "text": "Two communication ‘modes’\n\nElectrical\nChemical",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#types-of-neural-electrical-potentials",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#types-of-neural-electrical-potentials",
+    "title": "Cellular Neuroscience",
+    "section": "Types of neural electrical potentials",
+    "text": "Types of neural electrical potentials\n\nPotential \\(\\rightarrow\\) voltage\nVoltage \\(\\approx\\) pressure\nResting potential\n\nVoltage across neuronal membrane when cell is ‘at-rest’ (not firing)\n\nAction potential\n\nVoltage across neuronal membrane when cell is active or firing",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-as-a-dynamical-system",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-as-a-dynamical-system",
+    "title": "Cellular Neuroscience",
+    "section": "Neuron as a dynamical system",
+    "text": "Neuron as a dynamical system\n\nIn a (temporarily stable) equilibrium\n\nNot really at “rest”\n\nInfluenced by multiple forces\nForces balance-out (for now)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-i",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-i",
+    "title": "Cellular Neuroscience",
+    "section": "Metaphor I",
+    "text": "Metaphor I",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-ii",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-ii",
+    "title": "Cellular Neuroscience",
+    "section": "Metaphor II",
+    "text": "Metaphor II\n\nAnnie/Alex (\\(A^-\\)) was having a party.\n\nUsed to date Nate/Natalie (\\(Na^+\\)), but now sees Karl/Kristie (\\(K^+\\))\n\nHired bouncers called\n\n“The Channels”\nLet Karl/Kristie and friends in or out, keep Nate/Natalie out",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-ii-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-ii-1",
+    "title": "Cellular Neuroscience",
+    "section": "Metaphor II",
+    "text": "Metaphor II\n\nAnnie/Alex’s friends (\\(A^-\\)) and Karl/Kristie’s (\\(K^+\\)) mostly inside\nNate/Natalie and friends (\\(Na^+\\)) mostly outside\nClaudia/Claude (\\(Cl^-\\)) tagging along",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#studying-systems-in-equilibrium",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#studying-systems-in-equilibrium",
+    "title": "Cellular Neuroscience",
+    "section": "Studying systems in equilibrium",
+    "text": "Studying systems in equilibrium\n\nWhat are the forces?\nHow do the forces act on the system individually?\nHow do the forces act on the system collectively?\nWhat happens when the forces or the balance among them changes?",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#resting-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#resting-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Resting potential",
+    "text": "Resting potential\n\nIons (charged particles)\n\nPotassium, \\(K^+\\)\nSodium, \\(Na^+\\)\nChloride, \\(Cl^-\\)\nOrganic anions, \\(A^-\\)\n\nIon channels\n\nMolecular gateways or doors",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#resting-potential-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#resting-potential-1",
+    "title": "Cellular Neuroscience",
+    "section": "Resting potential",
+    "text": "Resting potential\n\nSeparation between charges\n\nPositive and negative charges spatially separated\n\nA balance of forces\n\nForce of diffusion\nElectrostatic force\n\nForces cause ion flows across membrane\n\nForce of diffusion consistent (over time)\nElectrostatic force changes",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#ion-channels",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#ion-channels",
+    "title": "Cellular Neuroscience",
+    "section": "Ion channels",
+    "text": "Ion channels\n\n\n\nOpenings in neural membrane\nSelective for specific ions\nVary in permeability (how readily ions flow)\n\nSome ions can flow more easily than others at different times",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#ion-channels-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#ion-channels-1",
+    "title": "Cellular Neuroscience",
+    "section": "Ion channels",
+    "text": "Ion channels\n\n\n\nTypes\n\nLigand-gated (chemically-gated)\nMechanically-gated\nPassive/leak (always open)\nVoltage-gated",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#nak-pump",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#nak-pump",
+    "title": "Cellular Neuroscience",
+    "section": "Na+/K+ “pump”",
+    "text": "Na+/K+ “pump”\n\n\n\nAlso known as Na+/K+-ATPase\nMoves ions across membrane\nWith metabolic “help” (energy expenditure)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-iii",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#metaphor-iii",
+    "title": "Cellular Neuroscience",
+    "section": "Metaphor III",
+    "text": "Metaphor III\n\nFigure 6 from Kaunda, Kimambo, & Nielsen (2012)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-at-rest-permeable-to-k",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-at-rest-permeable-to-k",
+    "title": "Cellular Neuroscience",
+    "section": "Neuron at rest permeable to \\(K^+\\)",
+    "text": "Neuron at rest permeable to \\(K^+\\)\n\n[\\(K^+\\)] concentration inside &gt;&gt; outside\n\nNa+/K+ pump moves it in\n\nPermeable: Permits flow across/through\nPassive \\(K^+\\) channels open\n\\(K^+\\) flows out\n\nNeuron constantly brings \\(K^+\\) in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#force-of-diffusion",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#force-of-diffusion",
+    "title": "Cellular Neuroscience",
+    "section": "Force of diffusion",
+    "text": "Force of diffusion\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#the-resting-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#the-resting-potential",
+    "title": "Cellular Neuroscience",
+    "section": "The resting potential",
+    "text": "The resting potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#balance-of-forces-in-the-neuron-at-rest",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#balance-of-forces-in-the-neuron-at-rest",
+    "title": "Cellular Neuroscience",
+    "section": "Balance of forces in the neuron at rest",
+    "text": "Balance of forces in the neuron at rest\n\nForce of diffusion\n\n\\(K^+\\) moves from high concentration (inside) to low (outside)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#balance-of-forces-in-the-neuron-at-rest-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#balance-of-forces-in-the-neuron-at-rest-1",
+    "title": "Cellular Neuroscience",
+    "section": "Balance of forces in the neuron at rest",
+    "text": "Balance of forces in the neuron at rest\n\nElectrostatic force\n\nVoltage build-up stops \\(K^+\\) outflow\nSpecific voltage that stops flow == equilibrium potential for \\(K^+\\)+\n\\(K^+\\) positive, so equilibrium potential negative (w/ respect to outside)\nEquilibrium potential close to neuron’s resting potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#equilibrium-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#equilibrium-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Equilibrium potential",
+    "text": "Equilibrium potential\nEquilibrium potentials calculated under typical conditions\n\n\n\nIon\n[inside]\n[outside]\nVoltage\n\n\n\n\n\\(K^+\\)\n~150 mM\n~4 mM\n~ -90 mV\n\n\n\\(Na^+\\)\n~10 mM\n~140 mM\n~ +55-60 mV\n\n\n\\(Cl^-\\)\n~10 mM\n~110 mM\n- 65-80 mV\n\n\n\n\nMagnitude and sign of voltage indicates which direction a given ion will “drive” the neuron",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#nernst-equation",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#nernst-equation",
+    "title": "Cellular Neuroscience",
+    "section": "Nernst equation",
+    "text": "Nernst equation",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-resting-potential-k-equilibrium-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#neuron-resting-potential-k-equilibrium-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential",
+    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\nOther ions flow\nResting potential == net effects of all ion flows across membrane",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#goldman-hodgkin-katz-equation",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#goldman-hodgkin-katz-equation",
+    "title": "Cellular Neuroscience",
+    "section": "Goldman-Hodgkin-Katz equation",
+    "text": "Goldman-Hodgkin-Katz equation",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#na-role",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#na-role",
+    "title": "Cellular Neuroscience",
+    "section": "\\(Na^+\\) role",
+    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) concentrated outside neuron\nMembrane at rest not very permeable to \\(Na^+\\)\nSome, but not much \\(Na^+\\) flows in\n\\(Na^+\\) has equilibrium potential ~ + 60 mV",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#na-role-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#na-role-1",
+    "title": "Cellular Neuroscience",
+    "section": "\\(Na^+\\) role",
+    "text": "\\(Na^+\\) role\n\n\n\nEquilibrium potential is positive (with respect to outside)\nWould need positive interior to keep \\(Na^+\\) from flowing in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#electrical-circuit-model",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#electrical-circuit-model",
+    "title": "Cellular Neuroscience",
+    "section": "Electrical circuit model",
+    "text": "Electrical circuit model\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#summary-of-forces-in-neuron-at-rest",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#summary-of-forces-in-neuron-at-rest",
+    "title": "Cellular Neuroscience",
+    "section": "Summary of forces in neuron at rest",
+    "text": "Summary of forces in neuron at rest\n\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nEffect of ion flow\nFlow effect on membrane voltage\nEffect of negative membrane potential\n\n\n\n\n\\(K^+\\)\nInside &gt;&gt; Outside\npushes \\(K^+\\) out\nmore -\npulls \\(K^+\\) in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#summary-of-forces-in-neuron-at-rest-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#summary-of-forces-in-neuron-at-rest-1",
+    "title": "Cellular Neuroscience",
+    "section": "Summary of forces in neuron at rest",
+    "text": "Summary of forces in neuron at rest\n\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nEffect of ion flow\nFlow effect on membrane voltage\nEffect of negative membrane potential\n\n\n\n\n\\(Na^+\\)\nOutside &gt;&gt; Inside\npushes \\(Na^+\\) in\nmore +\npulls \\(Na^+\\) in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
     "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#next-time",
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#next-time",
     "title": "Cellular Neuroscience",
@@ -3585,7 +3915,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#references",
     "title": "Cellular Neuroscience",
     "section": "References",
-    "text": "References\n\n\n\n\nAzevedo, F. A., Carvalho, L. R., Grinberg, L. T., Farfel, J. M., Ferretti, R. E., Leite, R. E., et al.others. (2009). Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. Journal of Comparative Neurology, 513(5), 532–541. https://doi.org/10.1002/cne.21974\n\n\nBazargani, N., & Attwell, D. (2016). Astrocyte calcium signaling: The third wave. Nature Neuroscience, 19, 182–189. https://doi.org/10.1038/nn.4201\n\n\nChung, W.-S., Welsh, C. A., Barres, B. A., & Stevens, B. (2015). Do glia drive synaptic and cognitive impairment in disease? Nature Neuroscience, 18(11), 1539–1545. https://doi.org/10.1038/nn.4142\n\n\nHerculano-Houzel, S. (2016). The Human Advantage: A New Understanding of How Our Brain Became Remarkable. MIT Press. Retrieved from https://market.android.com/details?id=book-DMqpCwAAQBAJ\n\n\nMagrassi, L., Leto, K., & Rossi, F. (2013). Lifespan of neurons is uncoupled from organismal lifespan. Proceedings of the National Academy of Sciences, 110, 4374–4379. https://doi.org/10.1073/pnas.1217505110\n\n\nRoy, A. L., & Conroy, R. S. (2018). Toward mapping the human body at a cellular resolution. Molecular Biology of the Cell, 29, 1779–1785. https://doi.org/10.1091/mbc.E18-04-0260\n\n\nWikipedia contributors. (2009, February 24). Dendrite. Retrieved from https://simple.wikipedia.org/wiki/Dendrite\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, July 28). Microglia. Retrieved from https://en.wikipedia.org/wiki/Microglia\n\n\nZhan, Y., Paolicelli, R. C., Sforazzini, F., Weinhard, L., Bolasco, G., Pagani, F., … Gross, C. T. (2014). Deficient neuron-microglia signaling results in impaired functional brain connectivity and social behavior. Nature Neuroscience, 17, 400–406. https://doi.org/10.1038/nn.3641",
+    "text": "References\n\n\n\n\nAzevedo, F. A., Carvalho, L. R., Grinberg, L. T., Farfel, J. M., Ferretti, R. E., Leite, R. E., et al.others. (2009). Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. Journal of Comparative Neurology, 513(5), 532–541. https://doi.org/10.1002/cne.21974\n\n\nBazargani, N., & Attwell, D. (2016). Astrocyte calcium signaling: The third wave. Nature Neuroscience, 19, 182–189. https://doi.org/10.1038/nn.4201\n\n\nBhardwaj, R. D., Curtis, M. A., Spalding, K. L., Buchholz, B. A., Fink, D., Björk-Eriksson, T., … Frisén, J. (2006). Neocortical neurogenesis in humans is restricted to development. Proceedings of the National Academy of Sciences of the United States of America, 103, 12564–12568. https://doi.org/10.1073/pnas.0605177103\n\n\nChung, W.-S., Welsh, C. A., Barres, B. A., & Stevens, B. (2015). Do glia drive synaptic and cognitive impairment in disease? Nature Neuroscience, 18(11), 1539–1545. https://doi.org/10.1038/nn.4142\n\n\nHerculano-Houzel, S. (2016). The Human Advantage: A New Understanding of How Our Brain Became Remarkable. MIT Press. Retrieved from https://market.android.com/details?id=book-DMqpCwAAQBAJ\n\n\nKaunda, C. S., Kimambo, C. Z., & Nielsen, T. K. (2012). Hydropower in the context of sustainable energy supply: A review of technologies and challenges. ISRN Renewable Energy, 2012, 1–15. https://doi.org/10.5402/2012/730631\n\n\nMagrassi, L., Leto, K., & Rossi, F. (2013). Lifespan of neurons is uncoupled from organismal lifespan. Proceedings of the National Academy of Sciences, 110, 4374–4379. https://doi.org/10.1073/pnas.1217505110\n\n\nRoy, A. L., & Conroy, R. S. (2018). Toward mapping the human body at a cellular resolution. Molecular Biology of the Cell, 29, 1779–1785. https://doi.org/10.1091/mbc.E18-04-0260\n\n\nWikipedia contributors. (2009, February 24). Dendrite. Retrieved from https://simple.wikipedia.org/wiki/Dendrite\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, July 28). Microglia. Retrieved from https://en.wikipedia.org/wiki/Microglia\n\n\nZhan, Y., Paolicelli, R. C., Sforazzini, F., Weinhard, L., Bolasco, G., Pagani, F., … Gross, C. T. (2014). Deficient neuron-microglia signaling results in impaired functional brain connectivity and social behavior. Nature Neuroscience, 17, 400–406. https://doi.org/10.1038/nn.3641",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
