@@ -1,0 +1,107 @@
+---
+title: "Neurophysiology"
+subtitle: 2025-09-18
+fig-align: "center"
+---
+
+## Today's topics
+
+- Warm-up
+- Neurophysiology II
+
+# Warm-up
+
+## Which of the following glial cells contributes to the blood/brain barrier?
+
+::: {.incremental}
+- A. Pyramidal cells
+- B. Oligodendrocytes
+- C. Astrocytes
+- D. Microglia
+:::
+
+## Which of the following glial cells contributes to the blood/brain barrier?
+
+- ~~A. Pyramidal cells~~
+- ~~B. Oligodendrocytes~~
+- **C. Astrocytes**
+- ~~D. Microglia~~
+
+## Neurons are unusual among cells because they...
+
+::: {.incremental}
+- A. Have unusually long lives.
+- B. Have a membrane.
+- C. Have a nucleus and chromosomes.
+- D. Are born throughout the lifespan.
+:::
+
+## Neurons are unusual among cells because they...
+
+- **A. Have unusually long lives.**
+- ~~B. Have a membrane.~~
+- ~~C. Have a nucleus and chromosomes.~~
+- ~~D. Are born throughout the lifespan.~~
+
+## Electrical potential (voltage) is analogous to...
+
+::: {.incremental}
+- A. Size
+- B. Mass
+- C. Charge
+- D. Pressure
+:::
+
+## Electrical potential (voltage) is analogous to...
+
+- ~~A. Size~~
+- ~~B. Mass~~
+- ~~C. Charge~~
+- **D. Pressure**
+
+# Neurophysiology II
+
+## Resting membrane potential
+
+- Voltage across neuron's membrane, -65-70 mV
+- Balance of forces
+  - Diffusion
+    - High concentration $\rightarrow$ low
+  - Electrostatic (+ $\rightarrow$ - and vice versa)
+- Dynamic equilibrium
+  - Can change when circumstances change
+  
+## Resting membrane potential
+
+:::: {.columns}
+::: {.column width=50%}
+- Na+/K+ pump
+- Na+ (sodium)
+  - Outside >> inside
+- K+ (potassium)
+  - Inside >> outside
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right"}
+:::
+::::
+
+
+## Next time
+
+- Neurophysiology III
+- Exam 1 review
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

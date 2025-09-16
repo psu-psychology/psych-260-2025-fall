@@ -4,139 +4,64 @@ subtitle: 2025-09-16
 fig-align: "center"
 ---
 
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=R0SZnLOeh5E height="70%" width="100%" >}}
+
+-- @Neural-Academy2020-wg
+
 ## Today's topics
 
-<!-- - Warm-up -->
+- Warm-up
 - Cells of the nervous system
 - Neurophysiology I
 
-<!-- # Warm-up -->
+# Warm-up
 
-<!-- ## 1. The image represents what type of slice? -->
+## A *dermatome* is...
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. Sagittal -->
-<!-- - B. Horizontal -->
-<!-- - C. Coronal -->
-<!-- - D. Axial -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
+::: {.incremental}
+- A. A receptor in the skin that signals itch.
+- B. A member of an 80's punk band.
+- C. A sensory region of the frontal cortex.
+- D. A region of the skin innervated by a spinal nerve.
+:::
 
-<!-- ## 1. The image represents what type of slice? -->
+## A *dermatome* is...
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - **A. Sagittal** -->
-<!-- - ~~B. Horizontal~~ -->
-<!-- - ~~C. Coronal~~ -->
-<!-- - ~~D. Axial~~ -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
+- ~~A. A receptor in the skin that signals itch.~~
+- ~~B. A member of an 80's punk band.~~
+- ~~C. A sensory region of the frontal cortex.~~
+- **D. A region of the skin innervated by a spinal nerve.**
 
-<!-- ## 2. All of the following structures can be seen in the figure EXCEPT -->
+## The spinal cord contains separate zones of gray and white matter.
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. Cerebellum -->
-<!-- - B. Corpus callosum -->
-<!-- - C. Lateral ventricles -->
-<!-- - D. Cerebral cortex -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
+- A. True
+- B. False
 
-<!-- ## 2. All of the following structures can be seen in the figure EXCEPT -->
+## The spinal cord contains separate zones of gray and white matter.
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - ~~A. Cerebellum~~ -->
-<!-- - ~~B. Corpus callosum~~ -->
-<!-- - **C. Lateral ventricles** -->
-<!-- - ~~D. Cerebral cortex~~ -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
+- **A. True**
+- ~~B. False~~
 
-<!-- ## 3.	The figure illustrates which imaging model? -->
+## This branch of the autonomic nervous system is activated after you eat a big meal.
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. CT -->
-<!-- - B. PET -->
-<!-- - C. Magnetoencephalography (MEG) -->
-<!-- - D. MRI -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
+::: {.incremental}
+- A. The somatic division of the CNS.
+- B. The parasympathetic branch of the ANS.
+- C. The sympathetic branch of the ANS.
+- D. The olfactory nerve (I).
+:::
 
-<!-- ## 3.	The figure illustrates which imaging mode? -->
+## This branch of the autonomic nervous system is activated after you eat a big meal.
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. ~~CT~~ -->
-<!-- - B. ~~PET~~ -->
-<!-- - ~~C. Magnetoencephalography (MEG)~~ -->
-<!-- - **D. MRI** -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ![](../include/img/quiz-1-figure.png) -->
-<!-- ::: -->
-<!-- :::: -->
 
-<!-- ## 4.	In the mid-1600s, reflexes and animal minds were thought of as __________. -->
-
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. Human minds -->
-<!-- - B. Machines -->
-<!-- - C. Early computers -->
-<!-- - D. Artificial intelligence -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ::: {.fragment} -->
-<!-- - ~~A. Human minds~~ -->
-<!-- - **B. Machines** -->
-<!-- - ~~C. Early computers~~ -->
-<!-- - ~~D. Artificial intelligence~~ -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- :::: -->
-
-<!-- ## 5.	Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements. -->
-
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=50%} -->
-<!-- - A. The pons -->
-<!-- - B. The pituitary gland -->
-<!-- - C. The pineal gland -->
-<!-- - D. The reflexive complex -->
-<!-- ::: -->
-<!-- ::: {.column width=50%} -->
-<!-- ::: {.fragment} -->
-<!-- - ~~A. The pons~~ -->
-<!-- - ~~B. The pituitary gland~~ -->
-<!-- - **C. The pineal gland** -->
-<!-- - ~~D. The reflexive complex~~ -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- :::: -->
-
-# Cells of the nervous system
-
-# Neurophysiology
+- ~~A. The somatic division of the CNS.~~
+- **B. The parasympathetic branch of the ANS.**
+- ~~C. The sympathetic branch of the ANS.~~
+- ~~D. The olfactory nerve (I).~~
 
 # Cells of the nervous system
 
@@ -450,10 +375,10 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 - Parts
     + **Axon hillock** (closest to soma, unmyelinated)
     + **Nodes of Ranvier** (unmyelinated segments along axon)
-    + Terminals, axon terminals, terminal buttons, synaptic terminals, synaptic boutons
+    + Axon terminals, terminal buttons, synaptic boutons
 :::
 ::: {.column width=50%}
-![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png)
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
 :::
 ::::
 
@@ -466,7 +391,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 - Synaptic cleft -- space between cells
 :::
 ::: {.column width=50%}
-![](http://antranik.org/wp-content/uploads/2012/04/synapse.jpg)
+![](http://antranik.org/wp-content/uploads/2012/04/synapse.jpg){fig-align="right"}
 :::
 ::::
 
@@ -482,7 +407,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 - [transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter) (transport NTs across membrane)
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Autorezeptor.png/960px-Autorezeptor.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Autorezeptor.png/960px-Autorezeptor.png){fig-align="right"}
 :::
 ::::
 
@@ -524,22 +449,32 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 ## Two communication 'modes'
 
 - Electrical
+  - Membrane potential (voltage) changes
 - Chemical
+  - Neurotransmitter or hormone release
 
-## Two communication 'modes'
+## Electrical potential
 
-- Electrical
-- ~~Chemical~~
-  
-## Types of neural electrical potentials
-
+:::: {.columns}
+::: {.column width=50%}
 - Potential $\rightarrow$ voltage
 - Voltage $\approx$ pressure
+- Measure with
+  - electrodes
+  - Reference: outside
+:::
+::: {.column width=50%}
+![](https://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg){fig-align="right"}
+:::
+::::
+
+## Neurons have electrical potential
+
 - [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
     - Voltage across neuronal membrane when cell is 'at-rest' (not firing)
 - [Action potential](https://en.wikipedia.org/wiki/Action_potential)
     - Voltage across neuronal membrane when cell is active or firing
-    
+
 ## Neuron as a [dynamical system](https://en.wikipedia.org/wiki/Dynamical_system)
 
 - In a (temporarily stable) equilibrium

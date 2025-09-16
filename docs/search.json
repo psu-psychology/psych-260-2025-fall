@@ -3222,7 +3222,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#todays-topics",
     "title": "Cellular Neuroscience",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\n\nCells of the nervous system\nNeurophysiology I",
+    "text": "Today’s topics\n\nWarm-up\nCells of the nervous system\nNeurophysiology I",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3519,7 +3519,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#axons-1",
     "title": "Cellular Neuroscience",
     "section": "Axons",
-    "text": "Axons\n\n\n\nParts\n\nAxon hillock (closest to soma, unmyelinated)\nNodes of Ranvier (unmyelinated segments along axon)\nTerminals, axon terminals, terminal buttons, synaptic terminals, synaptic boutons\n\n\n\n\n\n\nWikipedia contributors (2025a)",
+    "text": "Axons\n\n\n\nParts\n\nAxon hillock (closest to soma, unmyelinated)\nNodes of Ranvier (unmyelinated segments along axon)\nAxon terminals, terminal buttons, synaptic boutons\n\n\n\n\n\n\nWikipedia contributors (2025a)",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3585,7 +3585,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#two-communication-modes",
     "title": "Cellular Neuroscience",
     "section": "Two communication ‘modes’",
-    "text": "Two communication ‘modes’\n\nElectrical\nChemical",
+    "text": "Two communication ‘modes’\n\nElectrical\n\nMembrane potential (voltage) changes\n\nChemical\n\nNeurotransmitter or hormone release",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3915,7 +3915,7 @@
     "href": "slides/wk-04-2025-09-16-cellular-neuro.html#references",
     "title": "Cellular Neuroscience",
     "section": "References",
-    "text": "References\n\n\n\n\nAzevedo, F. A., Carvalho, L. R., Grinberg, L. T., Farfel, J. M., Ferretti, R. E., Leite, R. E., et al.others. (2009). Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. Journal of Comparative Neurology, 513(5), 532–541. https://doi.org/10.1002/cne.21974\n\n\nBazargani, N., & Attwell, D. (2016). Astrocyte calcium signaling: The third wave. Nature Neuroscience, 19, 182–189. https://doi.org/10.1038/nn.4201\n\n\nBhardwaj, R. D., Curtis, M. A., Spalding, K. L., Buchholz, B. A., Fink, D., Björk-Eriksson, T., … Frisén, J. (2006). Neocortical neurogenesis in humans is restricted to development. Proceedings of the National Academy of Sciences of the United States of America, 103, 12564–12568. https://doi.org/10.1073/pnas.0605177103\n\n\nChung, W.-S., Welsh, C. A., Barres, B. A., & Stevens, B. (2015). Do glia drive synaptic and cognitive impairment in disease? Nature Neuroscience, 18(11), 1539–1545. https://doi.org/10.1038/nn.4142\n\n\nHerculano-Houzel, S. (2016). The Human Advantage: A New Understanding of How Our Brain Became Remarkable. MIT Press. Retrieved from https://market.android.com/details?id=book-DMqpCwAAQBAJ\n\n\nKaunda, C. S., Kimambo, C. Z., & Nielsen, T. K. (2012). Hydropower in the context of sustainable energy supply: A review of technologies and challenges. ISRN Renewable Energy, 2012, 1–15. https://doi.org/10.5402/2012/730631\n\n\nMagrassi, L., Leto, K., & Rossi, F. (2013). Lifespan of neurons is uncoupled from organismal lifespan. Proceedings of the National Academy of Sciences, 110, 4374–4379. https://doi.org/10.1073/pnas.1217505110\n\n\nRoy, A. L., & Conroy, R. S. (2018). Toward mapping the human body at a cellular resolution. Molecular Biology of the Cell, 29, 1779–1785. https://doi.org/10.1091/mbc.E18-04-0260\n\n\nWikipedia contributors. (2009, February 24). Dendrite. Retrieved from https://simple.wikipedia.org/wiki/Dendrite\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, July 28). Microglia. Retrieved from https://en.wikipedia.org/wiki/Microglia\n\n\nZhan, Y., Paolicelli, R. C., Sforazzini, F., Weinhard, L., Bolasco, G., Pagani, F., … Gross, C. T. (2014). Deficient neuron-microglia signaling results in impaired functional brain connectivity and social behavior. Nature Neuroscience, 17, 400–406. https://doi.org/10.1038/nn.3641",
+    "text": "References\n\n\n\n\nAzevedo, F. A., Carvalho, L. R., Grinberg, L. T., Farfel, J. M., Ferretti, R. E., Leite, R. E., et al.others. (2009). Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. Journal of Comparative Neurology, 513(5), 532–541. https://doi.org/10.1002/cne.21974\n\n\nBazargani, N., & Attwell, D. (2016). Astrocyte calcium signaling: The third wave. Nature Neuroscience, 19, 182–189. https://doi.org/10.1038/nn.4201\n\n\nBhardwaj, R. D., Curtis, M. A., Spalding, K. L., Buchholz, B. A., Fink, D., Björk-Eriksson, T., … Frisén, J. (2006). Neocortical neurogenesis in humans is restricted to development. Proceedings of the National Academy of Sciences of the United States of America, 103, 12564–12568. https://doi.org/10.1073/pnas.0605177103\n\n\nChung, W.-S., Welsh, C. A., Barres, B. A., & Stevens, B. (2015). Do glia drive synaptic and cognitive impairment in disease? Nature Neuroscience, 18(11), 1539–1545. https://doi.org/10.1038/nn.4142\n\n\nHerculano-Houzel, S. (2016). The Human Advantage: A New Understanding of How Our Brain Became Remarkable. MIT Press. Retrieved from https://market.android.com/details?id=book-DMqpCwAAQBAJ\n\n\nKaunda, C. S., Kimambo, C. Z., & Nielsen, T. K. (2012). Hydropower in the context of sustainable energy supply: A review of technologies and challenges. ISRN Renewable Energy, 2012, 1–15. https://doi.org/10.5402/2012/730631\n\n\nMagrassi, L., Leto, K., & Rossi, F. (2013). Lifespan of neurons is uncoupled from organismal lifespan. Proceedings of the National Academy of Sciences, 110, 4374–4379. https://doi.org/10.1073/pnas.1217505110\n\n\nNeural Academy. (2020). THE NEURON SONG. Youtube. Retrieved from https://www.youtube.com/watch?v=R0SZnLOeh5E\n\n\nRoy, A. L., & Conroy, R. S. (2018). Toward mapping the human body at a cellular resolution. Molecular Biology of the Cell, 29, 1779–1785. https://doi.org/10.1091/mbc.E18-04-0260\n\n\nWikipedia contributors. (2009, February 24). Dendrite. Retrieved from https://simple.wikipedia.org/wiki/Dendrite\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, July 28). Microglia. Retrieved from https://en.wikipedia.org/wiki/Microglia\n\n\nZhan, Y., Paolicelli, R. C., Sforazzini, F., Weinhard, L., Bolasco, G., Pagani, F., … Gross, C. T. (2014). Deficient neuron-microglia signaling results in impaired functional brain connectivity and social behavior. Nature Neuroscience, 17, 400–406. https://doi.org/10.1038/nn.3641",
     "crumbs": [
       "Slides",
       "Wk 04 • Tue Sep 16"
@@ -3969,6 +3969,168 @@
     "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
     "crumbs": [
       "Policies"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#todays-topics",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#todays-topics",
+    "title": "Cellular Neuroscience",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWarm-up\nNeurophysiology II"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#glia-question",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#glia-question",
+    "title": "Cellular Neuroscience",
+    "section": "Glia question",
+    "text": "Glia question"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#neuron-question",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#neuron-question",
+    "title": "Cellular Neuroscience",
+    "section": "Neuron question",
+    "text": "Neuron question"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#resting-potential-question",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#resting-potential-question",
+    "title": "Cellular Neuroscience",
+    "section": "Resting potential question",
+    "text": "Resting potential question"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#resting-membrane-potential",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#resting-membrane-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Resting membrane potential",
+    "text": "Resting membrane potential\n\nVoltage across neuron’s membrane, -65-70 mV\nBalance of forces\n\nDiffusion\n\nHigh concentration \\(\\rightarrow\\) low\n\nElectrostatic (+ \\(\\rightarrow\\) - and vice versa)"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#resting-membrane-potential-1",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#resting-membrane-potential-1",
+    "title": "Cellular Neuroscience",
+    "section": "Resting membrane potential",
+    "text": "Resting membrane potential\n\n\n\nNa+/K+ pump\nNa+\n\nOutside &gt;&gt; inside\n\nK+\n\nInside &gt;&gt; outside\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#next-time",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#next-time",
+    "title": "Cellular Neuroscience",
+    "section": "Next time",
+    "text": "Next time\n\nNeurophysiology III\nExam 1 review"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#about",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#about",
+    "title": "Cellular Neuroscience",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.5.1.513.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#references",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#references",
+    "title": "Cellular Neuroscience",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#a-dermatome-is",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#a-dermatome-is",
+    "title": "Cellular Neuroscience",
+    "section": "A dermatome is…",
+    "text": "A dermatome is…\n\n\nA. A receptor in the skin that signals itch.\nB. A member of an 80’s punk band.\nC. A sensory region of the frontal cortex.\nD. A region of the skin innervated by a spinal nerve.",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#a-dermatome-is-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#a-dermatome-is-1",
+    "title": "Cellular Neuroscience",
+    "section": "A dermatome is…",
+    "text": "A dermatome is…\n\nA. A receptor in the skin that signals itch.\nB. A member of an 80’s punk band.\nC. A sensory region of the frontal cortex.\nD. A region of the skin innervated by a spinal nerve.",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#the-spinal-cord-contains-separate-zones-of-gray-and-white-matter.",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#the-spinal-cord-contains-separate-zones-of-gray-and-white-matter.",
+    "title": "Cellular Neuroscience",
+    "section": "The spinal cord contains separate zones of gray and white matter.",
+    "text": "The spinal cord contains separate zones of gray and white matter.\n\nA. True\nB. False",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#the-spinal-cord-contains-separate-zones-of-gray-and-white-matter.-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#the-spinal-cord-contains-separate-zones-of-gray-and-white-matter.-1",
+    "title": "Cellular Neuroscience",
+    "section": "The spinal cord contains separate zones of gray and white matter.",
+    "text": "The spinal cord contains separate zones of gray and white matter.\n\nA. True\nB. False",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#this-branch-of-the-autonomic-nervous-system-is-activated-after-you-eat-a-big-meal.",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#this-branch-of-the-autonomic-nervous-system-is-activated-after-you-eat-a-big-meal.",
+    "title": "Cellular Neuroscience",
+    "section": "This branch of the autonomic nervous system is activated after you eat a big meal.",
+    "text": "This branch of the autonomic nervous system is activated after you eat a big meal.\n\n\nA. The somatic division of the CNS.\nB. The parasympathetic branch of the ANS.\nC. The sympathetic branch of the ANS.\nD. The olfactory nerve (I).",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#this-branch-of-the-autonomic-nervous-system-is-activated-after-you-eat-a-big-meal.-1",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#this-branch-of-the-autonomic-nervous-system-is-activated-after-you-eat-a-big-meal.-1",
+    "title": "Cellular Neuroscience",
+    "section": "This branch of the autonomic nervous system is activated after you eat a big meal.",
+    "text": "This branch of the autonomic nervous system is activated after you eat a big meal.\n\nA. The somatic division of the CNS.\nB. The parasympathetic branch of the ANS.\nC. The sympathetic branch of the ANS.\nD. The olfactory nerve (I).",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#measuring-electrical-potentials",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#measuring-electrical-potentials",
+    "title": "Cellular Neuroscience",
+    "section": "Measuring electrical potentials",
+    "text": "Measuring electrical potentials\n\n\n\nElectrodes\nReference: outside",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#electrical-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#electrical-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Electrical potential",
+    "text": "Electrical potential\n\n\n\nPotential \\(\\rightarrow\\) voltage\nVoltage \\(\\approx\\) pressure\nMeasure with\n\nelectrodes\nReference: outside",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-16-cellular-neuro.html#neurons-have-electrical-potential",
+    "href": "slides/wk-04-2025-09-16-cellular-neuro.html#neurons-have-electrical-potential",
+    "title": "Cellular Neuroscience",
+    "section": "Neurons have electrical potential",
+    "text": "Neurons have electrical potential\n\nResting potential\n\nVoltage across neuronal membrane when cell is ‘at-rest’ (not firing)\n\nAction potential\n\nVoltage across neuronal membrane when cell is active or firing",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Tue Sep 16"
     ]
   }
 ]
