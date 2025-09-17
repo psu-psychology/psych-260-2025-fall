@@ -1,8 +1,14 @@
 ---
-title: "Neurophysiology"
+title: "Neurophysiology II"
 subtitle: 2025-09-18
 fig-align: "center"
 ---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=H0K2dvB-7WY height="70%" width="100%">}}
 
 ## Today's topics
 
@@ -11,7 +17,7 @@ fig-align: "center"
 
 # Warm-up
 
-## Which of the following glial cells contributes to the blood/brain barrier?
+## Which of the following glial cells contribute to the blood/brain barrier?
 
 ::: {.incremental}
 - A. Pyramidal cells
@@ -20,7 +26,7 @@ fig-align: "center"
 - D. Microglia
 :::
 
-## Which of the following glial cells contributes to the blood/brain barrier?
+## Which of the following glial cells contribute to the blood/brain barrier?
 
 - ~~A. Pyramidal cells~~
 - ~~B. Oligodendrocytes~~
@@ -63,29 +69,417 @@ fig-align: "center"
 
 ## Resting membrane potential
 
-- Voltage across neuron's membrane, -65-70 mV
-- Balance of forces
-  - Diffusion
-    - High concentration $\rightarrow$ low
-  - Electrostatic (+ $\rightarrow$ - and vice versa)
-- Dynamic equilibrium
-  - Can change when circumstances change
-  
-## Resting membrane potential
-
 :::: {.columns}
 ::: {.column width=50%}
-- Na+/K+ pump
-- Na+ (sodium)
-  - Outside >> inside
-- K+ (potassium)
-  - Inside >> outside
+- Voltage across neuron's membrane
+- -65-70 mV (~1/20th of a 1.2 V battery)
+- Voltage $\rightarrow$ current can flow
 :::
 ::: {.column width=50%}
-![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right"}
+![](https://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg){fig-align="right"}
 :::
 ::::
 
+## Why is there a membrane potential?
+
+- Na+/K+ pump creates ion concentration differences
+  - $[K^+]_{inside} >> [K^+]_{outside}$
+  - $[Na^+]_{outside} >> [Na^+]_{inside}$
+
+## [Na+/K+ "pump"](https://en.wikipedia.org/wiki/Sodium%E2%80%93potassium_pump)
+
+:::: {.columns}
+::: {.column width=50%}
+- Also known as Na+/K+-ATPase
+- Moves ions across membrane 
+- With metabolic "help" (energy expenditure)
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/8/89/0308_Sodium_Potassium_Pump.jpg)
+:::
+::::
+
+## Why is there a resting membrane potential
+
+:::: {.columns}
+::: {.column width=50%}
+- Concentration differences create a *force of diffusion*
+- Diffuse from high concentration to low
+  - $K^+$ moves out
+  - $Na^2$ moves in
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
+:::
+::::
+
+## Force of diffusion
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png)
+
+---
+
+::: {.infobox}
+
+A practical illustration of the force of diffusion.
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg)
+
+:::
+
+## Why is there a resting membrane potential?
+
+:::: {.columns}
+::: {.column width=50%}
+- Membrane more permeable to $K^+$ than $Na^+$
+- Large organic anions $A^-$ can't move out.
+- Outflow of $K^+$ creates +/- charge separation along membrane
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
+:::
+::::
+
+## Why is there a resting membrane potential?
+
+::: {.incremental}
+- Charge separation creates voltage
+- *Electrostatic force* balances force of diffusion
+  + Voltage build-up along membrane slows $K^+$ outflow
+  + Specific voltage that stops flow == *equilibrium potential* for $K^+$
+  + $K^+$ positive, so equilibrium potential negative (w/ respect to outside)
+:::
+
+---
+
+::: {.callout-note}
+
+In PSYCH 260, we do not emphasize the calculation of equilibrium potentials and the Nernst equation or the Goldman-Hodgkin-Katz equation.
+
+We provide information about this, and the equivalent circuit model, in the next few slides for your reference.
+
+:::
+
+## Equilibrium potential
+
+[Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| $K^+$  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| $Na^+$ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| $Cl^-$ | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+- Magnitude and sign of voltage indicates which direction a given ion will "drive" the neuron
+
+
+## Nernst equation
+
+![](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif)
+
+---
+
+## Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
+
+- Resting potential not just due to $K^+$
+- Other ions flow
+- Resting potential == net effects of *all* ion flows across membrane
+
+## Goldman-Hodgkin-Katz equation
+
+![](http://www.physiologyweb.com/calculators/figs/ghk_equation.gif)
+
+## $Na^+$ role
+
+:::: {.columns}
+::: {.column width=50%}
+- $Na^+$ concentrated **outside** neuron
+- Membrane at rest not very permeable to $Na^+$
+- Some, but not much $Na^+$ flows *in*
+:::
+::: {.column width=50%}
+![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
+:::
+::::
+
+## $Na^+$ role
+
+:::: {.columns}
+::: {.column width=50%}
+- $Na^+$ Equilibrium potential is positive
+- $Na^+$ has equilibrium potential ~ + 60 mV
+- Would need positive interior to keep $Na^+$ from flowing in
+:::
+::: {.column width=50%}
+![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
+:::
+::::
+
+## Electrical circuit model
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg)
+
+## Summary of forces in neuron at rest
+
+| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
+|-----|------------------------|---------------------|---------------------------|--------------------|
+| $K^+$  | Inside >> Outside   | pushes $K^+$ **out**  | more - | pulls $K^+$ **in**       |
+
+## Summary of forces in neuron at rest
+
+| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
+|-----|------------------------|---------------------|---------------------------|--------------------|
+| $Na^+$ | Outside >> Inside   | pushes $Na^+$ **in** | more + | pulls  $Na^+$ **in**       |
+
+## Summary: Why is there a resting membrane potential?
+
+- Na+/K+ pump creates concentration differences
+- K+ flow out (slowly), creating charge separation
+- Charge separation $\rightarrow$ voltage
+- Voltage has negative sign (positive $K^+$ exit; negative $A^-$ remain)
+
+## Summary: Why is there a resting membrane potential?
+
+- Na+ ions flow in (*very* slowly, < $K^+$ flow out), reducing charge separation a bit
+- Net result
+  - Balance of diffusion and electrical forces acting on $K^+$ and $Na^+$
+
+## What happens if something changes?
+
+- "Something" == ion channels open (or close)
+- Easier for $Na^+$ to enter?
+- Some action!
+
+## Action potential
+
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png){fig-align="right"}
+
+## Phases of the action potential
+
+:::: {.columns}
+::: {.column width=50%}
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)
+:::
+::::
+
+## Phases of the action potential
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated $Na^+$ channels open, $Na^+$ flows in |
+
+## Phases of the action potential
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Peak              | Voltage-gated $Na^+$ channels close and deactivate; voltage-gated $K^+$ channels open |
+| Falling phase     | $K^+$ flows out |
+
+## Phases of the action potential
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Refractory period | $Na^+$/$K^+$ pump restores [$Na^+$], [$K^+$]; voltage-gated $K^+$ channels close |
+
+## Refractory period (phase)
+
+- Absolute
+- Relative
+
+## Absolute refractory phase
+
+:::: {.columns}
+::: {.column width=50%}
+- Voltage-gated $K^+$ channels close
+    - Driving force on $K^+$ tiny or absent
+- $Na^+$/$K^+$ pump restores concentration balance
+- No AP can be generated
+:::
+::: {.column width=50%}
+![](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif)
+:::
+::::
+
+## Relative refractory phase
+
+:::: {.columns}
+::: {.column width=50%}
+- Can generate AP with larg(er) stimulus
+- Some voltage-gated $Na^+$ 'de-inactivate'
+  - can open with large input
+  - membrane potential is more negative than resting potential
+:::
+::: {.column width=50%}
+![](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif)
+:::
+::::
+
+## Generating action potentials
+
+:::: {.columns}
+::: {.column width=50%}
+- *Axon hillock*
+    + Portion of soma adjacent to axon
+    + Sums inputs to soma from many dendrites
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
+:::
+::::
+
+## Generating action potentials
+
+:::: {.columns}
+::: {.column width=50%}
+- *Axon initial segment*
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated $Na^+$ and $K^+$ channels exposed
+    + If sum of input to soma > threshold, voltage-gated $Na^+$ channels open
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
+:::
+::::
+
+## How action potentials propagate
+
+:::: {.columns}
+::: {.column width=50%}
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+- Axon is like an electrical cable
+:::
+::: {.column width=50%}
+![](http://pittmedneuro.com/img/Cable.jpg)
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- *Regenerate* action potential
+- $Na^+$ and $K^+$ channels exposed to extracellular environment
+- Between Nodes of Ranvier, ions can't move out, so move along
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## Nodes of Ranvier
+
+:::: {.columns}
+::: {.column width=50%}
+- Action potentials faster & more reliable for a given axon diameter
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
+:::
+::::
+
+## How action potentials *propagate*
+
+:::: {.columns}
+::: {.column width=50%}
+- Propagation $\rightarrow$ move
+    + move down axon, away from soma, toward axon terminals
+- Axon like an electrical cable
+:::
+::: {.column width=50%}
+![](http://pittmedneuro.com/img/Cable.jpg)
+:::
+::::
+
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Unmyelinated axons
+  - Each segment "excites" the next
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+    
+## Propagation
+
+:::: {.columns}
+::: {.column width=50%}
+- Myelinated axon
+  + AP "jumps" between *Nodes of Ranvier*
+  + voltage-gated $Na^+$, $K^+$ channels exposed
+  + current flows through/down myelinated segments
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
+:::
+::::
+
+## Why does AP flow in one direction, away from soma?
+
++ Soma does not have (many) voltage-gated $Na^+$ channels.
++ Soma is not myelinated.
++ Refractory periods mean polarization works only in one direction.
+
+## Why does AP flow in one direction, away from soma?
+
++ **Soma does not have (many) voltage-gated $Na^+$ channels.**
++ Soma is not myelinated.
++ **Refractory periods mean polarization works only in one direction.**
+
+## How fast are APs?
+
+:::: {.columns}
+::: {.column width=50%}
+- Axons carry information at different rates
+    - More myelin -> faster
+    - Larger diameter axon -> faster
+- Somatosensory information faster than pain (nociception)
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
+:::
+::::
+
+## Information processing
+
+- AP amplitudes don't vary (much)
+    + All or none
+    + $Na^+$/$K^+$ pumps working all the time
+    + $[K^+]$ & $[Na^+]$ don't vary much, so
+    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
+    
+## Information processing
+
+- AP *frequency* and *timing* vary
+    + Rate vs. timing codes
+    + Neurons use both
+
+<!-- ::: {.infobox} -->
+
+<!-- ```{r fig.cap="Hodgkin-Huxley: https://www.youtube.com/watch?v=k48jXzFGMc8"} -->
+<!-- knitr::include_url("https://www.youtube.com/watch?v=k48jXzFGMc8") -->
+<!-- ``` -->
+
+<!-- ::: -->
+
+## Main points
+
+- Resting potential due ion concentration differences, balance of forces
+- Change in membrane permeability to $Na^+$--voltage-gated $Na^+$ channels, triggers action potential.
+  - Rapid rise to peak, fall, refractory
+- Action potentials propagate down axon
 
 ## Next time
 
