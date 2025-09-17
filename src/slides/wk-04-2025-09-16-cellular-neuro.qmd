@@ -162,7 +162,7 @@ brain %>% ggplot() +
 - Multiple types
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/ca/Glial_Cell_Types.png){width="60%" fig-align="right"}
+![Wikipedia; Neuron (yellow), astrocyte (green), oligodendrocyte (blue), microglia (reddish brown)](https://upload.wikimedia.org/wikipedia/commons/c/ca/Glial_Cell_Types.png){width="60%" fig-align="right"}
 :::
 ::::
 
@@ -192,7 +192,7 @@ brain %>% ggplot() +
 
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right"}
+![https://en.wikipedia.org/wiki/Astrocyte](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astrocyte5.jpg/1024px-Astrocyte5.jpg){fig-align="right"}
 :::
 ::::
 
@@ -207,6 +207,10 @@ brain %>% ggplot() +
 ![](https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png){fig-align="right"}
 :::
 ::::
+
+## Astrocytes
+
+![https://en.wikipedia.org/wiki/Astrocyte](https://upload.wikimedia.org/wikipedia/commons/3/3e/Metabolic_interactions_between_astrocytes_and_neurons_with_major_reactions.png)
 
 ## Myelinating cells
 
@@ -257,6 +261,10 @@ brain %>% ggplot() +
 ![](http://medsci.indiana.edu/a464/images/schwan2.jpg){fig-align="right"}
 :::
 ::::
+
+## [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell)
+
+![https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2018/schwann-cells-keep-signals-strong-012918](https://www.brainfacts.org/-/media/Brainfacts2/Brain-Anatomy-and-Function/Cells-and-Circuits/Article-Images/012918-IOTW.png)
 
 ## TV-show-inspired mnemonic
 
@@ -312,7 +320,6 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
-
 ## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
 
 :::: {.columns}
@@ -336,6 +343,17 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::: {.column width=50%}
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg)
+:::
+::::
+
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+
+:::: {.columns}
+::: {.column width=50%}
+- "Polarized" or directional information flow (to soma)
+:::
+::: {.column width=50%}
+![https://askabiologist.asu.edu/neuron-anatomy](https://askabiologist.asu.edu/sites/default/files/resources/articles/neuron_anatomy.jpg)
 :::
 ::::
 
@@ -407,7 +425,7 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 - [transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter) (transport NTs across membrane)
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Autorezeptor.png/960px-Autorezeptor.png){fig-align="right"}
+![Figure 1 from @Torres2003-ry](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1008/MediaObjects/41583_2003_Article_BFnrn1008_Fig1_HTML.jpg?as=webp){fig-align="right"}
 :::
 ::::
 
@@ -438,9 +456,13 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
     + Granule cells
 :::
 ::: {.column width=50%}
-![](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/figures/Cytology-Neurons_types_small.png){fig-align="right" width="70%"}
+![Pyramidal cell (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/6/6d/GolgiStainedPyramidalCell.jpg){fig-align="right" width="70%"}
 :::
 ::::
+
+## Classifying neurons
+
+![Pyramidal cell (left) | Stellate cell (right) from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/0c/Pyramsdal-and-Spiny-stellate-cell.JPG)
 
 # Neurophysiology I
 
@@ -468,6 +490,14 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 :::
 ::::
 
+## Electrical potential
+
+- Potential energy
+  - Energy that could be released
+  - If circumstances change
+
+![](http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png)
+  
 ## Neurons have electrical potential
 
 - [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
@@ -496,9 +526,16 @@ knitr::include_graphics("http://www.extremetech.com/wp-content/uploads/2012/03/a
 
 ## Metaphor II
 
+:::: {.columns}
+::: {.column width=50%}
 - Annie/Alex's friends ($A^-$) and Karl/Kristie's ($K^+$) mostly inside
 - Nate/Natalie and friends ($Na^+$) mostly outside
 - Claudia/Claude ($Cl^-$) tagging along
+:::
+::: {.column width=50%}
+![](http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png)
+:::
+::::
 
 ## Studying systems in equilibrium
 
@@ -694,15 +731,10 @@ We provide information about this, and the equivalent circuit model, in the next
 
 ## Summary of forces in neuron at rest
 
-| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
-|-----|------------------------|---------------------|---------------------------|--------------------|
-| $K^+$  | Inside >> Outside   | pushes $K^+$ **out**  | more - | pulls $K^+$ **in**       |
-
-## Summary of forces in neuron at rest
-
-| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
-|-----|------------------------|---------------------|---------------------------|--------------------|
-| $Na^+$ | Outside >> Inside   | pushes $Na^+$ **in** | more + | pulls  $Na^+$ **in**       |
+| Ion | Concentration gradient | Force of diffusion  | Sign of electrostatic force |
+|--------|--------------------------|---------------------|---------------------|
+| $K^+$  | $[K^+]_{i} >> [K^+]_{o}$ | outward        | -     |
+| $Na^+$ | $[Na^+]_{i} << [Na^+]_{o}$ | inward       | -     |
 
 ## Next time
 

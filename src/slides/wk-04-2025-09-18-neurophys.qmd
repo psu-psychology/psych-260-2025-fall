@@ -99,14 +99,14 @@ fig-align: "center"
 :::
 ::::
 
-## Why is there a resting membrane potential
+## Why is there a membrane potential?
 
 :::: {.columns}
 ::: {.column width=50%}
-- Concentration differences create a *force of diffusion*
-- Diffuse from high concentration to low
-  - $K^+$ moves out
-  - $Na^2$ moves in
+- Concentration differences create a two *forces of diffusion*
+- Diffusion from high concentration to low
+  - $K^+$ pushed out
+  - $Na^2$ pushed in
 :::
 ::: {.column width=50%}
 ![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
@@ -127,67 +127,53 @@ A practical illustration of the force of diffusion.
 
 :::
 
-## Why is there a resting membrane potential?
+## Simulating diffusion
+
+<iframe width="844px" height="596px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="https://lab.concord.org/embeddable.html#interactives/sam/diffusion/4-semipermeable.json"></iframe>
+
+## Why is there a membrane potential?
 
 :::: {.columns}
 ::: {.column width=50%}
-- Membrane more permeable to $K^+$ than $Na^+$
-- Large organic anions $A^-$ can't move out.
+- Large organic anions $A^-$ can't diffuse out.
 - Outflow of $K^+$ creates +/- charge separation along membrane
+- Charge separation creates a voltage (potential)
 :::
 ::: {.column width=50%}
 ![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
 :::
 ::::
 
-## Why is there a resting membrane potential?
+## Why is there a membrane potential?
 
 ::: {.incremental}
-- Charge separation creates voltage
 - *Electrostatic force* balances force of diffusion
   + Voltage build-up along membrane slows $K^+$ outflow
   + Specific voltage that stops flow == *equilibrium potential* for $K^+$
   + $K^+$ positive, so equilibrium potential negative (w/ respect to outside)
 :::
 
----
+## (Aside) on equilibrium potential
 
-::: {.callout-note}
-
-In PSYCH 260, we do not emphasize the calculation of equilibrium potentials and the Nernst equation or the Goldman-Hodgkin-Katz equation.
-
-We provide information about this, and the equivalent circuit model, in the next few slides for your reference.
-
+:::: {.columns}
+::: {.column width=50%}
+- Can be [calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) based on ion concentrations
+- Nernst equation
+- Rests on electronic circuit model of membrane
 :::
-
-## Equilibrium potential
-
-[Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
-
-| Ion | [inside]  | [outside]    | Voltage    |
-|-----|-----------|--------------|------------|
-| $K^+$  | ~150 mM   | ~4 mM        | ~ -90 mV    |
-| $Na^+$ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
-| $Cl^-$ | ~10 mM    | ~110 mM      | - 65-80 mV  |
-
-- Magnitude and sign of voltage indicates which direction a given ion will "drive" the neuron
-
-
-## Nernst equation
-
-![](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif)
-
----
+::: {.column width=50%}
+::: {.fragment}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg)
+:::
+:::
+::::
 
 ## Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
 
 - Resting potential not just due to $K^+$
-- Other ions flow
+- Other ions flow, especially $Na^+$
 - Resting potential == net effects of *all* ion flows across membrane
-
-## Goldman-Hodgkin-Katz equation
-
-![](http://www.physiologyweb.com/calculators/figs/ghk_equation.gif)
+- Goldman-Hodgkin-Katz equation
 
 ## $Na^+$ role
 
@@ -208,46 +194,56 @@ We provide information about this, and the equivalent circuit model, in the next
 ::: {.column width=50%}
 - $Na^+$ Equilibrium potential is positive
 - $Na^+$ has equilibrium potential ~ + 60 mV
-- Would need positive interior to keep $Na^+$ from flowing in
+- Would need positive membrane potential to keep $Na^+$ from flowing in
 :::
 ::: {.column width=50%}
 ![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
 :::
 ::::
 
-## Electrical circuit model
+## $Na^+$ role
 
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg)
+:::: {.columns}
+::: {.column width=50%}
+- $Na^+$ inflow makes membrane potential more positive (less negative) than it would be with $K^+$ outflow alone
+- Resting potential (-55-70mV) more positive than $K^+$ equilibrium potential
+:::
+::: {.column width=50%}
+![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
+:::
+::::
 
-## Summary of forces in neuron at rest
+## Summary of forces
 
-| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
-|-----|------------------------|---------------------|---------------------------|--------------------|
-| $K^+$  | Inside >> Outside   | pushes $K^+$ **out**  | more - | pulls $K^+$ **in**       |
+| Ion | Concentration gradient | Force of diffusion  | Sign of electrostatic force |
+|--------|--------------------------|---------------------|---------------------|
+| $K^+$  | $[K^+]_{i} >> [K^+]_{o}$ | outward        | -     |
+| $Na^+$ | $[Na^+]_{i} << [Na^+]_{o}$ | inward       | -     |
 
-## Summary of forces in neuron at rest
-
-| Ion | Concentration gradient | Effect of ion flow | Flow effect on membrane voltage | Effect of negative membrane potential |
-|-----|------------------------|---------------------|---------------------------|--------------------|
-| $Na^+$ | Outside >> Inside   | pushes $Na^+$ **in** | more + | pulls  $Na^+$ **in**       |
-
-## Summary: Why is there a resting membrane potential?
+## Summary: Why is there a membrane potential?
 
 - Na+/K+ pump creates concentration differences
 - K+ flow out (slowly), creating charge separation
-- Charge separation $\rightarrow$ voltage
+- Charge separation $\rightarrow$ voltage (membrane potential)
 - Voltage has negative sign (positive $K^+$ exit; negative $A^-$ remain)
 
-## Summary: Why is there a resting membrane potential?
+## Summary: Why is there a membrane potential?
 
-- Na+ ions flow in (*very* slowly, < $K^+$ flow out), reducing charge separation a bit
+- Na+ ions flow in (*very* slowly, < $K^+$ flows out)
+- Reducing charge separation (a bit), makes membrane potential less negative
 - Net result
   - Balance of diffusion and electrical forces acting on $K^+$ and $Na^+$
+  
+## (Aside) Khan Academy video
+
+{{< video https://www.youtube.com/embed/PtKAeihnbv0 height="70%" width="100%" >}}
+
+-- @khanacademymedicine2012-fl
 
 ## What happens if something changes?
 
 - "Something" == ion channels open (or close)
-- Easier for $Na^+$ to enter?
+- Easier for $Na^+$ to enter? Or $K^+$ to exit?
 - Some action!
 
 ## Action potential
@@ -305,7 +301,7 @@ We provide information about this, and the equivalent circuit model, in the next
 - No AP can be generated
 :::
 ::: {.column width=50%}
-![](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif)
+![](../include/img/action-potential.gif)
 :::
 ::::
 
@@ -319,7 +315,7 @@ We provide information about this, and the equivalent circuit model, in the next
   - membrane potential is more negative than resting potential
 :::
 ::: {.column width=50%}
-![](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif)
+![](../include/img/action-potential.gif)
 :::
 ::::
 
@@ -349,6 +345,10 @@ We provide information about this, and the equivalent circuit model, in the next
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
 :::
 ::::
+
+## Simulating the action potential
+
+- <https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html>
 
 ## How action potentials propagate
 
@@ -454,7 +454,7 @@ We provide information about this, and the equivalent circuit model, in the next
 
 ## Information processing
 
-- AP amplitudes don't vary (much)
+- Action potential amplitudes don't vary (much)
     + All or none
     + $Na^+$/$K^+$ pumps working all the time
     + $[K^+]$ & $[Na^+]$ don't vary much, so
@@ -462,17 +462,16 @@ We provide information about this, and the equivalent circuit model, in the next
     
 ## Information processing
 
-- AP *frequency* and *timing* vary
-    + Rate vs. timing codes
-    + Neurons use both
-
-<!-- ::: {.infobox} -->
-
-<!-- ```{r fig.cap="Hodgkin-Huxley: https://www.youtube.com/watch?v=k48jXzFGMc8"} -->
-<!-- knitr::include_url("https://www.youtube.com/watch?v=k48jXzFGMc8") -->
-<!-- ``` -->
-
-<!-- ::: -->
+:::: {.columns}
+::: {.column width=50%}
+- Action potential *frequency* and *timing* vary
+  + Rate vs. timing codes
+  + Neurons use both
+:::
+::: {.column width=50%}
+![@eyherabide_bursts_2009](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
+:::
+::::
 
 ## Main points
 

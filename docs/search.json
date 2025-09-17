@@ -4048,7 +4048,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#references",
     "title": "Neurophysiology II",
     "section": "References",
-    "text": "References\n\n\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, August 30). Nerve conduction velocity. Retrieved from https://en.wikipedia.org/wiki/Nerve_conduction_velocity",
+    "text": "References\n\n\n\n\nEyherabide, H. G., Rokem, A., Herz, A. V. M., Samengo, I., Eyherabide, H. G., Rokem, A., … Samengo, I. (2009). Bursts generate a non-reducible spike-pattern code. Frontiers in Neuroscience, 3, 1. https://doi.org/10.3389/neuro.01.002.2009\n\n\nkhanacademymedicine. (2012). Membrane potentials - part 1 | circulatory system physiology | NCLEX-RN | khan academy. Youtube. Retrieved from https://www.youtube.com/watch?v=PtKAeihnbv0&t=1s\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, August 30). Nerve conduction velocity. Retrieved from https://en.wikipedia.org/wiki/Nerve_conduction_velocity",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4312,7 +4312,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#neuron-resting-potential-k-equilibrium-potential",
     "title": "Neurophysiology II",
     "section": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential",
-    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\nOther ions flow\nResting potential == net effects of all ion flows across membrane",
+    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\nOther ions flow, especially \\(Na^+\\)\nResting potential == net effects of all ion flows across membrane\nGoldman-Hodgkin-Katz equation",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4345,7 +4345,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#na-role-1",
     "title": "Neurophysiology II",
     "section": "\\(Na^+\\) role",
-    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) Equilibrium potential is positive\n\\(Na^+\\) has equilibrium potential ~ + 60 mV\nWould need positive interior to keep \\(Na^+\\) from flowing in",
+    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) Equilibrium potential is positive\n\\(Na^+\\) has equilibrium potential ~ + 60 mV\nWould need positive membrane potential to keep \\(Na^+\\) from flowing in",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4400,7 +4400,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#what-happens-if-something-changes",
     "title": "Neurophysiology II",
     "section": "What happens if something changes?",
-    "text": "What happens if something changes?\n\n“Something” == ion channels open (or close)\nEasier for \\(Na^+\\) to enter?\nSome action!",
+    "text": "What happens if something changes?\n\n“Something” == ion channels open (or close)\nEasier for \\(Na^+\\) to enter? Or \\(K^+\\) to exit?\nSome action!",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4554,7 +4554,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#information-processing",
     "title": "Neurophysiology II",
     "section": "Information processing",
-    "text": "Information processing\n\nAP amplitudes don’t vary (much)\n\nAll or none\n\\(Na^+\\)/\\(K^+\\) pumps working all the time\n\\([K^+]\\) & \\([Na^+]\\) don’t vary much, so\n\\(V_{K^+}\\) & \\(V_{Na^+}\\) don’t vary much",
+    "text": "Information processing\n\nAction potential amplitudes don’t vary (much)\n\nAll or none\n\\(Na^+\\)/\\(K^+\\) pumps working all the time\n\\([K^+]\\) & \\([Na^+]\\) don’t vary much, so\n\\(V_{K^+}\\) & \\(V_{Na^+}\\) don’t vary much",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4697,7 +4697,150 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#information-processing-1",
     "title": "Neurophysiology II",
     "section": "Information processing",
-    "text": "Information processing\n\nAP frequency and timing vary\n\nRate vs. timing codes\nNeurons use both",
+    "text": "Information processing\n\n\n\nAction potential frequency and timing vary\n\nRate vs. timing codes\nNeurons use both\n\n\n\n\n\n\nEyherabide et al. (2009)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-1",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-1",
+    "title": "Neurophysiology II",
+    "section": "Why is there a membrane potential?",
+    "text": "Why is there a membrane potential?\n\n\n\nConcentration differences create a two forces of diffusion\nDiffusion from high concentration to low\n\n\\(K^+\\) pushed out\n\\(Na^2\\) pushed in\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-2",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-2",
+    "title": "Neurophysiology II",
+    "section": "Why is there a membrane potential?",
+    "text": "Why is there a membrane potential?\n\n\n\nLarge organic anions \\(A^-\\) can’t diffuse out.\nOutflow of \\(K^+\\) creates +/- charge separation along membrane\nCharge separation creates a voltage (potential)\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-3",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-3",
+    "title": "Neurophysiology II",
+    "section": "Why is there a membrane potential?",
+    "text": "Why is there a membrane potential?\n\n\nElectrostatic force balances force of diffusion\n\nVoltage build-up along membrane slows \\(K^+\\) outflow\nSpecific voltage that stops flow == equilibrium potential for \\(K^+\\)\n\\(K^+\\) positive, so equilibrium potential negative (w/ respect to outside)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#aside-on-equilibrium-potential",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#aside-on-equilibrium-potential",
+    "title": "Neurophysiology II",
+    "section": "(Aside) on equilibrium potential",
+    "text": "(Aside) on equilibrium potential\n\n\n\nCan be calculated based on ion concentrations\nNernst equation\nRests on electronic circuit model of membrane\n\n\n\n\n\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#summary-why-is-there-a-membrane-potential",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#summary-why-is-there-a-membrane-potential",
+    "title": "Neurophysiology II",
+    "section": "Summary: Why is there a membrane potential?",
+    "text": "Summary: Why is there a membrane potential?\n\nNa+/K+ pump creates concentration differences\nK+ flow out (slowly), creating charge separation\nCharge separation \\(\\rightarrow\\) voltage (membrane potential)\nVoltage has negative sign (positive \\(K^+\\) exit; negative \\(A^-\\) remain)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#summary-why-is-there-a-membrane-potential-1",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#summary-why-is-there-a-membrane-potential-1",
+    "title": "Neurophysiology II",
+    "section": "Summary: Why is there a membrane potential?",
+    "text": "Summary: Why is there a membrane potential?\n\nNa+ ions flow in (very slowly, &lt; \\(K^+\\) flows out)\nReducing charge separation (a bit), makes membrane potential less negative\nNet result\n\nBalance of diffusion and electrical forces acting on \\(K^+\\) and \\(Na^+\\)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#na-role-2",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#na-role-2",
+    "title": "Neurophysiology II",
+    "section": "\\(Na^+\\) role",
+    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) inflow makes membrane potential more positive (less negative) than it would be with \\(K^+\\) outflow alone\nResting potential (-55-70mV) more positive than \\(K^+\\) equilibrium potential",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#summary-of-forces",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#summary-of-forces",
+    "title": "Neurophysiology II",
+    "section": "Summary of forces",
+    "text": "Summary of forces\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nForce of diffusion\nSign of electrostatic force\n\n\n\n\n\\(K^+\\)\n\\([K^+]_{i} &gt;&gt; [K^+]_{o}\\)\noutward\n-\n\n\n\\(Na^+\\)\n\\([Na^+]_{i} &lt;&lt; [Na^+]_{o}\\)\ninward\n-",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#summary-of-forces-1",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#summary-of-forces-1",
+    "title": "Neurophysiology II",
+    "section": "Summary of forces",
+    "text": "Summary of forces\n\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nEffect of ion flow\nFlow effect on membrane voltage\nEffect of negative membrane potential\n\n\n\n\n\\(Na^+\\)\nOutside &gt;&gt; Inside\npushes \\(Na^+\\) in\nmore +\npulls \\(Na^+\\) in",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#simulating-diffusion",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#simulating-diffusion",
+    "title": "Neurophysiology II",
+    "section": "Simulating diffusion",
+    "text": "Simulating diffusion",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#simulating-action-potentials",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#simulating-action-potentials",
+    "title": "Neurophysiology II",
+    "section": "Simulating action potentials",
+    "text": "Simulating action potentials",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#simulating-the-action-potential",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#simulating-the-action-potential",
+    "title": "Neurophysiology II",
+    "section": "Simulating the action potential",
+    "text": "Simulating the action potential\n\nhttps://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#aside-khan-academy-video",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#aside-khan-academy-video",
+    "title": "Neurophysiology II",
+    "section": "(Aside) Khan Academy video",
+    "text": "(Aside) Khan Academy video\n\n– khanacademymedicine (2012)",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
