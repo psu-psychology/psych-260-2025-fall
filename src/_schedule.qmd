@@ -114,6 +114,8 @@ This means to read pages 3 to 15.
 
 *`{r} sched_df$class_2_theme[4]`*
 
+- *Slides*:  | [html](slides/wk-04-2025-09-18-neurophys.qmd) |
+
 ## `{r} sched_df$week[5]` {- #week-05}
 
 ### `{r} prettify_date(sched_df$class_day_1[5])` {-}

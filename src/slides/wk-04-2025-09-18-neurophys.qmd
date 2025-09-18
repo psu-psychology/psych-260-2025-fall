@@ -67,12 +67,19 @@ fig-align: "center"
 
 # Neurophysiology II
 
+## Why should we care?
+
+- Neurons send electrical signals (action potentials) over long distances
+- Enables big, multicellular organisms to *behave*
+- How do neurons create action potentials?
+- How does the neuron "reset" after it fires an action potential?
+
 ## Resting membrane potential
 
 :::: {.columns}
 ::: {.column width=50%}
 - Voltage across neuron's membrane
-- -65-70 mV (~1/20th of a 1.2 V battery)
+- -65-70 mV (~1/20th of a 1.5 V battery)
 - Voltage $\rightarrow$ current can flow
 :::
 ::: {.column width=50%}
@@ -103,7 +110,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- Concentration differences create a two *forces of diffusion*
+- Concentration differences create two *forces of diffusion*
 - Diffusion from high concentration to low
   - $K^+$ pushed out
   - $Na^2$ pushed in
@@ -123,7 +130,7 @@ fig-align: "center"
 
 A practical illustration of the force of diffusion.
 
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg){width="70%"}
 
 :::
 
@@ -158,8 +165,8 @@ A practical illustration of the force of diffusion.
 :::: {.columns}
 ::: {.column width=50%}
 - Can be [calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) based on ion concentrations
-- Nernst equation
-- Rests on electronic circuit model of membrane
+- Nernst equation: $\frac{RT}{nF}\ln\frac{[K^+]_o}{[K^+]_i}$
+- Related to electronic circuit model of membrane
 :::
 ::: {.column width=50%}
 ::: {.fragment}
@@ -171,9 +178,9 @@ A practical illustration of the force of diffusion.
 ## Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
 
 - Resting potential not just due to $K^+$
-- Other ions flow, especially $Na^+$
+- $Na^+$ inflow contributes
 - Resting potential == net effects of *all* ion flows across membrane
-- Goldman-Hodgkin-Katz equation
+  - Calculate with Goldman-Hodgkin-Katz equation
 
 ## $Na^+$ role
 

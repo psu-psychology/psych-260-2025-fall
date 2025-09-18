@@ -4008,7 +4008,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#resting-membrane-potential",
     "title": "Neurophysiology II",
     "section": "Resting membrane potential",
-    "text": "Resting membrane potential\n\n\n\nVoltage across neuron’s membrane\n-65-70 mV (~1/20th of a 1.2 V battery)\nVoltage \\(\\rightarrow\\) current can flow",
+    "text": "Resting membrane potential\n\n\n\nVoltage across neuron’s membrane\n-65-70 mV (~1/20th of a 1.5 V battery)\nVoltage \\(\\rightarrow\\) current can flow",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4312,7 +4312,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#neuron-resting-potential-k-equilibrium-potential",
     "title": "Neurophysiology II",
     "section": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential",
-    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\nOther ions flow, especially \\(Na^+\\)\nResting potential == net effects of all ion flows across membrane\nGoldman-Hodgkin-Katz equation",
+    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\n\\(Na^+\\) inflow contributes\nResting potential == net effects of all ion flows across membrane\n\nCalculate with Goldman-Hodgkin-Katz equation",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4708,7 +4708,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#why-is-there-a-membrane-potential-1",
     "title": "Neurophysiology II",
     "section": "Why is there a membrane potential?",
-    "text": "Why is there a membrane potential?\n\n\n\nConcentration differences create a two forces of diffusion\nDiffusion from high concentration to low\n\n\\(K^+\\) pushed out\n\\(Na^2\\) pushed in\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential",
+    "text": "Why is there a membrane potential?\n\n\n\nConcentration differences create two forces of diffusion\nDiffusion from high concentration to low\n\n\\(K^+\\) pushed out\n\\(Na^2\\) pushed in\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4741,7 +4741,7 @@
     "href": "slides/wk-04-2025-09-18-neurophys.html#aside-on-equilibrium-potential",
     "title": "Neurophysiology II",
     "section": "(Aside) on equilibrium potential",
-    "text": "(Aside) on equilibrium potential\n\n\n\nCan be calculated based on ion concentrations\nNernst equation\nRests on electronic circuit model of membrane\n\n\n\n\n\n\nWikipedia",
+    "text": "(Aside) on equilibrium potential\n\n\n\nCan be calculated based on ion concentrations\nNernst equation: \\(\\frac{RT}{nF}\\ln\\frac{[K^+]_o}{[K^+]_i}\\)\nRelated to electronic circuit model of membrane\n\n\n\n\n\n\nWikipedia",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
@@ -4841,6 +4841,17 @@
     "title": "Neurophysiology II",
     "section": "(Aside) Khan Academy video",
     "text": "(Aside) Khan Academy video\n\n– khanacademymedicine (2012)",
+    "crumbs": [
+      "Slides",
+      "Wk 04 • Thu Sep 19"
+    ]
+  },
+  {
+    "objectID": "slides/wk-04-2025-09-18-neurophys.html#why-should-we-care",
+    "href": "slides/wk-04-2025-09-18-neurophys.html#why-should-we-care",
+    "title": "Neurophysiology II",
+    "section": "Why should we care?",
+    "text": "Why should we care?\n\nNeurons send electrical signals (action potentials) over long distances\nEnables big, multicellular organisms to behave\nHow do neurons create action potentials?\nHow does the neuron “reset” after it fires an action potential?",
     "crumbs": [
       "Slides",
       "Wk 04 • Thu Sep 19"
