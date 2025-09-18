@@ -113,7 +113,7 @@ fig-align: "center"
 - Concentration differences create two *forces of diffusion*
 - Diffusion from high concentration to low
   - $K^+$ pushed out
-  - $Na^2$ pushed in
+  - $Na^+$ pushed in
 :::
 ::: {.column width=50%}
 ![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
