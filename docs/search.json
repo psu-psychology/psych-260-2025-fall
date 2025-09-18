@@ -54,7 +54,7 @@
     "href": "schedule.html#week-05",
     "title": "Schedule",
     "section": "Week 05",
-    "text": "Week 05\n\nTue, Sep 23, 2025\nNeurophysiology III; Exam 1 Review\n\n\nThu, Sep 25, 2025\nExam 1",
+    "text": "Week 05\n\nTue, Sep 23, 2025\nNeurophysiology III; Exam 1 Review\n\nSlides: | html |\n\n\n\nThu, Sep 25, 2025\nExam 1",
     "crumbs": [
       "Schedule"
     ]
@@ -4608,364 +4608,440 @@
     "href": "slides/wk-05-2025-09-23-exam-rev.html#todays-topics",
     "title": "Exam I review",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm-up\nQuiz 1 review\nExam 1 review"
+    "text": "Today’s topics\n\nWarm-up\nQuiz 1 review\nExam 1 review",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-k-ions-concentrated-the-most",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-k-ions-concentrated-the-most",
     "title": "Exam I review",
     "section": "Where are potassium (K) ions concentrated the most?",
-    "text": "Where are potassium (K) ions concentrated the most?\n\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above"
+    "text": "Where are potassium (K) ions concentrated the most?\n\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-glial-cells-contribute-to-the-bloodbrain-barrier",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-glial-cells-contribute-to-the-bloodbrain-barrier",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-k-ions-concentrated-the-most-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-k-ions-concentrated-the-most-1",
     "title": "Exam I review",
-    "section": "Which of the following glial cells contribute to the blood/brain barrier?",
-    "text": "Which of the following glial cells contribute to the blood/brain barrier?\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above"
+    "section": "Where are potassium (K) ions concentrated the most?",
+    "text": "Where are potassium (K) ions concentrated the most?\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-na-ions-concentrated-the-most",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-na-ions-concentrated-the-most",
     "title": "Exam I review",
     "section": "Where are potassium (Na) ions concentrated the most?",
-    "text": "Where are potassium (Na) ions concentrated the most?\n\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above"
+    "text": "Where are potassium (Na) ions concentrated the most?\n\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-glial-cells-contribute-to-the-bloodbrain-barrier-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-glial-cells-contribute-to-the-bloodbrain-barrier-1",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-na-ions-concentrated-the-most-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#where-are-potassium-na-ions-concentrated-the-most-1",
     "title": "Exam I review",
-    "section": "Which of the following glial cells contribute to the blood/brain barrier?",
-    "text": "Which of the following glial cells contribute to the blood/brain barrier?\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above"
+    "section": "Where are potassium (Na) ions concentrated the most?",
+    "text": "Where are potassium (Na) ions concentrated the most?\n\nA. Inside the neuron\nB. Outside the neuron\nC. In microglia\nD. None of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neurons-are-unusual-among-cells-because-they",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#neurons-are-unusual-among-cells-because-they",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#in-a-neuron-at-resting-potential-what-forces-act-on-na",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#in-a-neuron-at-resting-potential-what-forces-act-on-na",
     "title": "Exam I review",
-    "section": "Neurons are unusual among cells because they…",
-    "text": "Neurons are unusual among cells because they…\n\n\nA. Have unusually long lives.\nB. Have a membrane.\nC. Have a nucleus and chromosomes.\nD. Are born throughout the lifespan."
+    "section": "In a neuron at resting potential, what force(s) act on \\(Na^+\\)?",
+    "text": "In a neuron at resting potential, what force(s) act on \\(Na^+\\)?\n\n\nA. Force of diffusion: pushing inward\nB. Force of diffusion: pushing outward\nC. Electrostatic force: pulling inward\nD. A and C.",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neurons-are-unusual-among-cells-because-they-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#neurons-are-unusual-among-cells-because-they-1",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#in-a-neuron-at-resting-potential-what-forces-act-on-na2",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#in-a-neuron-at-resting-potential-what-forces-act-on-na2",
     "title": "Exam I review",
-    "section": "Neurons are unusual among cells because they…",
-    "text": "Neurons are unusual among cells because they…\n\nA. Have unusually long lives.\nB. Have a membrane.\nC. Have a nucleus and chromosomes.\nD. Are born throughout the lifespan."
+    "section": "In a neuron at resting potential, what force(s) act on \\(Na^2\\)?",
+    "text": "In a neuron at resting potential, what force(s) act on \\(Na^2\\)?\n\nA. Force of diffusion: pushing inward\nB. Force of diffusion: pushing outward\nC. Electrostatic force: pulling inward\nD. A and C.",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-should-we-care",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-should-we-care",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-image-represents-what-type-of-slice",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-image-represents-what-type-of-slice",
     "title": "Exam I review",
-    "section": "Why should we care?",
-    "text": "Why should we care?\n\nNeurons send electrical signals (action potentials) over long distances\nEnables big, multicellular organisms to behave\nHow do neurons create action potentials?\nHow does the neuron “reset” after it fires an action potential?"
+    "section": "1. The image represents what type of slice?",
+    "text": "1. The image represents what type of slice?\n\n\n\n\nA. Sagittal\nB. Horizontal\nC. Coronal\nD. Axial",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#resting-membrane-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#resting-membrane-potential",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-image-represents-what-type-of-slice-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-image-represents-what-type-of-slice-1",
     "title": "Exam I review",
-    "section": "Resting membrane potential",
-    "text": "Resting membrane potential\n\n\n\nVoltage across neuron’s membrane\n-65-70 mV (~1/20th of a 1.5 V battery)\nVoltage \\(\\rightarrow\\) current can flow"
+    "section": "1. The image represents what type of slice?",
+    "text": "1. The image represents what type of slice?\n\n\n\nA. Sagittal\nB. Horizontal\nC. Coronal\nD. Axial",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#all-of-the-following-structures-can-be-seen-in-the-figure-except",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#all-of-the-following-structures-can-be-seen-in-the-figure-except",
     "title": "Exam I review",
-    "section": "Why is there a membrane potential?",
-    "text": "Why is there a membrane potential?\n\nNa+/K+ pump creates ion concentration differences\n\n\\([K^+]_{inside} &gt;&gt; [K^+]_{outside}\\)\n\\([Na^+]_{outside} &gt;&gt; [Na^+]_{inside}\\)"
+    "section": "2. All of the following structures can be seen in the figure EXCEPT",
+    "text": "2. All of the following structures can be seen in the figure EXCEPT\n\n\n\n\nA. Cerebellum\nB. Corpus callosum\nC. Lateral ventricles\nD. Cerebral cortex",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#nak-pump",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#nak-pump",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#all-of-the-following-structures-can-be-seen-in-the-figure-except-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#all-of-the-following-structures-can-be-seen-in-the-figure-except-1",
     "title": "Exam I review",
-    "section": "Na+/K+ “pump”",
-    "text": "Na+/K+ “pump”\n\n\n\nAlso known as Na+/K+-ATPase\nMoves ions across membrane\nWith metabolic “help” (energy expenditure)"
+    "section": "2. All of the following structures can be seen in the figure EXCEPT",
+    "text": "2. All of the following structures can be seen in the figure EXCEPT\n\n\n\nA. Cerebellum\nB. Corpus callosum\nC. Lateral ventricles\nD. Cerebral cortex",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-1",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-figure-illustrates-which-imaging-model",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-figure-illustrates-which-imaging-model",
     "title": "Exam I review",
-    "section": "Why is there a membrane potential?",
-    "text": "Why is there a membrane potential?\n\n\n\nConcentration differences create two forces of diffusion\nDiffusion from high concentration to low\n\n\\(K^+\\) pushed out\n\\(Na^2\\) pushed in\n\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential"
+    "section": "3. The figure illustrates which imaging model?",
+    "text": "3. The figure illustrates which imaging model?\n\n\n\n\nA. CT\nB. PET\nC. Magnetoencephalography (MEG)\nD. MRI",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#force-of-diffusion",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#force-of-diffusion",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-figure-illustrates-which-imaging-model-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-figure-illustrates-which-imaging-model-1",
     "title": "Exam I review",
-    "section": "Force of diffusion",
-    "text": "Force of diffusion\n\nWikipedia"
+    "section": "3. The figure illustrates which imaging model?",
+    "text": "3. The figure illustrates which imaging model?\n\n\n\nA. CT\nB. PET\nC. Magnetoencephalography (MEG)\nD. MRI",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#simulating-diffusion",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#simulating-diffusion",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#in-the-mid-1600s-reflexes-and-animal-minds-were-thought-of-as-____.",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#in-the-mid-1600s-reflexes-and-animal-minds-were-thought-of-as-____.",
     "title": "Exam I review",
-    "section": "Simulating diffusion",
-    "text": "Simulating diffusion"
+    "section": "4. In the mid-1600s, reflexes and animal minds were thought of as ____.",
+    "text": "4. In the mid-1600s, reflexes and animal minds were thought of as ____.\n\n\nA. Human minds\nB. Machines\nC. Early computers\nD. Artificial intelligence",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-2",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-2",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#in-the-mid-1600s-reflexes-and-animal-minds-were-thought-of-as-____.-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#in-the-mid-1600s-reflexes-and-animal-minds-were-thought-of-as-____.-1",
     "title": "Exam I review",
-    "section": "Why is there a membrane potential?",
-    "text": "Why is there a membrane potential?\n\n\n\nLarge organic anions \\(A^-\\) can’t diffuse out.\nOutflow of \\(K^+\\) creates +/- charge separation along membrane\nCharge separation creates a voltage (potential)\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Membrane_potential"
+    "section": "4. In the mid-1600s, reflexes and animal minds were thought of as ____.",
+    "text": "4. In the mid-1600s, reflexes and animal minds were thought of as ____.\n\nA. Human minds\nB. Machines\nC. Early computers\nD. Artificial intelligence",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-3",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-is-there-a-membrane-potential-3",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#descartes-thought-that-this-structure-was-the-place-where-the-soul-influenced-the-human-bodys-voluntary-movements.",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#descartes-thought-that-this-structure-was-the-place-where-the-soul-influenced-the-human-bodys-voluntary-movements.",
     "title": "Exam I review",
-    "section": "Why is there a membrane potential?",
-    "text": "Why is there a membrane potential?\n\n\nElectrostatic force balances force of diffusion\n\nVoltage build-up along membrane slows \\(K^+\\) outflow\nSpecific voltage that stops flow == equilibrium potential for \\(K^+\\)\n\\(K^+\\) positive, so equilibrium potential negative (w/ respect to outside)"
+    "section": "5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.",
+    "text": "5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.\n\n\nA. The pons\nB. The pituitary gland\nC. The pineal gland\nD. The reflexive complex",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#aside-on-equilibrium-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#aside-on-equilibrium-potential",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#descartes-thought-that-this-structure-was-the-place-where-the-soul-influenced-the-human-bodys-voluntary-movements.-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#descartes-thought-that-this-structure-was-the-place-where-the-soul-influenced-the-human-bodys-voluntary-movements.-1",
     "title": "Exam I review",
-    "section": "(Aside) on equilibrium potential",
-    "text": "(Aside) on equilibrium potential\n\n\n\nCan be calculated based on ion concentrations\nNernst equation: \\(\\frac{RT}{nF}\\ln\\frac{[K^+]_o}{[K^+]_i}\\)\nRelated to electronic circuit model of membrane\n\n\n\n\n\n\nWikipedia"
+    "section": "5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.",
+    "text": "5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.\n\nA. The pons\nB. The pituitary gland\nC. The pineal gland\nD. The reflexive complex",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neuron-resting-potential-k-equilibrium-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#neuron-resting-potential-k-equilibrium-potential",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-tongue-is-_______________-with-respect-to-the-nose.",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-tongue-is-_______________-with-respect-to-the-nose.",
     "title": "Exam I review",
-    "section": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential",
-    "text": "Neuron resting potential ≠ \\(K^+\\) equilibrium potential\n\nResting potential not just due to \\(K^+\\)\n\\(Na^+\\) inflow contributes\nResting potential == net effects of all ion flows across membrane\n\nCalculate with Goldman-Hodgkin-Katz equation"
+    "section": "6. The tongue is _______________ with respect to the nose.",
+    "text": "6. The tongue is _______________ with respect to the nose.\n\n\nA. Ventral\nB. Superior\nC. Dorsal\nD. Medial",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#na-role",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#na-role",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#the-tongue-is-_______________-with-respect-to-the-nose.-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#the-tongue-is-_______________-with-respect-to-the-nose.-1",
     "title": "Exam I review",
-    "section": "\\(Na^+\\) role",
-    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) concentrated outside neuron\nMembrane at rest not very permeable to \\(Na^+\\)\nSome, but not much \\(Na^+\\) flows in"
+    "section": "6. The tongue is _______________ with respect to the nose.",
+    "text": "6. The tongue is _______________ with respect to the nose.\n\nA. Ventral\nB. Superior\nC. Dorsal\nD. Medial",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#na-role-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#na-role-1",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-is-not-mri-related",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-is-not-mri-related",
     "title": "Exam I review",
-    "section": "\\(Na^+\\) role",
-    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) Equilibrium potential is positive\n\\(Na^+\\) has equilibrium potential ~ + 60 mV\nWould need positive membrane potential to keep \\(Na^+\\) from flowing in"
+    "section": "7. Which of the following is NOT MRI-related?",
+    "text": "7. Which of the following is NOT MRI-related?\n\n\nA. Diffusion Tensor Imaging (DTI)\nB. Voxel-based Morphometry (VBM)\nC. Computed Tomography (CT)\nD. Magnetic Resonance (MR) spectroscopy",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#na-role-2",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#na-role-2",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-is-not-mri-related-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-the-following-is-not-mri-related-1",
     "title": "Exam I review",
-    "section": "\\(Na^+\\) role",
-    "text": "\\(Na^+\\) role\n\n\n\n\\(Na^+\\) inflow makes membrane potential more positive (less negative) than it would be with \\(K^+\\) outflow alone\nResting potential (-55-70mV) more positive than \\(K^+\\) equilibrium potential"
+    "section": "7. Which of the following is NOT MRI-related?",
+    "text": "7. Which of the following is NOT MRI-related?\n\nA. Diffusion Tensor Imaging (DTI)\nB. Voxel-based Morphometry (VBM)\nC. Computed Tomography (CT)\nD. Magnetic Resonance (MR) spectroscopy",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#summary-of-forces",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#summary-of-forces",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#what-is-singlemulti-unit-recording-most-commonly-used-in",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#what-is-singlemulti-unit-recording-most-commonly-used-in",
     "title": "Exam I review",
-    "section": "Summary of forces",
-    "text": "Summary of forces\n\n\n\n\n\n\n\n\n\nIon\nConcentration gradient\nForce of diffusion\nSign of electrostatic force\n\n\n\n\n\\(K^+\\)\n\\([K^+]_{i} &gt;&gt; [K^+]_{o}\\)\noutward\n-\n\n\n\\(Na^+\\)\n\\([Na^+]_{i} &lt;&lt; [Na^+]_{o}\\)\ninward\n-"
+    "section": "8. What is single/multi-unit recording most commonly used in?",
+    "text": "8. What is single/multi-unit recording most commonly used in?\n\n\nA. Humans\nB. Animals\nC. Both\nD. Neither",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#summary-why-is-there-a-membrane-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#summary-why-is-there-a-membrane-potential",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#what-is-singlemulti-unit-recording-most-commonly-used-in-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#what-is-singlemulti-unit-recording-most-commonly-used-in-1",
     "title": "Exam I review",
-    "section": "Summary: Why is there a membrane potential?",
-    "text": "Summary: Why is there a membrane potential?\n\nNa+/K+ pump creates concentration differences\nK+ flow out (slowly), creating charge separation\nCharge separation \\(\\rightarrow\\) voltage (membrane potential)\nVoltage has negative sign (positive \\(K^+\\) exit; negative \\(A^-\\) remain)"
+    "section": "8. What is single/multi-unit recording most commonly used in?",
+    "text": "8. What is single/multi-unit recording most commonly used in?\n\nA. Humans\nB. Animals\nC. Both\nD. Neither",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#summary-why-is-there-a-membrane-potential-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#summary-why-is-there-a-membrane-potential-1",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#electroencephalography-eeg-has-___-temporal-resolution-than-functional-mri-but-___-spatial-resolution.",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#electroencephalography-eeg-has-___-temporal-resolution-than-functional-mri-but-___-spatial-resolution.",
     "title": "Exam I review",
-    "section": "Summary: Why is there a membrane potential?",
-    "text": "Summary: Why is there a membrane potential?\n\nNa+ ions flow in (very slowly, &lt; \\(K^+\\) flows out)\nReducing charge separation (a bit), makes membrane potential less negative\nNet result\n\nBalance of diffusion and electrical forces acting on \\(K^+\\) and \\(Na^+\\)"
+    "section": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.",
+    "text": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.\n\n\nA. better; similar\nB. better; worse\nC. worse; better\nD. worse; similar",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#aside-khan-academy-video",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#aside-khan-academy-video",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#electroencephalography-eeg-has-___-temporal-resolution-than-functional-mri-but-___-spatial-resolution.-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#electroencephalography-eeg-has-___-temporal-resolution-than-functional-mri-but-___-spatial-resolution.-1",
     "title": "Exam I review",
-    "section": "(Aside) Khan Academy video",
-    "text": "(Aside) Khan Academy video\n\n– khanacademymedicine (2012)"
+    "section": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.",
+    "text": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.\n\nA. better; similar\nB. better; worse\nC. worse; better\nD. worse; similar",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#what-happens-if-something-changes",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#what-happens-if-something-changes",
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-these-landmarks-separates-the-frontal-lobe-from-the-parietal-lobe",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-these-landmarks-separates-the-frontal-lobe-from-the-parietal-lobe",
     "title": "Exam I review",
-    "section": "What happens if something changes?",
-    "text": "What happens if something changes?\n\n“Something” == ion channels open (or close)\nEasier for \\(Na^+\\) to enter? Or \\(K^+\\) to exit?\nSome action!"
+    "section": "10. Which of these landmarks separates the frontal lobe from the parietal lobe?",
+    "text": "10. Which of these landmarks separates the frontal lobe from the parietal lobe?\n\n\nA. Lateral fissure\nB. Longitudinal fissure\nC. Anterior cingulate gyrus\nD. Central sulcus",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-of-these-landmarks-separates-the-frontal-lobe-from-the-parietal-lobe-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-of-these-landmarks-separates-the-frontal-lobe-from-the-parietal-lobe-1",
+    "title": "Exam I review",
+    "section": "10. Which of these landmarks separates the frontal lobe from the parietal lobe?",
+    "text": "10. Which of these landmarks separates the frontal lobe from the parietal lobe?\n\nA. Lateral fissure\nB. Longitudinal fissure\nC. Anterior cingulate gyrus\nD. Central sulcus",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-brain-structure-means-little-brain",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-brain-structure-means-little-brain",
+    "title": "Exam I review",
+    "section": "11. Which brain structure means “little brain”?",
+    "text": "11. Which brain structure means “little brain”?\n\n\nA. Tectum\nB. Hippocampus\nC. Cerebrum\nD. Cerebellum",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#which-brain-structure-means-little-brain-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#which-brain-structure-means-little-brain-1",
+    "title": "Exam I review",
+    "section": "11. Which brain structure means “little brain”?",
+    "text": "11. Which brain structure means “little brain”?\n\nA. Tectum\nB. Hippocampus\nC. Cerebrum\nD. Cerebellum",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy",
+    "title": "Exam I review",
+    "section": "Neuroanatomy",
+    "text": "Neuroanatomy\n\nIdentify the lobes of the cerebral cortex from a brain image\nSulcus/fissure landmarks of frontal, temporal, parietal lobe, cerebral hemispheres\nIdentify hindbrain regions from a brain image",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy-1",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy-1",
+    "title": "Exam I review",
+    "section": "Neuroanatomy",
+    "text": "Neuroanatomy\n\nFunction, location, components of midbrain\nParts and role of meninges\nFuntion of sympathetic vs. parasympathetic nervous system",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy-2",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#neuroanatomy-2",
+    "title": "Exam I review",
+    "section": "Neuroanatomy",
+    "text": "Neuroanatomy\n\nFunction, location of hypothalamus\nFunction, location of hippocampus",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#methods",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#methods",
+    "title": "Exam I review",
+    "section": "Methods",
+    "text": "Methods\n\nIdentify planes of section from a brain image\nWhich methods use MR, X-rays, electromagnetic fields",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#cells-of-the-brain",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#cells-of-the-brain",
+    "title": "Exam I review",
+    "section": "Cells of the brain",
+    "text": "Cells of the brain\n\nTypes of glial cells, where found\nRole of dendrites, axon\nUnusual features of neurons (vs. other cells)",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
+  },
+  {
+    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#resting-potential",
+    "href": "slides/wk-05-2025-09-23-exam-rev.html#resting-potential",
+    "title": "Exam I review",
+    "section": "Resting potential",
+    "text": "Resting potential\n\nWhat does Na+/K+ pump do?\nHow does the force of diffusion act on K+? Na+?\nWhat organic anions A- can and can’t do, where concentrated",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#action-potential",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#action-potential",
     "title": "Exam I review",
     "section": "Action potential",
-    "text": "Action potential\n\nWikipedia"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential",
-    "title": "Exam I review",
-    "section": "Phases of the action potential",
-    "text": "Phases of the action potential\n\n\n\nThreshold of excitation\nIncrease (rising phase/depolarization)\nPeak\n\nat positive voltage\n\nDecline (falling phase/repolarization)\nReturn to resting potential (refractory period)\n\n\n\n\n\nWikipedia"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-1",
-    "title": "Exam I review",
-    "section": "Phases of the action potential",
-    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nRise to threshold\n+ input makes membrane potential more +\n\n\nRising phase\nVoltage-gated \\(Na^+\\) channels open, \\(Na^+\\) flows in"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-2",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-2",
-    "title": "Exam I review",
-    "section": "Phases of the action potential",
-    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nPeak\nVoltage-gated \\(Na^+\\) channels close and deactivate; voltage-gated \\(K^+\\) channels open\n\n\nFalling phase\n\\(K^+\\) flows out"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-3",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#phases-of-the-action-potential-3",
-    "title": "Exam I review",
-    "section": "Phases of the action potential",
-    "text": "Phases of the action potential\n\n\n\n\n\n\n\nPhase\nNeuron State\n\n\n\n\nRefractory period\n\\(Na^+\\)/\\(K^+\\) pump restores [\\(Na^+\\)], [\\(K^+\\)]; voltage-gated \\(K^+\\) channels close"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#refractory-period-phase",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#refractory-period-phase",
-    "title": "Exam I review",
-    "section": "Refractory period (phase)",
-    "text": "Refractory period (phase)\n\nAbsolute\nRelative"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#absolute-refractory-phase",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#absolute-refractory-phase",
-    "title": "Exam I review",
-    "section": "Absolute refractory phase",
-    "text": "Absolute refractory phase\n\n\n\nVoltage-gated \\(K^+\\) channels close\n\nDriving force on \\(K^+\\) tiny or absent\n\n\\(Na^+\\)/\\(K^+\\) pump restores concentration balance\nNo AP can be generated"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#relative-refractory-phase",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#relative-refractory-phase",
-    "title": "Exam I review",
-    "section": "Relative refractory phase",
-    "text": "Relative refractory phase\n\n\n\nCan generate AP with larg(er) stimulus\nSome voltage-gated \\(Na^+\\) ‘de-inactivate’\n\ncan open with large input\nmembrane potential is more negative than resting potential"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#generating-action-potentials",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#generating-action-potentials",
-    "title": "Exam I review",
-    "section": "Generating action potentials",
-    "text": "Generating action potentials\n\n\n\nAxon hillock\n\nPortion of soma adjacent to axon\nSums inputs to soma from many dendrites"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#generating-action-potentials-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#generating-action-potentials-1",
-    "title": "Exam I review",
-    "section": "Generating action potentials",
-    "text": "Generating action potentials\n\n\n\nAxon initial segment\n\nUmyelinated portion of axon adjacent to soma\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels exposed\nIf sum of input to soma &gt; threshold, voltage-gated \\(Na^+\\) channels open"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#simulating-the-action-potential",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#simulating-the-action-potential",
-    "title": "Exam I review",
-    "section": "Simulating the action potential",
-    "text": "Simulating the action potential\n\nhttps://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#how-action-potentials-propagate",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#how-action-potentials-propagate",
-    "title": "Exam I review",
-    "section": "How action potentials propagate",
-    "text": "How action potentials propagate\n\n\n\nPropagation\n\nmove down axon, away from soma, toward axon terminals.\n\nAxon is like an electrical cable"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#nodes-of-ranvier",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#nodes-of-ranvier",
-    "title": "Exam I review",
-    "section": "Nodes of Ranvier",
-    "text": "Nodes of Ranvier\n\n\n\nRegenerate action potential\n\\(Na^+\\) and \\(K^+\\) channels exposed to extracellular environment\nBetween Nodes of Ranvier, ions can’t move out, so move along\n\n\n\n\n\nWikipedia contributors (2025a)"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#nodes-of-ranvier-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#nodes-of-ranvier-1",
-    "title": "Exam I review",
-    "section": "Nodes of Ranvier",
-    "text": "Nodes of Ranvier\n\n\n\nAction potentials faster & more reliable for a given axon diameter\n\n\n\n\n\nWikipedia contributors (2025a)"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#how-action-potentials-propagate-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#how-action-potentials-propagate-1",
-    "title": "Exam I review",
-    "section": "How action potentials propagate",
-    "text": "How action potentials propagate\n\n\n\nPropagation \\(\\rightarrow\\) move\n\nmove down axon, away from soma, toward axon terminals\n\nAxon like an electrical cable"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#propagation",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#propagation",
-    "title": "Exam I review",
-    "section": "Propagation",
-    "text": "Propagation\n\n\n\nUnmyelinated axons\n\nEach segment “excites” the next\n\n\n\n\n\n\nWikipedia contributors (2025b)"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#propagation-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#propagation-1",
-    "title": "Exam I review",
-    "section": "Propagation",
-    "text": "Propagation\n\n\n\nMyelinated axon\n\nAP “jumps” between Nodes of Ranvier\nvoltage-gated \\(Na^+\\), \\(K^+\\) channels exposed\ncurrent flows through/down myelinated segments\n\n\n\n\n\n\nWikipedia contributors (2025b)"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-does-ap-flow-in-one-direction-away-from-soma",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-does-ap-flow-in-one-direction-away-from-soma",
-    "title": "Exam I review",
-    "section": "Why does AP flow in one direction, away from soma?",
-    "text": "Why does AP flow in one direction, away from soma?\n\nSoma does not have (many) voltage-gated \\(Na^+\\) channels.\nSoma is not myelinated.\nRefractory periods mean polarization works only in one direction."
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#why-does-ap-flow-in-one-direction-away-from-soma-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#why-does-ap-flow-in-one-direction-away-from-soma-1",
-    "title": "Exam I review",
-    "section": "Why does AP flow in one direction, away from soma?",
-    "text": "Why does AP flow in one direction, away from soma?\n\nSoma does not have (many) voltage-gated \\(Na^+\\) channels.\nSoma is not myelinated.\nRefractory periods mean polarization works only in one direction."
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#how-fast-are-aps",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#how-fast-are-aps",
-    "title": "Exam I review",
-    "section": "How fast are APs?",
-    "text": "How fast are APs?\n\n\n\nAxons carry information at different rates\n\nMore myelin -&gt; faster\nLarger diameter axon -&gt; faster\n\nSomatosensory information faster than pain (nociception)\n\n\n\n\n\nWikipedia contributors (2025b)"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#information-processing",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#information-processing",
-    "title": "Exam I review",
-    "section": "Information processing",
-    "text": "Information processing\n\nAction potential amplitudes don’t vary (much)\n\nAll or none\n\\(Na^+\\)/\\(K^+\\) pumps working all the time\n\\([K^+]\\) & \\([Na^+]\\) don’t vary much, so\n\\(V_{K^+}\\) & \\(V_{Na^+}\\) don’t vary much"
-  },
-  {
-    "objectID": "slides/wk-05-2025-09-23-exam-rev.html#information-processing-1",
-    "href": "slides/wk-05-2025-09-23-exam-rev.html#information-processing-1",
-    "title": "Exam I review",
-    "section": "Information processing",
-    "text": "Information processing\n\n\n\nAction potential frequency and timing vary\n\nRate vs. timing codes\nNeurons use both\n\n\n\n\n\n\nEyherabide et al. (2009)"
+    "text": "Action potential\n\nMajor event(s) during rising phase of action potential, falling phase\nTypes of refratory period\nWhat happens when neuron reaches threshold?\nFunction of Nodes of Ranvier",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#main-points",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#main-points",
     "title": "Exam I review",
     "section": "Main points",
-    "text": "Main points\n\nResting potential due ion concentration differences, balance of forces\nChange in membrane permeability to \\(Na^+\\)–voltage-gated \\(Na^+\\) channels, triggers action potential.\n\nRapid rise to peak, fall, refractory\n\nAction potentials propagate down axon"
+    "text": "Main points",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#next-time",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#next-time",
     "title": "Exam I review",
     "section": "Next time",
-    "text": "Next time\n\nNeurophysiology III\nExam 1 review"
+    "text": "Next time\n\nExam 1",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#about",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#about",
     "title": "Exam I review",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.5.1.513.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.5.1.513.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "slides/wk-05-2025-09-23-exam-rev.html#references",
     "href": "slides/wk-05-2025-09-23-exam-rev.html#references",
     "title": "Exam I review",
     "section": "References",
-    "text": "References\n\n\n\n\nEyherabide, H. G., Rokem, A., Herz, A. V. M., Samengo, I., Eyherabide, H. G., Rokem, A., … Samengo, I. (2009). Bursts generate a non-reducible spike-pattern code. Frontiers in Neuroscience, 3, 1. https://doi.org/10.3389/neuro.01.002.2009\n\n\nkhanacademymedicine. (2012). Membrane potentials - part 1 | circulatory system physiology | NCLEX-RN | khan academy. Youtube. Retrieved from https://www.youtube.com/watch?v=PtKAeihnbv0&t=1s\n\n\nWikipedia contributors. (2025a, June 13). Node of ranvier. Retrieved from https://en.wikipedia.org/wiki/Node_of_Ranvier\n\n\nWikipedia contributors. (2025b, August 30). Nerve conduction velocity. Retrieved from https://en.wikipedia.org/wiki/Nerve_conduction_velocity"
+    "text": "References",
+    "crumbs": [
+      "Slides",
+      "Wk 05 • Tue Sep 23"
+    ]
   },
   {
     "objectID": "evaluation.html",

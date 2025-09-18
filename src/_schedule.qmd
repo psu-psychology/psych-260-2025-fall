@@ -123,6 +123,8 @@ This means to read pages 3 to 15.
 
 *`{r} sched_df$class_1_theme[5]`*
 
+- *Slides*: | [html](slides/wk-05-2025-09-23-exam-rev.qmd) |
+
 ### `{r} prettify_date(sched_df$class_day_2[5])` {-}
 
 *`{r} sched_df$class_2_theme[5]`*

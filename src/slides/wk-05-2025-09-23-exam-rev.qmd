@@ -27,7 +27,7 @@ fig-align: "center"
 - D. None of the above
 :::
 
-## Which of the following glial cells contribute to the blood/brain barrier?
+## Where are potassium (K) ions concentrated the most?
 
 - **A. Inside the neuron**
 - ~~B. Outside the neuron~~
@@ -43,456 +43,297 @@ fig-align: "center"
 - D. None of the above
 :::
 
-## Which of the following glial cells contribute to the blood/brain barrier?
+## Where are potassium (Na) ions concentrated the most?
 
 - ~~A. Inside the neuron~~
 - **B. Outside the neuron**
 - ~~C. In microglia~~
 - ~~D. None of the above~~
 
-## Neurons are unusual among cells because they...
+## In a neuron at resting potential, what force(s) act on $Na^+$?
 
 ::: {.incremental}
-- A. Have unusually long lives.
-- B. Have a membrane.
-- C. Have a nucleus and chromosomes.
-- D. Are born throughout the lifespan.
+- A. Force of diffusion: pushing inward
+- B. Force of diffusion: pushing outward
+- C. Electrostatic force: pulling inward
+- D. A and C.
 :::
 
-## Neurons are unusual among cells because they...
+## In a neuron at resting potential, what force(s) act on $Na^2$?
 
-- **A. Have unusually long lives.**
-- ~~B. Have a membrane.~~
-- ~~C. Have a nucleus and chromosomes.~~
-- ~~D. Are born throughout the lifespan.~~
+- A. Force of diffusion: pushing inward
+- B. Force of diffusion: pushing outward
+- ~~C. Electrostatic force: pulling inward~~
+- **D. A and C.**
 
+# Quiz 1
 
-# Neurophysiology II
-
-## Why should we care?
-
-- Neurons send electrical signals (action potentials) over long distances
-- Enables big, multicellular organisms to *behave*
-- How do neurons create action potentials?
-- How does the neuron "reset" after it fires an action potential?
-
-## Resting membrane potential
+## 1. The image represents what type of slice?
 
 :::: {.columns}
 ::: {.column width=50%}
-- Voltage across neuron's membrane
-- -65-70 mV (~1/20th of a 1.5 V battery)
-- Voltage $\rightarrow$ current can flow
+::: {.incremental}
+- A. Sagittal
+- B. Horizontal
+- C. Coronal
+- D. Axial
+:::
 :::
 ::: {.column width=50%}
-![](https://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg){fig-align="right"}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
 :::
 ::::
 
-## Why is there a membrane potential?
-
-- Na+/K+ pump creates ion concentration differences
-  - $[K^+]_{inside} >> [K^+]_{outside}$
-  - $[Na^+]_{outside} >> [Na^+]_{inside}$
-
-## [Na+/K+ "pump"](https://en.wikipedia.org/wiki/Sodium%E2%80%93potassium_pump)
+## 1. The image represents what type of slice?
 
 :::: {.columns}
 ::: {.column width=50%}
-- Also known as Na+/K+-ATPase
-- Moves ions across membrane 
-- With metabolic "help" (energy expenditure)
+- **A. Sagittal**
+- B. Horizontal
+- C. Coronal
+- D. Axial
 :::
 ::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/8/89/0308_Sodium_Potassium_Pump.jpg)
+![](../include/img/quiz-1-figure.png){fig-align="right"}
 :::
 ::::
 
-## Why is there a membrane potential?
+## 2. All of the following structures can be seen in the figure EXCEPT
 
 :::: {.columns}
 ::: {.column width=50%}
-- Concentration differences create two *forces of diffusion*
-- Diffusion from high concentration to low
-  - $K^+$ pushed out
-  - $Na^2$ pushed in
+::: {.incremental}
+- A. Cerebellum
+- B. Corpus callosum
+- C. Lateral ventricles
+- D. Cerebral cortex
+:::
 :::
 ::: {.column width=50%}
-![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
 :::
 ::::
 
-## Force of diffusion
-
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png)
-
----
-
-::: {.infobox}
-
-A practical illustration of the force of diffusion.
-
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg){width="70%"}
-
-:::
-
-## Simulating diffusion
-
-<iframe width="844px" height="596px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="https://lab.concord.org/embeddable.html#interactives/sam/diffusion/4-semipermeable.json"></iframe>
-
-## Why is there a membrane potential?
+## 2. All of the following structures can be seen in the figure EXCEPT
 
 :::: {.columns}
 ::: {.column width=50%}
-- Large organic anions $A^-$ can't diffuse out.
-- Outflow of $K^+$ creates +/- charge separation along membrane
-- Charge separation creates a voltage (potential)
+- A. Cerebellum
+- B. Corpus callosum
+- **C. Lateral ventricles**
+- D. Cerebral cortex
 :::
 ::: {.column width=50%}
-![https://en.wikipedia.org/wiki/Membrane_potential](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Basis_of_Membrane_Potential2-en.svg/800px-Basis_of_Membrane_Potential2-en.svg.png){fig-align="right" width="70%"}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
 :::
 ::::
 
-## Why is there a membrane potential?
+## 3. The figure illustrates which imaging model?
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- A. CT
+- B. PET
+- C. Magnetoencephalography (MEG)
+- D. MRI
+:::
+:::
+::: {.column width=50%}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
+:::
+::::
+
+## 3. The figure illustrates which imaging model?
+
+:::: {.columns}
+::: {.column width=50%}
+- A. CT
+- B. PET
+- C. Magnetoencephalography (MEG)
+- D. **MRI**
+:::
+::: {.column width=50%}
+![](../include/img/quiz-1-figure.png){fig-align="right"}
+:::
+::::
+
+## 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
 
 ::: {.incremental}
-- *Electrostatic force* balances force of diffusion
-  + Voltage build-up along membrane slows $K^+$ outflow
-  + Specific voltage that stops flow == *equilibrium potential* for $K^+$
-  + $K^+$ positive, so equilibrium potential negative (w/ respect to outside)
+- A. Human minds
+- B. Machines
+- C. Early computers
+- D. Artificial intelligence
 :::
 
-## (Aside) on equilibrium potential
+## 4. In the mid-1600s, reflexes and animal minds were thought of as ____.
 
-:::: {.columns}
-::: {.column width=50%}
-- Can be [calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) based on ion concentrations
-- Nernst equation: $\frac{RT}{nF}\ln\frac{[K^+]_o}{[K^+]_i}$
-- Related to electronic circuit model of membrane
+- A. Human minds
+- **B. Machines**
+- C. Early computers
+- D. Artificial intelligence
+
+## 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
+
+::: {.incremental}
+- A. The pons
+- B. The pituitary gland
+- C. The pineal gland
+- D. The reflexive complex
 :::
-::: {.column width=50%}
-::: {.fragment}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg)
+
+## 5. Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
+
+- A. The pons
+- B. The pituitary gland
+- **C. The pineal gland**
+- D. The reflexive complex
+
+## 6. The tongue is _______________ with respect to the nose.
+
+::: {.incremental}
+- A. Ventral
+- B. Superior
+- C. Dorsal
+- D. Medial
 :::
+
+## 6. The tongue is _______________ with respect to the nose.
+
+- **A. Ventral**
+- B. Superior
+- C. Dorsal
+- D. Medial
+
+## 7. Which of the following is NOT MRI-related?
+
+::: {.incremental}
+- A. Diffusion Tensor Imaging (DTI)
+- B. Voxel-based Morphometry (VBM)
+- C. Computed Tomography (CT)
+- D. Magnetic Resonance (MR) spectroscopy
 :::
-::::
 
-## Neuron resting potential ≠ $K^+$ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
+## 7. Which of the following is NOT MRI-related?
 
-- Resting potential not just due to $K^+$
-- $Na^+$ inflow contributes
-- Resting potential == net effects of *all* ion flows across membrane
-  - Calculate with Goldman-Hodgkin-Katz equation
+- A. Diffusion Tensor Imaging (DTI)
+- B. Voxel-based Morphometry (VBM)
+- **C. Computed Tomography (CT)**
+- D. Magnetic Resonance (MR) spectroscopy
 
-## $Na^+$ role
+## 8. What is single/multi-unit recording most commonly used in?
 
-:::: {.columns}
-::: {.column width=50%}
-- $Na^+$ concentrated **outside** neuron
-- Membrane at rest not very permeable to $Na^+$
-- Some, but not much $Na^+$ flows *in*
+::: {.incremental}
+- A. Humans
+- B. Animals
+- C. Both
+- D. Neither
 :::
-::: {.column width=50%}
-![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
+
+## 8. What is single/multi-unit recording most commonly used in?
+
+- A. Humans
+- **B. Animals**
+- C. Both
+- D. Neither
+
+## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
+
+::: {.incremental}
+- A. better; similar
+- B. better; worse
+- C. worse; better
+- D. worse; similar
 :::
-::::
 
-## $Na^+$ role
+## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
 
-:::: {.columns}
-::: {.column width=50%}
-- $Na^+$ Equilibrium potential is positive
-- $Na^+$ has equilibrium potential ~ + 60 mV
-- Would need positive membrane potential to keep $Na^+$ from flowing in
+- A. better; similar
+- **B. better; worse**
+- C. worse; better
+- D. worse; similar
+
+## 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
+
+::: {.incremental}
+- A. Lateral fissure
+- B. Longitudinal fissure
+- C. Anterior cingulate gyrus
+- D. Central sulcus
 :::
-::: {.column width=50%}
-![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
+
+## 10. Which of these landmarks separates the frontal lobe from the parietal lobe?
+
+- A. Lateral fissure
+- B. Longitudinal fissure
+- C. Anterior cingulate gyrus
+- **D. Central sulcus**
+
+## 11.  Which brain structure means “little brain”?
+
+::: {.incremental}
+- A. Tectum
+- B. Hippocampus 
+- C. Cerebrum
+- D. Cerebellum
 :::
-::::
 
-## $Na^+$ role
+## 11.  Which brain structure means “little brain”?
 
-:::: {.columns}
-::: {.column width=50%}
-- $Na^+$ inflow makes membrane potential more positive (less negative) than it would be with $K^+$ outflow alone
-- Resting potential (-55-70mV) more positive than $K^+$ equilibrium potential
-:::
-::: {.column width=50%}
-![](../include/img/350px-Membrane_potential_ions_en.svg.png){fig-align="right"}
-:::
-::::
+- A. Tectum
+- B. Hippocampus 
+- C. Cerebrum
+- **D. Cerebellum**
 
-## Summary of forces
+# Exam 1 review
 
-| Ion | Concentration gradient | Force of diffusion  | Sign of electrostatic force |
-|--------|--------------------------|---------------------|---------------------|
-| $K^+$  | $[K^+]_{i} >> [K^+]_{o}$ | outward        | -     |
-| $Na^+$ | $[Na^+]_{i} << [Na^+]_{o}$ | inward       | -     |
+## Neuroanatomy
 
-## Summary: Why is there a membrane potential?
+- Identify the lobes of the cerebral cortex from a brain image
+- Sulcus/fissure landmarks of frontal, temporal, parietal lobe, cerebral hemispheres
+- Identify hindbrain regions from a brain image
 
-- Na+/K+ pump creates concentration differences
-- K+ flow out (slowly), creating charge separation
-- Charge separation $\rightarrow$ voltage (membrane potential)
-- Voltage has negative sign (positive $K^+$ exit; negative $A^-$ remain)
+## Neuroanatomy
 
-## Summary: Why is there a membrane potential?
+- Function, location, components of midbrain
+- Parts and role of meninges
+- Funtion of sympathetic vs. parasympathetic nervous system
 
-- Na+ ions flow in (*very* slowly, < $K^+$ flows out)
-- Reducing charge separation (a bit), makes membrane potential less negative
-- Net result
-  - Balance of diffusion and electrical forces acting on $K^+$ and $Na^+$
-  
-## (Aside) Khan Academy video
+## Neuroanatomy
 
-{{< video https://www.youtube.com/embed/PtKAeihnbv0 height="70%" width="100%" >}}
+- Function, location of hypothalamus
+- Function, location of hippocampus
 
--- @khanacademymedicine2012-fl
+## Methods
 
-## What happens if something changes?
+- Identify planes of section from a brain image
+- Which methods use MR, X-rays, electromagnetic fields
 
-- "Something" == ion channels open (or close)
-- Easier for $Na^+$ to enter? Or $K^+$ to exit?
-- Some action!
+## Cells of the brain
+
+- Types of glial cells, where found
+- Role of dendrites, axon
+- Unusual features of neurons (vs. other cells)
+
+## Resting potential
+
+- What does Na+/K+ pump do?
+- How does the force of diffusion act on K+? Na+?
+- What organic anions A- can and can't do, where concentrated
 
 ## Action potential
 
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png){fig-align="right"}
-
-## Phases of the action potential
-
-:::: {.columns}
-::: {.column width=50%}
-- Threshold of excitation
-- Increase (rising phase/depolarization)
-- Peak
-    + at positive voltage
-- Decline (falling phase/repolarization)
-- Return to resting potential (refractory period)
-:::
-::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)
-:::
-::::
-
-## Phases of the action potential
-
-| Phase             | Neuron State |
-|-------------------|--------------|
-| Rise to threshold | + input makes membrane potential more + |
-| Rising phase      | Voltage-gated $Na^+$ channels open, $Na^+$ flows in |
-
-## Phases of the action potential
-
-| Phase             | Neuron State |
-|-------------------|--------------|
-| Peak              | Voltage-gated $Na^+$ channels close and deactivate; voltage-gated $K^+$ channels open |
-| Falling phase     | $K^+$ flows out |
-
-## Phases of the action potential
-
-| Phase             | Neuron State |
-|-------------------|--------------|
-| Refractory period | $Na^+$/$K^+$ pump restores [$Na^+$], [$K^+$]; voltage-gated $K^+$ channels close |
-
-## Refractory period (phase)
-
-- Absolute
-- Relative
-
-## Absolute refractory phase
-
-:::: {.columns}
-::: {.column width=50%}
-- Voltage-gated $K^+$ channels close
-    - Driving force on $K^+$ tiny or absent
-- $Na^+$/$K^+$ pump restores concentration balance
-- No AP can be generated
-:::
-::: {.column width=50%}
-![](../include/img/action-potential.gif)
-:::
-::::
-
-## Relative refractory phase
-
-:::: {.columns}
-::: {.column width=50%}
-- Can generate AP with larg(er) stimulus
-- Some voltage-gated $Na^+$ 'de-inactivate'
-  - can open with large input
-  - membrane potential is more negative than resting potential
-:::
-::: {.column width=50%}
-![](../include/img/action-potential.gif)
-:::
-::::
-
-## Generating action potentials
-
-:::: {.columns}
-::: {.column width=50%}
-- *Axon hillock*
-    + Portion of soma adjacent to axon
-    + Sums inputs to soma from many dendrites
-:::
-::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
-:::
-::::
-
-## Generating action potentials
-
-:::: {.columns}
-::: {.column width=50%}
-- *Axon initial segment*
-    + Umyelinated portion of axon adjacent to soma
-    + Voltage-gated $Na^+$ and $K^+$ channels exposed
-    + If sum of input to soma > threshold, voltage-gated $Na^+$ channels open
-:::
-::: {.column width=50%}
-![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
-:::
-::::
-
-## Simulating the action potential
-
-- <https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html>
-
-## How action potentials propagate
-
-:::: {.columns}
-::: {.column width=50%}
-- Propagation
-    + move down axon, away from soma, toward axon terminals.
-- Axon is like an electrical cable
-:::
-::: {.column width=50%}
-![](http://pittmedneuro.com/img/Cable.jpg)
-:::
-::::
-
-## Nodes of Ranvier
-
-:::: {.columns}
-::: {.column width=50%}
-- *Regenerate* action potential
-- $Na^+$ and $K^+$ channels exposed to extracellular environment
-- Between Nodes of Ranvier, ions can't move out, so move along
-:::
-::: {.column width=50%}
-![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
-:::
-::::
-
-## Nodes of Ranvier
-
-:::: {.columns}
-::: {.column width=50%}
-- Action potentials faster & more reliable for a given axon diameter
-:::
-::: {.column width=50%}
-![@Wikipedia-contributors2025-np](https://upload.wikimedia.org/wikipedia/commons/3/3b/Nodes_of_Ranvier.png){fig-align="right"}
-:::
-::::
-
-## How action potentials *propagate*
-
-:::: {.columns}
-::: {.column width=50%}
-- Propagation $\rightarrow$ move
-    + move down axon, away from soma, toward axon terminals
-- Axon like an electrical cable
-:::
-::: {.column width=50%}
-![](http://pittmedneuro.com/img/Cable.jpg)
-:::
-::::
-
-## Propagation
-
-:::: {.columns}
-::: {.column width=50%}
-- Unmyelinated axons
-  - Each segment "excites" the next
-:::
-::: {.column width=50%}
-![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
-:::
-::::
-    
-## Propagation
-
-:::: {.columns}
-::: {.column width=50%}
-- Myelinated axon
-  + AP "jumps" between *Nodes of Ranvier*
-  + voltage-gated $Na^+$, $K^+$ channels exposed
-  + current flows through/down myelinated segments
-:::
-::: {.column width=50%}
-![@Wikipedia-contributors2025-xk](https://upload.wikimedia.org/wikipedia/commons/4/48/Saltatory_Conduction.gif){fig-align="right"}
-:::
-::::
-
-## Why does AP flow in one direction, away from soma?
-
-+ Soma does not have (many) voltage-gated $Na^+$ channels.
-+ Soma is not myelinated.
-+ Refractory periods mean polarization works only in one direction.
-
-## Why does AP flow in one direction, away from soma?
-
-+ **Soma does not have (many) voltage-gated $Na^+$ channels.**
-+ Soma is not myelinated.
-+ **Refractory periods mean polarization works only in one direction.**
-
-## How fast are APs?
-
-:::: {.columns}
-::: {.column width=50%}
-- Axons carry information at different rates
-    - More myelin -> faster
-    - Larger diameter axon -> faster
-- Somatosensory information faster than pain (nociception)
-:::
-::: {.column width=50%}
-![@Wikipedia-contributors2025-xk](../include/img/sensory-fiber-speeds.png)
-:::
-::::
-
-## Information processing
-
-- Action potential amplitudes don't vary (much)
-    + All or none
-    + $Na^+$/$K^+$ pumps working all the time
-    + $[K^+]$ & $[Na^+]$ don't vary much, so
-    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
-    
-## Information processing
-
-:::: {.columns}
-::: {.column width=50%}
-- Action potential *frequency* and *timing* vary
-  + Rate vs. timing codes
-  + Neurons use both
-:::
-::: {.column width=50%}
-![@eyherabide_bursts_2009](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
-:::
-::::
+- Major event(s) during rising phase of action potential, falling phase
+- Types of refratory period
+- What happens when neuron reaches threshold?
+- Function of Nodes of Ranvier
 
 ## Main points
 
-- Resting potential due ion concentration differences, balance of forces
-- Change in membrane permeability to $Na^+$--voltage-gated $Na^+$ channels, triggers action potential.
-  - Rapid rise to peak, fall, refractory
-- Action potentials propagate down axon
-
 ## Next time
 
-- Neurophysiology III
-- Exam 1 review
+- Exam 1
 
 # Resources
 
