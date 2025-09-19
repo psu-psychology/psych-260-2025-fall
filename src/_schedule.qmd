@@ -114,7 +114,7 @@ This means to read pages 3 to 15.
 
 *`{r} sched_df$class_2_theme[4]`*
 
-- *Read*: MM Chapter 2
+- *Read*: MM pp 58-74
 - *Slides*:  | [html](slides/wk-04-2025-09-18-neurophys.qmd) |
 
 ## `{r} sched_df$week[5]` {- #week-05}
