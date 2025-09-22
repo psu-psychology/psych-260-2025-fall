@@ -4,12 +4,6 @@ subtitle: 2025-09-23
 fig-align: "center"
 ---
 
-# Prelude
-
----
-
-{{< video https://www.youtube.com/watch?v=H0K2dvB-7WY height="70%" width="100%">}}
-
 ## Today's topics
 
 - Warm-up
@@ -18,7 +12,7 @@ fig-align: "center"
 
 # Warm-up
 
-## Where are potassium (K) ions concentrated the most?
+## Where are potassium (K+) ions concentrated the most?
 
 ::: {.incremental}
 - A. Inside the neuron
@@ -27,14 +21,14 @@ fig-align: "center"
 - D. None of the above
 :::
 
-## Where are potassium (K) ions concentrated the most?
+## Where are potassium (K+) ions concentrated the most?
 
 - **A. Inside the neuron**
 - ~~B. Outside the neuron~~
 - ~~C. In microglia~~
 - ~~D. None of the above~~
 
-## Where are potassium (Na) ions concentrated the most?
+## Where are potassium (Na+) ions concentrated the most?
 
 ::: {.incremental}
 - A. Inside the neuron
@@ -43,7 +37,7 @@ fig-align: "center"
 - D. None of the above
 :::
 
-## Where are potassium (Na) ions concentrated the most?
+## Where are potassium (Na+) ions concentrated the most?
 
 - ~~A. Inside the neuron~~
 - **B. Outside the neuron**
