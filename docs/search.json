@@ -5092,5 +5092,320 @@
     "crumbs": [
       "Policies"
     ]
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#todays-topics",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#todays-topics",
+    "title": "Neurochemistry",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nAnnouncements\n\nNo class Thursday, October 2, 2025\n\nBehavior requires communication\nSynaptic communication\nNeurotransmitters"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-do-animals-need-to-know-to-behave",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-do-animals-need-to-know-to-behave",
+    "title": "Neurochemistry",
+    "section": "What do animals need to know to behave?",
+    "text": "What do animals need to know to behave?\n\n\nWhat’s out there\nWhere is it\nWhat should I do about it\nDo it"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems",
+    "title": "Neurochemistry",
+    "section": "Nervous systems are communication systems",
+    "text": "Nervous systems are communication systems\n\n\nChemical communication : short distances\n\nDiffusion\nCheap, energy-efficient, “compute with chemistry”\n\nElectrical communication : long distances\n\nMore “expensive”/less energy-efficient\nMuch faster"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems-1",
+    "title": "Neurochemistry",
+    "section": "Nervous systems are communication systems",
+    "text": "Nervous systems are communication systems\n\n\nSynaptic communication\n\nChemical (via neurotransmitters)\nElectrical (via ion flow)\n\nEndocrine communication (chemical via hormones released into bloodstream)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#action-potential-propagates-from-soma",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-propagates-from-soma",
+    "title": "Neurochemistry",
+    "section": "Action potential propagates from soma",
+    "text": "Action potential propagates from soma\n\n\n\nSoma receives input from dendrites\nAxon hillock sums/integrates\nIf sum &gt; threshold, AP “fires”\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal",
+    "title": "Neurochemistry",
+    "section": "Action potential arrives at synaptic terminal",
+    "text": "Action potential arrives at synaptic terminal\n\n\n\n\nHow does AP cause chemical release?\nVoltage-gated calcium (Ca++) channels open\nCa++ enters"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#nts-cross-the-synaptic-clef",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#nts-cross-the-synaptic-clef",
+    "title": "Neurochemistry",
+    "section": "NTs cross the synaptic clef",
+    "text": "NTs cross the synaptic clef\n\n\n\nNTs bind with receptors on postsynaptic membrane\nReceptors respond\nNTs unbind, are inactivated\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#synaptic-vesicles-get-recycled",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#synaptic-vesicles-get-recycled",
+    "title": "Neurochemistry",
+    "section": "Synaptic vesicles get “recycled”",
+    "text": "Synaptic vesicles get “recycled”\n\n\n\nVesicles reform\nGet refilled with neurotransmitter\n\n\n\n\n\n(Haucke, Neher, & Sigrist, 2011)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types",
+    "title": "Neurochemistry",
+    "section": "Postsynaptic receptor types",
+    "text": "Postsynaptic receptor types\n\n\n\nIonotropic (receptor + ion channel)\n\nChemical (ligand)-gated\nOpen/close ion channel\nIons flow in/out depending on membrane voltage and ion type\nFast-responding (&lt; 2 ms), but short-duration effect (&lt; 100 ms)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types-1",
+    "title": "Neurochemistry",
+    "section": "Postsynaptic receptor types",
+    "text": "Postsynaptic receptor types\n\n\n\nMetabotropic (receptor only, no attached ion channels\n\nTrigger G-proteins attached to receptor\nG-proteins activate 2nd messengers"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#receptors-cause-response",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#receptors-cause-response",
+    "title": "Neurochemistry",
+    "section": "Receptors cause response",
+    "text": "Receptors cause response\n\n\n\nGenerate postsynaptic potentials (PSPs)\n\nSmall voltage changes\nAmplitude scales with # of receptors activated\nNumber of receptors activated ~ # of vesicles released\n\n\n\n\n\n\nhttp://pittmedneuro.com/synaptic.html"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#two-types-of-postsynaptic-potentials-psps",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#two-types-of-postsynaptic-potentials-psps",
+    "title": "Neurochemistry",
+    "section": "Two types of postsynaptic potentials (PSPs)",
+    "text": "Two types of postsynaptic potentials (PSPs)\n\n\n\nExcitatory PSPs (EPSPs)\n\nDepolarize neuron (make more +)\nMove membrane potential closer to threshold\n\n\n\n\n\n\nhttp://pittmedneuro.com/synaptic.html"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#two-types-of-postsynaptic-potentials-psps-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#two-types-of-postsynaptic-potentials-psps-1",
+    "title": "Neurochemistry",
+    "section": "Two types of postsynaptic potentials (PSPs)",
+    "text": "Two types of postsynaptic potentials (PSPs)\n\n\n\nInhibitory (IPSPs)\n\nHyperpolarize neuron (make more -)\nMove membrane potential away from threshold\n\n\n\n\n\n\nhttp://pittmedneuro.com/synaptic.html"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#nt-inactivated-by-multiple-mechanisms",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#nt-inactivated-by-multiple-mechanisms",
+    "title": "Neurochemistry",
+    "section": "NT inactivated by multiple mechanisms",
+    "text": "NT inactivated by multiple mechanisms\n\nBuffering\n\ne.g., glutamate into astrocytes (Anderson & Swanson, 2000)\n\nReuptake via transporters\n\nmolecules in membrane that move NTs inside\ne.g., serotonin via serotonin transporter (SERT)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-na-channel-produce",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-na-channel-produce",
+    "title": "Neurochemistry",
+    "section": "What sort of PSP would opening a Na+ channel produce?",
+    "text": "What sort of PSP would opening a Na+ channel produce?\n\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce",
+    "title": "Neurochemistry",
+    "section": "What sort of PSP would opening a Cl- channel produce?",
+    "text": "What sort of PSP would opening a Cl- channel produce?\nRemember \\([Cl^-]_{out}&gt;&gt;[Cl^-]_{in}\\); Assume resting potential ~-60 mV. Cl- is negatively charged, so will have opposite effect of positively charged ions.\n\n\nCl- flows in, so Excitatory PSP (EPSP)\nCl- flows out, so Excitatory PSP (EPSP)\nCl- flows in, so Inhibitory PSP (IPSP)\nCl- flows out, so Inhibitory PSP (IPSP)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#types-of-synapses",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#types-of-synapses",
+    "title": "Neurochemistry",
+    "section": "Types of synapses",
+    "text": "Types of synapses\n\n\n\nAxodendritic (axon to dendrite)\nAxosomatic (axon to soma)\nAxoaxonic (axon to axon)\nAxosecretory (axon to bloodstream)\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#general-synapse-properties",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#general-synapse-properties",
+    "title": "Neurochemistry",
+    "section": "General synapse properties",
+    "text": "General synapse properties\n\n\n\non dendrites\n\nusually excitatory\n\non cell bodies\n\nusually inhibitory\n\non axons\n\nusually modulatory (change p(fire))"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-are-they",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-are-they",
+    "title": "Neurochemistry",
+    "section": "What are they?",
+    "text": "What are they?\n\n\n\nChemicals produced by neurons\nReleased by neurons\nBound by neurons and other cells\nSend messages (have physiological effect on target cells)\nInactivated after release\n\n\n\n\n\nhttps://www.compoundchem.com/2015/07/30/neurotransmitters/"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#amino-acids",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#amino-acids",
+    "title": "Neurochemistry",
+    "section": "Amino acids",
+    "text": "Amino acids\n\n\n\nFamily\nNeurotansmitter\n\n\n\n\nAmino acids\nGlutamate (Glu)\n\n\n\nGamma aminobutyric acid (GABA)\n\n\n\nGlycine\n\n\n\nAspartate"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#glutamate",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#glutamate",
+    "title": "Neurochemistry",
+    "section": "Glutamate",
+    "text": "Glutamate\n\n\nPrimary excitatory NT in CNS (~ 1/2 all synapses)\nRole in learning (via NMDA receptor)\nTransporters on neurons and glia (astrocytes and oligodendrocytes)\nLinked to umami (savory) taste sensation, think monosodium glutamate (MSG)\nDysregulation in schizophrenia McCutcheon, Krystal, & Howes (2020), mood disorders (Małgorzata, Paweł, Iwona, Brzostek, & Andrzej, 2020)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#glutamate-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#glutamate-1",
+    "title": "Neurochemistry",
+    "section": "Glutamate",
+    "text": "Glutamate\n\n\n\nType\nReceptor\nEsp Permeable to\n\n\n\n\nIonotropic\nAMPA\nNa+, K+\n\n\n\nKainate\n\n\n\n\nNMDA\nCa++\n\n\nMetabotropic\nmGlu"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#gamma-aminobutyric-acid-gaba",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#gamma-aminobutyric-acid-gaba",
+    "title": "Neurochemistry",
+    "section": "\\(\\gamma\\)-aminobutyric Acid (GABA)",
+    "text": "\\(\\gamma\\)-aminobutyric Acid (GABA)\n\n\nPrimary inhibitory NT in CNS\nExcitatory in developing CNS, \\([Cl^-]_{in} &gt;&gt; [Cl-]_{out}\\)\nBinding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.\nSynthesized from glutamate\nInactivated by transporters"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#gaba",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#gaba",
+    "title": "Neurochemistry",
+    "section": "GABA",
+    "text": "GABA\n\n\n\nType\nReceptor\nEsp Permeable to\n\n\n\n\nIonotropic\nGABA-A\nCl-\n\n\nMetabotropic\nGABA-B\nK+"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#other-amino-acid-nts",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#other-amino-acid-nts",
+    "title": "Neurochemistry",
+    "section": "Other amino acid NTs",
+    "text": "Other amino acid NTs\n\nGlycine\n\nSpinal cord interneurons\nAlso inhibitory\n\nAspartate\n\nLike Glu, stimulates NMDA receptor"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine-ach",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine-ach",
+    "title": "Neurochemistry",
+    "section": "Acetylcholine (ACh)",
+    "text": "Acetylcholine (ACh)\n\n\n\n\nPrimary NT of CNS output\nSomatic nervous system (neuromuscular junction)\nInactivated by acetylcholinesterase (AChE)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine-ach-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine-ach-1",
+    "title": "Neurochemistry",
+    "section": "Acetylcholine (ACh)",
+    "text": "Acetylcholine (ACh)\n\n\n\nAutonomic nervous system\n\nSympathetic branch: preganglionic neuron\nParasympathetic branch: pre/postganglionic"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine",
+    "title": "Neurochemistry",
+    "section": "Acetylcholine",
+    "text": "Acetylcholine\n\n\n\n\n\n\n\n\n\nType\nReceptor\nEsp Permeable to\nBlocked by\n\n\n\n\nIonotropic\nNicotinic (nAChR)\nNa+, K+\ne.g., Curare\n\n\nMetabotropic\nMuscarinic (mAChR)\nK+\ne.g., Atropine"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#curare",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#curare",
+    "title": "Neurochemistry",
+    "section": "Curare",
+    "text": "Curare"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#atropine",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#atropine",
+    "title": "Neurochemistry",
+    "section": "Atropine",
+    "text": "Atropine\n\n\n\nalso known as (aka), nightshade or belladonna\nblocks receptors in the muscles of your iris"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#many-ways-to-paralyze-your-prey",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#many-ways-to-paralyze-your-prey",
+    "title": "Neurochemistry",
+    "section": "Many ways to paralyze your prey",
+    "text": "Many ways to paralyze your prey\n\n\n\n\n\n\n\nSubstance\nEffect\n\n\n\n\nJapanese pufferfish toxin\nBlocks voltage-gated Na+ channels\n\n\nBlack widow spider venom\nAccelerates presynaptic ACh release\n\n\nBotulinum toxin (BoTox)\nPrevents ACh vesicles from binding presynaptically"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#main-points",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#main-points",
+    "title": "Neurochemistry",
+    "section": "Main points",
+    "text": "Main points\n\nNeurons use electrical communication (action potentials) to communicate quickly over long distances\nChemical communication (diffusion) to communicate over short distances\nNeurotransmitters are special chemicals that neurons release onto other neurons\nIonotropic and metabotropic receptors generate EPSPs and IPSPs\nAmino acid neurotransmitters: glutamate, GABA, ACh"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#next-time",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#next-time",
+    "title": "Neurochemistry",
+    "section": "Next time",
+    "text": "Next time"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#about",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#about",
+    "title": "Neurochemistry",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.5.1.513.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#references",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#references",
+    "title": "Neurochemistry",
+    "section": "References",
+    "text": "References\n\n\n\n\nAnderson, C. M., & Swanson, R. A. (2000). Astrocyte glutamate transport: Review of properties, regulation, and physiological functions. Glia, 32(1), 1–14. https://doi.org/10.1002/1098-1136(200010)32:1&lt;1::AID-GLIA10&gt;3.0.CO;2-W\n\n\nHastoy, B., Clark, A., Rorsman, P., & Lang, J. (2017). Fusion pore in exocytosis: More than an exit gate? A \\(\\beta\\)-cell perspective. Cell Calcium, 68, 45–61. https://doi.org/10.1016/j.ceca.2017.10.005\n\n\nHaucke, V., Neher, E., & Sigrist, S. J. (2011). Protein scaffolds in the coupling of synaptic exocytosis and endocytosis. Nature Reviews. Neuroscience, 12(3), 127–138. https://doi.org/10.1038/nrn2948\n\n\nMałgorzata, P., Paweł, K., Iwona, M. L., Brzostek, T., & Andrzej, P. (2020). Glutamatergic dysregulation in mood disorders: Opportunities for the discovery of novel drug targets. Expert Opinion on Therapeutic Targets, 24(12), 1187–1209. https://doi.org/10.1080/14728222.2020.1836160\n\n\nMcCutcheon, R. A., Krystal, J. H., & Howes, O. D. (2020). Dopamine and glutamate in schizophrenia: Biology, symptoms and treatment. World Psychiatry: Official Journal of the World Psychiatric Association, 19(1), 15–33. https://doi.org/10.1002/wps.20693\n\n\nNeuron, N. (2021). Propagation of action potential. Youtube. Retrieved from https://www.youtube.com/watch?v=tOTYO5WrXFU"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#action-potential-propagates-from-soma-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-propagates-from-soma-1",
+    "title": "Neurochemistry",
+    "section": "Action potential propagates from soma",
+    "text": "Action potential propagates from soma\n\n\n\nAP propagates\nQuickly: myelinated + thick axon\nSlowly: unmyelinated or thin\n\n\n\n– Neuron (2021)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal-1",
+    "title": "Neurochemistry",
+    "section": "Action potential arrives at synaptic terminal",
+    "text": "Action potential arrives at synaptic terminal\n\n\n\n\nCa++ causes synaptic vesicles to bind with presynaptic membrane & merge with it\nNeurotransmitters (NTs) released via exocytosis (‘out’ of the cell)\n\n\n\n\n\n\nHastoy, Clark, Rorsman, & Lang (2017)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types-2",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#postsynaptic-receptor-types-2",
+    "title": "Neurochemistry",
+    "section": "Postsynaptic receptor types",
+    "text": "Postsynaptic receptor types\n\n\n\nMetabotropic (receptor only, no attached ion channels\n\n2nd messengers bind to, open/close adjacent channels or change metabolism\nSlower, but longer-lasting effects"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#nt-inactivated-by-multiple-mechanisms-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#nt-inactivated-by-multiple-mechanisms-1",
+    "title": "Neurochemistry",
+    "section": "NT inactivated by multiple mechanisms",
+    "text": "NT inactivated by multiple mechanisms\n\nEnzymatic degradation\n\ne.g., Acetylcholinesterase (AChE) degrades acetylcholine (ACh)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#why-must-nts-be-inactivated",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#why-must-nts-be-inactivated",
+    "title": "Neurochemistry",
+    "section": "Why must NTs be inactivated?",
+    "text": "Why must NTs be inactivated?\n\nOr what would happen if they weren’t?\nOr weren’t quickly?"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-na-channel-produce-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-na-channel-produce-1",
+    "title": "Neurochemistry",
+    "section": "What sort of PSP would opening a Na+ channel produce?",
+    "text": "What sort of PSP would opening a Na+ channel produce?\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce-1",
+    "title": "Neurochemistry",
+    "section": "What sort of PSP would opening a Cl- channel produce?",
+    "text": "What sort of PSP would opening a Cl- channel produce?\nRemember \\([Cl^-]_{out}&gt;&gt;[Cl^-]_{in}\\); Assume resting potential ~-60 mV. Cl- is negatively charged, so will have opposite effect of positively charged ions.\n\nCl- flows in, so Excitatory PSP (EPSP)\nCl- flows out, so Excitatory PSP (EPSP)\nCl- flows in, so Inhibitory PSP (IPSP)\nCl- flows out, so Inhibitory PSP (IPSP)"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce-2",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce-2",
+    "title": "Neurochemistry",
+    "section": "What sort of PSP would opening a Cl- channel produce?",
+    "text": "What sort of PSP would opening a Cl- channel produce?\nRemember [Cl-out]&gt;&gt;[Cl-in]; Assume resting potential ~60 mV. Cl- is negatively charged, so will have opposite effect of positively charged ions.\n\nCl- flows in, so Excitatory PSP\nCl- flows out, so Excitatory PSP\nCl- flows in, so Inhibitory PSP\nCl- flows out, so Inhibitory PSP"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#message-from-dendrites-soma",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#message-from-dendrites-soma",
+    "title": "Neurochemistry",
+    "section": "Message from dendrites & soma",
+    "text": "Message from dendrites & soma\n\n\n\na mixture of IPSPs and EPSP\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "slides/wk-06-2025-09-30-neurochem.html#many-ways-to-paralyze-your-prey-1",
+    "href": "slides/wk-06-2025-09-30-neurochem.html#many-ways-to-paralyze-your-prey-1",
+    "title": "Neurochemistry",
+    "section": "Many ways to paralyze your prey",
+    "text": "Many ways to paralyze your prey\n\n\n\nSubstance\nEffect\n\n\n\n\nSarin nerve gas\nImpedes ACh breakdown by AChE\n\n\nPesticides\nImpede AChE\n\n\nTetanus toxin\nBlocks release of GABA, glycine"
   }
 ]

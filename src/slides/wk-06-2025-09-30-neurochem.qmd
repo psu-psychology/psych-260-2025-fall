@@ -1,0 +1,493 @@
+---
+title: "Neurochemistry"
+subtitle: 2025-09-30
+fig-align: "center"
+---
+
+# Prelude
+
+## Today's topics
+
+- Announcements
+  - No class Thursday, October 2, 2025
+- Behavior requires communication
+- Synaptic communication
+- Neurotransmitters
+
+# Behavior requires communication
+
+## What do animals need to know to behave?
+
+::: {.incremental}
+- What's out there
+- Where is it
+- What should I do about it
+- Do it
+:::
+
+## Nervous systems are communication systems
+
+::: {.incremental}
+- Chemical communication : short distances
+  - Diffusion
+  - Cheap, energy-efficient, "compute with chemistry"
+- Electrical communication : long distances
+    - More "expensive"/less energy-efficient
+    - *Much* faster
+:::
+
+## Nervous systems are communication systems
+
+::: {.incremental}
+- Synaptic communication
+  - Chemical (via neurotransmitters)
+  - Electrical (via ion flow)
+- Endocrine communication (chemical via hormones released into bloodstream)
+:::
+
+# Synaptic communication
+
+## Action potential propagates from soma
+
+:::: {.columns}
+::: {.column width=50%}
+- Soma receives input from dendrites
+- Axon hillock sums/integrates
+- If sum > threshold, AP "fires"
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/1224_Post_Synaptic_Potential_Summation.jpg/512px-1224_Post_Synaptic_Potential_Summation.jpg)
+:::
+::::
+
+## Action potential propagates from soma
+
+:::: {.columns}
+::: {.column width=50%}
+- AP propagates
+- Quickly: myelinated + thick axon
+- Slowly: unmyelinated or thin
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/watch?v=tOTYO5WrXFU >}}
+
+-- @Neuron2021-uc
+:::
+::::
+
+## Action potential arrives at synaptic terminal
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- How does AP cause chemical release?
+- *Voltage-gated calcium (Ca++) channels* open
+- Ca++ enters
+:::
+:::
+::: {.column width=50%}
+::: {.fragment}
+![](https://www.oatext.com/img/JSIN-16-113-1.jpg)
+:::
+:::
+::::
+
+## Action potential arrives at synaptic terminal
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Ca++ causes *synaptic vesicles* to bind with presynaptic membrane & merge with it
+- Neurotransmitters (NTs) released via *exocytosis* ('out' of the cell)
+:::
+:::
+::: {.column width=50%}
+![@Hastoy2017-it](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+![[@Hastoy2017-it]](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg/1502px-Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg)
+:::
+::::
+
+
+## NTs cross the synaptic clef
+
+:::: {.columns}
+::: {.column width=50%}
+- NTs bind with *receptors* on *postsynaptic membrane*
+- Receptors respond
+- NTs unbind, are inactivated
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SynapseSchematic_en.svg/512px-SynapseSchematic_en.svg.png)
+:::
+::::
+
+## Synaptic vesicles get "recycled"
+
+:::: {.columns}
+::: {.column width=50%}
+- Vesicles reform
+- Get refilled with neurotransmitter
+:::
+::: {.column width=50%}
+![[@Haucke2011-ub]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2948/MediaObjects/41583_2011_Article_BFnrn2948_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+---
+
+::: {.callout-tip}
+## Why do NTs move from presynaptic terminal toward postsynaptic cell?
+- ~~Electrostatic force pulls them~~
+- Force of diffusion
+- Synaptic cleft small relative to vesicles, so diffusion time short (< 0.5 ms)
+:::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Ionotropic* (receptor + ion channel)
+  + Chemical (ligand)-gated
+  + Open/close ion channel
+  + Ions flow in/out depending on membrane voltage and ion type
+  + Fast-responding (< 2 ms), but short-duration effect (< 100 ms)
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Metabotropic* (receptor only, no attached ion channels
+  + Trigger G-proteins attached to receptor
+  + G-proteins activate 2nd messengers
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Postsynaptic receptor types
+
+:::: {.columns}
+::: {.column width=50%}
+- *Metabotropic* (receptor only, no attached ion channels
+  + 2nd messengers bind to, open/close adjacent channels or change metabolism
+  + Slower, but longer-lasting effects
+:::
+::: {.column width=50%}
+![](https://www.ncbi.nlm.nih.gov/books/NBK11526/bin/gluf5.jpg)
+:::
+::::
+
+## Receptors cause response
+
+:::: {.columns}
+::: {.column width=50%}
+- Generate *postsynaptic potentials (PSPs)*
+  - Small voltage changes
+  - Amplitude scales with # of receptors activated
+  - Number of receptors activated ~ # of vesicles released
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+
+## Two types of postsynaptic potentials (PSPs)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Excitatory PSPs (EPSPs)*
+    + Depolarize neuron (make more +)
+    + Move membrane potential closer to threshold
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+## Two types of postsynaptic potentials (PSPs)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Inhibitory (IPSPs)*
+    + Hyperpolarize neuron (make more -)
+    + Move membrane potential away from threshold
+:::
+::: {.column width=50%}
+![http://pittmedneuro.com/synaptic.html](http://pittmedneuro.com/img/Psp.png)
+:::
+::::
+
+## Message from dendrites & soma
+
+:::: {.columns}
+::: {.column width=50%}
+- a mixture of IPSPs and EPSP
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/1224_Post_Synaptic_Potential_Summation.jpg/512px-1224_Post_Synaptic_Potential_Summation.jpg)
+:::
+::::
+
+## What sort of PSP would *opening* a Na+ channel produce?
+
+::: {.incremental}
+- Na+ flows in, so Excitatory PSP (EPSP)
+- Na+ flows out, so Excitatory PSP (EPSP)
+- Na+ flows in, so Inhibitory PSP (IPSP)
+- Na+ flows out, so Inhibitory PSP (IPSP)
+:::
+
+## What sort of PSP would *opening* a Na+ channel produce?
+
+- **Na+ flows in, so Excitatory PSP (EPSP)**
+- Na+ flows out, so Excitatory PSP (EPSP)
+- Na+ flows in, so Inhibitory PSP (IPSP)
+- Na+ flows out, so Inhibitory PSP (IPSP)
+
+## What sort of PSP would *opening* a Cl- channel produce?
+
+Remember $[Cl^-]_{out}>>[Cl^-]_{in}$; Assume resting potential ~-60 mV.
+Cl- is *negatively* charged, so will have opposite effect of positively charged ions.
+
+::: {.incremental}
+- Cl- flows in, so Excitatory PSP (EPSP)
+- Cl- flows out, so Excitatory PSP (EPSP) 
+- Cl- flows in, so Inhibitory PSP (IPSP) 
+- Cl- flows out, so Inhibitory PSP (IPSP) 
+:::
+
+## What sort of PSP would *opening* a Cl- channel produce?
+
+Remember $[Cl^-]_{out}>>[Cl^-]_{in}$; Assume resting potential ~-60 mV.
+Cl- is *negatively* charged, so will have opposite effect of positively charged ions.
+
+- Cl- flows in, so Excitatory PSP (EPSP)
+- Cl- flows out, so Excitatory PSP (EPSP) 
+- **Cl- flows in, so Inhibitory PSP (IPSP)** 
+- Cl- flows out, so Inhibitory PSP (IPSP)
+
+## NT inactivated by multiple mechanisms
+
+- *Buffering*
+    + e.g., glutamate into astrocytes [@GLIA:GLIA10]
+- *Reuptake* via *[transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter)*
+    + molecules in membrane that move NTs inside
+    + e.g., serotonin via serotonin transporter (SERT)
+
+## NT inactivated by multiple mechanisms
+
+- *Enzymatic* degradation
+    + e.g., Acetylcholinesterase (AChE) degrades acetylcholine (ACh)
+
+## Why must NTs be inactivated?
+
+- Or what would happen if they weren't?
+- Or weren't quickly?
+
+## Types of synapses
+
+:::: {.columns}
+::: {.column width=50%}
+- Axodendritic (axon to dendrite)
+- Axosomatic (axon to soma)
+- Axoaxonic (axon to axon)
+- Axosecretory (axon to bloodstream)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blausen_0843_SynapseTypes.png/512px-Blausen_0843_SynapseTypes.png)
+:::
+::::
+
+## General synapse properties
+
+:::: {.columns}
+::: {.column width=50%}
+- on dendrites
+  + usually excitatory 
+- on cell bodies
+  + usually inhibitory 
+- on axons 
+  + usually modulatory (change *p*(fire))
+:::
+::: {.column width=50%}
+![](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg)
+:::
+::::
+
+# Neurotransmitters
+
+## What are they?
+
+:::: {.columns}
+::: {.column width=50%}
+- Chemicals produced by neurons
+- Released by neurons
+- Bound by neurons and other cells
+- Send messages (have physiological effect on target cells)
+- Inactivated after release
+:::
+::: {.column width=50%}
+![https://www.compoundchem.com/2015/07/30/neurotransmitters/](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)
+:::
+::::
+
+## Amino acids
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Amino acids | Glutamate (Glu)                     |
+|             | Gamma aminobutyric acid (GABA)      |
+|             | Glycine                               |
+|             | Aspartate                             |
+
+## Glutamate
+
+::: {.incremental}
+- Primary excitatory NT in CNS (~ 1/2 all synapses)
+- Role in learning (via NMDA receptor)
+- Transporters on neurons and glia (astrocytes and oligodendrocytes)
+- Linked to umami (savory) taste sensation, think monosodium glutamate (MSG)
+- Dysregulation in schizophrenia [@McCutcheon2020-ez](https://doi.org/10.1002/wps.20693), mood disorders [@Malgorzata2020-nz]
+:::
+
+## Glutamate
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | **AMPA**       | Na+, K+          |
+|              | Kainate    |                  |
+|              | **NMDA**       | Ca++              |
+| Metabotropic | mGlu       |                  |
+
+## $\gamma$-aminobutyric Acid (GABA)
+
+::: {.incremental}
+- Primary inhibitory NT in CNS
+- Excitatory in developing CNS, $[Cl^-]_{in} >> [Cl-]_{out}$
+- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+- Synthesized from glutamate
+- Inactivated by transporters
+:::
+
+## GABA
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | **GABA-A**     | Cl-              |
+| Metabotropic | **GABA-B**     | K+            |
+
+## Other amino acid NTs
+
+- *Glycine*
+    + Spinal cord interneurons
+    + Also inhibitory
+- *Aspartate*
+    + Like Glu, stimulates NMDA receptor
+
+## Acetylcholine (ACh)
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Primary NT of CNS output
+- Somatic nervous system (neuromuscular junction)
+- Inactivated by acetylcholinesterase (AChE)
+:::
+:::
+::: {.column width=50%}
+![](https://cdn.britannica.com/41/54741-004-8E4F81CC/acetylcholine-receptor-channel-subunits-diffusion-ions-sodium.jpg?w=300&h=300){fig-align="right"}
+:::
+::::
+
+## Acetylcholine (ACh)
+
+:::: {.columns}
+::: {.column width=50%}
+- Autonomic nervous system
+    + Sympathetic branch: preganglionic neuron
+    + Parasympathetic branch: pre/postganglionic
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Acetylcholine
+
+| Type         | Receptor           | Esp Permeable to | Blocked by       |
+|--------------|--------------------|------------------|------------------|
+| Ionotropic   | **Nicotinic (nAChR)**  | Na+, K+          | e.g., Curare     |
+| Metabotropic | **Muscarinic (mAChR)** | K+               | e.g., Atropine   |
+
+## Curare
+
+![](http://www.general-anaesthesia.com/images/indian-curare.jpg){fig-align="right"}
+
+## Atropine
+
+:::: {.columns}
+::: {.column width=50%}
+- also known as (aka), nightshade or belladonna
+- blocks receptors in the muscles of your iris
+:::
+::: {.column width=50%}
+![](https://s3.amazonaws.com/higherlogicdownload/AAPOS/Contacts/16198f24-a4a8-44a9-bd77-22f5686384ec/TinyMCE/2MkvxJRHGOtslqpJ5IZw__138_dilatingeyedrops2.jpg){fig-align="right"}
+:::
+::::
+
+## Many ways to paralyze your prey
+
+| Substance | Effect |
+|-----------|--------|
+| Japanese pufferfish toxin | Blocks voltage-gated Na+ channels |
+| Black widow spider venom | Accelerates presynaptic ACh release |
+| Botulinum toxin (BoTox)| Prevents ACh vesicles from binding presynaptically |
+
+## Many ways to paralyze your prey
+
+| Substance | Effect |
+|-----------|--------|
+| Sarin nerve gas | Impedes ACh breakdown by AChE |
+| Pesticides | Impede AChE |
+| Tetanus toxin | Blocks release of GABA, glycine |
+
+## Main points
+
+- Neurons use electrical communication (action potentials) to communicate quickly over long distances
+- Chemical communication (diffusion) to communicate over short distances
+- Neurotransmitters are special chemicals that neurons release onto other neurons
+- Ionotropic and metabotropic receptors generate EPSPs and IPSPs
+- Amino acid neurotransmitters: glutamate, GABA, ACh
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
