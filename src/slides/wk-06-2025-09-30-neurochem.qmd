@@ -6,15 +6,58 @@ fig-align: "center"
 
 # Prelude
 
+---
+
+{{< video https://www.youtube.com/watch?v=iTdHQ065A_o&list=RDiTdHQ065A_o&start_radio=1 height="70%" width="100%">}}
+
+-- @LadyGagaVEVO2021-wf
+
 ## Today's topics
 
 - Announcements
   - No class Thursday, October 2, 2025
+- Comment on Quiz 1
 - Behavior requires communication
 - Synaptic communication
 - Neurotransmitters
 
+# Comment on Quiz 1
+
+## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
+
+::: {.incremental}
+- A. better; similar
+- B. better; worse
+- C. worse; better
+- D. worse; similar
+:::
+
+## 9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.
+
+- A. better; similar
+- **B. better; worse**
+- C. worse; better
+- D. worse; similar
+
+## Back story
+
+- EEG & MEG rely on electromagnetic (electro- magneto-encephalography) signals
+- Electromagnetic signals are generated & propagate quickly
+- High temporal resolution (>> fMRI)
+- Signal sources distributed widely, so low spatial resolution (<< fMRI)
+
 # Behavior requires communication
+
+## Types of communication for behavior
+
+::: {.incremental}
+- Between organisms
+- Within organisms
+  - Sensors (eyes, ears, skin, ...)
+  - Effectors (muscles, glands)
+  - Linked via CNS
+
+:::
 
 ## What do animals need to know to behave?
 
@@ -34,6 +77,8 @@ fig-align: "center"
 - Electrical communication : long distances
     - More "expensive"/less energy-efficient
     - *Much* faster
+    
+-- @Sterling2021-yx
 :::
 
 ## Nervous systems are communication systems
@@ -46,6 +91,24 @@ fig-align: "center"
 :::
 
 # Synaptic communication
+
+## Steps in synaptic transmission
+
+| Step |
+|------|
+| Action potential arrives at terminal button. |
+| Voltage-gated $Ca^{++}$ channels open |
+| $Ca^{++}$ ions enter the cell |
+| $Ca^{++}$ ions activate synaptic vesicles & trigger exocytosis |
+
+## Steps in synaptic transmission
+
+| Step |
+|------|
+| Neurotransmitter diffuses across synaptic cleft |
+| Neurotransmitter binds to post-synaptic receptor(s) |
+| Postsynaptic receptor(s) cause EPSP or IPSP |
+| Neurotransmitter unbinds and is inactivated |
 
 ## Action potential propagates from soma
 

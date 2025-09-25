@@ -1,0 +1,326 @@
+---
+title: "Neurochemistry II"
+subtitle: 2025-10-07
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=y5W60VwDkas&list=RDy5W60VwDkas&start_radio=1 height="70%" width="100%" >}}
+
+-- @Dancer2016-pl
+
+## Monoamine Song
+
+Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a-mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## Today's topics
+
+- Neurotransmitters
+
+# Warm-up
+
+# More on neurotransmitters
+
+## Monoamines
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | *Dopamine* (DA)                           |
+|             | *Norepinephrine* (NE)/Noradrenaline (NAd) |
+|             | Epinephrine (Epi)/Adrenaline (Ad)       |
+|             | *Serotonin* (5-HT)                       |
+|             | Melatonin                               |
+|             | Histamine                               |
+
+## Dopamine (DA)
+
+:::: {.columns}
+::: {.column width=50%}
+- Released by two pathways 
+- Both originate in the midbrain tegmentum
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
+:::
+::::
+
+## Dopamine (DA)
+
+:::: {.columns}
+::: {.column width=50%}
+- Substantia nigra -> striatum, *meso-striatal projection*
+- Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
+:::
+::::
+
+## Dopamine (DA)
+
+- Disruption linked to
+    - Parkinson's Disease (mesostriatal)
+        + DA agonists treat (agonists facilitate/increase transmission)
+    - Schizophrenia (mesolimbocortical)
+        + DA *ant*agonists treat
+    - Addiction (mesolimbocortical)
+    - ADHD (mesolimbocortical)
+    
+## Dopamine (DA)
+
+:::: {.columns}
+::: {.column width=50%}
+- Inactivated by
+  - [Chemical breakdown](http://www.scholarpedia.org/article/Dopamine_anatomy#Dopamine_receptors)
+  - Dopamine transporter (DAT)
+:::
+::: {.column width=50%}
+![@McHugh2015-pi](https://ars.els-cdn.com/content/image/1-s2.0-S0083672914000223-f11-01-9780128030080.jpg)
+:::
+::::
+
+## Dopamine (DA)
+
+| Type         | Receptor             | Comments                      |
+|--------------|----------------------|-------------------------------|
+| Metabotropic | *D1-like (D1 and D5)*  | more prevalent                |
+|              | *D2-like (D2, D3, D4)* | target of many antipsychotics (drugs that treat schizophrenia symptoms) |
+
+## Dopamine (DA)
+
+:::: {.columns}
+::: {.column width=50%}
+- *Not* the pleasure or motivation NT
+- One function: signals differences between predicted and actual outcomes
+:::
+::: {.column width=50%}
+![@Bell2013-qw](../include/img/dopamine-boring-truth.png){fig-align="right"}
+:::
+::::
+
+## Norepinephrine (NE)
+
+:::: {.columns}
+::: {.column width=50%}
+- Role in arousal, mood, eating, sexual behavior
+- Released by 
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons/caudal tegmentum
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/6d/Locus-coeruleus.gif){fig-align="center"}
+:::
+::::
+
+## Norepinephrine (NE)
+
+:::: {.columns}
+::: {.column width=50%}
+- Released by Sympathetic branch of Autonomic Nervous System (ANS) onto targets in PNS
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Norepinephrine (NE)
+
+:::: {.columns}
+::: {.column width=50%}
+- Monoamine oxidase (MAO) inactivates monoamines in neurons, glial cells
+- <span class="red">Monoamine oxidase inhibitors (MAOIs)</span> *increase* NE, DA
+    + Inhibiting inactivation ~ `-(-1) = + 1`
+- Early treatment for depression, but side effects (dry mouth, nausea, headache, dizziness)
+:::
+::: {.column width=50%}
+![@Youdim2006-wk](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1883/MediaObjects/41583_2006_Article_BFnrn1883_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+## Norepinephrine (NE)
+
+| Type         | Receptor             | Comments                           |
+|--------------|----------------------|------------------------------------|
+| Metabotropic | $\alpha$ (1,2)       | antagonists treat anxiety, panic   |
+|              | $\beta$ (1,2,3)      | 'beta blockers' in cardiac disease |
+
+## Serotonin (5-HT)
+
+:::: {.columns}
+::: {.column width=50%}
+- Released by *raphe nuclei* in brainstem
+- Role in mood, sleep, eating, pain, nausea, cognition, memory
+- Modulates release of other NTs
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png")
+:::
+::::
+
+
+## Serotonin (5-HT)
+
+:::: {.columns}
+::: {.column width=50%}
+- Most of body's 5-HT neurons regulate digestion
+    - via Enteric Nervous System (in PNS)
+:::
+::: {.column width=50%}
+![@Furness2012-dy](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrgastro.2012.32/MediaObjects/41575_2012_Article_BFnrgastro201232_Fig1_HTML.jpg")
+:::
+::::
+
+## Serotonin (5-HT)
+
+- 5-HT receptors
+    - Seven families (5-HT 1-7) with 14 types
+    - All but one metabotropic
+
+## Serotonin (5-HT)
+
+- Ecstasy (MDMA) disturbs serotonin
+- So does LSD
+- Fluoxetine (Prozac)
+    + *Selective Serotonin Reuptake Inhibitor (SSRI)*
+    + Inhibits reuptake -> increases extracellular concentration
+    + Treats depression, panic, eating disorders, others
+- 5-HT3 receptor antagonists are anti-mimetics used in treating nausea
+
+## Melatonin
+
+:::: {.columns}
+::: {.column width=50%}
+- Hormone released by pineal gland into bloodstream
+- Concentrations vary over the day, peak near bedtime
+- Release regulated by inputs from hypothalamus
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/6d/Pineal_gland.gif)
+:::
+::::
+
+## Histamine
+
+:::: {.columns}
+::: {.column width=50%}
+- In brain, released by hypothalamus, projects to whole brain
+    + Metabotropic receptors
+    + Role in arousal/sleep regulation
+- In body, part of immune response
+:::
+::: {.column width=50%}
+![@Haas2003-gh](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1034/MediaObjects/41583_2003_Article_BFnrn1034_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+
+## Other NTs
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
+    
+## Other NTs
+
+- Neuropeptides (continued)
+    + *Cholecystokinin (CCK)* stimulates digestion
+    + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
+    
+## Non-chemical communication between neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Gap junctions
+- Electrical coupling
+- Connect cytoplasm directly
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+:::
+::::
+
+## Non-chemical communication between neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Fast, but fixed, hard to modulate
+- Examples: retina, cardiac muscle
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+:::
+::::
+
+## Ways to think about synaptic communication
+
+- Specificity: point-to-point vs. broadcast
+- Direct (immediate) action vs. (delayed, prolonged) modulatory
+- Agonists vs. antagonists
+
+## Agonists vs. Antagonists
+
+- *Agonists* 
+    + bind to receptor
+    + mimic action of endogenous chemical
+- *Antagonists*
+    + bind to receptor
+    + block/impede action of endogenous chemical
+    
+## Valium is a GABA-A receptor agonist. This means:
+
+::: {.incremental}
+- A. It decreases inhibition
+- B. It activates a metabotropic Cl- channel 
+- C. It facilitates/increases Cl- flux
+- D. It blocks an ionotropic channel
+
+:::
+
+## Valium is a GABA-A receptor agonist. This means:
+
+- ~~A. It decreases inhibition~~
+- ~~B. It activates a metabotropic Cl- channel~~ 
+- **C. It facilitates/increases Cl- flux**
+- ~~D. It blocks an ionotropic channel~~
+
+## Main points
+
+- Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
+- Released from specific areas in midbrain and hindbrain
+- Monamines inactivated chemically and via transporters
+- Many drugs that treat psychiatric illness affect monoamines
+- Most monoamines activate metabotropic receptors
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
