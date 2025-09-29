@@ -285,7 +285,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#types-of-communication-for-behavior",
     "title": "Neurochemistry",
     "section": "Types of communication for behavior",
-    "text": "Types of communication for behavior\n\n\nBetween organisms\nWithin organisms\n\nSensors (eyes, ears, skin, …)\nEffectors (muscles, glands)\nLinked via CNS",
+    "text": "Types of communication for behavior\n\nBetween organisms\nWithin organisms\n\nSensors (eyes, ears, skin, …)\nEffectors (muscles, glands)\nLinked via CNS",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -296,7 +296,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#what-do-animals-need-to-know-to-behave",
     "title": "Neurochemistry",
     "section": "What do animals need to know to behave?",
-    "text": "What do animals need to know to behave?\n\n\nWhat’s out there\nWhere is it\nWhat should I do about it\nDo it",
+    "text": "What do animals need to know to behave?\n\nWhat’s out there\nWhere is it\nWhat should I do about it\nDo it",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -307,7 +307,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems",
     "title": "Neurochemistry",
     "section": "Nervous systems are communication systems",
-    "text": "Nervous systems are communication systems\n\n\nChemical communication : short distances\n\nDiffusion\nCheap, energy-efficient, “compute with chemistry”\n\nElectrical communication : long distances\n\nMore “expensive”/less energy-efficient\nMuch faster\n\n\n– Sterling & Laughlin (2021)",
+    "text": "Nervous systems are communication systems\n\nChemical communication : short distances\n\nForce of diffusion\nCheap, energy-efficient, “compute with chemistry”\n\nElectrical communication : long distances\n\nIon flows across membrane \\(\\rightarrow\\) propagating voltages\nMore “expensive” (metabolically-speaking)/less energy-efficient\nMuch faster\n\n\n– Sterling & Laughlin (2021)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -318,7 +318,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#nervous-systems-are-communication-systems-1",
     "title": "Neurochemistry",
     "section": "Nervous systems are communication systems",
-    "text": "Nervous systems are communication systems\n\n\nSynaptic communication\n\nChemical (via neurotransmitters)\nElectrical (via ion flow)\n\nEndocrine communication (chemical via hormones released into bloodstream)",
+    "text": "Nervous systems are communication systems\n\nSynaptic communication\n\nChemical (via neurotransmitters)\nElectrical (via ion flow)\n\nEndocrine communication (chemical via hormones released into bloodstream)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -373,7 +373,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal",
     "title": "Neurochemistry",
     "section": "Action potential arrives at synaptic terminal",
-    "text": "Action potential arrives at synaptic terminal\n\n\n\n\nHow does AP cause chemical release?\nVoltage-gated calcium (Ca++) channels open\nCa++ enters",
+    "text": "Action potential arrives at synaptic terminal\n\n\n\nHow does AP cause chemical release?\nVoltage-gated calcium (Ca++) channels open\nCa++ enters",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -384,7 +384,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#action-potential-arrives-at-synaptic-terminal-1",
     "title": "Neurochemistry",
     "section": "Action potential arrives at synaptic terminal",
-    "text": "Action potential arrives at synaptic terminal\n\n\n\n\nCa++ causes synaptic vesicles to bind with presynaptic membrane & merge with it\nNeurotransmitters (NTs) released via exocytosis (‘out’ of the cell)\n\n\n\n\n\n\nHastoy, Clark, Rorsman, & Lang (2017)",
+    "text": "Action potential arrives at synaptic terminal\n\n\n\nCa++ causes synaptic vesicles to bind with presynaptic membrane & merge with it\nNeurotransmitters (NTs) released via exocytosis (‘out’ of the cell)\n\n\n\n\n\nHastoy, Clark, Rorsman, & Lang (2017)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -494,7 +494,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-na-channel-produce",
     "title": "Neurochemistry",
     "section": "What sort of PSP would opening a Na+ channel produce?",
-    "text": "What sort of PSP would opening a Na+ channel produce?\n\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)",
+    "text": "What sort of PSP would opening a Na+ channel produce?\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -516,7 +516,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#what-sort-of-psp-would-opening-a-cl--channel-produce",
     "title": "Neurochemistry",
     "section": "What sort of PSP would opening a Cl- channel produce?",
-    "text": "What sort of PSP would opening a Cl- channel produce?\nRemember \\([Cl^-]_{out}&gt;&gt;[Cl^-]_{in}\\); Assume resting potential ~-60 mV. Cl- is negatively charged, so will have opposite effect of positively charged ions.\n\n\nCl- flows in, so Excitatory PSP (EPSP)\nCl- flows out, so Excitatory PSP (EPSP)\nCl- flows in, so Inhibitory PSP (IPSP)\nCl- flows out, so Inhibitory PSP (IPSP)",
+    "text": "What sort of PSP would opening a Cl- channel produce?\nRemember \\([Cl^-]_{out}&gt;&gt;[Cl^-]_{in}\\); Assume resting potential ~-60 mV. Cl- is negatively charged, so will have opposite effect of positively charged ions.\n\nCl- flows in, so Excitatory PSP (EPSP)\nCl- flows out, so Excitatory PSP (EPSP)\nCl- flows in, so Inhibitory PSP (IPSP)\nCl- flows out, so Inhibitory PSP (IPSP)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -615,7 +615,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#glutamate",
     "title": "Neurochemistry",
     "section": "Glutamate",
-    "text": "Glutamate\n\n\nPrimary excitatory NT in CNS (~ 1/2 all synapses)\nRole in learning (via NMDA receptor)\nTransporters on neurons and glia (astrocytes and oligodendrocytes)\nLinked to umami (savory) taste sensation, think monosodium glutamate (MSG)\nDysregulation in schizophrenia McCutcheon, Krystal, & Howes (2020), mood disorders (Małgorzata, Paweł, Iwona, Brzostek, & Andrzej, 2020)",
+    "text": "Glutamate\n\nPrimary excitatory NT in CNS (~ 1/2 all synapses)\nRole in learning (via NMDA receptor)\nTransporters on neurons and glia (astrocytes and oligodendrocytes)\nLinked to umami (savory) taste sensation, think monosodium glutamate (MSG)\nDysregulation in schizophrenia McCutcheon, Krystal, & Howes (2020), mood disorders (Małgorzata, Paweł, Iwona, Brzostek, & Andrzej, 2020)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -637,7 +637,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#gamma-aminobutyric-acid-gaba",
     "title": "Neurochemistry",
     "section": "\\(\\gamma\\)-aminobutyric Acid (GABA)",
-    "text": "\\(\\gamma\\)-aminobutyric Acid (GABA)\n\n\nPrimary inhibitory NT in CNS\nExcitatory in developing CNS, \\([Cl^-]_{in} &gt;&gt; [Cl-]_{out}\\)\nBinding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.\nSynthesized from glutamate\nInactivated by transporters",
+    "text": "\\(\\gamma\\)-aminobutyric Acid (GABA)\n\nPrimary inhibitory NT in CNS\nExcitatory in developing CNS, \\([Cl^-]_{in} &gt;&gt; [Cl-]_{out}\\)\nBinding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.\nSynthesized from glutamate\nInactivated by transporters",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -670,7 +670,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#acetylcholine-ach",
     "title": "Neurochemistry",
     "section": "Acetylcholine (ACh)",
-    "text": "Acetylcholine (ACh)\n\n\n\n\nPrimary NT of CNS output\nSomatic nervous system (neuromuscular junction)\nInactivated by acetylcholinesterase (AChE)",
+    "text": "Acetylcholine (ACh)\n\n\n\nPrimary NT of CNS output\nSomatic nervous system (neuromuscular junction)\nInactivated by acetylcholinesterase (AChE)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -4242,7 +4242,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#electroencephalography-eeg-has-___-temporal-resolution-than-functional-mri-but-___-spatial-resolution.",
     "title": "Neurochemistry",
     "section": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.",
-    "text": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.\n\n\nA. better; similar\nB. better; worse\nC. worse; better\nD. worse; similar",
+    "text": "9. Electroencephalography (EEG) has ___ temporal resolution than functional MRI, but ___ spatial resolution.\n\nA. better; similar\nB. better; worse\nC. worse; better\nD. worse; similar",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -4264,7 +4264,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#back-story",
     "title": "Neurochemistry",
     "section": "Back story",
-    "text": "Back story\n\nEEG & MEG rely on electromagnetic (electro- magneto-encephalography) signals\nElectromagnetic signals are generated & propagate quickly\nHigh temporal resolution (&gt;&gt; fMRI)\nSignal sources distributed widely, so low spatial resolution (&lt;&lt; fMRI)",
+    "text": "Back story\n\nElectroencephalograpy (EEG) & magnetoencephalography (MEG) rely on electromagnetic (EM) signals\nLarge numbers of overlapping action potentials generate EM signals\nEM signals propagate quickly through brain, skull, & scalp\nHigh temporal resolution (&gt;&gt; fMRI)\nBut, EM sources distributed widely, so low spatial resolution (&lt;&lt; fMRI)",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"

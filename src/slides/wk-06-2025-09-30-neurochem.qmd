@@ -41,10 +41,11 @@ fig-align: "center"
 
 ## Back story
 
-- EEG & MEG rely on electromagnetic (electro- magneto-encephalography) signals
-- Electromagnetic signals are generated & propagate quickly
+- Electroencephalograpy (EEG) & magnetoencephalography (MEG) rely on electromagnetic (EM) signals
+- Large numbers of overlapping action potentials generate EM signals 
+- EM signals propagate quickly through brain, skull, & scalp
 - High temporal resolution (>> fMRI)
-- Signal sources distributed widely, so low spatial resolution (<< fMRI)
+- But, EM sources distributed widely, so *low* spatial resolution (<< fMRI)
 
 # Behavior requires communication
 
@@ -56,7 +57,7 @@ fig-align: "center"
   - Sensors (eyes, ears, skin, ...)
   - Effectors (muscles, glands)
   - Linked via CNS
-
+  
 :::
 
 ## What do animals need to know to behave?
@@ -72,11 +73,12 @@ fig-align: "center"
 
 ::: {.incremental}
 - Chemical communication : short distances
-  - Diffusion
+  - Force of diffusion
   - Cheap, energy-efficient, "compute with chemistry"
 - Electrical communication : long distances
-    - More "expensive"/less energy-efficient
-    - *Much* faster
+  - Ion flows across membrane $\rightarrow$ propagating voltages
+  - More "expensive" (metabolically-speaking)/less energy-efficient
+  - *Much* faster
     
 -- @Sterling2021-yx
 :::
