@@ -20,4 +20,4 @@ knitr::opts_chunk$set(cache = TRUE)
 | [Thu Nov 06](schedule.qmd#thu-nov-6-2025)  | Quiz 3 |
 | [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | Exam 3 |
 | [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | Quiz 4 |
-| TBD  | Exam 4 |
+| Tue Dec 16 | Exam 4 |

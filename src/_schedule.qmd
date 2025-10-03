@@ -235,4 +235,6 @@ This means to read pages 3 to 15.
 
 ## `{r} sched_df$week[17]` {- #finals-week}
 
-*Exam 4 (date TBD)*
+### Tue, Dec 16, 2025
+
+*Exam 4 (Final)*, 4:40-6:30 pm in 114 Steidle
