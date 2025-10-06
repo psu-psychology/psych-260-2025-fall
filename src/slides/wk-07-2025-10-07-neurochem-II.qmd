@@ -6,37 +6,292 @@ fig-align: "center"
 
 # Prelude
 
----
+<!-- --- -->
 
-{{< video https://www.youtube.com/watch?v=y5W60VwDkas&list=RDy5W60VwDkas&start_radio=1 height="70%" width="100%" >}}
+<!-- {{< video https://www.youtube.com/watch?v=y5W60VwDkas&list=RDy5W60VwDkas&start_radio=1 height="70%" width="100%" >}} -->
 
--- @Dancer2016-pl
+<!-- -- @Dancer2016-pl -->
 
-## Monoamine Song
+<!-- ## Monoamine Song -->
 
-Monoamines, do-do do do-do</br>
-Monoamines, do do do-do</br>
-Monoamines, do do do do-do do do-do do do-do do do do do-do do
+<!-- Monoamines, do-do do do-do</br> -->
+<!-- Monoamines, do do do-do</br> -->
+<!-- Monoamines, do do do do-do do do-do do do-do do do do do-do do -->
 
-## Monoamine Song
+<!-- ## Monoamine Song -->
 
-Monoamines, do-pa-mine is one</br>
-Monoamines, norepi, too</br>
-Monoamines, sero-tonin e-pinephrine, dop-a-mine, nor-epinephrine, melatonin, whoo!
+<!-- Monoamines, do-pa-mine is one</br> -->
+<!-- Monoamines, norepi, too</br> -->
+<!-- Monoamines, sero-tonin e-pinephrine, dop-a-mine, nor-epinephrine, melatonin, whoo! -->
 
-## Monoamine Song
+<!-- ## Monoamine Song -->
 
-Monoamines, mod-u-late neurons </br>
-Monoamines, throughout the brain</br>
-Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+<!-- Monoamines, mod-u-late neurons </br> -->
+<!-- Monoamines, throughout the brain</br> -->
+<!-- Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do -->
 
 ## Today's topics
 
+- Wrap-up on synapses
 - Neurotransmitters
 
 # Warm-up
 
-# More on neurotransmitters
+## What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?
+
+::: {.incremental}
+- A. potassium, $K^+$
+- B. organic anions, $A^-$
+- C. calcium, $Ca^{++}$
+- D. chloride, $Cl^-$
+
+:::
+
+## What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?
+
+- ~~A. potassium, $K^+$~~
+- ~~B. organic anions, $A^-$~~
+- **C. calcium, $Ca^{++}$**
+- ~~D. chloride, $Cl^-$~~
+
+## What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?
+
+- ~~A. potassium, $K^+$~~ flows out not in
+- ~~B. organic anions, $A^-$~~ doesn't flow in or out
+- **C. calcium, $Ca^{++}$**
+- ~~D. chloride, $Cl^-$~~ flows in, but doesn't trigger NT release
+
+## What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?
+
+::: {.incremental}
+- A. Buffering (e.g., by astrocytes)
+- B. Chemical breakdown (enzymatic degradation)
+- C. Reuptake (into presynaptic terminal)
+- D. All of the above
+
+:::
+
+## What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?
+
+- A. Buffering (e.g., by astrocytes)
+- B. Chemical breakdown (enzymatic degradation)
+- C. Reuptake (into presynaptic terminal)
+- **D. All of the above**
+
+## What sort of PSP would *opening* a Na+ channel produce?
+
+::: {.incremental}
+- Na+ flows in, so Excitatory PSP (EPSP)
+- Na+ flows out, so Excitatory PSP (EPSP)
+- Na+ flows in, so Inhibitory PSP (IPSP)
+- Na+ flows out, so Inhibitory PSP (IPSP)
+:::
+
+## What sort of PSP would *opening* a Na+ channel produce?
+
+- **Na+ flows in, so Excitatory PSP (EPSP)**
+- ~~Na+ flows out, so Excitatory PSP (EPSP)~~
+- ~~Na+ flows in, so Inhibitory PSP (IPSP)~~
+- ~~Na+ flows out, so Inhibitory PSP (IPSP)~~
+
+# Synapses
+
+## Why must NTs be inactivated?
+
+- Or what would happen if they weren't?
+- Or weren't quickly?
+
+::: {.fragment}
+- Concentration gradient (sending to receiving cell) wouldn't be large
+- NT flow would be altered
+:::
+
+## Types of synapses
+
+:::: {.columns}
+::: {.column width=40%}
+- Axodendritic (axon to dendrite)
+- Axosomatic (axon to soma)
+- Axoaxonic (axon to axon)
+- Axosecretory (axon to bloodstream)
+:::
+::: {.column width=60%}
+[![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blausen_0843_SynapseTypes.png/512px-Blausen_0843_SynapseTypes.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blausen_0843_SynapseTypes.png/512px-Blausen_0843_SynapseTypes.png)
+:::
+::::
+
+## General synapse properties
+
+:::: {.columns}
+::: {.column width=40%}
+- on dendrites
+  + usually excitatory 
+- on cell bodies
+  + usually inhibitory 
+- on axons 
+  + usually modulatory (change *p*(fire))
+:::
+::: {.column width=60%}
+[![Encyclopedia Britannica](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg)](https://cdn.britannica.com/37/54737-050-013849FC/nerve-impulse-transmission-synapse-arrival-neurotransmitter-release.jpg)
+:::
+::::
+
+
+# Neurotransmitters
+
+## What are they?
+
+:::: {.columns}
+::: {.column width=40%}
+- Chemicals produced by neurons
+- Released by neurons
+- Bound by neurons and other cells
+:::
+::: {.column width=60%}
+[![https://www.compoundchem.com/2015/07/30/neurotransmitters/](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)
+:::
+::::
+
+## What are they?
+
+:::: {.columns}
+::: {.column width=40%}
+- Send messages (have physiological effect on target cells)
+- Inactivated after release
+:::
+::: {.column width=60%}
+[![https://www.compoundchem.com/2015/07/30/neurotransmitters/](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2015/07/Chemical-Structures-of-Neurotransmitters-2015.png?ssl=1)
+:::
+::::
+
+
+## Amino acids
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Amino acids | Glutamate (Glu)                     |
+|             | Gamma aminobutyric acid (GABA)      |
+|             | Glycine                               |
+|             | Aspartate                             |
+
+## Glutamate
+
+::: {.incremental}
+- Primary excitatory NT in CNS (~ 1/2 all synapses)
+- Role in learning (via NMDA receptor)
+- Transporters on neurons and glia (astrocytes and oligodendrocytes)
+- Linked to umami (savory) taste sensation, think monosodium glutamate (MSG)
+- Dysregulation in schizophrenia [@McCutcheon2020-ez](https://doi.org/10.1002/wps.20693), mood disorders [@Malgorzata2020-nz]
+:::
+
+## Glutamate
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | **AMPA**       | Na+, K+          |
+|              | Kainate    |                  |
+|              | **NMDA**       | Ca++              |
+| Metabotropic | mGlu       |                  |
+
+## $\gamma$-aminobutyric Acid (GABA)
+
+::: {.incremental}
+- Primary inhibitory NT in CNS
+- Excitatory in developing CNS, $[Cl^-]_{in} >> [Cl-]_{out}$
+- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+- Synthesized from glutamate
+- Inactivated by transporters
+:::
+
+## GABA
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | **GABA-A**     | Cl-              |
+| Metabotropic | **GABA-B**     | K+            |
+
+## Other amino acid NTs
+
+- *Glycine*
+    + Spinal cord interneurons
+    + Also inhibitory
+- *Aspartate*
+    + Like Glu, stimulates NMDA receptor
+
+## Acetylcholine (ACh)
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Primary NT of CNS output
+- Somatic nervous system (neuromuscular junction)
+- Inactivated by acetylcholinesterase (AChE)
+:::
+:::
+::: {.column width=50%}
+![](https://cdn.britannica.com/41/54741-004-8E4F81CC/acetylcholine-receptor-channel-subunits-diffusion-ions-sodium.jpg?w=300&h=300){fig-align="right"}
+:::
+::::
+
+## Acetylcholine (ACh)
+
+:::: {.columns}
+::: {.column width=50%}
+- Autonomic nervous system
+    + Sympathetic branch: preganglionic neuron
+    + Parasympathetic branch: pre/postganglionic
+:::
+::: {.column width=50%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+:::
+::::
+
+## Acetylcholine
+
+| Type         | Receptor           | Esp Permeable to | Blocked by       |
+|--------------|--------------------|------------------|------------------|
+| Ionotropic   | **Nicotinic (nAChR)**  | Na+, K+          | e.g., Curare     |
+| Metabotropic | **Muscarinic (mAChR)** | K+               | e.g., Atropine   |
+
+## Curare
+
+![](http://www.general-anaesthesia.com/images/indian-curare.jpg){fig-align="right"}
+
+## Atropine
+
+:::: {.columns}
+::: {.column width=50%}
+- also known as (aka), nightshade or belladonna
+- blocks receptors in the muscles of your iris
+:::
+::: {.column width=50%}
+![](https://s3.amazonaws.com/higherlogicdownload/AAPOS/Contacts/16198f24-a4a8-44a9-bd77-22f5686384ec/TinyMCE/2MkvxJRHGOtslqpJ5IZw__138_dilatingeyedrops2.jpg){fig-align="right"}
+:::
+::::
+
+## Many ways to paralyze your prey
+
+| Substance | Effect |
+|-----------|--------|
+| Japanese pufferfish toxin | Blocks voltage-gated Na+ channels |
+| Black widow spider venom | Accelerates presynaptic ACh release |
+| Botulinum toxin (BoTox)| Prevents ACh vesicles from binding presynaptically |
+
+## Many ways to paralyze your prey
+
+| Substance | Effect |
+|-----------|--------|
+| Sarin nerve gas | Impedes ACh breakdown by AChE |
+| Pesticides | Impede AChE |
+| Tetanus toxin | Blocks release of GABA, glycine |
+
+## Main points
+
+- Neurons use electrical communication (action potentials) to communicate quickly over long distances
+- Chemical communication (diffusion) to communicate over short distances
+- Neurotransmitters are special chemicals that neurons release onto other neurons
+- Ionotropic and metabotropic receptors generate EPSPs and IPSPs
+- Amino acid neurotransmitters: glutamate, GABA, ACh
 
 ## Monoamines
 

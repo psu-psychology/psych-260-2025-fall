@@ -780,7 +780,7 @@
     "href": "slides/wk-06-2025-09-30-neurochem.html#references",
     "title": "Neurochemistry",
     "section": "References",
-    "text": "References\n\n\n\n\nAnderson, C. M., & Swanson, R. A. (2000). Astrocyte glutamate transport: Review of properties, regulation, and physiological functions. Glia, 32(1), 1–14. https://doi.org/10.1002/1098-1136(200010)32:1&lt;1::AID-GLIA10&gt;3.0.CO;2-W\n\n\nHastoy, B., Clark, A., Rorsman, P., & Lang, J. (2017). Fusion pore in exocytosis: More than an exit gate? A \\(\\beta\\)-cell perspective. Cell Calcium, 68, 45–61. https://doi.org/10.1016/j.ceca.2017.10.005\n\n\nHaucke, V., Neher, E., & Sigrist, S. J. (2011). Protein scaffolds in the coupling of synaptic exocytosis and endocytosis. Nature Reviews. Neuroscience, 12(3), 127–138. https://doi.org/10.1038/nrn2948\n\n\nLadyGagaVEVO. (2021). Tony bennett, lady gaga - I get a kick out of you (official music video). Youtube. Retrieved from https://www.youtube.com/watch?v=iTdHQ065A_o&list=RDiTdHQ065A_o&start_radio=1\n\n\nMałgorzata, P., Paweł, K., Iwona, M. L., Brzostek, T., & Andrzej, P. (2020). Glutamatergic dysregulation in mood disorders: Opportunities for the discovery of novel drug targets. Expert Opinion on Therapeutic Targets, 24(12), 1187–1209. https://doi.org/10.1080/14728222.2020.1836160\n\n\nMcCutcheon, R. A., Krystal, J. H., & Howes, O. D. (2020). Dopamine and glutamate in schizophrenia: Biology, symptoms and treatment. World Psychiatry: Official Journal of the World Psychiatric Association, 19(1), 15–33. https://doi.org/10.1002/wps.20693\n\n\nNeuron, N. (2021). Propagation of action potential. Youtube. Retrieved from https://www.youtube.com/watch?v=tOTYO5WrXFU\n\n\nSterling, P., & Laughlin, S. (2021). Principles of neural design. The MIT Press, Massachusetts Institute of Technology. Retrieved from https://mitpress.mit.edu/books/principles-neural-design",
+    "text": "References\n\n\n\n\nAnderson, C. M., & Swanson, R. A. (2000). Astrocyte glutamate transport: Review of properties, regulation, and physiological functions. Glia, 32(1), 1–14. https://doi.org/10.1002/1098-1136(200010)32:1&lt;1::AID-GLIA10&gt;3.0.CO;2-W\n\n\nHastoy, B., Clark, A., Rorsman, P., & Lang, J. (2017). Fusion pore in exocytosis: More than an exit gate? A \\(\\beta\\)-cell perspective. Cell Calcium, 68, 45–61. https://doi.org/10.1016/j.ceca.2017.10.005\n\n\nHaucke, V., Neher, E., & Sigrist, S. J. (2011). Protein scaffolds in the coupling of synaptic exocytosis and endocytosis. Nature Reviews. Neuroscience, 12(3), 127–138. https://doi.org/10.1038/nrn2948\n\n\nLadyGagaVEVO. (2021). Tony bennett, lady gaga - I get a kick out of you (official music video). Youtube. Retrieved from https://www.youtube.com/watch?v=iTdHQ065A_o&list=RDiTdHQ065A_o&start_radio=1\n\n\nNeuron, N. (2021). Propagation of action potential. Youtube. Retrieved from https://www.youtube.com/watch?v=tOTYO5WrXFU\n\n\nSterling, P., & Laughlin, S. (2021). Principles of neural design. The MIT Press, Massachusetts Institute of Technology. Retrieved from https://mitpress.mit.edu/books/principles-neural-design",
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
@@ -3862,7 +3862,7 @@
     "href": "slides/wk-07-2025-10-07-neurochem-II.html#todays-topics",
     "title": "Neurochemistry II",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nNeurotransmitters",
+    "text": "Today’s topics\n\nWrap-up on synapses\nNeurotransmitters",
     "crumbs": [
       "Slides",
       "Wk 07 • Tue Oct 07"
@@ -4126,7 +4126,7 @@
     "href": "slides/wk-07-2025-10-07-neurochem-II.html#valium-is-a-gaba-a-receptor-agonist.-this-means",
     "title": "Neurochemistry II",
     "section": "Valium is a GABA-A receptor agonist. This means:",
-    "text": "Valium is a GABA-A receptor agonist. This means:\n\n\nA. It decreases inhibition\nB. It activates a metabotropic Cl- channel\nC. It facilitates/increases Cl- flux\nD. It blocks an ionotropic channel",
+    "text": "Valium is a GABA-A receptor agonist. This means:\n\nA. It decreases inhibition\nB. It activates a metabotropic Cl- channel\nC. It facilitates/increases Cl- flux\nD. It blocks an ionotropic channel",
     "crumbs": [
       "Slides",
       "Wk 07 • Tue Oct 07"
@@ -4148,7 +4148,7 @@
     "href": "slides/wk-07-2025-10-07-neurochem-II.html#main-points",
     "title": "Neurochemistry II",
     "section": "Main points",
-    "text": "Main points\n\nMonoamine neurotransmitters–DA, NE, 5-HT–modulate activity of other neurons\nReleased from specific areas in midbrain and hindbrain\nMonamines inactivated chemically and via transporters\nMany drugs that treat psychiatric illness affect monoamines\nMost monoamines activate metabotropic receptors",
+    "text": "Main points\n\nNeurons use electrical communication (action potentials) to communicate quickly over long distances\nChemical communication (diffusion) to communicate over short distances\nNeurotransmitters are special chemicals that neurons release onto other neurons\nIonotropic and metabotropic receptors generate EPSPs and IPSPs\nAmino acid neurotransmitters: glutamate, GABA, ACh",
     "crumbs": [
       "Slides",
       "Wk 07 • Tue Oct 07"
@@ -4181,7 +4181,7 @@
     "href": "slides/wk-07-2025-10-07-neurochem-II.html#references",
     "title": "Neurochemistry II",
     "section": "References",
-    "text": "References\n\n\n\n\nBell, V. (2013, February 3). The unsexy truth about dopamine. The Guardian. The Guardian. Retrieved from https://www.theguardian.com/science/2013/feb/03/dopamine-the-unsexy-truth\n\n\nDancer, T. (2016). Sesame street - mahna mahna (1969). Youtube. Retrieved from https://www.youtube.com/watch?v=y5W60VwDkas&list=RDy5W60VwDkas&start_radio=1\n\n\nFurness, J. B. (2012). The enteric nervous system and neurogastroenterology. Nature Reviews. Gastroenterology & Hepatology, 9(5), 286–294. https://doi.org/10.1038/nrgastro.2012.32\n\n\nHaas, H., & Panula, P. (2003). The role of histamine and the tuberomamillary nucleus in the nervous system. Nature Reviews. Neuroscience, 4(2), 121–130. https://doi.org/10.1038/nrn1034\n\n\nMcHugh, P. C., & Buckley, D. A. (2015). Chapter eleven - the structure and function of the dopamine transporter and its role in CNS diseases. In G. Litwack (Ed.), Vitamins & hormones (Vol. 98, pp. 339–369). Academic Press. https://doi.org/10.1016/bs.vh.2014.12.009\n\n\nYoudim, M. B. H., Edmondson, D., & Tipton, K. F. (2006). The therapeutic potential of monoamine oxidase inhibitors. Nature Reviews. Neuroscience, 7(4), 295–309. https://doi.org/10.1038/nrn1883",
+    "text": "References\n\n\n\n\nBell, V. (2013, February 3). The unsexy truth about dopamine. The Guardian. The Guardian. Retrieved from https://www.theguardian.com/science/2013/feb/03/dopamine-the-unsexy-truth\n\n\nFurness, J. B. (2012). The enteric nervous system and neurogastroenterology. Nature Reviews. Gastroenterology & Hepatology, 9(5), 286–294. https://doi.org/10.1038/nrgastro.2012.32\n\n\nHaas, H., & Panula, P. (2003). The role of histamine and the tuberomamillary nucleus in the nervous system. Nature Reviews. Neuroscience, 4(2), 121–130. https://doi.org/10.1038/nrn1034\n\n\nMałgorzata, P., Paweł, K., Iwona, M. L., Brzostek, T., & Andrzej, P. (2020). Glutamatergic dysregulation in mood disorders: Opportunities for the discovery of novel drug targets. Expert Opinion on Therapeutic Targets, 24(12), 1187–1209. https://doi.org/10.1080/14728222.2020.1836160\n\n\nMcCutcheon, R. A., Krystal, J. H., & Howes, O. D. (2020). Dopamine and glutamate in schizophrenia: Biology, symptoms and treatment. World Psychiatry: Official Journal of the World Psychiatric Association, 19(1), 15–33. https://doi.org/10.1002/wps.20693\n\n\nMcHugh, P. C., & Buckley, D. A. (2015). Chapter eleven - the structure and function of the dopamine transporter and its role in CNS diseases. In G. Litwack (Ed.), Vitamins & hormones (Vol. 98, pp. 339–369). Academic Press. https://doi.org/10.1016/bs.vh.2014.12.009\n\n\nYoudim, M. B. H., Edmondson, D., & Tipton, K. F. (2006). The therapeutic potential of monoamine oxidase inhibitors. Nature Reviews. Neuroscience, 7(4), 295–309. https://doi.org/10.1038/nrn1883",
     "crumbs": [
       "Slides",
       "Wk 07 • Tue Oct 07"
@@ -4268,6 +4268,303 @@
     "crumbs": [
       "Slides",
       "Wk 06 • Tue Sep 30"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives",
+    "title": "Neurochemistry II",
+    "section": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?",
+    "text": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?\n\nA. potassium, \\(K^+\\)\nB. organic anions, \\(A^-\\)\nC. calcium, \\(Ca^{++}\\)\nD. chloride, \\(Cl^-\\)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives-1",
+    "title": "Neurochemistry II",
+    "section": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?",
+    "text": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?\n\nA. potassium, \\(K^+\\)\nB. organic anions, \\(A^-\\)\nC. calcium, \\(Ca^{++}\\)\nD. chloride, \\(Cl^-\\)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-ways-are-neurotransmitters-inactivated-after-they-bind-with-a-postsynaptic-receptor",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-ways-are-neurotransmitters-inactivated-after-they-bind-with-a-postsynaptic-receptor",
+    "title": "Neurochemistry II",
+    "section": "What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?",
+    "text": "What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?\n\nA. Buffering (e.g., by astrocytes)\nB. Chemical breakdown (enzymatic degradation)\nC. Reuptake (into presynaptic terminal)\nD. All of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-ways-are-neurotransmitters-inactivated-after-they-bind-with-a-postsynaptic-receptor-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-ways-are-neurotransmitters-inactivated-after-they-bind-with-a-postsynaptic-receptor-1",
+    "title": "Neurochemistry II",
+    "section": "What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?",
+    "text": "What ways are neurotransmitters inactivated after they bind with a postsynaptic receptor?\n\nA. Buffering (e.g., by astrocytes)\nB. Chemical breakdown (enzymatic degradation)\nC. Reuptake (into presynaptic terminal)\nD. All of the above",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#why-must-nts-be-inactivated",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#why-must-nts-be-inactivated",
+    "title": "Neurochemistry II",
+    "section": "Why must NTs be inactivated?",
+    "text": "Why must NTs be inactivated?\n\nOr what would happen if they weren’t?\nOr weren’t quickly?\n\n\n\nConcentration gradient (sending to receiving cell) wouldn’t be large\nNT flow would be altered",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#types-of-synapses",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#types-of-synapses",
+    "title": "Neurochemistry II",
+    "section": "Types of synapses",
+    "text": "Types of synapses\n\n\n\nAxodendritic (axon to dendrite)\nAxosomatic (axon to soma)\nAxoaxonic (axon to axon)\nAxosecretory (axon to bloodstream)\n\n\n\n\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#general-synapse-properties",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#general-synapse-properties",
+    "title": "Neurochemistry II",
+    "section": "General synapse properties",
+    "text": "General synapse properties\n\n\n\non dendrites\n\nusually excitatory\n\non cell bodies\n\nusually inhibitory\n\non axons\n\nusually modulatory (change p(fire))\n\n\n\n\n\n\nEncyclopedia Britannica",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-are-they",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-are-they",
+    "title": "Neurochemistry II",
+    "section": "What are they?",
+    "text": "What are they?\n\n\n\nChemicals produced by neurons\nReleased by neurons\nBound by neurons and other cells\n\n\n\n\n\nhttps://www.compoundchem.com/2015/07/30/neurotransmitters/",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#amino-acids",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#amino-acids",
+    "title": "Neurochemistry II",
+    "section": "Amino acids",
+    "text": "Amino acids\n\n\n\nFamily\nNeurotansmitter\n\n\n\n\nAmino acids\nGlutamate (Glu)\n\n\n\nGamma aminobutyric acid (GABA)\n\n\n\nGlycine\n\n\n\nAspartate",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#glutamate",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#glutamate",
+    "title": "Neurochemistry II",
+    "section": "Glutamate",
+    "text": "Glutamate\n\nPrimary excitatory NT in CNS (~ 1/2 all synapses)\nRole in learning (via NMDA receptor)\nTransporters on neurons and glia (astrocytes and oligodendrocytes)\nLinked to umami (savory) taste sensation, think monosodium glutamate (MSG)\nDysregulation in schizophrenia McCutcheon, Krystal, & Howes (2020), mood disorders (Małgorzata, Paweł, Iwona, Brzostek, & Andrzej, 2020)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#glutamate-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#glutamate-1",
+    "title": "Neurochemistry II",
+    "section": "Glutamate",
+    "text": "Glutamate\n\n\n\nType\nReceptor\nEsp Permeable to\n\n\n\n\nIonotropic\nAMPA\nNa+, K+\n\n\n\nKainate\n\n\n\n\nNMDA\nCa++\n\n\nMetabotropic\nmGlu",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#gamma-aminobutyric-acid-gaba",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#gamma-aminobutyric-acid-gaba",
+    "title": "Neurochemistry II",
+    "section": "\\(\\gamma\\)-aminobutyric Acid (GABA)",
+    "text": "\\(\\gamma\\)-aminobutyric Acid (GABA)\n\nPrimary inhibitory NT in CNS\nExcitatory in developing CNS, \\([Cl^-]_{in} &gt;&gt; [Cl-]_{out}\\)\nBinding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.\nSynthesized from glutamate\nInactivated by transporters",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#gaba",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#gaba",
+    "title": "Neurochemistry II",
+    "section": "GABA",
+    "text": "GABA\n\n\n\nType\nReceptor\nEsp Permeable to\n\n\n\n\nIonotropic\nGABA-A\nCl-\n\n\nMetabotropic\nGABA-B\nK+",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#other-amino-acid-nts",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#other-amino-acid-nts",
+    "title": "Neurochemistry II",
+    "section": "Other amino acid NTs",
+    "text": "Other amino acid NTs\n\nGlycine\n\nSpinal cord interneurons\nAlso inhibitory\n\nAspartate\n\nLike Glu, stimulates NMDA receptor",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine-ach",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine-ach",
+    "title": "Neurochemistry II",
+    "section": "Acetylcholine (ACh)",
+    "text": "Acetylcholine (ACh)\n\n\n\nPrimary NT of CNS output\nSomatic nervous system (neuromuscular junction)\nInactivated by acetylcholinesterase (AChE)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine-ach-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine-ach-1",
+    "title": "Neurochemistry II",
+    "section": "Acetylcholine (ACh)",
+    "text": "Acetylcholine (ACh)\n\n\n\nAutonomic nervous system\n\nSympathetic branch: preganglionic neuron\nParasympathetic branch: pre/postganglionic",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#acetylcholine",
+    "title": "Neurochemistry II",
+    "section": "Acetylcholine",
+    "text": "Acetylcholine\n\n\n\n\n\n\n\n\n\nType\nReceptor\nEsp Permeable to\nBlocked by\n\n\n\n\nIonotropic\nNicotinic (nAChR)\nNa+, K+\ne.g., Curare\n\n\nMetabotropic\nMuscarinic (mAChR)\nK+\ne.g., Atropine",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#curare",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#curare",
+    "title": "Neurochemistry II",
+    "section": "Curare",
+    "text": "Curare",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#atropine",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#atropine",
+    "title": "Neurochemistry II",
+    "section": "Atropine",
+    "text": "Atropine\n\n\n\nalso known as (aka), nightshade or belladonna\nblocks receptors in the muscles of your iris",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#many-ways-to-paralyze-your-prey",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#many-ways-to-paralyze-your-prey",
+    "title": "Neurochemistry II",
+    "section": "Many ways to paralyze your prey",
+    "text": "Many ways to paralyze your prey\n\n\n\n\n\n\n\nSubstance\nEffect\n\n\n\n\nJapanese pufferfish toxin\nBlocks voltage-gated Na+ channels\n\n\nBlack widow spider venom\nAccelerates presynaptic ACh release\n\n\nBotulinum toxin (BoTox)\nPrevents ACh vesicles from binding presynaptically",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#many-ways-to-paralyze-your-prey-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#many-ways-to-paralyze-your-prey-1",
+    "title": "Neurochemistry II",
+    "section": "Many ways to paralyze your prey",
+    "text": "Many ways to paralyze your prey\n\n\n\nSubstance\nEffect\n\n\n\n\nSarin nerve gas\nImpedes ACh breakdown by AChE\n\n\nPesticides\nImpede AChE\n\n\nTetanus toxin\nBlocks release of GABA, glycine",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#main-points-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#main-points-1",
+    "title": "Neurochemistry II",
+    "section": "Main points",
+    "text": "Main points\n\nMonoamine neurotransmitters–DA, NE, 5-HT–modulate activity of other neurons\nReleased from specific areas in midbrain and hindbrain\nMonamines inactivated chemically and via transporters\nMany drugs that treat psychiatric illness affect monoamines\nMost monoamines activate metabotropic receptors",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#next-time-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#next-time-1",
+    "title": "Neurochemistry II",
+    "section": "Next time",
+    "text": "Next time",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives-2",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-ion-flows-into-the-presynaptic-terminal-and-triggers-neurotransmitter-release-when-the-action-potential-arrives-2",
+    "title": "Neurochemistry II",
+    "section": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?",
+    "text": "What ion flows into the presynaptic terminal and triggers neurotransmitter release when the action potential arrives?\n\nA. potassium, \\(K^+\\) flows out not in\nB. organic anions, \\(A^-\\) doesn’t flow in or out\nC. calcium, \\(Ca^{++}\\)\nD. chloride, \\(Cl^-\\) flows in, but doesn’t trigger NT release",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-are-they-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-are-they-1",
+    "title": "Neurochemistry II",
+    "section": "What are they?",
+    "text": "What are they?\n\n\n\nSend messages (have physiological effect on target cells)\nInactivated after release\n\n\n\n\n\nhttps://www.compoundchem.com/2015/07/30/neurotransmitters/",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-sort-of-psp-would-opening-a-na-channel-produce",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-sort-of-psp-would-opening-a-na-channel-produce",
+    "title": "Neurochemistry II",
+    "section": "What sort of PSP would opening a Na+ channel produce?",
+    "text": "What sort of PSP would opening a Na+ channel produce?\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-07-2025-10-07-neurochem-II.html#what-sort-of-psp-would-opening-a-na-channel-produce-1",
+    "href": "slides/wk-07-2025-10-07-neurochem-II.html#what-sort-of-psp-would-opening-a-na-channel-produce-1",
+    "title": "Neurochemistry II",
+    "section": "What sort of PSP would opening a Na+ channel produce?",
+    "text": "What sort of PSP would opening a Na+ channel produce?\n\nNa+ flows in, so Excitatory PSP (EPSP)\nNa+ flows out, so Excitatory PSP (EPSP)\nNa+ flows in, so Inhibitory PSP (IPSP)\nNa+ flows out, so Inhibitory PSP (IPSP)",
+    "crumbs": [
+      "Slides",
+      "Wk 07 • Tue Oct 07"
     ]
   }
 ]
