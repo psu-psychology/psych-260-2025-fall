@@ -396,6 +396,14 @@ Cl- is *negatively* charged, so will have opposite effect of positively charged 
 :::
 ::::
 
+## Main points
+
+- Neurons use electrical communication (action potentials) to communicate quickly over long distances
+- Chemical communication (diffusion) to communicate over short distances
+- Neurotransmitters are special chemicals that neurons release onto other neurons
+- Ionotropic and metabotropic receptors generate EPSPs and IPSPs
+- Amino acid neurotransmitters: glutamate, GABA, ACh
+
 # Resources
 
 ## About

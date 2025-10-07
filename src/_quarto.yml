@@ -44,6 +44,8 @@ website:
             href: slides/wk-06-2025-09-30-neurochem.qmd
           - text: "Wk 07 • Tue Oct 07"
             href: slides/wk-07-2025-10-07-neurochem-II.qmd
+          - text: "Wk 07 • Thu Oct 09"
+            href: slides/wk-07-2025-10-09-hormones.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src

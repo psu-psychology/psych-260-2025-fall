@@ -6,29 +6,11 @@ fig-align: "center"
 
 # Prelude
 
-<!-- --- -->
+---
 
-<!-- {{< video https://www.youtube.com/watch?v=y5W60VwDkas&list=RDy5W60VwDkas&start_radio=1 height="70%" width="100%" >}} -->
+{{< video https://www.youtube.com/watch?v=lfLKHY52ERc height="70%" width="100%">}}
 
-<!-- -- @Dancer2016-pl -->
-
-<!-- ## Monoamine Song -->
-
-<!-- Monoamines, do-do do do-do</br> -->
-<!-- Monoamines, do do do-do</br> -->
-<!-- Monoamines, do do do do-do do do-do do do-do do do do do-do do -->
-
-<!-- ## Monoamine Song -->
-
-<!-- Monoamines, do-pa-mine is one</br> -->
-<!-- Monoamines, norepi, too</br> -->
-<!-- Monoamines, sero-tonin e-pinephrine, dop-a-mine, nor-epinephrine, melatonin, whoo! -->
-
-<!-- ## Monoamine Song -->
-
-<!-- Monoamines, mod-u-late neurons </br> -->
-<!-- Monoamines, throughout the brain</br> -->
-<!-- Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do -->
+-- @Netflix2025-hk
 
 ## Today's topics
 
@@ -94,17 +76,17 @@ fig-align: "center"
 - ~~Na+ flows in, so Inhibitory PSP (IPSP)~~
 - ~~Na+ flows out, so Inhibitory PSP (IPSP)~~
 
-# Synapses
-
 ## Why must NTs be inactivated?
 
 - Or what would happen if they weren't?
 - Or weren't quickly?
 
 ::: {.fragment}
-- Concentration gradient (sending to receiving cell) wouldn't be large
+- Concentration gradient wouldn't be large
 - NT flow would be altered
 :::
+
+# Synapses
 
 ## Types of synapses
 
@@ -164,7 +146,6 @@ fig-align: "center"
 :::
 ::::
 
-
 ## Amino acids
 
 | Family      | Neurotansmitter                         |
@@ -173,6 +154,16 @@ fig-align: "center"
 |             | Gamma aminobutyric acid (GABA)      |
 |             | Glycine                               |
 |             | Aspartate                             |
+
+## Amino acids
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Amino acids | **Glutamate (Glu)**                     |
+|             | **Gamma aminobutyric acid (GABA)**      |
+|             | Glycine                               |
+|             | Aspartate                             |
+
 
 ## Glutamate
 
@@ -188,16 +179,16 @@ fig-align: "center"
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
-| Ionotropic   | **AMPA**       | Na+, K+          |
+| Ionotropic   | **AMPA**   | Na+, K+          |
 |              | Kainate    |                  |
-|              | **NMDA**       | Ca++              |
+|              | **NMDA**   | Ca++             |
 | Metabotropic | mGlu       |                  |
 
 ## $\gamma$-aminobutyric Acid (GABA)
 
 ::: {.incremental}
 - Primary inhibitory NT in CNS
-- Excitatory in developing CNS, $[Cl^-]_{in} >> [Cl-]_{out}$
+<!-- - Excitatory in developing CNS, $[Cl^-]_{in} >> [Cl-]_{out}$ -->
 - Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
 - Synthesized from glutamate
 - Inactivated by transporters
@@ -207,8 +198,18 @@ fig-align: "center"
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
-| Ionotropic   | **GABA-A**     | Cl-              |
-| Metabotropic | **GABA-B**     | K+            |
+| Ionotropic   | **GABA-A**     | Cl-          |
+| Metabotropic | **GABA-B**     | K+           |
+
+## What PSP will occur if we *open* a K+ channel?
+
+- K+ flows out, so excitatory (EPSP)
+- K+ flows out, so inhibitory (IPSP)
+
+## What PSP will occur if we *open* a K+ channel?
+
+- ~~K+ flows out, so excitatory (EPSP)~~
+- **K+ flows out, so inhibitory (IPSP)**
 
 ## Other amino acid NTs
 
@@ -221,28 +222,28 @@ fig-align: "center"
 ## Acetylcholine (ACh)
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=40%}
 ::: {.incremental}
 - Primary NT of CNS output
 - Somatic nervous system (neuromuscular junction)
 - Inactivated by acetylcholinesterase (AChE)
 :::
 :::
-::: {.column width=50%}
-![](https://cdn.britannica.com/41/54741-004-8E4F81CC/acetylcholine-receptor-channel-subunits-diffusion-ions-sodium.jpg?w=300&h=300){fig-align="right"}
+::: {.column width=60%}
+[![](https://cdn.britannica.com/41/54741-004-8E4F81CC/acetylcholine-receptor-channel-subunits-diffusion-ions-sodium.jpg?w=300&h=300){fig-align="right"}](https://cdn.britannica.com/41/54741-004-8E4F81CC/acetylcholine-receptor-channel-subunits-diffusion-ions-sodium.jpg?w=300&h=300)
 :::
 ::::
 
 ## Acetylcholine (ACh)
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=40%}
 - Autonomic nervous system
-    + Sympathetic branch: preganglionic neuron
-    + Parasympathetic branch: pre/postganglionic
+    + *Sympathetic branch*: preganglionic neuron
+    + *Parasympathetic branch*: pre/postganglionic
 :::
-::: {.column width=50%}
-![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="80%" fig-align="right"}
+::: {.column width=60%}
+![](http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif){width="60%" fig-align="right"}
 :::
 ::::
 
@@ -253,16 +254,16 @@ fig-align: "center"
 | Ionotropic   | **Nicotinic (nAChR)**  | Na+, K+          | e.g., Curare     |
 | Metabotropic | **Muscarinic (mAChR)** | K+               | e.g., Atropine   |
 
-## Curare
+## [Curare](https://en.wikipedia.org/wiki/Curare)
 
-![](http://www.general-anaesthesia.com/images/indian-curare.jpg){fig-align="right"}
+![](http://www.general-anaesthesia.com/images/indian-curare.jpg){fig-align="center"}
 
 ## Atropine
 
 :::: {.columns}
 ::: {.column width=50%}
 - also known as (aka), nightshade or belladonna
-- blocks receptors in the muscles of your iris
+- blocks ACh receptors in muscles of the iris
 :::
 ::: {.column width=50%}
 ![](https://s3.amazonaws.com/higherlogicdownload/AAPOS/Contacts/16198f24-a4a8-44a9-bd77-22f5686384ec/TinyMCE/2MkvxJRHGOtslqpJ5IZw__138_dilatingeyedrops2.jpg){fig-align="right"}
@@ -284,14 +285,6 @@ fig-align: "center"
 | Sarin nerve gas | Impedes ACh breakdown by AChE |
 | Pesticides | Impede AChE |
 | Tetanus toxin | Blocks release of GABA, glycine |
-
-## Main points
-
-- Neurons use electrical communication (action potentials) to communicate quickly over long distances
-- Chemical communication (diffusion) to communicate over short distances
-- Neurotransmitters are special chemicals that neurons release onto other neurons
-- Ionotropic and metabotropic receptors generate EPSPs and IPSPs
-- Amino acid neurotransmitters: glutamate, GABA, ACh
 
 ## Monoamines
 
@@ -428,7 +421,6 @@ fig-align: "center"
 :::
 ::::
 
-
 ## Serotonin (5-HT)
 
 :::: {.columns}
@@ -544,7 +536,7 @@ fig-align: "center"
 ::: {.incremental}
 - A. It decreases inhibition
 - B. It activates a metabotropic Cl- channel 
-- C. It facilitates/increases Cl- flux
+- C. It facilitates/increases Cl- flow
 - D. It blocks an ionotropic channel
 
 :::
@@ -553,7 +545,7 @@ fig-align: "center"
 
 - ~~A. It decreases inhibition~~
 - ~~B. It activates a metabotropic Cl- channel~~ 
-- **C. It facilitates/increases Cl- flux**
+- **C. It facilitates/increases Cl- flow**
 - ~~D. It blocks an ionotropic channel~~
 
 ## Main points
@@ -565,6 +557,9 @@ fig-align: "center"
 - Most monoamines activate metabotropic receptors
 
 ## Next time
+
+- Wrap-up on neurochemistry
+- Hormones
 
 # Resources
 
