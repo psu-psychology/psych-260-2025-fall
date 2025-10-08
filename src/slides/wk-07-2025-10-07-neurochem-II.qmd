@@ -394,7 +394,17 @@ fig-align: "center"
 - Monoamine oxidase (MAO) inactivates monoamines in neurons, glial cells
 - <span class="red">Monoamine oxidase inhibitors (MAOIs)</span> *increase* NE, DA
     + Inhibiting inactivation ~ `-(-1) = + 1`
-- Early treatment for depression, but side effects (dry mouth, nausea, headache, dizziness)
+:::
+::: {.column width=50%}
+![@Youdim2006-wk](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1883/MediaObjects/41583_2006_Article_BFnrn1883_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+## Norepinephrine (NE)
+
+:::: {.columns}
+::: {.column width=50%}
+- MAO-Is early treatment for depression, but side effects (dry mouth, nausea, headache, dizziness)
 :::
 ::: {.column width=50%}
 ![@Youdim2006-wk](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1883/MediaObjects/41583_2006_Article_BFnrn1883_Fig1_HTML.jpg?as=webp)
@@ -417,7 +427,7 @@ fig-align: "center"
 - Modulates release of other NTs
 :::
 ::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png")
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png)
 :::
 ::::
 
@@ -429,7 +439,7 @@ fig-align: "center"
     - via Enteric Nervous System (in PNS)
 :::
 ::: {.column width=50%}
-![@Furness2012-dy](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrgastro.2012.32/MediaObjects/41575_2012_Article_BFnrgastro201232_Fig1_HTML.jpg")
+![@Furness2012-dy](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrgastro.2012.32/MediaObjects/41575_2012_Article_BFnrgastro201232_Fig1_HTML.jpg){width="70%"}
 :::
 ::::
 
@@ -462,97 +472,14 @@ fig-align: "center"
 :::
 ::::
 
-## Histamine
-
-:::: {.columns}
-::: {.column width=50%}
-- In brain, released by hypothalamus, projects to whole brain
-    + Metabotropic receptors
-    + Role in arousal/sleep regulation
-- In body, part of immune response
-:::
-::: {.column width=50%}
-![@Haas2003-gh](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1034/MediaObjects/41583_2003_Article_BFnrn1034_Fig1_HTML.jpg?as=webp)
-:::
-::::
 
 
-## Other NTs
-
-- Gases
-    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
-- Neuropeptides
-    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
-    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
-    
-## Other NTs
-
-- Neuropeptides (continued)
-    + *Cholecystokinin (CCK)* stimulates digestion
-    + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
-    
-## Non-chemical communication between neurons
-
-:::: {.columns}
-::: {.column width=50%}
-- Gap junctions
-- Electrical coupling
-- Connect cytoplasm directly
-:::
-::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
-:::
-::::
-
-## Non-chemical communication between neurons
-
-:::: {.columns}
-::: {.column width=50%}
-- Fast, but fixed, hard to modulate
-- Examples: retina, cardiac muscle
-:::
-::: {.column width=50%}
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
-:::
-::::
-
-## Ways to think about synaptic communication
-
-- Specificity: point-to-point vs. broadcast
-- Direct (immediate) action vs. (delayed, prolonged) modulatory
-- Agonists vs. antagonists
-
-## Agonists vs. Antagonists
-
-- *Agonists* 
-    + bind to receptor
-    + mimic action of endogenous chemical
-- *Antagonists*
-    + bind to receptor
-    + block/impede action of endogenous chemical
-    
-## Valium is a GABA-A receptor agonist. This means:
-
-::: {.incremental}
-- A. It decreases inhibition
-- B. It activates a metabotropic Cl- channel 
-- C. It facilitates/increases Cl- flow
-- D. It blocks an ionotropic channel
-
-:::
-
-## Valium is a GABA-A receptor agonist. This means:
-
-- ~~A. It decreases inhibition~~
-- ~~B. It activates a metabotropic Cl- channel~~ 
-- **C. It facilitates/increases Cl- flow**
-- ~~D. It blocks an ionotropic channel~~
-
-## Main points
+## Key points about monoamines
 
 - Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
-- Released from specific areas in midbrain and hindbrain
-- Monamines inactivated chemically and via transporters
+- Monoamines are released from specific areas in midbrain and hindbrain
+- Monoamines project widely throughout the CNS
+- Monamines are inactivated chemically and via transporters
 - Many drugs that treat psychiatric illness affect monoamines
 - Most monoamines activate metabotropic receptors
 

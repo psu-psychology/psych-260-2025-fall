@@ -8,7 +8,175 @@ fig-align: "center"
 
 ## Today's topics
 
+- Wrap-up on neurochemistry
+- Hormones
+
 # Warm-up
+
+## Motor neurons in the PNS release this neurotransmitter onto skeletal muscles:
+
+::: {.incremental}
+- A. Glutamate
+- B. GABA
+- C. Dopamine
+- D. Acetylcholine (ACh)
+:::
+
+## Motor neurons in the PNS release this neurotransmitter onto skeletal muscles:
+
+- ~~A. Glutamate~~
+- ~~B. GABA~~
+- ~~C. Dopamine~~
+- **D. Acetylcholine (ACh)**
+
+## What neurotransmitter is released widely across the CNS, at as many as 1/2 of all synapses?
+
+::: {.incremental}
+- A. Acetylcholine
+- B. Serotonin (5-HT)
+- C. Glutamate
+- D. Glycine
+:::
+
+## What neurotransmitter is released widely across the CNS, at as many as 1/2 of all synapses?
+
+- ~~A. Acetylcholine~~
+- ~~B. Serotonin (5-HT)~~
+- **C. Glutamate**
+- ~~D. Glycine~~
+
+## Where in the brain are nuclei whose axons release dopamine (DA), norepinephrine (NE), and serotonin. (5-HT) found?
+
+::: {.incremental}
+- A. Cerebral cortex
+- B. Midbrain and hindbrain
+- C. Thalamus
+- D. Hypothalamus
+:::
+
+## Where in the brain are nuclei whose axons release dopamine (DA), norepinephrine (NE), and serotonin (5-HT) found?
+
+- ~~A. Cerebral cortex~~
+- **B. Midbrain and hindbrain**
+- ~~C. Thalamus~~
+- ~~D. Hypothalamus~~
+
+---
+
+:::: {.columns}
+::: {.column width=30%}
+![Dopamine projections](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
+:::
+::: {.column width=5%}
+:::
+::: {.column width=30%}
+![Raphe Nuclei (5-HT)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png)
+:::
+::: {.column width=5%}
+:::
+::: {.column width=30%}
+![Locus Coeruleus (NE)](https://upload.wikimedia.org/wikipedia/commons/6/6d/Locus-coeruleus.gif)
+:::
+::::
+
+# Neurochemistry wrap-up
+
+## Key points about monoamines
+
+- Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
+- Monoamines are released from specific areas in midbrain and hindbrain
+- Monoamines project widely throughout the CNS
+
+## Key points about monoamines
+
+- Monamines are inactivated chemically and via transporters
+- Many drugs that treat psychiatric illness affect monoamines
+- Most monoamines activate metabotropic receptors
+
+## Histamine
+
+:::: {.columns}
+::: {.column width=50%}
+- In brain, released by hypothalamus, projects to whole brain
+    + Metabotropic receptors
+    + Role in arousal/sleep regulation
+- In body, part of immune response
+:::
+::: {.column width=50%}
+![@Haas2003-gh](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1034/MediaObjects/41583_2003_Article_BFnrn1034_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
+## Other NTs
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
+    
+## Other NTs
+
+- Neuropeptides (continued)
+    + *Cholecystokinin (CCK)* stimulates digestion
+    + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
+    
+## Non-chemical communication between neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Gap junctions
+- Electrical coupling
+- Connect cytoplasm directly
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+:::
+::::
+
+## Non-chemical communication between neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Fast, but fixed, hard to modulate
+- Examples: retina, cardiac muscle
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png)
+:::
+::::
+
+## Ways to think about synaptic communication
+
+- Specificity: point-to-point vs. broadcast
+- Timing of action: Direct (immediate, short-term) vs. (delayed, prolonged)
+- Are non-NT substances agonists or antagonists?
+
+## Agonists vs. Antagonists
+
+- *Agonists* 
+    + bind to receptor
+    + mimic action of endogenous chemical
+- *Antagonists*
+    + bind to receptor
+    + block/impede action of endogenous chemical
+    
+## Valium is a GABA-A receptor *agonist*. This means:
+
+::: {.incremental}
+- A. It decreases inhibition
+- B. It activates a metabotropic Cl- channel 
+- C. It facilitates/increases Cl- flow
+- D. It blocks an ionotropic channel
+
+:::
+
+## Valium is a GABA-A receptor *agonist*. This means:
+
+- ~~A. It decreases inhibition~~
+- ~~B. It activates a metabotropic Cl- channel~~ 
+- **C. It facilitates/increases Cl- flow**
+- ~~D. It blocks an ionotropic channel~~
 
 # Hormones
 
@@ -29,8 +197,10 @@ fig-align: "center"
 - **B. Yes**
 
 ::: {.fragment}
-...If the substances are 1) released by neurons, 2) bind to neurons, and 3) bind to other cells in the body.
-
+- If the substances:
+  - are released by neurons
+  - bind to neurons, and 
+  - bind to other cells in the body.
 :::
 
 ## Substances that are both hormones and neurotransmitters
@@ -92,20 +262,29 @@ fig-align: "center"
 
 ## Differences: Neural vs. hormonal communication
 
+::: {.incremental}
 - Point to point vs.“broadcast”
     + Wider broadcast than neuromodulators
     + Everywhere in body via bloodstream
 - Fast vs. slow-acting
+:::
+
+## Differences: Neural vs. hormonal communication
+
+::: {.incremental}
 - Short-acting vs. long-acting
 - Digital (yes-no) vs. analog (graded) 
 - Voluntary control vs. involuntary
+:::
 
 ## Similarities: Neural vs. hormonal communication
 
+::: {.incremental}
 - Chemical messengers stored for later release 
 - Release follows stimulation
 - Action depends on specific receptors
-- 2nd messenger systems common
+- 2nd messenger (metabotropic receptors) systems common
+:::
 
 ## Biology
 
@@ -272,19 +451,18 @@ fig-align: "center"
 
 ## But, can oxytocin treat social impairments in autism?
 
-```{r, fig.cap="[@Sikich2021-az](https://doi.org/10.1056/NEJMoa2103583)"}
-knitr::include_graphics("../include/img/nejmoa2103583_f2.jpg")
-```
+![@Sikich2021-az](../include/img/nejmoa2103583_f2.jpg)
 
 ## Effects of "knocking-out" oxytocin receptors?
 
-```{r, fig.cap="[@Ledford2023-kg](http://dx.doi.org/10.1038/d41586-023-00197-9)"}
-knitr::include_graphics("../include/img/crispr-voles-oxytocin.png")
-```
+![@Ledford2023-kg](../include/img/crispr-voles-oxytocin.png)
 
 ## Bottom line
 
-- No simple systems, no simple answers
+- Folk psychology memes oversimplify
+  - Oxytocin is the "love" hormone
+  - Cortisol is the "stress" hormone
+- Complex, interacting systems $\rightarrow$ no simple stories
 
 # Wrap-up
 
