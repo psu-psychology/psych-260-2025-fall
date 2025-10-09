@@ -6,6 +6,30 @@ fig-align: "center"
 
 # Prelude
 
+--- 
+
+{{< video https://youtu.be/TbZ_hTEOKZc?si=3mTczBPJCJsWF8Yc width=100% height=70% >}}
+
+-- @Songs2018-lb
+
+## Monoamine Song
+
+Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+Monoamines, do-pa-mine is one</br>
+Monoamines, nor-epi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a-mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
 ## Today's topics
 
 - Wrap-up on neurochemistry
@@ -65,17 +89,17 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=30%}
-![Dopamine projections](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
+![Dopamine projections from midbrain](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png)
 :::
 ::: {.column width=5%}
 :::
 ::: {.column width=30%}
-![Raphe Nuclei (5-HT)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png)
+![Serotonin (5-HT) projections from Raphe Nuclei](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png)
 :::
 ::: {.column width=5%}
 :::
 ::: {.column width=30%}
-![Locus Coeruleus (NE)](https://upload.wikimedia.org/wikipedia/commons/6/6d/Locus-coeruleus.gif)
+![Norepinephrine (NE) projections from Locus Coeruleus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Locus-coeruleus.gif)
 :::
 ::::
 
@@ -84,12 +108,13 @@ fig-align: "center"
 ## Key points about monoamines
 
 - Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
-- Monoamines are released from specific areas in midbrain and hindbrain
+- Monoamines are released from specific locations
+  - DA & NE from midbrain, 5-HT from hind brain
 - Monoamines project widely throughout the CNS
 
 ## Key points about monoamines
 
-- Monamines are inactivated chemically and via transporters
+- Monoamines are inactivated chemically and via transporters
 - Many drugs that treat psychiatric illness affect monoamines
 - Most monoamines activate metabotropic receptors
 
@@ -97,9 +122,10 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- In brain, released by hypothalamus, projects to whole brain
-    + Metabotropic receptors
-    + Role in arousal/sleep regulation
+- In forebrain, released by hypothalamus, projects to whole brain
+  + Metabotropic receptors
+  + Role in arousal/sleep regulation
+  + Anti-histamines can induce sleep
 - In body, part of immune response
 :::
 ::: {.column width=50%}
@@ -110,16 +136,18 @@ fig-align: "center"
 ## Other NTs
 
 - Gases
-    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+  + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
 - Neuropeptides
-    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
-    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
+  + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+  + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
     
 ## Other NTs
 
 - Neuropeptides (continued)
-    + *Cholecystokinin (CCK)* stimulates digestion
-    + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
+  + *Cholecystokinin (CCK)* stimulates digestion
+  + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
+  
+## Why are there so many neurotransmitters?
     
 ## Non-chemical communication between neurons
 
@@ -472,7 +500,7 @@ fig-align: "center"
 - Hormones bind to specialized receptors in the body and the nervous system
 - Hormones influence biologically critical behaviors and physiology
 - Hypothalamus controls hormone release via pituitary
-- Release is indirect (anterior pituitary) or direct (posterior pituitary)
+- Release is indirect (via anterior pituitary) or direct (via posterior pituitary)
 
 ## Next time
 
