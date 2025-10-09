@@ -433,9 +433,23 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 :::: {.columns}
 ::: {.column width=50%}
 - Adrenal cortex
-  + *Glucocorticoids (e.g., cortisol)*
-    + increases blood glucose, anti-inflammatory
-    + prolonged exposure unhealthy
+  + Releases *Glucocorticoids (e.g., cortisol)*
+:::
+::: {.column width=50%}
+![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
+:::
+::::
+
+
+## Responses to threat or challenge
+
+:::: {.columns}
+::: {.column width=50%}
+- *Glucocorticoids (e.g., cortisol)*
+  + increase blood glucose production
+  + anti-inflammatory
+  - immune system suppressor
+  + prolonged exposure unhealthy
 :::
 ::: {.column width=50%}
 ![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
@@ -485,12 +499,28 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 ![@Ledford2023-kg](../include/img/crispr-voles-oxytocin.png)
 
-## Bottom line
+## Folk psychology memes
 
-- Folk psychology memes oversimplify
-  - Oxytocin is the "love" hormone
-  - Cortisol is the "stress" hormone
-- Complex, interacting systems $\rightarrow$ no simple stories
+![](../include/img/oxytocin-the-reason-we-fall-in-love.png){fig-align="center"}
+
+## Folk psychology memes
+
+![](../include/img/cortisol-the-stress-hormone.png){fig-align="center"}
+
+## Folk psychology memes
+
+![](../include/img/chemistry-of-happiness.png){fig-align="center"}
+
+## Folk psychology memes
+
+- Oversimplify
+- Neurotransmitters and hormones have multiple physiological effects
+- Nervous system and rest of body connected, interact
+- Simplification sometimes useful, but can also mislead
+
+---
+
+![](../include/img/why-zebras-dont.png){fig-align="center"}
 
 # Wrap-up
 
