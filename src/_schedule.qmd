@@ -49,6 +49,10 @@ prettify_date <- function(date) {
 ::: {.callout-note}
 Textbook reading assignments in the Watson & Breedlove text, *The Mind's Machine* will be indicated by the following shorthand: 'MM pp 3-15'.
 This means to read pages 3 to 15.
+
+Note that the text covers material we won't cover in class.
+If we don't cover material in class, you aren't responsible for it.
+That said, you may find it interesting to learn and know about anyway.
 :::
 
 ## `{r} sched_df$week[1]` {- #week-01}
