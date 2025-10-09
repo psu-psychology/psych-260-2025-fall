@@ -1,0 +1,287 @@
+---
+title: "Evolution"
+subtitle: 2025-10-14
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=bAGMATHlSK4&list=RDbAGMATHlSK4 height="70%" width="100%" >}}
+
+-- @twoodburn2008-cm
+
+## Today's topics
+
+- Quiz 2
+- Evolution of the nervous system
+
+# Warm-up
+
+# Evolution of the nervous system
+
+## Principles of evolution
+
+- Life on Earth has existed for ~3.5 billion years
+- Life forms existing in the Earth's past differed from those living today
+- New generations of life forms inherit properties from their predecessors
+
+## Principles of evolution
+
+- New life forms evolved as a result of *mutations*, *selection pressures*, and *geological events* 
+- Greater reproductive success (more offspring) for some, not others
+
+## Evidence for evolution
+
+- Fossil
+  + Fossil dating (radiometric)
+- Geological
+  + Where fossils are found relative to one another (relative dating)
+  + How long it takes to form layers
+    
+## Evidence for evolution
+
+- Molecular
+  + Similarities between vastly different species (e.g., in neurotransmitters, hormones, receptors, metabolic pathways, etc.) 
+- Genetic
+  + Rates of mutation
+  + Developmental patterns of gene expression
+    
+## Evidence for evolution
+
+- Anatomical
+
+![Homology among vertibrates: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Homology_vertebrates-en.svg/1200px-Homology_vertebrates-en.svg.png)
+
+## Tree of life
+
+<https://www.evogeneao.com/en/explore/tree-of-life-explorer>
+
+---
+
+>Nothing in biology makes sense except in the light of evolution
+
+>Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole.
+
+>-- @Dobzhansky1973
+
+## History of life is *our* story
+
+![Hubble deep field: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HubbleDeepField.800px.jpg/960px-HubbleDeepField.800px.jpg)
+
+## Looking back to the dawn of time
+
+![JWST NASA](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/07/STScI-01G8H1K2BCNATEZSKVRN9Z69SR.png?w=1960&h=2000&fit=crop&crop=faces%2Cfocalpoint)
+
+---
+
+![@Labbe2023-zp](../include/img/labbe-galaxy-nature-2023.png)
+
+## Timeline of life on Earth
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://www.physics.upenn.edu/~shethrk/courses/ast06/lectures/lecture2/s1.11_files/evolclock.gif){width="80%"}
+:::
+::: {.column width=50%}
+![](https://cdn.britannica.com/98/398-004-C10711C4/scale-events.jpg?w=300){fig-align="right"}
+:::
+::::
+
+## Cambrian Explosion
+
+{{< video https://www.youtube.com/watch?v=qNtQwUO9ff8 height="70%" width="100%" >}}
+
+-- @The-Economist2015-gl
+
+## Cambrian Explosion
+
+- Complex multicellular lifeforms emerged ~541 million years ago
+- "Explosion" in geological terms: lasted ~13-25 million years
+
+## Did *behavior* spark the explosion? [@fox_what_2016]
+
+- Behavior requires movement through space
+- Behavior requires coordinating perception with action
+- Behavior requires perception at a distance
+
+## Did *behavior* spark the explosion? [@fox_what_2016]
+
+- Behavior requires fast & specific communication systems
+- Behavior requires **energy**
+
+## Requirements of behavior
+
+- Input
+  - From external world
+  - Internal states
+- Processing
+- Output
+  - Move body
+  - Change physiological state
+
+## How nervous systems differ...
+
+- Body symmetry
+  + radial
+  + bilateral
+- Segmentation
+- Centralized vs. distributed function
+
+---
+
+{{< video https://www.youtube.com/watch?v=-UI531GMRTM height="70%" width="100%">}}
+
+-- @Park2009-ic
+
+## How nervous systems differ
+
+:::: {.columns}
+::: {.column width=50%}
+- Cephalization: sense organs & nervous system concentrated in anterior
+- Encasement in bone (vertebrates)
+:::
+::: {.column width=50%}
+![@arendt_nerve_2016](../include/img/nrn.2015.15-f1.jpg)
+:::
+::::
+
+## How nervous systems are similar...
+
+- in patterns of early nervous system development 
+  - across vastly different species
+  - with very distant (in time) common ancestors
+  - limited number of ways to build nervous systems that successfully regulate behavior
+  
+---
+
+![@arendt_nerve_2016](../include/img/nrn.2015.15-f2.jpg)
+
+## Vertebrates have similar brain plans
+
+:::: {.columns}
+::: {.column width=50%}
+- Species differ in relative size of parts
+:::
+::: {.column width=50%}
+![@Northcutt2002-jg](../include/img/northcutt-2002-f1.gif)
+:::
+::::
+
+## Vertebrate brain sizes scale with body
+
+![@Northcutt2002-jg](../include/img/northcutt-2002-f2.gif)
+
+## Some vertebrates have bigger brains than others
+
+![Jerison from brainmuseum.org](https://brainmuseum.org/evolution/paleo/images/brnbodwt4.gif)
+
+## Some vertebrates have bigger brains than others
+
+- Mammals and birds have big brains
+- Some specific mammals and birds have big brains for their bodies
+    + Humans
+    + Crows
+    + Porpoises
+- Bigger than expected brains (relative to average) = high 'encephalization factor'
+
+
+## Cerebral cortex size differs among mammals
+
+![@hofman_evolution_2014](http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg)
+
+## Primates have large cerebral cortex
+
+| Structural measure | Non-human comparison | Human |
+|--------------------|----------------------|-------|
+| Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
+| Cortical gray + white | mice 40% | 80% |
+| Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+## Primates have large cerebral cortex
+
+![@Rakic2009-jk](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig1_HTML.jpg?as=webp)
+
+## Selection pressures shaping brain evolution
+
+- Natural and sexual selection for
+    + Traits that improve reproductive success
+- Physical AND psychological traits
+    + Hardware and software
+
+## Virtues of big brains
+  
+- More memory
+- More & faster processing capacity
+- Better sensors
+- Better output
+- Do more, faster
+
+## Costs of bigness
+
+- Long time to build
+- Long time to program/train/educate
+- Lots of energy to nourish/maintain
+- Head/neck must be strong enough to carry
+  - How to connect brain/body parts widely, but process info quickly
+
+## A new view [@Herculano-Houzel2016-oy]
+
+- **Number** of neurons in *cerebral cortex* makes humans "special", not overall mass
+
+---
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Human   | 16 B               | 1233              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+| Giraffe | 1.7 B              | 398.8             |
+| Rhesus | 1.7 B               | 69.8              |
+| Pig    | 303 M               | 42.2              |
+| Rabbit | 71 M                | 4.4               |
+
+## How did the human brain get this way?
+
+- Evolving from mammalian/primate norms
+- More efficient energy intake
+  + calories/hr foraging vs.
+  + cooking? [@Wrangham2009-vq]
+    
+## How did the human brain get this way?
+
+- Specialized patterns of development
+    + Significant time post-natal/pre-reproductive (childhood)
+    + Central role of language & culture
+    
+# Wrap-up
+
+## Main points
+
+- Life forms on Earth have evolved over *billions* of years
+- Complex multi-cellular organisms with nervous systems emerged ~500-600 *million* years ago
+- Centralized nervous systems have similarities in organization
+- Brain sizes scale with body size, with species differences
+
+## Main points
+
+- Human brains similar to closely related primate species, but have more neurons in cerebral cortex
+- Cerebral cortex in humans may have *developmental mechanisms* not found in other animals [@Vanderhaeghen2023-ay]
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

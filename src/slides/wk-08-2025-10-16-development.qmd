@@ -1,0 +1,296 @@
+---
+title: "Evolution"
+subtitle: 2025-10-14
+fig-align: "center"
+---
+
+# Prelude
+
+{{< video https://www.youtube.com/watch?v=ydqReeTV_vk height="70%" width="100%" >}}
+
+-- @Acapellascience2017-yt
+
+## Today's topics
+
+- Development of the nervous system
+
+# Warm-up
+
+# Evolution of the nervous system
+
+## Principles of evolution
+
+- Life on Earth has existed for ~4
+- Life forms existing in the Earth's past differed from those living today
+- New generations of life forms inherit properties from their predecessors
+- New life forms evolved as a result of *mutations*, *selection pressures*, and *geological events* 
+- Greater reproductive success (more offspring) for some, not others
+
+## Evidence for evolution
+
+- Fossil
+    + Fossil dating (radiometric)
+- Geological
+    + Where fossils are found relative to one another (relative dating)
+    + How long it takes to form layers
+    
+## Evidence for evolution
+
+- Molecular
+    + Similarities between vastly different species (e.g., in neurotransmitters, receptors, metabolic pathways, etc.) 
+- Genetic
+    + Rates of mutation
+    + Developmental patterns of gene expression
+    
+## Evidence for evolution
+
+- Anatomical
+
+![Homology among vertibrates: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Homology_vertebrates-en.svg/1200px-Homology_vertebrates-en.svg.png)
+
+## Tree of life
+
+<https://www.evogeneao.com/en/explore/tree-of-life-explorer>
+
+---
+
+>Nothing in biology makes sense except in the light of evolution
+
+>Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole.
+
+>-- @Dobzhansky1973
+
+## History of life is *our* story
+
+![](https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg)
+
+```{r, fig.cap="Hubble Deep Field"}
+knitr::include_graphics("https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg")
+```
+
+---
+
+```{r, fig.cap="JWST deep field in infrared from https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_deep_field_smacs0723-5mb.jpg"}
+knitr::include_graphics("https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_deep_field_smacs0723-5mb.jpg")
+```
+
+---
+
+![@Labbe2023-zp](../include/img/labbe-galaxy-nature-2023.png)
+
+---
+
+>"*Using the first dataset released from NASA's James Webb Space Telescope, the international team of scientists discovered objects as mature as the Milky Way when the universe was only 3% of its current age, about 500-700 million years after the Big Bang. The telescope is equipped with infrared-sensing instruments capable of detecting light that was emitted by the most ancient stars and galaxies. Essentially, the telescope allows scientists to see back in time roughly 13.5 billion years, near the beginning of the universe as we know it, Leja explained.*"
+
+-- @Berard_undated-et
+
+## Timeline of life on Earth
+
+![Timeline evolution of life: Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Timeline_evolution_of_life.svg/774px-Timeline_evolution_of_life.svg.png?20181024035001)
+
+```{r, fig.cap="Timeline evolution of life: Wikimedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Timeline_evolution_of_life.svg/774px-Timeline_evolution_of_life.svg.png?20181024035001")
+```
+
+## Timeline of life on Earth
+
+![](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/marine-biology/what-do-you-know-about-life-on-earth/timeline-of-life-of-earth-desktop/4227857-7-eng-US/timeline-of-life-of-earth-desktop.png)
+
+```{r, fig.cap="https://www.amnh.org/explore/ology/marine-biology/what-do-you-know-about-life-on-earth"}
+knitr::include_graphics("https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/marine-biology/what-do-you-know-about-life-on-earth/timeline-of-life-of-earth-desktop/4227857-7-eng-US/timeline-of-life-of-earth-desktop.png")
+```
+
+## Cambrian Explosion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNtQwUO9ff8" frameborder="0" allowfullscreen></iframe>
+
+- Complex multicellular lifeforms emerged ~541 million years ago
+- "Explosion" in geological terms: lasted ~13-25 million years
+
+## Did *behavior* spark the explosion? [@fox_what_2016]
+
+- Behavior requires movement through space
+- Behavior requires coordinating perception with action
+- Behavior requires perception at a distance
+
+## Did *behavior* spark the explosion? [@fox_what_2016]
+
+- Behavior requires fast & specific communication systems
+- Behavior requires **energy**
+
+## How nervous systems differ...
+
+- Body symmetry
+    + radial
+    + bilateral
+- Segmentation
+- Centralized vs. distributed function
+- Cephalization: sense organs & nervous system concentrated in anterior
+- Encasement in bone (vertebrates)
+
+```{r, fig.cap="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)"}
+knitr::include_graphics("include/img/nrn.2015.15-f1.jpg")
+```
+
+## How nervous systems are similar...
+
+- Similarities in patterns of early nervous system development 
+    - across vastly different species
+    - with very distant (in time) common ancestors
+    - limited number of ways to build nervous systems that successfully regulate behavior
+
+```{r, fig.cap="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)"}
+knitr::include_graphics("include/img/nrn.2015.15-f2.jpg")
+```
+
+```{r, fig.cap="[@northcutt_understanding_2002](http://icb.oxfordjournals.org/content/42/4/743/F2.large.jpg"}
+knitr::include_graphics("include/img/northcutt-2002-f1.gif")
+```
+
+- Vertebrates have similar brain plans
+- Species differ in relative size of parts
+
+```{r}
+knitr::include_graphics("include/img/northcutt-2002-f2.gif")
+```
+
+- Brain sizes scale with body size
+- Why?
+
+```{r, fig.cap="https://brains.anatomy.msu.edu/museum/brain/evolution/paleo/brnbodwt.html", out.width="100%"}
+knitr::include_url("https://brains.anatomy.msu.edu/museum/brain/evolution/paleo/brnbodwt.html", height="400px")
+```
+
+- Brain size scales with body size (more or less)
+- Mammals and birds have big brains
+- Some animals have big brains for their bodies
+    + Humans
+    + Crows
+    + Porpoises
+- Bigger than expect brains (relative to average) = high 'encephalization factor'
+
+```{r, fig.cap="[[@hofman_evolution_2014]](http://doi.org/10.3389/fnana.2014.00015)"}
+knitr::include_graphics("http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg")
+```
+
+- Cerebral cortex sizes differ among mammals
+- Cerebral cortex large (relative to body size) in primates (e.g., humans)
+
+| Structural measure | Non-human comparison | Human |
+|--------------------|----------------------|-------|
+| Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
+| Cortical gray + white | mice 40% | 80% |
+| Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+```{r, fig.cap="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig1_HTML.jpg?as=webp")
+```
+
+```{r}
+knitr::include_graphics("http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g002.jpg")
+```
+
+- But in primates, including humans
+    + Olfactory bulbs small
+    + Cerebellum comparable to other mammals
+
+## Selection pressures shaping brain evolution
+
+- Natural and sexual selection for
+    + Traits that improve reproductive success
+- Physical AND psychological traits
+    + Hardware and software
+
+```{r}
+knitr::include_graphics("https://www.cnet.com/a/img/resize/5438b295e13a8697e67b0b7d11ac094a006635d7/hub/2014/11/11/8fe1cff7-cc8f-4758-98c4-00fbce36ffa8/google-nexus-6-foto.jpg?auto=webp&width=1200")
+```
+<!-- Big cell phone -->
+
+- Virtues of big phones/brains
+  - More storage
+  - More processing capacity
+  - Better sensors
+  - Better output
+  - More, better apps
+  - Do more, faster
+
+- Costs of big brains
+  - Long time to build
+  - Lots of energy to nourish/maintain
+  - Long time to program/train/educate
+  - Head/neck must be strong enough to carry
+  - How to connect brain/body parts widely, but process info quickly
+
+::: {.infobox}
+
+Does size matter? 
+
+```{r}
+knitr::include_graphics("http://s3v.computerhistory.org/102695698-03-01.jpg")
+knitr::include_graphics("https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-462x322.jpg")
+```
+
+Maybe not so much
+
+:::
+
+## A new view [@Herculano-Houzel2016-oy]
+
+- **Number** of neurons in *cerebral cortex* makes humans "special"
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Human   | 16 B               | 1233              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+| Giraffe | 1.7 B              | 398.8             |
+| Rhesus | 1.7 B               | 69.8              |
+| Pig    | 303 M               | 42.2              |
+| Rabbit | 71 M                | 4.4               |
+
+```{r, fig.cap="Figure 3 from [[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)", out.width="100%"}
+knitr::include_graphics("https://www.pnas.org/cms/10.1073/pnas.1201895109/asset/e7ba3fa0-8ecd-4027-9c7b-b7ddf50946bf/assets/graphic/pnas.1201895109fig03.jpeg")
+```
+
+- Maybe # of cortical (or its equivalent) neurons predicts "cognition"? [@Herculano-Houzel2017-gf](http://doi.org/10.1016/j.cobeha.2017.02.004)
+
+```{r, fig.cap="[@Herculano-Houzel2017-gf](http://doi.org/10.1016/j.cobeha.2017.02.004)", out.width="100%"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg")
+```
+
+## How did the human brain get this way?
+
+- Building upon mammalian/primate norms
+- More efficient energy intake
+    + calories/hr foraging vs.
+    + cooking? [@Wrangham2009-vq]
+- Specialized patterns of development
+    + Significant time post-natal/pre-reproductive (childhood)
+    + Central role of language & culture
+    
+# Wrap-up
+
+## Main points
+
+- Life forms on Earth have evolved over *billions* of years
+- Complex multi-cellular organisms with nervous systems emerged ~500-600 *million* years ago
+- Centralized nervous systems have similarities in organization
+- Human brains similar to closely related species, but have more neurons in cerebral cortex
+- Cerebral cortex in humans may have *developmental mechanisms* not found in other animals [@Vanderhaeghen2023-ay]
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version 2025.5.1.513.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
