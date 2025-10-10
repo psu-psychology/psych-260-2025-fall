@@ -169,6 +169,7 @@ That said, you may find it interesting to learn and know about anyway.
 *`{r} sched_df$class_1_theme[8]`*
 
 - *Slides*:  | [html]() |
+- *Watch*: @Scale-2023-gp
 
 ### `{r} prettify_date(sched_df$class_day_2[8])` {-}
 

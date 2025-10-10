@@ -56,7 +56,7 @@ fig-align: "center"
 
 ## Tree of life
 
-<https://www.evogeneao.com/en/explore/tree-of-life-explorer>
+![<https://www.evogeneao.com/en/explore/tree-of-life-explorer>](../include/img/tree-of-life.png){fig-align="center"}
 
 ---
 
@@ -64,9 +64,15 @@ fig-align: "center"
 
 >Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole.
 
->-- @Dobzhansky1973
+-- @Dobzhansky1973
 
-## History of life is *our* story
+## Our story
+
+{{< video https://www.youtube.com/watch?v=nOVvEbH2GC0 height="70%" width="100%" >}}
+
+-- @Scale-2023-gp
+
+## Looking back to the dawn of time
 
 ![Hubble deep field: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HubbleDeepField.800px.jpg/960px-HubbleDeepField.800px.jpg)
 
@@ -103,8 +109,8 @@ fig-align: "center"
 ## Did *behavior* spark the explosion? [@fox_what_2016]
 
 - Behavior requires movement through space
-- Behavior requires coordinating perception with action
 - Behavior requires perception at a distance
+- Behavior requires coordinating perception with action
 
 ## Did *behavior* spark the explosion? [@fox_what_2016]
 
@@ -131,7 +137,7 @@ fig-align: "center"
 
 ---
 
-{{< video https://www.youtube.com/watch?v=-UI531GMRTM height="70%" width="100%">}}
+{{< video https://www.youtube.com/watch?v=-UI531GMRTM height="70%" width="100%" >}}
 
 -- @Park2009-ic
 
@@ -147,12 +153,14 @@ fig-align: "center"
 :::
 ::::
 
-## How nervous systems are similar...
+## Nervous systems are similar...
 
 - in patterns of early nervous system development 
   - across vastly different species
   - with very distant (in time) common ancestors
-  - limited number of ways to build nervous systems that successfully regulate behavior
+- Why?
+  - Later forms evolved from earlier ones
+  - Limited number of ways to build nervous systems that work well
   
 ---
 
@@ -185,7 +193,6 @@ fig-align: "center"
     + Crows
     + Porpoises
 - Bigger than expected brains (relative to average) = high 'encephalization factor'
-
 
 ## Cerebral cortex size differs among mammals
 
@@ -261,7 +268,7 @@ fig-align: "center"
 ## Main points
 
 - Life forms on Earth have evolved over *billions* of years
-- Complex multi-cellular organisms with nervous systems emerged ~500-600 *million* years ago
+- Complex multicellular organisms with nervous systems emerged ~500-600 *million* years ago
 - Centralized nervous systems have similarities in organization
 - Brain sizes scale with body size, with species differences
 
