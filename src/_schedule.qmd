@@ -168,7 +168,7 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[8]`*
 
-- *Slides*:  | [html]() |
+- *Slides*:  | [html](slides/wk-08-2025-10-14-evolution.qmd) |
 - *Watch*: @Scale-2023-gp
 
 ### `{r} prettify_date(sched_df$class_day_2[8])` {-}
@@ -176,7 +176,7 @@ That said, you may find it interesting to learn and know about anyway.
 *`{r} sched_df$class_2_theme[8]`*
 
 - *Read*: MM pp 124-134, 145
-- *Slides*:  | [html]() |
+- *Slides*:  | [html](slides/wk-08-2025-10-16-development.qmd) |
 
 ## `{r} sched_df$week[9]` {- #week-09}
 

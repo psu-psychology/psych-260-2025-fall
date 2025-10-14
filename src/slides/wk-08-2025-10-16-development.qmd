@@ -1,6 +1,6 @@
 ---
 title: "Development"
-subtitle: 2025-10-14
+subtitle: 2025-10-16
 fig-align: "center"
 ---
 
@@ -36,25 +36,31 @@ fig-align: "center"
 
 ## What must develop
 
+:::: {.columns}
+::: {.column width=50%}
 - Brain ~ 2.5% of body mass
   - consumes 18% of $O_2$ at rest, [@Kety1948-ty]
   - about 20 W
 - CNS among earliest-developing, last to finish organ systems
   - Prolonged developmental period (==childhood) makes CNS especially vulnerable
+:::
+::: {.column width=50%}
+![](https://m.media-amazon.com/images/I/51vaqEECS2L._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg)
+:::
+::::
 
 ## Neurons
 
 - ~ 86 billion neurons in adult CNS
   - similar # of glia [@Herculano-Houzel2016-oy]
 - In cortex, about 16 (14-32) billion [@Herculano-Houzel2016-oy]
-  - 80/20% Glu/GABA
 - Development generates millions neurons/hr
-    
+
 ## Synapses
 
 - 7-80K synapses/cortical neuron
 - ~ $10^{15}$ (quadrillion) synapses in CNS
-- 164 trillion synapses in cerebral cortex, [@DeFelipe2002-xz]
+- ~164 trillion synapses in cerebral cortex [@DeFelipe2002-xz]
 
 ## Axons
 
@@ -62,7 +68,7 @@ fig-align: "center"
 
 ## Timeline of milestones {.scrollable}
 
-![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+[![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
 
 ## Prenatal milestones
 
@@ -224,9 +230,7 @@ fig-align: "center"
 
 ---
 
-```{r, fig.cap='[Ernst & Frisen 2015](https://doi.org/10.1371/journal.pbio.1002045)', out.width="90%"}
-knitr::include_graphics("https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002045.g001")
-```
+![@Ernst2015-iz](https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002045.g001)
 
 ## Cell division & migration
 
@@ -244,21 +248,23 @@ knitr::include_graphics("https://journals.plos.org/plosbiology/article/figure/im
 
 ## Cell division & migration
 
-```{r, out.width="75%"}
-knitr::include_graphics("../include/img/neural-tube.jpg")
-```
+![](../include/img/neural-tube.jpg){fig-align="center"}
 
 ## Cell division & migration
 
-```{r, fig.cap="[@Bui2006-gy](https://www.youtube.com/watch?v=ZRF-gKZHINk)"}
-knitr::include_url("https://www.youtube.com/embed/ZRF-gKZHINk")
-```
+{{< video https://www.youtube.com/embed/ZRF-gKZHINk height="70%" width="100%">}}
+
+-- @Bui2006-gy
+
+![@Bui2006-gy](https://www.youtube.com/embed/ZRF-gKZHINk)
 
 ## Cell division & migration
 
-```{r, fig.cap="[@Bbscottvids2009-ad](https://www.youtube.com/watch?v=t-8bxeWqSV4)"}
-knitr::include_url("https://www.youtube.com/embed/t-8bxeWqSV4")
-```
+{{< video https://www.youtube.com/embed/t-8bxeWqSV4 height="70%" width="100%" >}}
+
+-- @Bbscottvids2009-ad
+
+## Cell division & migration
 
 - Migration aided by axon growth cones
 - Growth cones guided by
@@ -269,30 +275,24 @@ knitr::include_url("https://www.youtube.com/embed/t-8bxeWqSV4")
 
 ## Cell division & migration
 
-```{r, fig.cap="[@Moore2009-db](https://www.youtube.com/watch?v=Fgmt2RBow0I)"}
-knitr::include_url("https://www.youtube.com/embed/Fgmt2RBow0I")
-```
+{{< video https://www.youtube.com/embed/Fgmt2RBow0I height="70%" width="100%" >}}
+
+-- @Moore2009-db
 
 ## Cell division & migration
 
-```{r, fig.align='center'}
-knitr::include_url("https://www.redditmedia.com/r/interestingasfuck/comments/s7fyga/single_brain_cell_looking_for_connections/?ref_source=embed&amp;ref=share&amp;embed=true")
-```
+![Figure 5 from @Kang2011-ex](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
 
 ## Cell division & migration
 
-```{r, fig.cap="Figure 4 from [@Kang2011-ex](https://doi.org/10.1038/nature10523), in https://doi.org/10.1371/journal.pbio.1002045.g004", out.width="100%"}
-knitr::include_graphics("https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002045/1/pbio.1002045.g004.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20230227%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230227T153304Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=b2a1a3eb31a62ade3d50937c07fc72219896d8f6e5697ec2f4bdfd2f9cb6544646b38253b161a3a3c9faea3c3ad60eaa3fa4f39eed3d6cfe9563182e78531069e169d95c2e494cab330acfacf8d514c2dc11540a793fa461580979fda4d2e44a11b27bd82340faa8719fd53adf03e0f18111a9bf9dab197f50bb3a0e4d9e48244370e15b650252b4fef3ce0458e277632fca82597633b46b155d7b76b24054e10b0d3c752232e1b21ac3a7fd3f7535885272c557e7b5ea907a6a03a0a73c27e067ab027ece73321ff0e351d2fd6546bb7be61662b2297b9bffbd8d4ecd0624d07d06d44d7b78a8279bbf10ae5efb203e97b605cf1bdb32347f5d615ae2f429b0")
-```
-
-
-## Cell division & migration
-
+:::: {.columns}
+::: {.column width=50%}
 - Glia migrate, too
-
-```{r, fig.cap="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)", out.width="100%"}
-knitr::include_graphics("https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg")
-```
+:::
+::: {.column width=50%}
+![Figure 4 from @Baumann2001-nw](https://journals.physiology.org/cms/10.1152/physrev.2001.81.2.871/asset/images/medium/9j0210133004.jpeg)
+:::
+::::
 
 ## Cell differentiation
 
@@ -305,102 +305,114 @@ knitr::include_graphics("https://www.physiology.org/na101/home/literatum/publish
 
 # Infancy & early childhood
 
+## Timeline of milestones {.scrollable}
+
+[![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+
 ## Synaptogenesis
 
+:::: {.columns}
+::: {.column width=50%}
 - Begins prenatally (~ 18 pcw)
 - Peak density ~ 15 mos postnatal
 - Spine density in prefrontal cortex ~ 7 yrs postnatal
 - 700K synapses/s on average
+:::
+::: {.column width=50%}
+![](../include/img/synaptic-density-infant.jpg)
+:::
+::::
 
-```{r, out.width="75%"}
-knitr::include_graphics("../include/img/synaptic-density-infant.jpg")
-```
+## Synaptogenesis
 
+:::: {.columns}
+::: {.column width=50%}
 - Synaptic proliferation, pruning
     - Early proliferation (make many synapses)
     - Later pruning
     - Rates, peaks differ by area
+:::
+::: {.column width=50%}
+![](../include/img/synaptic-density-infant.jpg)
+:::
+::::
 
 ## Apoptosis (programmed cell death)
 
-```{r, fig.align='center'}
-knitr::include_url("https://preview.redd.it/6dvk3gw8qik71.gif?format=mp4&s=41d7a053554d502f4ada44d7d512147e50924a22")
-```
-
 - 20-80% of all cells, varies by area
 - Spinal cord >> cortex
-- Quantity of nerve growth factors (NGF) influences
+- Quantity of nerve growth factor (NGF) influences survival
 
 ## Synaptic rearrangement
 
-```{r, out.width="75%"}
-knitr::include_graphics("../include/img/huttenlocher.jpg")
-```
-
+:::: {.columns}
+::: {.column width=50%}
+- New synapses added
+- Existing synapses altered
 - Progressive phase: growth rate >> loss rate
 - Regressive phase: growth rate << loss rate
 
-## Myelination 
+:::
+::: {.column width=50%}
+![](../include/img/huttenlocher.jpg)
+:::
+::::
 
-```{r, fig.cap="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)", out.width="75%"}
-knitr::include_graphics("https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg")
-```
+## Myelination
 
+:::: {.columns}
+::: {.column width=50%}
 - Neonatal brain largely unmyelinated
 - Gradual myelination, peaks <span color="red">in mid-20s</span>
 - Non-uniform pattern
     - Spinal cord before brain
     - Sensory before motor
-    
-```{r, fig.cap="[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)", out.width="75%"}
-knitr::include_graphics("https://www.pnas.org/cms/10.1073/pnas.1009073107/asset/ff27c87e-3ed0-4a67-96a2-19ec4ea4c327/assets/graphic/pnas.1009073107fig01.jpeg")
-```    
+:::
+::: {.column width=50%}
+![@Baumann2001-nw](https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg)
+:::
+::::
+
+## Myelination
+
+:::: {.columns}
+::: {.column width=50%}
+- Diffusion Tensor Imaging (DTI)
+- A *structural* MRI measure of white matter integrity
+- Shows significant developmental changes
+:::
+::: {.column width=50%}
+![@Hagmann02112010](https://www.pnas.org/cms/10.1073/pnas.1009073107/asset/ff27c87e-3ed0-4a67-96a2-19ec4ea4c327/assets/graphic/pnas.1009073107fig01.jpeg)
+:::
+::::
 
 ## Structural/morphometric development
 
-```{r, fig.cap="Figure 2 from [@Knickmeyer2008-vl](http://doi.org/10.1523/JNEUROSCI.3479-08.2008)"}
-knitr::include_graphics("http://www.jneurosci.org/content/jneuro/28/47/12176/F2.large.jpg")
-```
+![Figure 2 from @Knickmeyer2008-vl](http://www.jneurosci.org/content/jneuro/28/47/12176/F2.large.jpg)
 
-##### Gyri & sulci
+## Gyri & sulci
 
-*(12-19 pcw)*
+![Figure 1 from @Chi1977-hm](../include/img/chi-77-1.jpg){width="50%"}
 
-```{r, fig.cap="[@Chi1977-hm](http://doi.org/10.1002/ana.410010109)", out.width="75%"}
-knitr::include_graphics("../include/img/chi-77-1.jpg")
-```
+## Gyri & sulci
 
-*(20-27 pcw)*
+![Figure 2 from @Chi1977-hm](../include/img/chi-77-2.jpg){width="50%"}
 
-```{r, fig.cap="[@Chi1977-hm](http://doi.org/10.1002/ana.410010109)", out.width="75%"}
-knitr::include_graphics("../include/img/chi-77-2.jpg")
-```
+## Gyri & sulci
 
-*(28-35 pcw)*
+![Figure 3 from @Chi1977-hm](../include/img/chi-77-3.jpg){width="50%"}
 
-```{r, fig.cap="[@Chi1977-hm](http://doi.org/10.1002/ana.410010109)", out.width="75%"}
-knitr::include_graphics("../include/img/chi-77-3.jpg")
-```
+## Gyri & sulci
 
-*(36-44 pcw)*
-
-```{r, fig.cap="[@Chi1977-hm](http://doi.org/10.1002/ana.410010109)", out.width="75%"}
-knitr::include_graphics("../include/img/chi-77-4.jpg")
-```
-
-## Functional brain development
+![Figure 4 from @Chi1977-hm](../include/img/chi-77-4.jpg){width="50%"}
 
 ## Changes in brain glucose use 
 
-```{r, fig.cap="Figure 1 from [@Kuzawa2014-qd](http://doi.org/10.1073/pnas.1323099111)", out.width="100%"}
-knitr::include_graphics("https://www.pnas.org/cms/10.1073/pnas.1323099111/asset/36abb8b8-6e1f-4a61-b5db-718340542d99/assets/graphic/pnas.1323099111fig01.jpeg")
-```
+![Figure 1 from @Kuzawa2014-qd](https://www.pnas.org/cms/10.1073/pnas.1323099111/asset/36abb8b8-6e1f-4a61-b5db-718340542d99/assets/graphic/pnas.1323099111fig01.jpeg)
 
 ## Gene expression across development
 
-```{r, fig.cap="[@Kang2011-ex](http://doi.org/10.1038/nature10523)", out.width="100%"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp")
-```
+![@Kang2011-ex](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
 
 ## Summary of developmental milestones
 
@@ -411,17 +423,17 @@ Prenatal
 + Migration
 + Synaptogenesis begins
 + Differentiation
-+ Apoptosis
++ Cell death
 + Myelination begins
 :::
 ::: {.column width=50%}
 Postnatal
 + Synaptogenesis
 + Cortical expansion, activity-dependent change
-- Then cubic, quadratic, or linear declines in cortical thickness
-+ Myelination
+- Cortex thins
++ Myelination through 3rd decade
 + Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
-- Neurogenesis in selected areas (cerebellum; basal ganglia; hippocampus)
+- Neurogenesis, but only in selected areas (cerebellum; basal ganglia; hippocampus)
 :::
 ::::
 
