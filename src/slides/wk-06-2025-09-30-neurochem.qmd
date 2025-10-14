@@ -236,7 +236,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- *Metabotropic* (receptor only, no attached ion channels
+- *Metabotropic* (receptor only, no attached ion channels)
   + Trigger G-proteins attached to receptor
   + G-proteins activate 2nd messengers
 :::
@@ -402,7 +402,7 @@ Cl- is *negatively* charged, so will have opposite effect of positively charged 
 - Chemical communication (diffusion) to communicate over short distances
 - Neurotransmitters are special chemicals that neurons release onto other neurons
 - Ionotropic and metabotropic receptors generate EPSPs and IPSPs
-- Amino acid neurotransmitters: glutamate, GABA, ACh
+- Amino acid neurotransmitters: glutamate, GABA
 
 # Resources
 

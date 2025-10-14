@@ -472,8 +472,6 @@ fig-align: "center"
 :::
 ::::
 
-
-
 ## Key points about monoamines
 
 - Monoamine neurotransmitters--DA, NE, 5-HT--modulate activity of other neurons
