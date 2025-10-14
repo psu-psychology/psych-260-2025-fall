@@ -17,20 +17,23 @@ fig-align: "center"
 - Quiz 2
 - Evolution of the nervous system
 
-# Warm-up
-
 # Evolution of the nervous system
 
 ## Principles of evolution
 
+::: {.incremental}
 - Life on Earth has existed for ~3.5 billion years
 - Life forms existing in the Earth's past differed from those living today
 - New generations of life forms inherit properties from their predecessors
+:::
 
 ## Principles of evolution
 
-- New life forms evolved as a result of *mutations*, *selection pressures*, and *geological events* 
-- Greater reproductive success (more offspring) for some, not others
+::: {.incremental}
+- New life forms evolved as a result of *mutations*, *selection pressures*, and *geological events*
+- Greater reproductive success (more offspring) for some individuals, not others
+- Characteristics of those who have more offspring increase in relative frequency in the population
+:::
 
 ## Evidence for evolution
 
@@ -42,7 +45,7 @@ fig-align: "center"
     
 ## Evidence for evolution
 
-- Molecular
+- Chemical
   + Similarities between vastly different species (e.g., in neurotransmitters, hormones, receptors, metabolic pathways, etc.) 
 - Genetic
   + Rates of mutation
@@ -79,10 +82,6 @@ fig-align: "center"
 ## Looking back to the dawn of time
 
 ![JWST NASA](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/07/STScI-01G8H1K2BCNATEZSKVRN9Z69SR.png?w=1960&h=2000&fit=crop&crop=faces%2Cfocalpoint)
-
----
-
-![@Labbe2023-zp](../include/img/labbe-galaxy-nature-2023.png)
 
 ## Timeline of life on Earth
 
@@ -250,9 +249,22 @@ fig-align: "center"
 | Pig    | 303 M               | 42.2              |
 | Rabbit | 71 M                | 4.4               |
 
+---
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| **Human**   | **16 B**               | **1233**              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+| Giraffe | 1.7 B              | 398.8             |
+| Rhesus | 1.7 B               | 69.8              |
+| Pig    | 303 M               | 42.2              |
+| Rabbit | 71 M                | 4.4               |
+
 ## How did the human brain get this way?
 
-- Evolving from mammalian/primate norms
+- Evolved from mammalian/primate norms
 - More efficient energy intake
   + calories/hr foraging vs.
   + cooking? [@Wrangham2009-vq]
@@ -260,8 +272,8 @@ fig-align: "center"
 ## How did the human brain get this way?
 
 - Specialized patterns of development
-    + Significant time post-natal/pre-reproductive (childhood)
-    + Central role of language & culture
+  + Significant time post-natal/pre-reproductive (childhood)
+  + Central role of language & culture
     
 # Wrap-up
 
@@ -270,7 +282,7 @@ fig-align: "center"
 - Life forms on Earth have evolved over *billions* of years
 - Complex multicellular organisms with nervous systems emerged ~500-600 *million* years ago
 - Centralized nervous systems have similarities in organization
-- Brain sizes scale with body size, with species differences
+- Brain sizes scale with body size, but species differences
 
 ## Main points
 
