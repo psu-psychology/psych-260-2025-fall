@@ -1,0 +1,72 @@
+---
+title: "Exam II review"
+subtitle: 2025-10-21
+fig-align: "center"
+engine: knitr
+---
+
+## Today's topics
+
+- Warm-up
+- Exam 2 review
+
+# Warm-up
+
+# Exam 2 topics
+
+## Resting potential
+
+## Action potential
+
+## Synaptic transmission
+
+- Steps in...
+- Ionotropic, metabotropic receptors
+- EPSPs, IPSPs
+
+## Neurotransmitters
+
+- Glutamate, GABA, acetylcholine
+- Monoamines: Dopamine, Norepinephrine, Serotonin
+
+## Hormones
+
+- Hypothalamic Pituitary Adrenal (HPA) axis, Sympathetic Adrenal Medulla (SAM) axes
+- Melatonin
+- Oxytocin
+- Adrenal gland
+  - Cortisol
+  - Epinephrine, Norepinehphrine
+
+## Evolution
+
+## Development
+
+## Neuroanatomy
+
+- Pineal gland
+- Hypothalamus
+- Pituitary gland
+  - Anterior
+  - Posterior
+- (Medial) longitudinal fissure
+
+## Cellular neuroscience
+
+# Wrap-up
+
+## Next time
+
+- Exam 2
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/) Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the [revealJS](https://revealjs.com) framework.
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages:
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

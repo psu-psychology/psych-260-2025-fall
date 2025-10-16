@@ -184,6 +184,8 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[9]`*
 
+- *Slides*:  | [html](slides/wk-09-2025-10-21-exam-rev.qmd) |
+
 ### `{r} prettify_date(sched_df$class_day_2[9])` {-}
 
 *`{r} sched_df$class_2_theme[9]`*

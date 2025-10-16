@@ -50,6 +50,8 @@ website:
             href: slides/wk-08-2025-10-14-evolution.qmd
           - text: "Wk 08 • Thu Oct 16"
             href: slides/wk-08-2025-10-16-development.qmd
+          - text: "Wk 09 • Tue Oct 21"
+            href: slides/wk-09-2025-10-21-exam-rev.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src
