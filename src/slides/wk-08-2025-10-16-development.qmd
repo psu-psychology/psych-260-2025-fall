@@ -489,30 +489,48 @@ fig-align: "center"
 - Develops throughout lifespan
 - Development consists of progressive & regressive events
 
-## Summary of developmental milestones
+## Milestone summary
 
 :::: {.columns}
 ::: {.column width=50%}
-Prenatal
-+ Neuro- and gliogenesis
-+ Migration
-+ Synaptogenesis begins
-+ Differentiation
-+ Cell death
-+ Myelination begins
+Prenatal \
+
+- Neuro- and gliogenesis
+- Migration
+- Synaptogenesis begins
 :::
 ::: {.column width=50%}
-Postnatal
-+ Synaptogenesis
-+ Cortical expansion, activity-dependent change
-- Cortex thins
-+ Myelination through 3rd decade
-+ Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
+Postnatal \
+
 - Neurogenesis, but only in selected areas (cerebellum; basal ganglia; hippocampus)
+- Synaptogenesis
+- Cortical expansion, activity-dependent change
+
+:::
+::::
+
+## Milestone summary
+
+:::: {.columns}
+::: {.column width=50%}
+Prenatal \
+
+- Differentiation
+- Cell death
+- Myelination begins
+:::
+::: {.column width=50%}
+Postnatal \
+
+- Cortex thins
+- Myelination through 3rd decade
+- Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
 :::
 ::::
 
 ## Next time
+
+- Review for Exam 2
 
 # Resources
 
