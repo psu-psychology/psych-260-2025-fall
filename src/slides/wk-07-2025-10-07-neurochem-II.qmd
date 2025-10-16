@@ -478,6 +478,9 @@ fig-align: "center"
 - Monoamines are released from specific areas in midbrain and hindbrain
 - Monoamines project widely throughout the CNS
 - Monamines are inactivated chemically and via transporters
+
+## Key points about monoamines
+
 - Many drugs that treat psychiatric illness affect monoamines
 - Most monoamines activate metabotropic receptors
 

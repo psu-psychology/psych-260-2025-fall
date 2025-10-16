@@ -27,7 +27,7 @@ engine: knitr
 ## Neurotransmitters
 
 - Glutamate, GABA, acetylcholine
-- Monoamines: Dopamine, Norepinephrine, Serotonin
+- Monoamines: Dopamine, Norepinephrine, Serotonin, Melatonin, Histamine
 
 ## Hormones
 
