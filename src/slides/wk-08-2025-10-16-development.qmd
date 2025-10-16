@@ -18,34 +18,101 @@ fig-align: "center"
 
 # Warm-up
 
+## The human brain is special in which of the following ways?
+
+::: {.incremental}
+- A. It has a larger-than-expected cerebellum
+- B. It has more neurons in the cerebral cortex
+- C. It has an unusual shape
+- D. Its size is independent of body size
+:::
+
+## The human brain is special in which of the following ways?
+
+- ~~A. It has a larger-than-expected cerebellum~~
+- **B. It has more neurons in the cerebral cortex**
+- ~~C. It has an unusual shape~~
+- ~~D. Its size is independent of body size~~
+
+## Vertebrate nervous systems first emerged 
+
+::: {.incremental}
+- A. 4.5 billion years ago
+- B. 13.8 billion years ago
+- C. 250 thousand years ago
+- D. 500-600 million years ago
+:::
+
+## Vertebrate nervous systems first emerged 
+
+- ~~A. 4.5 billion years ago~~
+- ~~B. 13.7 billion years ago~~
+- ~~C. 200-300 thousand years ago~~
+- **D. 500-600 million years ago**
+
+## On family trees
+
+:::: {.columns}
+::: {.column width=50%}
+![](../include/img/gilmore-family-tree-fan.png)
+:::
+::: {.column width=50%}
+![<https://www.evogeneao.com/en/explore/tree-of-life-explorer>  ](../include/img/tree-of-life.png)
+:::
+::::
+
+## The theory of evolution explains how life began on Earth.
+
+- A. True
+- B. False
+
+## The theory of evolution explains how life began on Earth.
+
+- ~~A. True~~
+- **B. False**
+
+## The theory of evolution explains how life has changed since it emerged here ~4 billion years ago.
+
+- A. True
+- B. False
+
+## The theory of evolution explains how life has changed since it emerged here ~4 billion years ago.
+
+- **A. True**
+- ~~B. False~~
+
 # Development of the nervous system
 
 ## Recap
 
 - Human brain has large cerebral cortex with more neurons than comparable primates
+- How did the human brain get this way?
+  - Building upon mammalian/primate norms
+  - Specialized patterns of development
 
-## How did the human brain get this way?
+## What must develop
 
-- Building upon mammalian/primate norms
-- More efficient energy intake
-    + calories/hr foraging vs.
-    + cooking? [@Wrangham2009-vq]
-- Specialized patterns of development
-    + Significant time post-natal/pre-reproductive (childhood)
-    + Central role of language & culture
+:::: {.columns}
+::: {.column width=70%}
+- Brain ~ 2.5% of body mass
+  - consumes 18% of $O_2$ at rest, [@Kety1948-ty]
+  - about 20 W
+- AI generated video: 20 W-h [@UnknownUnknown-sk]
+:::
+::: {.column width=30%}
+![](https://m.media-amazon.com/images/I/51vaqEECS2L._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg){width="30%" fig-align="right"}
+:::
+::::
 
 ## What must develop
 
 :::: {.columns}
 ::: {.column width=50%}
-- Brain ~ 2.5% of body mass
-  - consumes 18% of $O_2$ at rest, [@Kety1948-ty]
-  - about 20 W
 - CNS among earliest-developing, last to finish organ systems
-  - Prolonged developmental period (==childhood) makes CNS especially vulnerable
+  - Prolonged developmental period (==childhood) makes CNS especially malleable
 :::
 ::: {.column width=50%}
-![](https://m.media-amazon.com/images/I/51vaqEECS2L._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg)
+![](../include/img/malleable-definition.png){fig-align="right"}
 :::
 ::::
 
@@ -66,13 +133,13 @@ fig-align: "center"
 
 - 145-175 km (90-109 mi) of myelinated axons, [@Marner2003-qu]
 
-## Timeline of milestones {.scrollable}
+## Timeline {.scrollable}
 
 [![@Silbereis2016-la](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
 
 ## Prenatal milestones
 
-+ Neuro- and gliogenesis
++ Neuro- and glio-genesis
 + Migration
 + Synaptogenesis begins
 + Cell differentiation
@@ -83,7 +150,7 @@ fig-align: "center"
 
 + Synaptogenesis
 + Cortical expansion, activity-dependent change
-- Then cubic, quadratic, or linear declines in cortical thickness
+  - Then cubic, quadratic, or linear declines in cortical thickness
 + Myelination
 + Prolonged period of postnatal/pre-reproductive development [[@konner_evolution_2011]](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
 - Neurogenesis in selected areas (cerebellum; basal ganglia; hippocampus)
@@ -414,6 +481,14 @@ fig-align: "center"
 
 ![@Kang2011-ex](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
 
+# Wrap-up
+
+## Main points
+
+- Human nervous system develops rapidly beginning about week 3, post-conception
+- Develops throughout lifespan
+- Development consists of progressive & regressive events
+
 ## Summary of developmental milestones
 
 :::: {.columns}
@@ -436,13 +511,6 @@ Postnatal
 - Neurogenesis, but only in selected areas (cerebellum; basal ganglia; hippocampus)
 :::
 ::::
-
-# Wrap-up
-
-## Main points
-
-- Human nervous system develops rapidly beginning about week 3, post-conception
-- Neural tube formation
 
 ## Next time
 
