@@ -12,35 +12,97 @@ engine: knitr
 
 # Warm-up
 
+## Which of the following phases of human brain development extends into early adulthood?
+
+::: {.incremental}
+- A. Cortical neurogenesis
+- B. Apoptosis (cell death)
+- D. Neurulation (formation of neural tube)
+- E. Myelination
+
+:::
+
+## Which of the following phases of human brain development extends into early adulthood?
+
+- ~~A. Cortical neurogenesis~~
+- ~~B. Apoptosis (cell death)~~
+- ~~D. Neurulation (formation of neural tube)~~
+- **E. Myelination**
+
+## Where in the CNS do most neurons and glial cells originate?
+
+::: {.incremental}
+- A. Cell layers near the cerebral ventricles
+- B. Blood vessels
+- D. Meninges
+- E. Cerebrospinal fluid (CSF)
+:::
+
+## Where in the CNS do most neurons and glial cells originate?
+
+- **A. Cell layers near the cerebral ventricles**
+- ~~B. Blood vessels~~
+- ~~D. Meninges~~
+- ~~E. Cerebrospinal fluid (CSF)~~
+
+## Synapses form starting in prenatal life and extending throughout the lifespan.
+
+- True
+- False
+
+## Synapses form starting in prenatal life and extending throughout the lifespan.
+
+- **True**
+- ~~False~~
+
 # Exam 2 topics
 
-## Resting potential
+## Methods
+
+- Structural vs. functional MRI methods
 
 ## Action potential
+
+- Steps in...
 
 ## Synaptic transmission
 
 - Steps in...
 - Ionotropic, metabotropic receptors
 - EPSPs, IPSPs
+- Gap junctions
 
 ## Neurotransmitters
 
 - Glutamate, GABA, acetylcholine
 - Monoamines: Dopamine, Norepinephrine, Serotonin, Melatonin, Histamine
+- How inactivated
+  - Serotonin
+  - Acetylcholine
 
 ## Hormones
 
-- Hypothalamic Pituitary Adrenal (HPA) axis, Sympathetic Adrenal Medulla (SAM) axes
 - Melatonin
 - Oxytocin
+- Hypothalamic Pituitary Adrenal (HPA) axis
+
+## Hormones
+
 - Adrenal gland
   - Cortisol
   - Epinephrine, Norepinehphrine
+- Sympathetic Adrenal Medulla (SAM) axis
 
 ## Evolution
 
+- When vertebrate nervous systems emerged
+- Relative size, neuron number in cerebellum vs. cerebral cortex
+- Radial vs. bilateral symmetry
+- Brain mass vs. body mass
+
 ## Development
+
+- Neural tube formation
 
 ## Neuroanatomy
 
@@ -49,9 +111,21 @@ engine: knitr
 - Pituitary gland
   - Anterior
   - Posterior
-- (Medial) longitudinal fissure
+  
+## Neuroanatomy
+
+- Ventral tegmental area
+- Sympathetic nervous system
+- Parasympathetic nervous system
+
+## Neuroanatomy
+
+- Lateral fissure
+- Frontal lobe, parietal lobe
 
 ## Cellular neuroscience
+
+- Microglia
 
 # Wrap-up
 

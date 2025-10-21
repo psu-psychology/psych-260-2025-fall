@@ -5996,7 +5996,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#action-potential",
     "title": "Exam II review",
     "section": "Action potential",
-    "text": "Action potential",
+    "text": "Action potential\n\nSteps in…",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6007,7 +6007,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#synaptic-transmission",
     "title": "Exam II review",
     "section": "Synaptic transmission",
-    "text": "Synaptic transmission\n\nSteps in\nIonotropic, metabotropic receptors\nEPSPs, IPSPs",
+    "text": "Synaptic transmission\n\nSteps in…\nIonotropic, metabotropic receptors\nEPSPs, IPSPs\nGap junctions",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6018,7 +6018,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#neurotransmitters",
     "title": "Exam II review",
     "section": "Neurotransmitters",
-    "text": "Neurotransmitters\n\nGlutamate, GABA, acetylcholine\nMonoamines: Dopamine, Norepinephrine, Serotonin",
+    "text": "Neurotransmitters\n\nGlutamate, GABA, acetylcholine\nMonoamines: Dopamine, Norepinephrine, Serotonin, Melatonin, Histamine\nHow inactivated\n\nSerotonin\nAcetylcholine",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6029,7 +6029,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#hormones",
     "title": "Exam II review",
     "section": "Hormones",
-    "text": "Hormones\n\nHypothalamic Pituitary Adrenal (HPA) axis, Sympathetic Adrenal Medulla (SAM) axes\nMelatonin\n\nOxytocin\n\nAdrenal gland\n\nCortisol\nEpinephrine, Norepinehphrine",
+    "text": "Hormones\n\nMelatonin\nOxytocin\nHypothalamic Pituitary Adrenal (HPA) axis",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6040,7 +6040,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#evolution",
     "title": "Exam II review",
     "section": "Evolution",
-    "text": "Evolution",
+    "text": "Evolution\n\nWhen vertebrate nervous systems emerged\nRelative size, neuron number in cerebellum vs. cerebral cortex\nRadial vs. bilateral symmetry\nBrain mass vs. body mass",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6051,7 +6051,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#development",
     "title": "Exam II review",
     "section": "Development",
-    "text": "Development",
+    "text": "Development\n\nNeural tube formation",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6062,7 +6062,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#neuroanatomy",
     "title": "Exam II review",
     "section": "Neuroanatomy",
-    "text": "Neuroanatomy\n\nPineal gland\nHypothalamus\nLongitudinal fissure",
+    "text": "Neuroanatomy\n\nPineal gland\nHypothalamus\nPituitary gland\n\nAnterior\nPosterior",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6073,7 +6073,7 @@
     "href": "slides/wk-09-2025-10-21-exam-rev.html#cellular-neuroscience",
     "title": "Exam II review",
     "section": "Cellular neuroscience",
-    "text": "Cellular neuroscience",
+    "text": "Cellular neuroscience\n\nMicroglia",
     "crumbs": [
       "Slides",
       "Wk 09 • Tue Oct 21"
@@ -6171,6 +6171,116 @@
     "crumbs": [
       "Slides",
       "Wk 07 • Tue Oct 07"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#which-of-the-following-phases-of-human-brain-development-extends-into-early-adulthood",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#which-of-the-following-phases-of-human-brain-development-extends-into-early-adulthood",
+    "title": "Exam II review",
+    "section": "Which of the following phases of human brain development extends into early adulthood?",
+    "text": "Which of the following phases of human brain development extends into early adulthood?\n\nA. Cortical neurogenesis\nB. Apoptosis (cell death)\nD. Neurulation (formation of neural tube)\nE. Myelination",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#which-of-the-following-phases-of-human-brain-development-extends-into-early-adulthood-1",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#which-of-the-following-phases-of-human-brain-development-extends-into-early-adulthood-1",
+    "title": "Exam II review",
+    "section": "Which of the following phases of human brain development extends into early adulthood?",
+    "text": "Which of the following phases of human brain development extends into early adulthood?\n\nA. Cortical neurogenesis\nB. Apoptosis (cell death)\nD. Neurulation (formation of neural tube)\nE. Myelination",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#where-in-the-cns-do-most-neurons-and-glial-cells-originate",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#where-in-the-cns-do-most-neurons-and-glial-cells-originate",
+    "title": "Exam II review",
+    "section": "Where in the CNS do most neurons and glial cells originate?",
+    "text": "Where in the CNS do most neurons and glial cells originate?\n\nA. Cell layers near the cerebral ventricles\nB. Blood vessels\nD. Meninges\nE. Cerebrospinal fluid (CSF)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#where-in-the-cns-do-most-neurons-and-glial-cells-originate-1",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#where-in-the-cns-do-most-neurons-and-glial-cells-originate-1",
+    "title": "Exam II review",
+    "section": "Where in the CNS do most neurons and glial cells originate?",
+    "text": "Where in the CNS do most neurons and glial cells originate?\n\nA. Cell layers near the cerebral ventricles\nB. Blood vessels\nD. Meninges\nE. Cerebrospinal fluid (CSF)",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#synapses-form-starting-in-prenatal-life-and-extending-throughout-the-lifespan.",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#synapses-form-starting-in-prenatal-life-and-extending-throughout-the-lifespan.",
+    "title": "Exam II review",
+    "section": "Synapses form starting in prenatal life and extending throughout the lifespan.",
+    "text": "Synapses form starting in prenatal life and extending throughout the lifespan.\n\nTrue\nFalse",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#synapses-form-starting-in-prenatal-life-and-extending-throughout-the-lifespan.-1",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#synapses-form-starting-in-prenatal-life-and-extending-throughout-the-lifespan.-1",
+    "title": "Exam II review",
+    "section": "Synapses form starting in prenatal life and extending throughout the lifespan.",
+    "text": "Synapses form starting in prenatal life and extending throughout the lifespan.\n\nTrue\nFalse",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#methods",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#methods",
+    "title": "Exam II review",
+    "section": "Methods",
+    "text": "Methods\n\nStructural vs. functional MRI methods",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#hormones-1",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#hormones-1",
+    "title": "Exam II review",
+    "section": "Hormones",
+    "text": "Hormones\n\nAdrenal gland\n\nCortisol\nEpinephrine, Norepinehphrine\n\nSympathetic Adrenal Medulla (SAM) axis",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#neuroanatomy-1",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#neuroanatomy-1",
+    "title": "Exam II review",
+    "section": "Neuroanatomy",
+    "text": "Neuroanatomy\n\nVentral tegmental area\nSympathetic nervous system\nParasympathetic nervous system",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
+    ]
+  },
+  {
+    "objectID": "slides/wk-09-2025-10-21-exam-rev.html#neuroanatomy-2",
+    "href": "slides/wk-09-2025-10-21-exam-rev.html#neuroanatomy-2",
+    "title": "Exam II review",
+    "section": "Neuroanatomy",
+    "text": "Neuroanatomy\n\nLateral fissure\nFrontal lobe, parietal lobe",
+    "crumbs": [
+      "Slides",
+      "Wk 09 • Tue Oct 21"
     ]
   }
 ]
