@@ -400,13 +400,13 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## Responses to threat or challenge
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
 - Neural response
   + Sympathatic NS activation of heart, lungs, etc.
-  + *Sympathetic Adrenal Medulla (SAM) response*
-    + Releases NE and Epi
+  + Sympathetic Adrenal Medullary (SAM) axis (also system or response)
+    + Releases NE and Epi into bloodstream
 :::
-::: {.column width=50%}
+::: {.column width=40%}
 ![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
 :::
 ::::
@@ -414,15 +414,15 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## Responses to threat or challenge
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
 - Endocrine response
     + *Hypothalamic Pituitary Adrenal (HPA) axis*
-- Hypothalamus
-    + *Corticotropin Releasing Hormone (CRH)*
+- Hypothalamus 
+    + Releases *Corticotropin Releasing Hormone (CRH)*
 - Anterior pituitary
-    + *Adrenocorticotropic hormone (ACTH)*
+    + Releases *Adrenocorticotropic hormone (ACTH)* 
 :::
-::: {.column width=50%}
+::: {.column width=40%}
 ![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
 :::
 ::::
@@ -431,11 +431,12 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## Responses to threat or challenge
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
 - Adrenal cortex
+  + Responds to ACTH from anterior pituitary
   + Releases *Glucocorticoids (e.g., cortisol)*
 :::
-::: {.column width=50%}
+::: {.column width=40%}
 ![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif)
 :::
 ::::
@@ -446,8 +447,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ::: {.column width=50%}
 - *Glucocorticoids (e.g., cortisol)*
   + increase blood glucose production
-  + anti-inflammatory
-  - immune system suppressor
+  + reduce inflammation
+  - suppress immune system 
   + prolonged exposure unhealthy
 :::
 ::: {.column width=50%}
@@ -457,7 +458,14 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 ## Cortisol affects brain, too
 
+:::: {.columns}
+::: {.column width=50%}
+- Via receptors for CRF, cortisol
+:::
+::: {.column width=50%}
 ![@Deussing2018-ub](https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650004.gif)
+:::
+::::
 
 ## Reproductive behavior
 

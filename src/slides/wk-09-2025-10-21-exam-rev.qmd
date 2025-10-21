@@ -120,12 +120,12 @@ engine: knitr
 
 ## Neuroanatomy
 
-- Lateral fissure
+- Central sulcus
 - Frontal lobe, parietal lobe
 
 ## Cellular neuroscience
 
-- Microglia
+- Schwann cells
 
 # Wrap-up
 

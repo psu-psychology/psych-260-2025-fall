@@ -1,0 +1,573 @@
+# Psychopathology 
+
+## Background {-}
+
+### Serious Mental Illness among Adults in the Past Year  {-}
+
+```{r, out.width="100%", fig.cap="https://www.samhsa.gov/data/report/2019-nsduh-annual-national-report"}
+knitr::include_graphics("https://www.samhsa.gov/data/sites/default/files/reports/rpt29393/2019NSDUHFFRPDFWHTML/images/nsduh-ffr1-fig52-2019.png")
+```
+
+More recent data at <https://www.samhsa.gov/data/report/2021-nsduh-annual-national-report>, but no time series chart that I could find.
+
+```{r, out.width="100%", fig.cap="Source: https://www.nimh.nih.gov/health/statistics/mental-illness"}
+knitr::include_graphics("include/img/past-year-prevalence-of.png")
+```
+
+### Neuroscience of psychiatric disorders {-}
+
+- Diagnosis via behavior & mood not specific "biomarker"
+- Presume diseases of the mind are disorders of the brain
+    - System-wide effects; no single or simple cause
+- Heritability
+    + *proportion of variance in trait accounted for by genetic factors*
+    - Higher for psychiatric disorders than non-psychiatric diseases
+    - Family member with mental illness highest known risk factor
+
+## Depression {-}
+
+### Major Depressive Disorder {-}
+
+- Symptoms
+    + Unhappy mood, insomnia, lethargy, loss of pleasure, interest, energy
+- Agitation
+- Lasting for several weeks or more
+
+```{r, out.width="100%", fig.cap="Table 1 from [@mahar_stress_2014](http://doi.org/10.1016/j.neubiorev.2013.11.009)"}
+knitr::include_graphics("include/img/mahar-table-1.jpg")
+```
+
+- Experienced by ~7% Americans in any year
+- Prevalence (up to ~20% lifetime)
+    - Females 2-3x males, higher 40+ years of age
+- Heritability (large, 2.5 M Swedish population study)
+    - Females 0.49 (twins); 0.51 (non-twin relatives)
+    - Males 0.41 (twins); 0.36 (non-twin relatives)
+    - [@Kendler2018-cl](http://doi.org/10.1176/appi.ajp.2018.17111251)
+
+### Neurobiology of {-}
+
+- Reduced sizes of brain regions
+- Hypoactivity
+- Pharmacological factors
+- Synaptic dysfunction
+
+#### Reduced hippocampal volumes {-}
+
+- [@Videbech2004-sm](http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.11.1957) meta-analysis
+
+```{r, out.width="100%", fig.cap="Left hippocampus from [@Videbech2004-sm](http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.11.1957)"}
+knitr::include_graphics("include/img/videbech-left-hipp.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Right hippocampus from [@Videbech2004-sm](http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.11.1957)"}
+knitr::include_graphics("include/img/videbech-right-hipp.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Table 1 from [@Palazidou2012-je](http://dx.doi.org/10.1093/bmb/lds004)"}
+knitr::include_graphics("include/img/palazido-2012-table-1.jpg")
+```
+
+#### Disrupted activity [@fitzgerald_meta-analytic_2008](http://dx.doi.org/10.1002/hbm.20426) {-}
+
+- *Hypo*activity in...
+    + Frontal and temporal cortex
+    + Anterior cingulate
+    + Insula
+    + Cerebellum
+    
+```{r, out.width="100%", fig.cap="Figure from [@fitzgerald_meta-analytic_2008](http://dx.doi.org/10.1002/hbm.20426). Row (a) patients v. controls, (b) patients on SSRIs, (c) patients v. ctrls (happy stim), (d) patients v. controls (sad stim)."}
+knitr::include_graphics("include/img/fitzgerald-2008.jpg")
+```
+
+- *Hyper*activity [@Hamilton2012-iv](https://doi.org/10.1176/appi.ajp.2012.11071105)
+    - At baseline: in pulvinar nucleus of thalamus
+    - In response to negative stimuli: amygdala, insula, anterior cingulate
+    
+```{r, out.width="100%", fig.cap="Figure 1 from [@Hamilton2012-iv](https://doi.org/10.1176/appi.ajp.2012.11071105)"}
+knitr::include_graphics("http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f001.jpeg")
+```
+
+- *Hypo*activity
+    - In response to negative stimuli: prefrontal cortex, striatum of basal ganglia
+
+```{r, out.width="100%", fig.cap="Figure 1 from [@Hamilton2012-iv](https://doi.org/10.1176/appi.ajp.2012.11071105)"}
+knitr::include_graphics("http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f002.jpeg")
+```
+
+#### Disrupted connectivity {-}
+
+- Resting state fMRI (rsFMRI) in $n=421$ patients with major depressive disorder and $n=488$ control subjects.
+- *Reduced* connectivity between orbitofrontal cortex (OFC) and other areas of the brain
+- *Increased* connectivity between lateral PFC and other brain areas
+- [@cheng_medial_2016](http://doi.org/10.1093/brain/aww255)
+
+```{r, out.width="100%", fig.cap="Figure 1 from [@cheng_medial_2016](http://doi.org/10.1093/brain/aww255)"}
+knitr::include_graphics("include/img/cheng-2016-F2.large-1.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Figure from [@Palazidou2012-je](http://dx.doi.org/10.1093/bmb/lds004)"}
+knitr::include_graphics("https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bmb/101/1/10.1093/bmb/lds004/2/m_lds00401.jpeg?Expires=2147483647&Signature=k1Ppd9IqxUhmxtQcyGvxydDeNZSpuLGX9jgNGFy3URlPun5aK2dwxJbyGEGXrXDKdWhBxXxEpzU~mVWqz0B3YC1U4~W10tC0K8r91ynB2r-3lHarpCQnPDZBF2LIP302Mp3VL8MTh9YSQH5EtSmpRjeGOc2OPBC4XPHXdAZl~-5OVz4TtSJNBhXfHoSqabwtN9xHAJJAVkJ7kxpZp3vfVc8JK71NEcBauD7ZM40WtnsIfSIFHc~UvSECc-mbSIJAb1zmbom9U-80FG9NfEc0DbO-xJQTowuJqZD2fig~tlMFCATL8Wk8NwY4ushk~K99gQCJnYpq-~wQbtSacPBzOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA")
+```
+
+#### Pharmacological factors {-}
+
+- Endocrine
+    + Thyroid dysfunction [@Medici2014-pn](http://dx.doi.org/10.1210/jc.2013-3589)
+    + Altered cortisol reactivity [@Burke2005-ya](http://dx.doi.org/10.1016/j.psyneuen.2005.02.010)
+- Monoamine hypothesis
+    + More: euphoria
+    + Less: depression
+    + Reserpine (antagonist for NE & 5-HT) can cause depression
+    + Low serotonin (5-HT) metabolite levels in CSF of suicidal depressives [@samuelsson_csf_2006](http://dx.doi.org/10.1111/j.1600-0447.2005.00639.x)
+    
+- Measuring serotonin (5-HT)
+    - CSF, platelets, plasma, urine, saliva
+    - CSF & platelets correlate highly [@Audhya2012-sv](http://dx.doi.org/10.1016/j.bbagen.2012.05.012)
+    - But, salivary 5-HT does not correlate with mood symptoms [@Leung2018-ks](http://dx.doi.org/10.1016/j.ymgmr.2018.03.008)
+
+```{r, out.width="100%", fig.cap="Table 2 from [@Palazidou2012-je](http://dx.doi.org/10.1093/bmb/lds004)"}
+knitr::include_graphics("include/img/palazido-2012-table-2.jpg")
+```
+
+### Treatments for depression {-}
+
+- Psychotherapy
+    + Often effective when combined with drug treatment
+- Exercise
+- Drugs
+    - Monoamine oxidase (MAO) inhibitors
+        + MAO destroys excess monoamines in terminal buttons & glia
+        + MAO-I’s boost monoamine levels
+    - Tricyclics
+        + Inhibit NE, 5-HT reuptake
+        + Upregulate monoamine levels, but non-selective => side effects
+    - Selective Serotonin Reuptake Inhibitors (SSRIs)
+        + Fluoxetine (Prozac, Paxil, Zoloft)
+        + Prolong duration of 5-HT in synaptic cleft
+        + Also increase brain steroid production
+    - Selective Serotonin Norepinephrine Reuptake Inhibitors (SNRIs)
+
+```{r, out.width="100%", fig.cap="Cymbalta commercial from [@Pries2009-ka](https://www.youtube.com/watch?v=OTZvnAF7UsA)"}
+knitr::include_url("https://www.youtube.com/embed/OTZvnAF7UsA", height = "600px")
+```
+
+#### How well do the drugs work? {-}
+
+- [STAR*D trial](http://www.nimh.nih.gov/funding/clinical-research/practical/stard/allmedicationlevels.shtml)
+- On SSRI for 12-14 weeks. ~1/3 achieved remission; 10-15% showed symptom reduction.
+- If SSRI didn't work, could switch drugs. ~25% became symptom free.
+- 16% of participants dropped out due to tolerability issues
+- 6-7 weeks to show response
+
+##### Who benefits from drug therapy? {-}
+
+- Depends on
+    + Early life stress (ELS)
+    + Brain (amygdala) response to emotional faces
+- [@goldstein-piekarski_human_2016](http://doi.org/10.1073/pnas.1606671113)
+    - Low ELS + low amyg reactivity > responding
+    - High ELS + high amyg reactivity > responding
+
+```{r, out.width="100%", fig.cap="[@goldstein-piekarski_human_2016](http://doi.org/10.1073/pnas.1606671113)", out.height="500px"}
+knitr::include_graphics("https://www.pnas.org/cms/10.1073/pnas.1606671113/asset/86493b5c-f70f-49d9-87e6-2a713d7021a3/assets/graphic/pnas.1606671113fig02.jpeg")
+```
+
+#### Monoamine hypothesis of depression {-}
+
+- Disrupted (lowered) levels of monoamines (especially NE & 5-HT) result in depression
+- Problems with monoamine hypothesis
+    - Too simplistic
+    - Monoamines interact
+    - Drugs fast acting (min), but improvement slow (weeks)
+
+> "*No correlation between serotonin and its metabolite 5-HIAA in the cerebrospinal fluid and [11C]AZ10419369 binding measured with PET in healthy volunteers.*" 
+>
+> --[@Tiger2015-dy](http://hdl.handle.net/10616/44513)
+
+> "*...we performed the first meta-analysis of the mood effects in [acute tryptophan depletion] ATD and [alpha-methyl-para-tyrosine] APTD studies. The depletion of monoamine systems (both 5-HT and NE/DA) does not decrease mood in healthy controls. However, in healthy controls with a family history of MDD the results suggest that mood is slightly decreased...by [monoamine depletion]...*"
+> -- [@Ruhe2007-qc](http://dx.doi.org/10.1038/sj.mp.4001949)
+
+- What do drugs do, then?
+    - Alter receptor sensitivity?
+        + 5-HT presynaptic autoreceptors compensate
+        + Postsynaptic upregulation of NE/5-HT effects
+    - Stimulate neurogenesis?
+        + Link to neurotrophin, brain-derived nerve growth factor (BDNF)
+        + BDNF boosts neurogenesis
+        + SSRIs stimulate growth of new neurons in hippocampus
+    - Neurogenesis hypothesis, [@mahar_stress_2014](http://doi.org/10.1016/j.neubiorev.2013.11.009)
+        - Chronic stress causes neural loss in hipp
+        - Chronic stress downregulates 5-HT sensitivity
+        - Depression ~ chronic stress
+        - Anti-depressants upregulate neurogenesis via 5-HT modulation
+        
+>"*The serotonin hypothesis of depression is still influential. We aimed to synthesise and evaluate evidence on whether depression is associated with lowered serotonin concentration or activity in a systematic umbrella review of the principal relevant areas of research. PubMed, EMBASE and PsycINFO were searched using terms appropriate to each area of research, from their inception until December 2020. Systematic reviews, meta-analyses and large data-set analyses in the following areas were identified: serotonin and serotonin metabolite, 5-HIAA, concentrations in body fluids; serotonin 5-HT1A receptor binding; serotonin transporter (SERT) levels measured by imaging or at post-mortem; tryptophan depletion studies; SERT gene associations and SERT gene-environment interactions...**The main areas of serotonin research provide no consistent evidence of there being an association between serotonin and depression, and no support for the hypothesis that depression is caused by lowered serotonin activity or concentrations.***"
+>
+>-- [Moncrieff2022-os](http://dx.doi.org/10.1038/s41380-022-01661-0)
+
+#### New horizons... {-}
+
+##### Ketamine {-}
+
+```{r, out.width="100%", fig.cap="From [Washington Post, 2019-03-06](https://www.washingtonpost.com/health/2019/03/06/biggest-advance-depression-years-fda-approves-novel-treatment-hardest-cases/)" }
+knitr::include_graphics("include/img/ketamine.jpg")
+```
+
+- Ketamine is a selective antagonist of the NMDA receptor, an ionotropic glutamate receptor 
+- Relieves depressive symptoms relatively quickly [@Berman2000-vg](https://www.ncbi.nlm.nih.gov/pubmed/10686270) and [@Zarate2006-np](http://dx.doi.org/10.1001/archpsyc.63.8.856)
+- Boosts synaptic spine formation [@Li2010-ve](http://dx.doi.org/10.1126/science.1190287) and reverses effects of induced stress
+
+##### Electroconvulsive Therapy (ECT) {-}
+
+- Last line of treatment for drug-resistant depression
+- Electric current delivered to the brain causes 30-60s seizure.
+- ECT usually done in a hospital's operating or recovery room  under general anesthesia
+- Once every 2 - 5 days for a total of 6 - 12 sessions.
+- Remission rates of up to 50.9% [@dierckx_efficacy_2012](http://doi.org/10.1111/j.1399-5618.2012.00997.x)
+- Seems to work via
+    + Anticonvulsant (block Na+ channel or enhance GABA function) effects
+    + Neurotrophic (stimulates neurogenesis) effects
+
+- ECT more effective than Ketamine? [@Ekstrand2021-cq](http://dx.doi.org/10.1093/ijnp/pyab088)
+
+```{r, out.width="100%", fig.cap="Figure 3 from [@Ekstrand2021-cq](http://dx.doi.org/10.1093/ijnp/pyab088)"}
+knitr::include_graphics("https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ijnp/25/5/10.1093_ijnp_pyab088/1/pyab088_fig3.jpeg?Expires=1681738457&Signature=WIsyjFN~A9Mbhn6AgqNW3WcLoQZmuY-q~6nEN-AMTlIWJDZZ3iHqcEeym05pmTv8t8NUTM6JIkdf80zwb6V0VDrYlOP0vKftghjXnS-wA5Z3mrfmwulq8LLGOVdrAcQVatiKxAvFrIjlUFQE~aeCwICxfAo0KnANOySLiPmw9lW5pY0SfIKmH~jEJ2dSS57U6SS0Ssd9dkiC4H2~xoQlqsm8lYflZGM3XKWxJ-t3r6r6T37D1hoIqfhnRXE-~qTp~mIDUwOQm28e7aPdKNDaLOQHVwxmqumcc78B~QpyDE38dkMpnoGOkyL1OmD45DOoyU3s3mlxTWCJlCJ6pnu2rQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA")
+```
+
+##### Deep brain stimulation {-}
+
+```{r, out.width="100%", fig.cap="From [ucsf2021-db](https://www.youtube.com/embed/XCY8uQr2LKo)"}
+knitr::include_url("https://www.youtube.com/embed/XCY8uQr2LKo", height="600px")
+```
+
+### Depression's impact {-}
+
+- Widespread brain dysfunction
+- Prefrontal cortex, amygdala, HPA axis, circadian rhythms
+- Genetic + environmental factors
+- Disturbance in 5-HT, NE systems, cortisol
+- Metabolic pathways [@Pu2020-pb](http://dx.doi.org/10.1038/s41380-020-0645-4)
+- Many sufferers do not respond to available treatments
+- Drug treatments affect neuromodulator NT systems, but
+    - Can't effectively measure NT levels
+    - Neuromodulators interact, so many side-effects
+- 'Monoamine hypothesis' of depression is at-best incomplete
+- 'Talk' therapies can change behavior/mood by creating new/strengthened circuits in other areas
+- Emerging therapies (ketamine, deep brain stimulation) show promise, but...
+
+> "*Leading biological hypotheses propose that biological changes may underlie major depressive disorder onset and relapse/recurrence. Here, we investigate if there is prospective evidence for biomarkers derived from leading theories. We focus on neuroimaging, gastrointestinal factors, immunology, neurotrophic factors, neurotransmitters, hormones, and oxidative stress....Our search resulted in 67,464 articles...Only cortisol (N=19, OR=1.294, p=0.024) showed a predictive effect on onset/relapse/recurrence of MDD, but not on time until MDD onset/relapse/recurrence. However, this effect disappeared when studies including participants with a baseline clinical diagnosis were removed from the analyses...there is a lack of evidence for leading biological theories for onset and maintenance of depression. Only cortisol was identified as potential predictor for MDD, but results are influenced by the disease state. High-quality (prospective) studies on MDD are needed to disentangle the etiology and maintenance of MDD.*"
+>
+> --[@Kennis2020-rw](http://dx.doi.org/10.1038/s41380-019-0585-z)
+
+## Bipolar disorder {-}
+
+### Background {-}
+
+- Formerly “manic depression” or “manic depressive disorder"
+- Alternating mood states
+    + Mania or hypomania (milder form)
+    + Depression
+- Cycles 3-6 mos in length, but
+    + Rapid cycling (weeks or days)
+- Suicide risk 20-60x normal population, [@baldessarini_suicide_2006](http://dx.doi.org/10.1017/S1092852900014681) 
+
+```{r, out.width="100%", out.width="100%", fig.cap="Source: http://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml"}
+knitr::include_graphics("include/img/nih-bipolar-table.jpg")
+```
+
+- 1-3% lifetime prevalence, subthreshold affects another ~2% [@Merikangas2007-hu](Merikangas2007-hu)
+- Subtypes
+    + **Bipolar I**: manic episodes, possible depressive ones
+    + **Bipolar II**: no manic episodes but hypomania (disinhibition, irritability/agitation) + depression
+
+- Psychosis (hallucinations or delusions)
+- Anxiety, attention-deficit hyperactivity disorder (ADHD)
+- Substance abuse
+
+### (Neuro)biology of {-}
+
+#### Genetics {-}
+
+- Overlap between bipolar disorder and schizophrenia
+- Genes for voltage-gated Ca++ channels
+    + Regulate NT, hormone release
+    + Gene expression, cell metabolism
+- [@craddock_genetics_2013](http://dx.doi.org/10.1016/S0140-6736(13)60855-7)
+
+#### Brain responses to emotional faces ≠ depression {-}
+
+```{r, out.width="100%", fig.cap="Figure from [@lawrence_subcortical_2004](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)"}
+knitr::include_graphics("include/img/lawrence-1.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Figure from [@lawrence_subcortical_2004](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)"}
+knitr::include_graphics("include/img/lawrence-2.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Figure from [@lawrence_subcortical_2004](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)"}
+knitr::include_graphics("include/img/lawrence-3.jpg")
+```
+
+#### Amygdala, hippocampus volume reduced; ventricles larger {-}
+
+```{r, out.width="100%", out.width="100%", fig.cap="Figure 1 from [@hallahan_structural_2011](http://dx.doi.org/10.1016/j.biopsych.2010.08.029)"}
+knitr::include_graphics("include/img/hallahan-fig-1.jpg")
+```
+
+```{r, out.width="100%", out.width="100%", fig.cap="Source: [@hallahan_structural_2011](http://dx.doi.org/10.1016/j.biopsych.2010.08.029)"}
+knitr::include_graphics("include/img/hallahan-abstr.jpg")
+```
+
+#### Drug treatments {-}
+
+- Anti-depressants not especially effective [@Sidor2012-ki](http://dx.doi.org/10.1007/s11920-012-0323-6)
+- Mood stabilizers
+    + Lithium (Li)
+    + Valproate (Depakote)
+- Anticonvulsants
+    + Typically used to treat epilepsy
+    + GABA agonists
+    + e.g. lamotrigine (Lamictal)
+- Atypical antipsychotics
+
+##### Lithium  {-}
+
+- "Discovered" accidentally
+    - [John Cade](https://en.wikipedia.org/wiki/John_Cade) discovered in 1948
+    - Injections of manic patients' urine with a lithium compound (chemical stabilizer) into guinea pig test animals
+    - Had calming effect
+    - Earliest effective medications for treating mental illness
+
+- Effects of
+    - Reduces mania, minimal effects on depressive states
+    - Preserves PFC, hipp, amyg volumes
+    - Has other 'neuroprotective' effects [@Machado-Vieira2009-by](Machado-Vieira2009-by)
+    - downregulates DA, glutamate; upregulates GABA
+    - modulates 5-HT, NE
+    - *levels can be tested/monitored via blood test*
+    - [@malhi_potential_2013](http://dx.doi.org/10.1007/s40263-013-0039-0)
+
+#### Other treatment options {-}
+
+- Psychotherapy
+- Electroconvulsive Therapy (ECT)
+- Sleep medications
+
+#### Prospects {-}
+
+- STEP-BD cohort ($n=1,469$)
+    + 58% achieved recovery
+    + 49% (of recovered) had recurrences within 2 years
+    + Residual depressive symptoms can persist
+- [@Geddes2013-hm](http://doi.org/10.1016/S0140-6736(13)60857-0)
+
+### BP summed-up {-}
+
+- Changes in mood, but ≠ depression
+- Genetic + environmental risk
+- Changes in emotion processing network activity, size of hippocampus
+- Heterogeneous
+- No simple link to a specific NT system
+
+## Schizophrenia {-}
+
+### Background {-}
+
+```{r, out.width="100%", fig.cap="[@Neuroslicer2007-ev](https://www.youtube.com/watch?v=gGnl8dqEoPQ)"}
+knitr::include_url("https://www.youtube.com/embed/gGnl8dqEoPQ")
+```
+
+- Lifetime prevalence ~ 1/100
+- ~1/3 chronic & severe
+- Onset post-puberty, early adulthood
+- Pervasive disturbance in mood, thinking, movement, action, memory, perception
+
+```{r, out.width="100%", fig.cap="[@TheMentallight2010-ea](https://www.youtube.com/watch?v=YXimT5CHCDE)"}
+knitr::include_url("https://www.youtube.com/embed/YXimT5CHCDE")
+```
+
+#### Screening (Yale PRIME test)  {-}
+
+<http://www.schizophrenia.com/sztest/primetest.pdf>
+
+1. I think that I have felt that there are odd or unusual things going on that I can’t explain.
+2. I think that I might be able to predict the future.
+3. I may have felt that there could possibly be something interrupting or controlling my thoughts, feelings, or actions. 
+5. I get confused at times whether something I experience or perceive may be real or may be just part of my imagination or dreams. 
+6. I have thought that it might be possible that other people can read my mind, or that I can read other’s minds.
+7. I wonder if people may be planning to hurt me or even may be about to hurt me.
+
+#### Origins of the term {-}
+
+- Bleuler
+    + Coined term “schizophrenia” or “split mind”
+    + NOT multiple personality disorder
+- Kraeplin
+    + Dementia Praecox and Paraphrenia (1919)
+    + Emphasized developmental and hereditary origins
+
+#### "Positive" symptoms {-}
+
+- “Additions” to behavior
+- Disordered thought
+- Delusions of grandeur, persecution
+- Hallucinations (usually auditory)
+- Bizarre behavior
+
+#### "Negative" symptoms {-}
+
+- “Reductions” in behavior
+- Poverty of speech
+- Flat affect
+- Social withdrawal
+- Impaired executive function
+- Anhedonia (loss of pleasure)
+- Catatonia (reduced movement)
+
+#### Cognitive symptoms {-}
+
+- Memory
+- Attention
+- Planning, decision-making
+- Social cognition
+- Movement
+
+### Biological bases {-}
+
+- Genetic disposition
+- Brain abnormalities
+- Pharmacological bases
+- Developmental origins
+
+#### Genetic disposition {-}
+
+```{r out.width="100%",}
+knitr::include_graphics("include/img/schizophrenia-risk.jpg")
+```
+
+```{r, echo=FALSE}
+library(tidyverse)
+schiz_df <- readr::read_csv("https://www.tandfonline.com/action/downloadTable?id=T2&doi=10.31887%2FDCNS.2000.2.4%2Fctamminga&downloadType=CSV", show_col_types = FALSE)
+names(schiz_df) <- c("category", "pct_risk")
+
+schiz_df |>
+  knitr::kable(format='html') |>
+  kableExtra::kable_classic() |>
+  kableExtra::add_footnote(label = "Data from (Tamminga & Medoff, 2000)")
+```
+
+- But, no single gene...
+
+```{r, out.width="100%", fig.cap="Figure from [@Johnson2017-bp](http://doi.org/10.1016/j.biopsych.2017.06.033)"}
+knitr::include_graphics("include/img/johnson-etal-2017-schiz.jpg")
+```
+
+- Genes associated with schizophrenia at higher than chance levels. [@Johnson2017-bp](http://doi.org/10.1016/j.biopsych.2017.06.033)
+    - *NOTCH4*, *TNF*: 
+        - Part of major histocompatibility complex (MHC), cell membrane specializations involved in the immune system
+    - *DRD2* (dopamine D2 receptor), *KCNN3* (Ca+ activated K+ channel), *GRM3* (metabotropic glutamate receptor)
+
+#### Brain abnormalities {-}
+
+- Ventricles larger, esp in males
+
+```{r out.width="100%",}
+knitr::include_graphics("include/img/schizophrenia-ventricles.jpg")
+```
+
+- Cause or effect?
+
+```{r, out.width="100%", fig.cap="Figure from [@Kempton2010-ms](http://doi.org/10.1016/j.schres.2010.03.036). Note that ventricular enlargement increases across time"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr2_lrg.jpg")
+```
+
+- Smaller hippocampus, amygdala, thalamus, nucleus accumbens
+    - Related to ventricular enlargement?
+    - Early disturbance in brain development?
+
+```{r, fig.cap='Figure 1 from [@Van_Erp2015-ne](http://doi.org/10.1038/mp.2015.63)'}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2015.63/MediaObjects/41380_2016_Article_BFmp201563_Fig1_HTML.jpg?as=webp")
+```
+
+- Rapid gray matter loss in adolescents?
+
+```{r, fig.cap="Figure 2 from [@thompson_mapping_2001](http://dx.doi.org/10.1073/pnas.201243998)"}
+knitr::include_graphics("include/img/thompson-2001-F2.large.jpg")
+```
+
+- Widespread disruption in white matter connectivity [@Kelly2017-lj](http://doi.org/10.1038/mp.2017.170) 
+
+```{r, out.width="100%", fig.cap='https://www.nature.com/articles/mp2017170/figures/1'}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp")
+```
+
+- Increased white matter loss over age
+
+```{r, out.width="100%", fig.cap="Figure 2 from [@Kochunov2016-cu](http://doi.org/10.1002/hbm.23336)"}
+knitr::include_graphics("https://onlinelibrary.wiley.com/cms/asset/250cb404-7ae9-4af5-aff6-031678a53cbb/hbm23336-fig-0002-m.jpg")
+```
+
+#### Pharmacological bases {-}
+
+##### Dopamine hypothesis {-}
+
+```{r, out.width="100%",}
+knitr::include_graphics("include/img/mesolimbocortical-da.jpg")
+```
+
+- DA (D2 receptor) antagonists (e.g. chlorpromazine)
+    + improve positive symptoms
+- *Typical antipsychotics* are DA D2 receptor antagonists
+- DA agonists
+    + amphetamine, cocaine, L-DOPA
+    + mimic or exacerbate symptoms
+- Tardive Dyskinesia a side effect of DA antagonists
+
+```{r, out.width="100%", fig.cap="[@Dyskinesia2021-ff](https://www.youtube.com/watch?v=_UCaWSMddwA)"}
+knitr::include_url("https://www.youtube.com/embed/_UCaWSMddwA")
+```
+
+- Evidence against DA hypothesis...
+    - New, *atypical antipsychotics* 
+        + (e.g. Clozapine) INCREASE DA in frontal cortex, affect 5-HT
+    - Mixed evidence for high DA metabolite levels in CSF
+
+##### Glutamate hypothesis {-}
+
+- *Psychomimetic* drugs... 
+    + Phencyclidine (PCP), ketamine
+    + NMDA receptor antagonists (NMDA glu + voltage-gated)
+- ...can induce schizophrenia-like states
+- Schizophrenia -> *underactivation* of NMDA receptors?
+    - Related to NMDA receptor role in learning, plasticity
+
+#### Developmental origins {-}
+
+##### Early life stress increases risk {-}
+
+- Urban vs. rural living
+- Exposure to infection *in utero*, other birth complications
+
+- [@levine_transgenerational_2016](10.1016/j.schres.2016.06.019)
+    - Children (N=51,233) of parents who born during Nazi era (1922-1945)
+    - Emigrated before (indirect exposure) or after (direct exposure) to Nazi era
+    - Children exposed to direct stress of Nazi era *in utero* or postnatally
+        + Did **not** differ in rates of schizophrenia, but
+        + Had higher rehospitalization rates
+    
+- [@debost_investigating_2015](http://doi.org/10.1016/j.psyneuen.2015.05.013)
+    - Danish cohort (n=1,141,447)
+    - Exposure to early life stress... 
+        + *in utero* did **not** increase risk of schizophrenia, but
+        + but *exposure during infancy (0-2 years) increased risk*
+    - Increased risk associated with an allele of a cortisol-related gene
+   
+### Schizophrenia summed up {-}
+
+- Wide-ranging disturbance of mood, thought, action, perception
+- Often co-morbid with MDD [@Etchecopar-Etchart2021-ot](http://dx.doi.org/10.1093/schbul/sbaa153).
+- Broad changes in brain structure, function, chemistry, development
+- ~~Dopamine hypothesis~~ -> glutamate hypothesis
+- Genetic (polygenic = multiple genes) risk + environmental factors
+- One disorder or many?
