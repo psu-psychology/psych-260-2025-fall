@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "PSYCH 260.001"
 ---
 
 {{< include _index.qmd >}}

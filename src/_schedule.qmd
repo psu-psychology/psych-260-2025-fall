@@ -196,6 +196,9 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[10]`*
 
+- *Slides*:  | [html](slides/wk-10-2025-10-28-psychopathology-I.qmd) |
+
+
 ### `{r} prettify_date(sched_df$class_day_2[10])` {-}
 
 *`{r} sched_df$class_2_theme[10]`*

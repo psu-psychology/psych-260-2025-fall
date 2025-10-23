@@ -20,14 +20,15 @@ engine: knitr
 
 # Mental illness
 
-## Prevalence: Any mental illness
+## Prevalence: Any
 
 ![@UnknownUnknown-na](../include/img/mental-illness-past-year-prevalence-of-2022.png)
-## Prevalence: Serious mental illness
+
+## Prevalence: Serious
 
 ![@UnknownUnknown-na](../include/img/serious-mental-illness-past-year-prevalence-of-2022.png)
 
-## Neuroscience of mental illness
+## Neuroscience of
 
 - Diagnosis via behavior & mood, not specific "biomarker"
 - Presume 
@@ -59,15 +60,10 @@ engine: knitr
 
 ## Major Depressive Disorder (MDD)
 
-- Experienced by ~7% Americans in any year
-- Prevalence up to ~20% lifetime
+- Experienced by ~8% Americans in any year
+- U.S. prevalence up to ~20% lifetime (higher than international average; @Bromet2011-sc)
   - Females 2-3x males
-
-## MDD Heritability
-
-- Large, 2.5 M Swedish population study, @Kendler2018-cl
-  - Females 0.49 (twins); 0.51 (non-twin relatives)
-  - Males 0.41 (twins); 0.36 (non-twin relatives)
+- Median age of first episode ~25 years
 
 ## Prevalence of MD episodes
 
@@ -86,9 +82,32 @@ engine: knitr
 
 -- @Marx2023-ks
 
-## Pathogenesis
+## Pathogenesis {.scrollable}
 
 ![Figure 1 from @Cui2024-tn](../include/img/mdd-pathogenesis.png)
+
+---
+
+![@Otte2016-rp Figure 3.](../include/img/otte-2015-fig-03.png)
+
+## MDD Heritability
+
+- Large, 2.5 M Swedish population study, @Kendler2018-cl
+  - Females 0.49 (twins); 0.51 (non-twin relatives)
+  - Males 0.41 (twins); 0.36 (non-twin relatives)
+- ~35% [@Geschwind2015-xm; @Otte2016-rp]
+
+## Sex-specific genetic effects {.scrollable}
+
+![@Cai2025-cb Figure 1 comment on @Thomas2025-ee](https://media.nature.com/lw767/magazine-assets/d41586-025-03374-0/d41586-025-03374-0_51604912.jpg?as=webp)
+
+## Genes and environment interact
+
+![@Otte2016-rp Figure 4.](../include/img/otte-2016-fig-04.png)
+
+## Smaller brain areas 
+
+![@Otte2016-rp Figure 5.](../include/img/otte-2016-fig-05.png)
 
 ## Monoamine hypothesis
 
@@ -110,8 +129,6 @@ engine: knitr
   - CSF, platelets, plasma, urine, saliva
 - CSF & platelets correlate highly [@Audhya2012-sv]
 - But, salivary 5-HT does not correlate with mood symptoms [@Leung2018-ks]
-
-[Table 2 from @Palazidou2012-je](../include/img/palazido-2012-table-2.jpg)
 
 ## Drug therapies based upon...
 
@@ -154,7 +171,7 @@ engine: knitr
 ## How well do the drugs work?
 
 - [STAR*D trial](http://www.nimh.nih.gov/funding/clinical-research/practical/stard/allmedicationlevels.shtml)
-- $35M NIMH-funded clinical trial 2001-2006
+- $35M NIMH-funded clinical trial 2001-2007, target *n*=4,000
 
 ## STAR*D protocol
 
@@ -170,8 +187,9 @@ engine: knitr
 - 67% cumulative remission rate
 - 6-7 weeks to show response
 
-## STAR*D reanalyzed [@Pigott2023-xv]
+## STAR*D reanalyzed 
 
+- @Pigott2023-xv
 - STAR*D investigators deviated from their own protocol (raters were not blind to status)
 - Included data that should have been excluded
 
@@ -179,10 +197,19 @@ engine: knitr
 
 ## Monoamine hypothesis reconsidered
 
+:::: {.columns}
+::: {.column width=50%}
 - Too simplistic
-- Monoamines interact
+- Monoamines interact 
 - Drugs fast acting (min), but improvement slow (weeks)
-    
+:::
+::: {.column width=50%}
+![@Otte2016-rp Figure 7.](../include/img/otte-2016-fig-07.png)
+:::
+::::
+
+
+
 ---
 
 >No correlation between serotonin and its metabolite 5-HIAA in the cerebrospinal fluid and [11C]AZ10419369 binding measured with PET in healthy volunteers.
@@ -227,6 +254,9 @@ engine: knitr
 - Chronic stress causes neural loss in hippocampus
   - Cortisol and CRF receptors in hippocampus
 - Chronic stress down-regulates 5-HT sensitivity
+
+## Neurogenesis hypothesis
+
 - Depression ~ chronic stress
 - Anti-depressants upregulate neurogenesis via 5-HT modulation
 - Hippocampus one site where neurogenesis occurs in adults
@@ -246,7 +276,7 @@ engine: knitr
 
 ## Electroconvulsive Therapy (ECT)
 
-- Once every 2-5  days for a total of 6 - 12 sessions.
+- Once every 2-5 days for a total of 6-12 sessions.
 - Remission rates of up to 50.9% [@dierckx_efficacy_2012]
 - Seems to work via
   + Intrinsic anticonvulsant effects (brain responds to seizure with seizure-preventing responses)
@@ -269,6 +299,13 @@ engine: knitr
 
 -- @ucsf2021-db
 
+## Psychotherapy
+
+- Effective in treating MDD
+- No clear differences among therapy types
+- Similar outcomes as antidepressant medication
+- @Otte2016-rp
+
 # Wrap-up
 
 ## Main points
@@ -287,6 +324,12 @@ engine: knitr
 
 - Some evidence for altered HPA system, especially cortisol
 - MDD may mimic chronic stress & affect neural development
+- Ketamine faster acting than monoamine-affecting drugs
+
+## Main points
+
+- Psychotherapy can be effective
+- ECT, deep brain stimulation for treatment-resistant depression
 
 >...High-quality (prospective) studies on MDD are needed to disentangle the etiology and maintenance of MDD.
 
