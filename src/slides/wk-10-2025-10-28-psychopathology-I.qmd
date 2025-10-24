@@ -30,9 +30,10 @@ engine: knitr
 
 ## Neuroscience of
 
-- Diagnosis via behavior & mood, not specific "biomarker"
-- Presume 
-  - diseases of the mind are disorders of the brain
+- Presume diseases of the mind are disorders of the brain
+- Diagnosis via measurements/observations of behavior & mood
+  - e.g., Hamilton Rating Scale for Depression [@Wikipedia-contributors2025-ix; @UnknownUnknown-ef]
+  - Not specific "biomarker"
 - System-wide effects; no single or simple cause
     
 ## Neuroscience of mental illness
@@ -82,6 +83,8 @@ engine: knitr
 
 -- @Marx2023-ks
 
+# Causes & effects
+
 ## Pathogenesis {.scrollable}
 
 ![Figure 1 from @Cui2024-tn](../include/img/mdd-pathogenesis.png)
@@ -123,12 +126,7 @@ engine: knitr
   - Early (1950s-60s) use as anti-psychotic
   - Once thought to induce depressive symptoms, but see [@Baumeister2003-cw]
 
-## Measuring monoamines
-    
-- 5-HT can be measured in
-  - CSF, platelets, plasma, urine, saliva
-- CSF & platelets correlate highly [@Audhya2012-sv]
-- But, salivary 5-HT does not correlate with mood symptoms [@Leung2018-ks]
+# Treatments
 
 ## Drug therapies based upon...
 
@@ -261,10 +259,23 @@ engine: knitr
 - Anti-depressants upregulate neurogenesis via 5-HT modulation
 - Hippocampus one site where neurogenesis occurs in adults
 
+## Other approaches
+
+- Psychotherapy
+- Other drugs
+- Neurostimulation
+
+## Psychotherapy
+
+- Effective in treating MDD
+- No clear differences among therapy types
+- Similar outcomes as antidepressant medication
+- @Otte2016-rp
+
 ## Ketamine
 
 - Selective antagonist of the NMDA receptor
-  - NMDA is an ionotropic glutamate receptor 
+  - NMDA is an ionotropic glutamate (Glu) receptor
 - Relieves depressive symptoms relatively quickly [@Berman2000-vg; @Zarate2006-np]
 - Boosts synaptic spine formation [@Li2010-ve] and reverses effects of induced stress
 
@@ -299,12 +310,34 @@ engine: knitr
 
 -- @ucsf2021-db
 
-## Psychotherapy
+## Other neurostimulation
 
-- Effective in treating MDD
-- No clear differences among therapy types
-- Similar outcomes as antidepressant medication
-- @Otte2016-rp
+:::: {.columns}
+::: {.column width=50%}
+- Vagal (Xth cranial) nerve stimulation
+- Parasympathetic branch of ANS
+- Mixed (afferent/efferent)
+:::
+::: {.column width=50%}
+![@UnknownUnknown-oj](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2017/10/24/16/02/mcdc7_vagus_nerve_stimulator-8col.jpg)
+:::
+::::
+
+
+## Other neurostimulation
+
+:::: {.columns}
+::: {.column width=50%}
+- Transcranial Magnetic Stimulation
+- Non-invasive
+- Weekday treatments, 20-30 min/session, 4-8 weeks
+- Target dorsolateral prefrontal cortex
+- @Kim2024-ay
+:::
+::: {.column width=50%}
+![@JaeklUnknown-hd](https://www.brainfacts.org/-/media/Brainfacts2/Diseases-and-Disorders/Therapies/Article-Images/tms-graphic.jpg)
+:::
+::::
 
 # Wrap-up
 
@@ -317,8 +350,9 @@ engine: knitr
 ## Main points
 
 - Weak evidence for "chemical imbalance"
-- Monoamine drugs widely prescribed, work sometimes
+- Monoamine drugs widely prescribed, work sometimes in some people
 - Weak evidence for monoamine hypothesis
+- How reuptake inhibitors alleviate MDD not clear
 
 ## Main points  
 
