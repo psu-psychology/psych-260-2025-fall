@@ -8,9 +8,15 @@ fig-align: "center"
 
 ## Today's topics {-}
 
-- Last time...
+- Warm up
+- Point 1
+- Point 2
 
-## Take homes
+# Point 1
+
+# Point 2
+
+# Wrap up
 
 ## Next time
 
@@ -19,7 +25,7 @@ fig-align: "center"
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE), version 2025.5.1.513.
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework. 
@@ -27,4 +33,3 @@ The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/
 <https://psu-psychology.github.io/psych-260-2025-fall/>
 
 ## References
-

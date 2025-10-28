@@ -32,7 +32,7 @@ engine: knitr
 
 :::: {.columns}
 ::: {.column width=60%}
-- Presume diseases of the mind are disorders of the brain
+- Presume diseases of the mind are disorders of the brain, see @Kendler2024-fz
 - Diagnose via measurements/observations of behavior & mood
   - e.g., Hamilton Rating Scale for Depression [@Wikipedia-contributors2025-ix; @UnknownUnknown-ef]
 :::
@@ -305,7 +305,14 @@ engine: knitr
 - Selective antagonist of the NMDA receptor
   - NMDA is an ionotropic glutamate (Glu) receptor
 - Relieves depressive symptoms relatively quickly [@Berman2000-vg; @Zarate2006-np]
+- But only for a short time
 - Boosts synaptic spine formation [@Li2010-ve] and reverses effects of induced stress
+
+## Ketamine
+
+>Our findings show that ketamine and esketamine may be more efficacious than placebo at 24 hours. How these findings translate into clinical practice, however, is not entirely clear...Long term non‐inferiority RCTs comparing repeated ketamine and esketamine, and rigorous real‐world monitoring are needed to establish comprehensive data on safety and efficacy.
+
+-- @Dean2021-qw
 
 ## Electroconvulsive Therapy (ECT)
 
