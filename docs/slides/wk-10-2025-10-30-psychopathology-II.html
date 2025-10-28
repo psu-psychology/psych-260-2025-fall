@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="../include/site_libs/clipboard/clipboard.min.js"></script>
-<script src="../include/site_libs/quarto-html/tabby.min.js"></script>
-<script src="../include/site_libs/quarto-html/popper.min.js"></script>
-<script src="../include/site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../include/site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../include/site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../include/site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.8.24">
 
   <meta name="author" content="Rick Gilmore">
@@ -14,8 +14,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../include/site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../include/site_libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -28,14 +28,34 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
-  <link rel="stylesheet" href="../include/site_libs/revealjs/dist/theme/quarto-a1e6b9f9a4c2299ae8b39f6a9fa80401.css">
-  <link href="../include/site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../include/site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../include/site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../include/site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="../include/site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
-  <link href="../include/site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-a1e6b9f9a4c2299ae8b39f6a9fa80401.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
     .reveal div.sourceCode {
       margin: 0;
@@ -151,25 +171,853 @@ Rick Gilmore
 </section>
 <section class="slide level2">
 
+<!-- Trailer for A Beautiful Mind -->
+<iframe data-external="1" src="https://www.youtube.com/embed/YWwAOutgWBQ" width="100%" height="70%" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>– <span class="citation" data-cites="Trailers2013-bg">Trailers (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
+</section>
+<section id="todays-topics" class="slide level2 unnumbered">
+<h2>Today’s topics</h2>
+<ul>
+<li>Warm-up</li>
+<li>Bipolar disorder</li>
+<li>Schizophrenia</li>
+</ul>
+</section>
+<section id="warm-up" class="slide level2">
+<h2>Warm-up</h2>
+</section></section>
+<section>
+<section id="bipolar-disorder-bpd" class="title-slide slide level1 center">
+<h1>Bipolar disorder (BPD)</h1>
+
+</section>
+<section id="background-on-bpd" class="slide level2">
+<h2>Background on BPD</h2>
+<ul>
+<li>Formerly “manic depression” or “manic depressive disorder”</li>
+<li>Alternating mood states
+<ul>
+<li>Mania or hypomania (milder form)</li>
+<li>Depression</li>
+</ul></li>
+</ul>
+</section>
+<section id="background-on-bpd-1" class="slide level2">
+<h2>Background on BPD</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<ul>
+<li>Cycles 3-6 mos in length
+<ul>
+<li>but rapid cycling (weeks or days)</li>
+</ul></li>
+<li>Suicide risk 20-60x normal population, <a href="http://dx.doi.org/10.1017/S1092852900014681"><span class="citation" data-cites="baldessarini_suicide_2006">Baldessarini, Pompili, &amp; Tondo (<span>2006</span>)</span></a> ntent</li>
+</ul>
+</div><div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/nih-bipolar-table.jpg"></p>
+<figcaption>Source: http://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="background-on-bpd-2" class="slide level2">
+<h2>Background on BPD</h2>
+<ul>
+<li>1-3% lifetime prevalence, subthreshold affects another ~2% <a href="Merikangas2007-hu"><span class="citation" data-cites="Merikangas2007-hu">Merikangas et al. (<span>2007</span>)</span></a></li>
+<li>Subtypes
+<ul>
+<li><strong>Bipolar I</strong>: manic episodes, possible depressive ones</li>
+<li><strong>Bipolar II</strong>: no manic episodes but hypomania (disinhibition, irritability/agitation) + depression</li>
+</ul></li>
+</ul>
+</section>
+<section id="background-on-bpd-3" class="slide level2">
+<h2>Background on BPD</h2>
+<ul>
+<li>Psychosis (hallucinations or delusions)</li>
+<li>Anxiety, attention-deficit hyperactivity disorder (ADHD)</li>
+<li>Substance abuse</li>
+</ul>
+</section>
+<section id="neurobiology-of-bpd" class="slide level2">
+<h2>(Neuro)biology of BPD</h2>
+
+<img data-src="../include/img/bourque-fig-02.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Bourque2024-rw">Bourque et al. (<a href="#/references" role="doc-biblioref" onclick="">2024</a>)</span></p></section>
+<section id="genetics-of-bpd" class="slide level2">
+<h2>Genetics of BPD</h2>
+<ul>
+<li>40-70% concordance (or higher in some samples)</li>
+<li>Polygenic (many risk alleles)</li>
+<li>Overlap between bipolar disorder and schizophrenia, <span class="citation" data-cites="craddock_genetics_2013">Craddock &amp; Sklar (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></li>
+</ul>
+</section>
+<section class="slide level2">
+
+
+<img data-src="../include/img/pettersson-fig-01.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Pettersson2019-io">Pettersson et al. (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span> Figure 1.</p></section>
+<section id="genetics-of-bpd-1" class="slide level2">
+<h2>Genetics of BPD</h2>
+<ul>
+<li>Genes for voltage-gated Ca++ channels
+<ul>
+<li>Regulate NT, hormone release</li>
+<li>Gene expression, cell metabolism</li>
+</ul></li>
+<li><span class="citation" data-cites="craddock_genetics_2013">Craddock &amp; Sklar (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span>; <span class="citation" data-cites="Cross-Disorder_Group_of_the_Psychiatric_Genomics_Consortium2013-ms">Cross-Disorder Group of the Psychiatric Genomics Consortium (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></li>
+</ul>
+</section>
+<section id="brain-activation-changes" class="slide level2">
+<h2>Brain activation changes</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Areas linked to cognitive control <span class="math inline">\(\downarrow\)</span></li>
+<li>emotion regulation <span class="math inline">\(\uparrow\)</span></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://www.frontiersin.org/files/Articles/89757/fpsyt-05-00098-HTML/image_m/fpsyt-05-00098-g002.jpg"></p>
+<figcaption><span class="citation" data-cites="Maletic2014-oe">Maletic &amp; Raison (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span>. Figure 2.</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Amygdala, hippocampus, thalamus volume <span class="math inline">\(\downarrow\)</span></li>
+<li>ventricles <span class="math inline">\(\uparrow\)</span></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/ching-2022-fig-04a.png"></p>
+<figcaption><span class="citation" data-cites="Ching2022-of">Ching et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span> Figure 4a.</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure-1" class="slide level2">
+<h2>Brain structure</h2>
+
+<img data-src="../include/img/ching-2022-fig-05.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Ching2022-of">Ching et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span> Figure 5.</p><ul>
+<li>Thinner cerebral cortex
+<ul>
+<li>BPD vs.&nbsp;healthy controls (a).</li>
+<li>BPD on anti-convulsant (c)</li>
+</ul></li>
+<li>But, <em>thicker</em> for BPD on Li (b)</li>
+</ul>
+</section>
+<section id="brain-structure-2" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>White matter altered.</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/ching-2022-fig-07.png"></p>
+<figcaption><span class="citation" data-cites="Ching2022-of">Ching et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span> Figure 7</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="a-unified-model" class="slide level2">
+<h2>A unified model</h2>
+
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-021-01091-4/MediaObjects/41380_2021_1091_Fig1_HTML.png?as=webp" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Magioncalda2022-ic">Magioncalda &amp; Martino (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span> Figure 2.</p></section>
+<section id="therapies-for-bpd" class="slide level2">
+<h2>Therapies for BPD</h2>
+<ul>
+<li>Psychotherapy</li>
+<li>Electroconvulsive Therapy (ECT)</li>
+<li>Sleep medications</li>
+<li>Drugs</li>
+</ul>
+</section>
+<section id="drugs" class="slide level2">
+<h2>Drugs</h2>
+<ul>
+<li>Anti-depressants not especially effective <span class="citation" data-cites="Sidor2012-ki Gitlin2018-uu">(<a href="#/references" role="doc-biblioref" onclick="">Gitlin, 2018</a>; <a href="#/references" role="doc-biblioref" onclick="">Sidor &amp; MacQueen, 2012</a>)</span>
+<ul>
+<li>May destablize mood</li>
+</ul></li>
+<li>Anticonvulsants
+<ul>
+<li>Typically used to treat epilepsy</li>
+<li>Usually GABA-A receptor agonists</li>
+<li>e.g.&nbsp;<a href="https://medlineplus.gov/druginfo/meds/a695007.html">lamotrigine</a> (Lamictal)</li>
+</ul></li>
+<li>Atypical antipsychotics</li>
+</ul>
+</section>
+<section id="drugs-1" class="slide level2">
+<h2>Drugs</h2>
+<ul>
+<li>Mood stabilizers
+<ul>
+<li><a href="https://medlineplus.gov/druginfo/meds/a682412.html">Valproate</a> (Depakote)</li>
+<li>Lithium (Li)</li>
+</ul></li>
+</ul>
+</section>
+<section id="lithium-li" class="slide level2">
+<h2>Lithium (Li)</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<ul>
+<li>“Discovered” accidentally</li>
+<li><a href="https://en.wikipedia.org/wiki/John_Cade">John Cade</a> discovered in 1948
+<ul>
+<li>Injections of manic patients’ urine with a lithium compound (chemical stabilizer) into guinea pig test animals</li>
+<li>Had calming effect</li>
+</ul></li>
+<li>Earliest effective medication for treating mental illness</li>
+</ul>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/500px-George_the_amazing_guinea_pig.jpg"></p>
+<figcaption>Wikipedia</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="li-effects-malhi_potential_2013" class="slide level2">
+<h2>Li effects <span class="citation" data-cites="malhi_potential_2013">(<a href="#/references" role="doc-biblioref" onclick="">Malhi, Tanious, Das, Coulston, &amp; Berk, 2013</a>)</span></h2>
+<ul>
+<li>Reduces mania, minimal effects on depressive states</li>
+<li>Preserves prefrontal cortex (PFC), hippocampus, amygdala volumes</li>
+<li>downregulates DA, glutamate; upregulates GABA</li>
+<li><strong>levels can be tested/monitored via blood test</strong></li>
+</ul>
+</section>
+<section id="systematic-treatment-enhancement-program-for-bipolar-disorder-step-bd-cohort" class="slide level2">
+<h2><a href="https://www.nimh.nih.gov/funding/clinical-research/practical/step-bd">Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)</a> cohort</h2>
+<ul>
+<li><span class="math inline">\(n=1,469\)</span></li>
+<li>Intensive Psychosocial treatments effective for 64% of trial participants, <span class="citation" data-cites="UnknownUnknown-ws"><span>“Systematic treatment enhancement program for bipolar disorder (<span>STEP</span>-<span>BD</span>)”</span> (<a href="#/references" role="doc-biblioref" onclick="">n.d.</a>)</span></li>
+<li>Mood stabilizer effects not enhanced by anti-depressant, <span class="citation" data-cites="UnknownUnknown-ws"><span>“Systematic treatment enhancement program for bipolar disorder (<span>STEP</span>-<span>BD</span>)”</span> (<a href="#/references" role="doc-biblioref" onclick="">n.d.</a>)</span></li>
+</ul>
+</section>
+<section id="bipolar-and-schizophrenia-network-for-intermediate-phenotypes-bsnip-project" class="slide level2">
+<h2>Bipolar and Schizophrenia Network for Intermediate Phenotypes (<a href="http://b-snip.org/">BSNIP Project</a>)</h2>
+<blockquote>
+<p>Bipolar and schizophrenia network for intermediate phenotypes is a network of investigator-driven laboratories focused on developing phenotypes, genotypes, and biomarkers for psychosis. Over the last 5 years, the consortium has accomplished a dense phenotyping protocol using probands with a lifetime history of psychosis, their relatives, and healthy controls.</p>
+</blockquote>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>This has established a library of biomarker information on individuals with schizophrenia, schizoaffective disorder, and bipolar disorder with psychosis. The founding goal of establishing disease biomarkers for current psychotic diagnoses has been poorly met, because the cognitive, electrophysiologic, eye movement, and brain imaging biomarkers did not regularly discriminate individuals with different DSM psychosis diagnoses.</p>
+</blockquote>
+<p>– <a href="http://b-snip.org/">BSNIP Project</a></p>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>In (the) future, we will use this biomarker information to establish a pathway to biomarker-based classification in psychoses.</p>
+</blockquote>
+<p>– <a href="http://b-snip.org/">BSNIP Project</a></p>
+<ul>
+<li><a href="https://nda.nih.gov/edit_collection.html?id=2274">Data shared NIH Data Archive</a>.</li>
+</ul>
+</section>
+<section id="enigma-bd-working-group" class="slide level2">
+<h2><a href="https://enigma.ini.usc.edu/ongoing/enigma-bipolar-working-group/">ENIGMA BD working group</a></h2>
+
+<img data-src="https://onlinelibrary.wiley.com/cms/asset/3707c442-2507-4d6e-b544-80a91ed113fb/hbm25098-fig-0001-m.jpg" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Bi2022-ag">Bi, Che, &amp; Bai (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>. Figure 1. Major challenges facing neuroimaging studies of BD and how the ENIGMA BD Working Group meets these challenges</p></section>
+<section id="bp-summed-up" class="slide level2">
+<h2>BP summed-up</h2>
+<ul>
+<li>Changes in mood, but ≠ depression</li>
+<li>Genetic + environmental risk</li>
+<li>Changes in emotion processing network activity, size of hippocampus</li>
+<li>Heterogeneous</li>
+<li>No simple link to a specific NT system</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>From a neurobiological perspective there is no such thing as bipolar disorder. Rather, it is almost certainly the case that many somewhat similar, but subtly different, pathological conditions produce a disease state that we currently diagnose as bipolarity…</p>
+</blockquote>
+<p>– <span class="citation" data-cites="Maletic2014-oe">Maletic &amp; Raison (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span></p>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>This heterogeneity – reflected in the lack of synergy between our current diagnostic schema and our rapidly advancing scientific understanding of the condition – limits attempts to articulate an integrated perspective on bipolar disorder.</p>
+</blockquote>
+<p>– <span class="citation" data-cites="Maletic2014-oe">Maletic &amp; Raison (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span></p>
+</section></section>
+<section>
+<section id="schizophrenia-scz" class="title-slide slide level1 center">
+<h1>Schizophrenia (SCZ)</h1>
+
+</section>
+<section class="slide level2">
+
+<iframe data-external="1" src="https://www.youtube.com/embed/gGnl8dqEoPQ" width="100%" height="70%" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>– <span class="citation" data-cites="Neuroslicer2007-ev">Neuroslicer (<a href="#/references" role="doc-biblioref" onclick="">2007</a>)</span></p>
+</section>
+<section id="background-on-scz" class="slide level2">
+<h2>Background on SCZ</h2>
+<ul>
+<li>Lifetime prevalence ~ 0.3-0.7%
+<ul>
+<li>Broader definitions suggest 2-3 or 3-5%</li>
+</ul></li>
+<li>~1/3 chronic &amp; severe</li>
+<li>Onset post-puberty, early adulthood</li>
+</ul>
+</section>
+<section id="background-on-scz-1" class="slide level2">
+<h2>Background on SCZ</h2>
+<ul>
+<li>Males: Earlier onset &amp; greater severity</li>
+<li>Pervasive disturbance in mood, thinking, movement, action, memory, perception</li>
+<li>Increased (early) mortality</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<h3 id="positive-symptoms">“Positive” symptoms</h3>
+<ul>
+<li>“Additions” to behavior</li>
+<li>Disordered thought</li>
+<li>Delusions of grandeur, persecution</li>
+<li>Hallucinations (usually auditory)</li>
+<li>Bizarre behavior</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<h3 id="negative-symptoms">“Negative” symptoms</h3>
+<ul>
+<li>“Reductions” in behavior</li>
+<li>Poverty of speech</li>
+<li>Flat affect</li>
+<li>Social withdrawal</li>
+<li>Anhedonia (loss of pleasure)</li>
+<li>Catatonia (reduced movement)</li>
+</ul>
+</div></div>
+</section>
+<section id="cognitive-symptoms" class="slide level2">
+<h2>Cognitive symptoms</h2>
+<ul>
+<li>Memory</li>
+<li>Attention</li>
+<li>Planning, decision-making</li>
+<li>Social cognition</li>
+<li>Movement</li>
+</ul>
+</section>
+<section id="affective-symptoms" class="slide level2">
+<h2>Affective symptoms</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Depressive, manic states</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0140673609609958-gr2_lrg.jpg"></p>
+<figcaption><span class="citation" data-cites="Van_Os2009-be">Os &amp; Kapur (<a href="#/references" role="doc-biblioref" onclick="">2009</a>)</span>. Figure 2.</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="biological-bases" class="slide level2">
+<h2>Biological bases</h2>
+<ul>
+<li>Genetic predisposition</li>
+<li>Brain abnormalities</li>
+<li>Neurochemical factors</li>
+<li>Developmental origins</li>
+</ul>
+</section>
+<section id="genetic-predisposition" class="slide level2">
+<h2>Genetic predisposition</h2>
+<ul>
+<li>Heritability &gt;50%</li>
+</ul>
+
+<img data-src="../include/img/pettersson-fig-01.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Pettersson2019-io">Pettersson et al. (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span> Figure 1.</p></section>
+<section id="genetic-risk" class="slide level2">
+<h2>Genetic risk</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>But, no single gene…<span class="citation" data-cites="Johnson2017-bp">(<a href="#/references" role="doc-biblioref" onclick="">Johnson et al., 2017</a>)</span></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/johnson-etal-2017-schiz.jpg"></p>
+<figcaption><span class="citation" data-cites="Johnson2017-bp">Johnson et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure-3" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Ventricles larger, esp in males, []</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/schizophrenia-ventricles.jpg"></p>
+<figcaption><span class="citation" data-cites="Suddath1990-nn">Suddath, Christison, Torrey, Casanova, &amp; Weinberger (<a href="#/references" role="doc-biblioref" onclick="">1990</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="ventricle-size" class="slide level2">
+<h2>Ventricle size</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Increases across time</li>
+<li>Especially in the more impaired</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr2.gif"></p>
+<figcaption><span class="citation" data-cites="Davis1998-ki">Davis et al. (<a href="#/references" role="doc-biblioref" onclick="">1998</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0006322397005532-gr3.gif"></p>
+<figcaption><span class="citation" data-cites="Davis1998-ki">(<a href="#/references" role="doc-biblioref" onclick="">Davis et al., 1998</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr2_lrg.jpg"></p>
+<figcaption><span class="citation" data-cites="Kempton2010-ms">Kempton, Stahl, Williams, &amp; DeLisi (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brain-structure-4" class="slide level2">
+<h2>Brain structure</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Hippocampus, amygdala, thalamus, nucleus accumbens (NAc; ventral striatum) smaller</li>
+<li>Related to ventricular enlargement?</li>
+<li>Early disturbance in brain development?</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2015.63/MediaObjects/41380_2016_Article_BFmp201563_Fig1_HTML.jpg?as=webp"></p>
+<figcaption><span class="citation" data-cites="Van_Erp2015-ne">Erp et al. (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span>.</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="white-matter-disruption" class="slide level2">
+<h2>White matter disruption</h2>
+
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmp.2017.170/MediaObjects/41380_2018_Article_BFmp2017170_Fig1_HTML.jpg?as=webp" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Kelly2017-lj">Kelly et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></p></section>
+<section id="white-matter-loss-over-age" class="slide level2">
+<h2>White matter loss over age</h2>
+
+<img data-src="https://wol-prod-cdn.literatumonline.com/cms/attachment/66a4c18c-f522-4bb1-a0b0-ed949ac9afd1/hbm23336-fig-0002-m.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Kochunov2016-cu">Kochunov et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p></section>
+<section id="disruptions-heterogenous" class="slide level2">
+<h2>Disruptions heterogenous</h2>
+<blockquote>
+<p>Compared to the healthy comparison group, the schizophrenia group showed widespread reductions in FA and CT, involving virtually all white matter tracts and cortical regions. Paradoxically, however, no more than 15–20% of patients deviated from the normative range for any single tract or region…Thus, while infra-normal deviations were common among patients, their <strong>anatomical loci were highly inconsistent between individuals</strong>.</p>
+</blockquote>
+<p>– <span class="citation" data-cites="Lv2021-hu">Lv et al. (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+<!-- ## Disconnectivity in cortical networks -->
+<!-- ![@Uhlhaas2013-do](https://ars.els-cdn.com/content/image/1-s2.0-S0959438812001663-gr1.jpg) -->
+<!-- - But connectivity findings inconsistent [@Fornito2015-go](https://dx.doi.org/10.1016/j.conb.2014.08.006) -->
+<!-- - **Reduced structural** connectivity vs. -->
+<!--     - Synaptic, dendritic, axonal connections b/w regions -->
+<!--     - Usually measured via DTI or related diffusion-based MRI technique -->
+<!-- - **Increased functional** connectivity -->
+<!--     - BOLD, EEG, or MEG covariance -->
+<!--     - Task-free 'resting' state or task-based -->
+<!-- ![@Fornito2015-go. Figure 1. De-coupling of network structure and function in schizophrenia. (a) Shows an example of a brain-wide map of structural connectivity deficits in patients with schizophrenia, highlighting a relatively diffuse impairment that particularly affects fronto-posterior anatomical connectivity. In this whole-brain analysis, no increases of structural connectivity were found. Letters denote different regions (see below for key). (b) Illustrates frontal regions showing decreased and increased functional connectivity with seed regions in the dorsal (top) and ventral (bottom) caudate nucleus, respectively, in patients with schizophrenia (yellow, blue) and their unaffected, first-degree relatives (magenta, green). Thus, despite a fairly global impairment of structural connectivity (depicted in (a)), systems-specific increases in functional connectivity can be observed (b). (c,d) Brain-wide alterations of structural (c) and functional (d) connectivity in the same sample of patients with schizophrenia. Blue and green depict links where anatomical and functional connectivity, respectively, were reduced in patients; red depicts links where functional connectivity was increased in the patient group. (a) reproduced from [24•], (b) from [18•], and (c,d) from [23••] with permission. Regional abbreviations in (a) are as follow: A. Left Superior Frontal, B. Right Superior Frontal, C. Left Supplementary Motor Area, D. Left Superior Medial Frontal, E. Right Supplementary Motor Area, F. Right Superior Medial Frontal, G. Right Superior Parietal, H. Right Superior Occipital, I. Left Cuneus, J. Left Superior Occipital, K. Left Precuneus, L. Right Precuneus, M. Left Middle Temporal, N. Left Middle Occipital, O. Left Inferior Temporal, P. Left Fusiform, Q. Right Cuneus, R. Left Hippocampus, S. Left Middle Cingulum.](https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr1.jpg) -->
+<!-- - Global signal (cortical gray matter BOLD signal CGm) variations? -->
+<!-- ![@Yang2014-oq. Fig 1. Power and variance of CGm signal in SCZ and BD. (A) Power of CGm signal in 90 SCZ patients (red) relative to 90 HCS (black) (see SI Appendix, Table S1 for demographics). (B) Mean power across all frequencies before and after GSR indicating an increase in SCZ [F(1, 178) = 7.42, P < 0.01], and attenuation by GSR [F(1, 178) = 5.37, P < 0.025]. (C) CGm variance also showed increases in SCZ [F(1, 178) = 7.25, P < 0.01] and GSR-induced reduction in SCZ [F(1, 178) = 5.25, P < 0.025]. (D–F) Independent SCZ sample (see SI Appendix, Table S2 for demographics), confirming increased CGm power [F(1, 143) = 9.2, P < 0.01] and variance [F(1, 143) = 9.25, P < 0.01] effects, but also the attenuating impact of GSR on power [F(1, 143) = 7.75, P < 0.01] and variance [F(1, 143) = 8.1, P < 0.01]. (G–I) Results for BD patients (n = 73) relative to matched HCS (see SI Appendix, Table S3 for demographics) did not reveal GSR effects observed in SCZ samples [F(1, 127) = 2.89, P = 0.092, n.s.] and no evidence for increase in CGm power or variance. All effects remained when examining all gray matter voxels (SI Appendix, Fig. S1). Error bars mark ± 1 SEM. ***P < 0.001 level of significance. n.s., not significant.](https://www.pnas.org/cms/10.1073/pnas.1405289111/asset/6ca17e78-6e95-4fb2-a2b7-5087738893c1/assets/graphic/pnas.1405289111fig01.jpeg) -->
+<!-- ![@Yang2014-oq. Fig 2. Relationship between SCZ symptoms and CGm BOLD signal power. We extracted average CGm power for each patient with available symptom ratings (n = 153). (A) Significant positive relationship between CGm power and symptom ratings in SCZ (r = 0.18, P < 0.03), verified using Spearman’s ρ given somewhat nonnormally distributed data (ρ = 0.2, P < 0.015). (B and C) Results held across SCZ samples, increasing confidence in the effect (i.e., joint probability of independent effects P < 0.002, marked in blue boxes). All identified relationships held when examining Gm variance (SI Appendix, Fig. S4). Notably, all effects were no longer significant after GSR, suggesting GS carries clinically meaningful information. The shaded area marks the 95% confidence interval around the best-fit line.](https://www.pnas.org/cms/10.1073/pnas.1405289111/asset/f0650bcc-676c-46fb-8570-3daaf921bf79/assets/graphic/pnas.1405289111fig02.jpeg) -->
+<!-- - Disconnectivity b/w 'hubs' -> higher functional connectivity overall -->
+<!-- ![@Fornito2015-go](https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr2.jpg) -->
+<!-- ## Comparing neural measures -->
+<!-- ![Figure 2 from @Porter2023-qt. Sensitivity and specificity scores were derived using data from the classifier in each manuscript. All manuscripts were able to reliably differentiate participants with psychosis from healthy controls independent of neuroimaging type aside from [169]. The size of points is scaled according to sample size and modality of analysis is shown in various colors.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig2_HTML.png?as=webp) -->
+<!-- --- -->
+<!-- ![Figure 3 from @Porter2023-qt. Summary forest plot for log diagnostic odds ratio for all imaging modalities presented at the bottom of the plot. Multimodal: classification that used at least two of the following: rs-FC, T1, and/or DTI as features. RS-FC: resting state functional connectivity. DTI: diffusion tensor imaging. T1: T1 weighted imaging. The point size of squares and polygons are a function of the precision of the estimates.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig3_HTML.png) -->
+<!-- ![Figure 5 from @Porter2023-qt. Colors represent different imaging modalities; estimated summary receiver operating curves are shown overlaid for each of the imaging modalities with respective confidence interval regions surrounding mean sensitivity and specificity values. No significant differences were found for classification of internal datasets . When external datasets were used for classification, rs-FC studies (red) have a significant advantage in classification relative to T1 studies (blue).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig5_HTML.png?as=webp) -->
+<!-- >Interestingly, at present most modalities perform similarly in the classification of psychosis, with slight advantages for rs-FC relative to structural modalities in some specific cases. Notably, results differed substantially across studies, with suggestions of biased effect sizes, particularly highlighting the need for more studies using external prediction and large sample sizes. @Porter2023-qt -->
+</section>
+<section id="neurochemical-factors" class="slide level2">
+<h2>Neurochemical factors</h2>
+<ul>
+<li>Dopamine (DA) hypothesis</li>
+<li>Glutamate (Glu) hypothesis</li>
+</ul>
+</section>
+<section id="dopamine-da-hypothesis" class="slide level2">
+<h2>Dopamine (DA) hypothesis</h2>
+
+<img data-src="../include/img/mesolimbocortical-da.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="evidence-for" class="slide level2">
+<h2>Evidence for…</h2>
+<ul>
+<li>DA (<span class="math inline">\(D_2\)</span> receptor) antagonists (e.g.&nbsp;chlorpromazine)
+<ul>
+<li>improve positive symptoms</li>
+</ul></li>
+<li><em>Typical antipsychotics</em> are DA <span class="math inline">\(D_2\)</span> receptor antagonists</li>
+<li>DA agonists (amphetamine, cocaine, L-DOPA)
+<ul>
+<li>mimic or exacerbate symptoms</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-against" class="slide level2">
+<h2>Evidence against…</h2>
+<ul>
+<li>New, <em>atypical antipsychotics</em>
+<ul>
+<li>(e.g.&nbsp;Clozapine) INCREASE DA in frontal cortex, affect 5-HT</li>
+</ul></li>
+<li>Mixed evidence for high DA metabolite levels in CSF</li>
+<li>Some DA neurons may release 5-HT, cannabinoids, glutamate <a href="https://doi.org/https://dx.doi.org/10.1038/sj.bjp.0706328"><span class="citation" data-cites="Seutin2005-wx">Seutin (<span>2005</span>)</span></a></li>
+</ul>
+</section>
+<section id="glutamate-hypothesis" class="slide level2">
+<h2>Glutamate hypothesis</h2>
+<ul>
+<li><em>Psychomimetic</em> drugs can induce schizophrenia-like states
+<ul>
+<li>Phencyclidine (PCP)</li>
+<li>Ketamine</li>
+</ul></li>
+</ul>
+</section>
+<section id="ketamine" class="slide level2">
+<h2>Ketamine</h2>
+<ul>
+<li>dissociative (secondary) anesthetic</li>
+<li>side effects include hallucinations, blurred vision, delirium, floating sensations, vivid dreams</li>
+<li>Glutamate NMDA-R (receptor) antagonist</li>
+<li>Also binds to serotonin (<span class="math inline">\(5HT_{2a}\)</span>) opioid receptors</li>
+<li>May be dopamine <span class="math inline">\(D_2\)</span> receptor antagonist</li>
+</ul>
+</section>
+<section id="glutamate-hypothesis-1" class="slide level2">
+<h2>Glutamate hypothesis</h2>
+<ul>
+<li>Schizophrenia <span class="math inline">\(\rightarrow\)</span> <em>underactivation</em> of NMDA receptors?
+<ul>
+<li>NMDA-R role in learning, plasticity</li>
+</ul></li>
+<li>NMDA-R antagonists -&gt; neurodegeneration, excitotoxicity, &amp; apoptosis</li>
+<li>DA dysfunction in striatum coupled to cortical Glu + GABA levels</li>
+<li>Cortical disinhibition of striatum</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>The data show that the disorder <strong>(SCZ) is characterized by lower levels of glutamate, GABA and dopamine in the frontal cortex</strong>, and potentially other cortical regions; higher levels of glutamate in the basal ganglia and thalamus; and greater dopamine synthesis and release capacity in the basal ganglia relative to healthy individuals. Moreover, connections among some of these alterations indicate a key role for fronto-thalamo-striatal–midbrain circuits in the pathophysiology of the disorder.</p>
+</blockquote>
+<p>— <span class="citation" data-cites="Howes2023-vk">Howes, Bukala, &amp; Beck (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></p>
+</section>
+<section id="developmental-origins" class="slide level2">
+<h2>Developmental origins</h2>
+<ul>
+<li>Gray matter loss in adolescence</li>
+<li>Early life stress</li>
+</ul>
+</section>
+<section id="developmental-origins-1" class="slide level2">
+<h2>Developmental origins</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Rapid gray matter loss in adolescents</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/thompson-2001-F2.large.jpg"></p>
+<figcaption><span class="citation" data-cites="thompson_mapping_2001">Thompson et al. (<a href="#/references" role="doc-biblioref" onclick="">2001</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="early-life-stress" class="slide level2">
+<h2>Early life stress</h2>
+<ul>
+<li>2x greater odds for children in urban environments</li>
+<li>Higher risk among migrant populations, <span class="citation" data-cites="Cantor-Graae2005-ej">Cantor-Graae &amp; Selten (<a href="#/references" role="doc-biblioref" onclick="">2005</a>)</span></li>
+<li>Exposure to infection <em>in utero</em>, other birth complications</li>
+<li>Exposure to cannibis</li>
+<li>Paternal age &gt; 40</li>
+</ul>
+</section>
+<section id="early-life-stress-1" class="slide level2">
+<h2>Early life stress</h2>
+<ul>
+<li><span class="citation" data-cites="levine_transgenerational_2016">Levine, Levav, Pugachova, Yoffe, &amp; Becher (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span>
+<ul>
+<li>Children (N=51,233) of parents who born during Nazi era (1922-1945)</li>
+<li>Emigrated before (indirect exposure) or after (direct exposure) to Nazi era</li>
+<li>Children exposed to direct stress of Nazi era <em>in utero</em> or postnatally
+<ul>
+<li>Did <strong>not</strong> differ in rates of schizophrenia, but</li>
+<li>Had higher re-hospitalization rates</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="early-life-stress-2" class="slide level2">
+<h2>Early life stress</h2>
+<ul>
+<li>Danish cohort (<em>n</em>=1,141,447), <span class="citation" data-cites="debost_investigating_2015">Debost et al. (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span>
+<ul>
+<li>Exposure to early life stress
+<ul>
+<li><em>in utero</em> did <strong>not</strong> increase risk of schizophrenia, but</li>
+<li>stress during 0-2 years increased risk</li>
+</ul></li>
+<li>Increased risk associated with cortisol-related gene</li>
+</ul></li>
+</ul>
+</section>
+<section id="summing-up" class="slide level2">
+<h2>Summing up</h2>
+<ul>
+<li>Wide-ranging disturbance of mood, thought, action, perception</li>
+<li>Broad changes in brain structure, function, chemistry, development</li>
+<li>(Simplistic) dopamine hypothesis giving way to signalling network (DA + Glu + GABA) models</li>
+<li>Genetic (polygenic = multiple genes) risk + environmental factors</li>
+</ul>
+</section>
+<section class="slide level2">
+
+
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig4_HTML.png?as=webp" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Howes2023-vk">Howes et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span> Figure 4</p></section>
+<section class="slide level2">
+
+
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41582-023-00904-0/MediaObjects/41582_2023_904_Fig2_HTML.png?as=webp" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Howes2023-vk">Howes et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span> Figure 2</p></section>
+<section id="novel-therapies" class="slide level2">
+<h2>Novel therapies</h2>
+<ul>
+<li>Virtual Reality Assisted therapy <span class="citation" data-cites="Bisso2020-nq Dellazizzo2021-tk">(<a href="#/references" role="doc-biblioref" onclick="">Bisso et al., 2020</a>; <a href="#/references" role="doc-biblioref" onclick="">Dellazizzo, Potvin, Phraxayavong, &amp; Dumais, 2021</a>)</span></li>
+<li>Deep Neural Network used to identify functional brain signatures in a genetic disorder (<a href="https://www.mayoclinic.org/diseases-conditions/digeorge-syndrome/symptoms-causes/syc-20353543">DiGeorge syndrome</a>; 22q11.2 deletion syndrome) linked to psychotic symptoms <span class="citation" data-cites="Supekar2024-rq">(<a href="#/references" role="doc-biblioref" onclick="">Supekar et al., 2024</a>)</span></li>
+</ul>
+</section>
+<section id="the-future-of-psychiatric-research" class="slide level2">
+<h2>The future of psychiatric research</h2>
+<ul>
+<li>The <a href="https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml">Research Domain Criteria (RDoC) Project</a>
+<ul>
+<li>Negative valence, positive valence, cognitive systems, social processes, arousal/regulatory systems</li>
+</ul></li>
+<li><a href="https://www.ukbiobank.ac.uk/">U.K. Biobank</a></li>
+<li><a href="https://enigma.ini.usc.edu/">Enhancing Neuro Imaging Genetics through Meta Analysis (ENIGMA) Consortium</a></li>
+<li>Bipolar and Schizophrenia Network for Intermediate Phenotypes (<a href="http://b-snip.org/">BSNIP Project</a>) <span class="citation" data-cites="Tamminga2014-gn">(<a href="#/references" role="doc-biblioref" onclick="">Tamminga et al., 2014</a>)</span>. <a href="https://nda.nih.gov/edit_collection.html?id=2274">Data shared NIH Data Archive</a>.</li>
+</ul>
+</section></section>
+<section>
+<section id="wrap-up" class="title-slide slide level1 center">
+<h1>Wrap up</h1>
+
+</section>
+<section id="main-points" class="slide level2">
+<h2>Main points</h2>
+<ul>
+<li>BPD and SCZ distinct, but related</li>
+<li>Reduced brain volume, thickness, connectivity</li>
+<li>Mood stabilizers (e.g., Li) + psychotherapy often effective BPD treatments</li>
+<li>DA hypothesis of SCZ <span class="math inline">\(\rightarrow\)</span> glutamate hypothesis</li>
+</ul>
+</section>
+<section id="next-time" class="slide level2">
+<h2>Next time</h2>
+<ul>
+<li>No class on Tuesday, November 4, 2025. Election Day</li>
+<li>Thursday, November 6, 2025
+<ul>
+<li>Emotion</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="resources" class="title-slide slide level1 center">
+<h1>Resources</h1>
+
+</section>
+<section id="about" class="slide level2">
+<h2>About</h2>
+<p>This talk was produced using <a href="https://quarto.org">Quarto</a>, using the <a href="https://posit.co/products/open-source/rstudio/">RStudio</a> Integrated Development Environment (IDE), version <code>r Sys.getenv("RSTUDIO_VER")</code>.</p>
+<p>The source files are in R and R Markdown, then rendered to HTML using the <a href="https://revealjs.com">revealJS</a> framework. The HTML slides are hosted in a <a href="https://github.com/psu-psychology/psych-260-2025-fall">GitHub repo</a> and served by GitHub pages: <a href="https://psu-psychology.github.io/psych-260-2025-fall/" class="uri">https://psu-psychology.github.io/psych-260-2025-fall/</a></p>
+</section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-baldessarini_suicide_2006" class="csl-entry" role="listitem">
+Baldessarini, R. J., Pompili, M., &amp; Tondo, L. (2006). Suicide in <span>Bipolar</span> <span>Disorder</span>: <span>Risks</span> and <span>Management</span>. <em>CNS Spectrums</em>, <em>11</em>(06), 465–471. <a href="https://doi.org/10.1017/S1092852900014681">https://doi.org/10.1017/S1092852900014681</a>
+</div>
+<div id="ref-Bi2022-ag" class="csl-entry" role="listitem">
+Bi, B., Che, D., &amp; Bai, Y. (2022). Neural network of bipolar disorder: Toward integration of neuroimaging and neurocircuit-based treatment strategies. <em>Translational Psychiatry</em>, <em>12</em>(1), 143. <a href="https://doi.org/10.1038/s41398-022-01917-x">https://doi.org/10.1038/s41398-022-01917-x</a>
+</div>
+<div id="ref-Bisso2020-nq" class="csl-entry" role="listitem">
+Bisso, E., Signorelli, M. S., Milazzo, M., Maglia, M., Polosa, R., Aguglia, E., &amp; Caponnetto, P. (2020). Immersive virtual reality applications in schizophrenia spectrum therapy: A systematic review. <em>International Journal of Environmental Research and Public Health</em>, <em>17</em>(17). <a href="https://doi.org/10.3390/ijerph17176111">https://doi.org/10.3390/ijerph17176111</a>
+</div>
+<div id="ref-Bourque2024-rw" class="csl-entry" role="listitem">
+Bourque, V.-R., Poulain, C., Proulx, C., Moreau, C. A., Joober, R., Forgeot d’Arc, B., … Jacquemont, S. (2024). Genetic and phenotypic similarity across major psychiatric disorders: A systematic review and quantitative assessment. <em>Translational Psychiatry</em>, <em>14</em>, 171. <a href="https://doi.org/10.1038/s41398-024-02866-3">https://doi.org/10.1038/s41398-024-02866-3</a>
+</div>
+<div id="ref-Cantor-Graae2005-ej" class="csl-entry" role="listitem">
+Cantor-Graae, E., &amp; Selten, J.-P. (2005). Schizophrenia and migration: A meta-analysis and review. <em>The American Journal of Psychiatry</em>, <em>162</em>(1), 12–24. <a href="https://doi.org/10.1176/appi.ajp.162.1.12">https://doi.org/10.1176/appi.ajp.162.1.12</a>
+</div>
+<div id="ref-Ching2022-of" class="csl-entry" role="listitem">
+Ching, C. R. K., Hibar, D. P., Gurholt, T. P., Nunes, A., Thomopoulos, S. I., Abé, C., … ENIGMA Bipolar Disorder Working Group. (2022). What we learn about bipolar disorder from large-scale neuroimaging: Findings and future directions from the <span>ENIGMA</span> bipolar disorder working group. <em>Human Brain Mapping</em>, <em>43</em>(1), 56–82. <a href="https://doi.org/10.1002/hbm.25098">https://doi.org/10.1002/hbm.25098</a>
+</div>
+<div id="ref-craddock_genetics_2013" class="csl-entry" role="listitem">
+Craddock, N., &amp; Sklar, P. (2013). Genetics of bipolar disorder. <em>The Lancet</em>, <em>381</em>(9878), 1654–1662. <a href="https://doi.org/10.1016/S0140-6736(13)60855-7">https://doi.org/10.1016/S0140-6736(13)60855-7</a>
+</div>
+<div id="ref-Cross-Disorder_Group_of_the_Psychiatric_Genomics_Consortium2013-ms" class="csl-entry" role="listitem">
+Cross-Disorder Group of the Psychiatric Genomics Consortium. (2013). Identification of risk loci with shared effects on five major psychiatric disorders: A genome-wide analysis. <em>The Lancet</em>, <em>381</em>(9875), 1371–1379. <a href="https://doi.org/10.1016/S0140-6736(12)62129-1">https://doi.org/10.1016/S0140-6736(12)62129-1</a>
+</div>
+<div id="ref-Davis1998-ki" class="csl-entry" role="listitem">
+Davis, K. L., Buchsbaum, M. S., Shihabuddin, L., Spiegel-Cohen, J., Metzger, M., Frecska, E., … Powchik, P. (1998). Ventricular enlargement in poor-outcome schizophrenia. <em>Biological Psychiatry</em>, <em>43</em>(11), 783–793. <a href="https://doi.org/10.1016/s0006-3223(97)00553-2">https://doi.org/10.1016/s0006-3223(97)00553-2</a>
+</div>
+<div id="ref-debost_investigating_2015" class="csl-entry" role="listitem">
+Debost, J.-C., Petersen, L., Grove, J., Hedemand, A., Khashan, A., Henriksen, T., … Mortensen, P. B. (2015). Investigating interactions between early life stress and two single nucleotide polymorphisms in <span>HSD</span>11B2 on the risk of schizophrenia. <em>Psychoneuroendocrinology</em>, <em>60</em>, 18–27. <a href="https://doi.org/10.1016/j.psyneuen.2015.05.013">https://doi.org/10.1016/j.psyneuen.2015.05.013</a>
+</div>
+<div id="ref-Dellazizzo2021-tk" class="csl-entry" role="listitem">
+Dellazizzo, L., Potvin, S., Phraxayavong, K., &amp; Dumais, A. (2021). One-year randomized trial comparing virtual reality-assisted therapy to cognitive-behavioral therapy for patients with treatment-resistant schizophrenia. <em>NPJ Schizophrenia</em>, <em>7</em>(1), 9. <a href="https://doi.org/10.1038/s41537-021-00139-2">https://doi.org/10.1038/s41537-021-00139-2</a>
+</div>
+<div id="ref-Van_Erp2015-ne" class="csl-entry" role="listitem">
+Erp, T. G. M. van, Hibar, D. P., Rasmussen, J. M., Glahn, D. C., Pearlson, G. D., Andreassen, O. A., … Turner, J. A. (2015). Subcortical brain volume abnormalities in 2028 individuals with schizophrenia and 2540 healthy controls via the <span>ENIGMA</span> consortium. <em>Mol. Psychiatry</em>. <a href="https://doi.org/10.1038/mp.2015.63">https://doi.org/10.1038/mp.2015.63</a>
+</div>
+<div id="ref-Gitlin2018-uu" class="csl-entry" role="listitem">
+Gitlin, M. J. (2018). Antidepressants in bipolar depression: An enduring controversy. <em>International Journal of Bipolar Disorders</em>, <em>6</em>(1), 25. <a href="https://doi.org/10.1186/s40345-018-0133-9">https://doi.org/10.1186/s40345-018-0133-9</a>
+</div>
+<div id="ref-Howes2023-vk" class="csl-entry" role="listitem">
+Howes, O. D., Bukala, B. R., &amp; Beck, K. (2023). Schizophrenia: From neurochemistry to circuits, symptoms and treatments. <em>Nature Reviews. Neurology</em>. <a href="https://doi.org/10.1038/s41582-023-00904-0">https://doi.org/10.1038/s41582-023-00904-0</a>
+</div>
+<div id="ref-Johnson2017-bp" class="csl-entry" role="listitem">
+Johnson, E. C., Border, R., Melroy-Greif, W. E., Leeuw, C. A. de, Ehringer, M. A., &amp; Keller, M. C. (2017). No evidence that schizophrenia candidate genes are more associated with schizophrenia than noncandidate genes. <em>Biol. Psychiatry</em>, <em>82</em>(10), 702–708. <a href="https://doi.org/10.1016/j.biopsych.2017.06.033">https://doi.org/10.1016/j.biopsych.2017.06.033</a>
+</div>
+<div id="ref-Kelly2017-lj" class="csl-entry" role="listitem">
+Kelly, S., Jahanshad, N., Zalesky, A., Kochunov, P., Agartz, I., Alloza, C., … Donohoe, G. (2017). Widespread white matter microstructural differences in schizophrenia across 4322 individuals: Results from the <span>ENIGMA</span> schizophrenia <span>DTI</span> working group. <em>Mol. Psychiatry</em>. <a href="https://doi.org/10.1038/mp.2017.170">https://doi.org/10.1038/mp.2017.170</a>
+</div>
+<div id="ref-Kempton2010-ms" class="csl-entry" role="listitem">
+Kempton, M. J., Stahl, D., Williams, S. C. R., &amp; DeLisi, L. E. (2010). Progressive lateral ventricular enlargement in schizophrenia: A meta-analysis of longitudinal <span>MRI</span> studies. <em>Schizophr. Res.</em>, <em>120</em>(1-3), 54–62. <a href="https://doi.org/10.1016/j.schres.2010.03.036">https://doi.org/10.1016/j.schres.2010.03.036</a>
+</div>
+<div id="ref-Kochunov2016-cu" class="csl-entry" role="listitem">
+Kochunov, P., Ganjgahi, H., Winkler, A., Kelly, S., Shukla, D. K., Du, X., … Hong, L. E. (2016). Heterochronicity of white matter development and aging explains regional patient control differences in schizophrenia. <em>Hum. Brain Mapp.</em>, <em>37</em>(12), 4673–4688. <a href="https://doi.org/10.1002/hbm.23336">https://doi.org/10.1002/hbm.23336</a>
+</div>
+<div id="ref-levine_transgenerational_2016" class="csl-entry" role="listitem">
+Levine, S. Z., Levav, I., Pugachova, I., Yoffe, R., &amp; Becher, Y. (2016). Transgenerational effects of genocide exposure on the risk and course of schizophrenia: <span>A</span> population-based study. <em>Schizophrenia Research</em>, <em>176</em>(2), 540–545. <a href="https://doi.org/10.1016/j.schres.2016.06.019">https://doi.org/10.1016/j.schres.2016.06.019</a>
+</div>
+<div id="ref-Lv2021-hu" class="csl-entry" role="listitem">
+Lv, J., Di Biase, M., Cash, R. F. H., Cocchi, L., Cropley, V. L., Klauser, P., … Zalesky, A. (2021). Individual deviations from normative models of brain structure in a large cross-sectional schizophrenia cohort. <em>Molecular Psychiatry</em>, <em>26</em>(7), 3512–3523. <a href="https://doi.org/10.1038/s41380-020-00882-5">https://doi.org/10.1038/s41380-020-00882-5</a>
+</div>
+<div id="ref-Magioncalda2022-ic" class="csl-entry" role="listitem">
+Magioncalda, P., &amp; Martino, M. (2022). A unified model of the pathophysiology of bipolar disorder. <em>Molecular Psychiatry</em>, <em>27</em>(1), 202–211. <a href="https://doi.org/10.1038/s41380-021-01091-4">https://doi.org/10.1038/s41380-021-01091-4</a>
+</div>
+<div id="ref-Maletic2014-oe" class="csl-entry" role="listitem">
+Maletic, V., &amp; Raison, C. (2014). Integrated neurobiology of bipolar disorder. <em>Frontiers in Psychiatry / Frontiers Research Foundation</em>, <em>5</em>, 98. <a href="https://doi.org/10.3389/fpsyt.2014.00098">https://doi.org/10.3389/fpsyt.2014.00098</a>
+</div>
+<div id="ref-malhi_potential_2013" class="csl-entry" role="listitem">
+Malhi, G. S., Tanious, M., Das, P., Coulston, C. M., &amp; Berk, M. (2013). Potential <span>Mechanisms</span> of <span>Action</span> of <span>Lithium</span> in <span>Bipolar</span> <span>Disorder</span>. <em>CNS Drugs</em>, <em>27</em>(2), 135–153. <a href="https://doi.org/10.1007/s40263-013-0039-0">https://doi.org/10.1007/s40263-013-0039-0</a>
+</div>
+<div id="ref-Merikangas2007-hu" class="csl-entry" role="listitem">
+Merikangas, K. R., Akiskal, H. S., Angst, J., Greenberg, P. E., Hirschfeld, R. M. A., Petukhova, M., &amp; Kessler, R. C. (2007). Lifetime and 12-month prevalence of bipolar spectrum disorder in the national comorbidity survey replication. <em>Archives of General Psychiatry</em>, <em>64</em>(5), 543–552. <a href="https://doi.org/10.1001/archpsyc.64.5.543">https://doi.org/10.1001/archpsyc.64.5.543</a>
+</div>
+<div id="ref-Neuroslicer2007-ev" class="csl-entry" role="listitem">
+Neuroslicer. (2007). <em>Schizophrenia: Gerald, part 1</em>. You<span>T</span>ube. Retrieved from <a href="https://www.youtube.com/watch?v=gGnl8dqEoPQ">https://www.youtube.com/watch?v=gGnl8dqEoPQ</a>
+</div>
+<div id="ref-Van_Os2009-be" class="csl-entry" role="listitem">
+Os, J. van, &amp; Kapur, S. (2009). Schizophrenia. <em>The Lancet</em>, <em>374</em>(9690), 635–645. <a href="https://doi.org/10.1016/S0140-6736(09)60995-8">https://doi.org/10.1016/S0140-6736(09)60995-8</a>
+</div>
+<div id="ref-Pettersson2019-io" class="csl-entry" role="listitem">
+Pettersson, E., Lichtenstein, P., Larsson, H., Song, J., Attention Deficit/Hyperactivity Disorder Working Group of the iPSYCH-Broad-PGC Consortium, Autism Spectrum Disorder Working Group of the iPSYCH-Broad-PGC Consortium, Bipolar Disorder Working Group of the PGC, Eating Disorder Working Group of the PGC, Major Depressive Disorder Working Group of the PGC, Obsessive Compulsive Disorders and Tourette Syndrome Working Group of the PGC, Schizophrenia CLOZUK, Substance Use Disorder Working Group of the PGC, Agrawal, A., … Polderman, T. J. C. (2019). Genetic influences on eight psychiatric disorders based on family data of 4 408 646 full and half-siblings, and genetic data of 333 748 cases and controls. <em>Psychological Medicine</em>, <em>49</em>, 1166–1173. <a href="https://doi.org/10.1017/S0033291718002039">https://doi.org/10.1017/S0033291718002039</a>
+</div>
+<div id="ref-Seutin2005-wx" class="csl-entry" role="listitem">
+Seutin, V. (2005). Dopaminergic neurones: Much more than dopamine? <em>Br. J. Pharmacol.</em>, <em>146</em>(2), 167–169. <a href="https://doi.org/10.1038/sj.bjp.0706328">https://doi.org/10.1038/sj.bjp.0706328</a>
+</div>
+<div id="ref-Sidor2012-ki" class="csl-entry" role="listitem">
+Sidor, M. M., &amp; MacQueen, G. M. (2012). An update on antidepressant use in bipolar depression. <em>Current Psychiatry Reports</em>, <em>14</em>(6), 696–704. <a href="https://doi.org/10.1007/s11920-012-0323-6">https://doi.org/10.1007/s11920-012-0323-6</a>
+</div>
+<div id="ref-Suddath1990-nn" class="csl-entry" role="listitem">
+Suddath, R. L., Christison, G. W., Torrey, E. F., Casanova, M. F., &amp; Weinberger, D. R. (1990). Anatomical abnormalities in the brains of monozygotic twins discordant for schizophrenia. <em>The New England Journal of Medicine</em>, <em>322</em>(12), 789–794. <a href="https://doi.org/10.1056/NEJM199003223221201">https://doi.org/10.1056/NEJM199003223221201</a>
+</div>
+<div id="ref-Supekar2024-rq" class="csl-entry" role="listitem">
+Supekar, K., Los Angeles, C. de, Ryali, S., Kushan, L., Schleifer, C., Repetto, G., … Menon, V. (2024). Robust and replicable functional brain signatures of 22q11.2 deletion syndrome and associated psychosis: <span>A</span> deep neural network-based multi-cohort study. <em>Molecular <span>P</span>sychiatry</em>. <a href="https://doi.org/10.1038/s41380-024-02495-8">https://doi.org/10.1038/s41380-024-02495-8</a>
+</div>
+<div id="ref-UnknownUnknown-ws" class="csl-entry" role="listitem">
+Systematic treatment enhancement program for bipolar disorder (<span>STEP</span>-<span>BD</span>). (n.d.). Retrieved October 28, 2025, from <a href="https://www.nimh.nih.gov/funding/clinical-research/practical/step-bd">https://www.nimh.nih.gov/funding/clinical-research/practical/step-bd</a>
+</div>
+<div id="ref-Tamminga2014-gn" class="csl-entry" role="listitem">
+Tamminga, C. A., Pearlson, G., Keshavan, M., Sweeney, J., Clementz, B., &amp; Thaker, G. (2014). Bipolar and schizophrenia network for intermediate phenotypes: Outcomes across the psychosis continuum. <em>Schizophrenia Bulletin</em>, <em>40 Suppl 2</em>(Suppl 2), S131–7. <a href="https://doi.org/10.1093/schbul/sbt179">https://doi.org/10.1093/schbul/sbt179</a>
+</div>
+<div id="ref-thompson_mapping_2001" class="csl-entry" role="listitem">
+Thompson, P. M., Vidal, C., Giedd, J. N., Gochman, P., Blumenthal, J., Nicolson, R., … Rapoport, J. L. (2001). Mapping adolescent brain change reveals dynamic wave of accelerated gray matter loss in very early-onset schizophrenia. <em>Proceedings of the National Academy of Sciences</em>, <em>98</em>(20), 11650–11655. <a href="https://doi.org/10.1073/pnas.201243998">https://doi.org/10.1073/pnas.201243998</a>
+</div>
+<div id="ref-Trailers2013-bg" class="csl-entry" role="listitem">
+Trailers, R. T. C. (2013). <em>A beautiful mind (2001) official trailer - russell crowe movie <span>HD</span></em>. You<span>T</span>ube. Retrieved from <a href="https://www.youtube.com/watch?v=YWwAOutgWBQ">https://www.youtube.com/watch?v=YWwAOutgWBQ</a>
+</div>
+</div>
 </section></section>
     </div>
-  </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p><a href="https://psu-psychology.github.io/psych-260-2025-fall">PSYCH 260.001</a> | © Rick Gilmore under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+</div>
+</div></div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../include/site_libs/revealjs/dist/reveal.js"></script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="../include/site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="../include/site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../include/site_libs/revealjs/plugin/math/math.js"></script>
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>

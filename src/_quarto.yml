@@ -4,7 +4,7 @@ project:
   render:
     - "slides/*.qmd"
     - "*.qmd"
-  lib-dir: include/site_libs
+  lib-dir: site_libs
   
 # execute:
 #   freeze: auto
@@ -54,6 +54,8 @@ website:
             href: slides/wk-09-2025-10-21-exam-rev.qmd
           - text: "Wk 10 • Tue Oct 28"
             href: slides/wk-10-2025-10-28-psychopathology-I.qmd
+          - text: "Wk 10 • Thu Oct 30"
+            href: slides/wk-10-2025-10-30-psychopathology-II.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src

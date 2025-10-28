@@ -196,12 +196,15 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[10]`*
 
+- *Read*: MM pp 106-108, 412-405
 - *Slides*:  | [html](slides/wk-10-2025-10-28-psychopathology-I.qmd) |
-
 
 ### `{r} prettify_date(sched_df$class_day_2[10])` {-}
 
 *`{r} sched_df$class_2_theme[10]`*
+
+- *Read*: MM pp 106-108, 386-394
+- *Slides*:  | [html](slides/wk-10-2025-10-30-psychopathology-II.qmd) |
 
 ## `{r} sched_df$week[11]` {- #week-11}
 
@@ -212,6 +215,8 @@ That said, you may find it interesting to learn and know about anyway.
 ### `{r} prettify_date(sched_df$class_day_2[11])` {-}
 
 *`{r} sched_df$class_2_theme[11]`*
+
+- *Read*: MM pp 356-369
 
 ## `{r} sched_df$week[12]` {- #week-12}
 
