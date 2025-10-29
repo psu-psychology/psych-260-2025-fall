@@ -154,7 +154,7 @@ engine: knitr
 - Reserpine [@Wikipedia-contributors2025-ov]
   - reduces blood pressure
   - NE antagonist
-  - Early (1950s-60s) use as anti-psychotic
+  - Early (1950s-60s) use as anti-psychotic drug to treat schizophrenia
   - Once thought to induce depressive symptoms, but see [@Baumeister2003-cw]
 
 # Treatments

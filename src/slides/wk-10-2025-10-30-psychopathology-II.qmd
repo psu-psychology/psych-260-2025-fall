@@ -20,7 +20,49 @@ fig-align: "center"
 - Bipolar disorder
 - Schizophrenia
 
-## Warm-up
+# Warm-up
+
+## For most psychiatric disorders, diagnostic tests involve behavior not biological measures. True or False?
+
+- True
+- False
+
+## For most psychiatric disorders, diagnostic tests involve behavior not biological measures. True or False?
+
+- **True**
+- ~~False~~
+
+## The monoamine hypothesis of depression claims that monoamine levels are ________ in people with major depressive disorder (MDD).
+
+::: {.incremental}
+- A. elevated
+- B. reduced
+- C. variable
+- D. normal
+:::
+
+## The monoamine hypothesis of depression claims that monoamine levels are ________ in people with major depressive disorder (MDD).
+
+- ~~A. elevated~~
+- **B. reduced**
+- ~~C. variable~~
+- ~~D. normal~~
+
+## The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because...
+
+::: {.incremental}
+- A. Drugs that upregulate monoamines take weeks to work.
+- B. Ketamine affects glutamate NMDA receptors.
+- C. SSRIs are selective for norepinephrine.
+- D. Both A. and B.
+:::
+
+## The fast-acting effect of ketamine on MDD undermines the monoamine hypothesis of depression because...
+
+- A. Drugs that upregulate monoamines take weeks to work.
+- B. Ketamine affects glutamate NMDA receptors.
+- ~~C. SSRIs are selective for norepinephrine.~~
+- **D. Both A. and B.**
 
 # Bipolar disorder (BPD)
 
@@ -44,7 +86,6 @@ fig-align: "center"
 :::
 ::::
 
-
 ## Background on BPD
 
 - 1-3% lifetime prevalence, subthreshold affects another ~2% [@Merikangas2007-hu](Merikangas2007-hu)
@@ -64,7 +105,7 @@ fig-align: "center"
 
 ## Genetics of BPD
 
-- 40-70% concordance (or higher in some samples)
+- 40-70% concordance (higher in some samples)
 - Polygenic (many risk alleles)
 - Overlap between bipolar disorder and schizophrenia, @craddock_genetics_2013
 
@@ -72,19 +113,20 @@ fig-align: "center"
 
 ![@Pettersson2019-io Figure 1.](../include/img/pettersson-fig-01.png)
 
-## Genetics of BPD
+<!-- ## Genetics of BPD -->
 
-- Genes for voltage-gated Ca++ channels
-  + Regulate NT, hormone release
-  + Gene expression, cell metabolism
-- @craddock_genetics_2013; @Cross-Disorder_Group_of_the_Psychiatric_Genomics_Consortium2013-ms
+<!-- - Genes for voltage-gated Ca++ channels -->
+<!--   + Regulate NT, hormone release -->
+<!--   + Gene expression, cell metabolism -->
+<!-- - @craddock_genetics_2013; @Cross-Disorder_Group_of_the_Psychiatric_Genomics_Consortium2013-ms -->
 
 ## Brain activation changes
 
 :::: {.columns}
 ::: {.column width=50%}
-- Areas linked to cognitive control $\downarrow$
-- emotion regulation $\uparrow$
+- Areas linked to...
+  - cognitive control $\downarrow$
+  - emotion regulation $\uparrow$
 :::
 ::: {.column width=50%}
 ![@Maletic2014-oe. Figure 2.](https://www.frontiersin.org/files/Articles/89757/fpsyt-05-00098-HTML/image_m/fpsyt-05-00098-g002.jpg)
@@ -107,8 +149,8 @@ fig-align: "center"
 
 ![@Ching2022-of Figure 5. ](../include/img/ching-2022-fig-05.png)
 
-- Thinner cerebral cortex
-  - BPD vs. healthy controls (a).
+- Cerebral cortex thinner
+  - BPD vs. healthy controls (a)
   - BPD on anti-convulsant (c)
 - But, *thicker* for BPD on Li (b)
 
@@ -175,7 +217,7 @@ fig-align: "center"
 ## [Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)](https://www.nimh.nih.gov/funding/clinical-research/practical/step-bd) cohort 
 
 - $n=1,469$
-- Intensive Psychosocial treatments effective for 64% of trial participants, @UnknownUnknown-ws
+- Intensive psychosocial treatments (e.g., psychotherapy) effective for 64% of trial participants, @UnknownUnknown-ws
 + Mood stabilizer effects not enhanced by anti-depressant, @UnknownUnknown-ws
 
 ## Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP Project](http://b-snip.org/))
@@ -204,7 +246,7 @@ fig-align: "center"
 
 - Changes in mood, but ≠ depression
 - Genetic + environmental risk
-- Changes in emotion processing network activity, size of hippocampus
+- Changes in emotion processing, cognition, size of hippocampus
 - Heterogeneous
 - No simple link to a specific NT system
 
@@ -312,7 +354,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- Ventricles larger, esp in males, []
+- Ventricles larger, esp in males
 :::
 ::: {.column width=50%}
 ![@Suddath1990-nn](../include/img/schizophrenia-ventricles.jpg)
@@ -433,14 +475,14 @@ fig-align: "center"
 ## Glutamate hypothesis
 
 - *Psychomimetic* drugs can induce schizophrenia-like states
-    + Phencyclidine (PCP)
-    + Ketamine
+  + Phencyclidine (PCP)
+  + Ketamine
     
 ## Ketamine
 
 - dissociative (secondary) anesthetic
 - side effects include hallucinations, blurred vision, delirium, floating sensations, vivid dreams
-- Glutamate NMDA-R (receptor) antagonist
+- Primarily a glutamate NMDA-R (receptor) antagonist
 - Also binds to serotonin ($5HT_{2a}$) opioid receptors
 - May be dopamine $D_2$ receptor antagonist
   
@@ -449,8 +491,6 @@ fig-align: "center"
 - Schizophrenia $\rightarrow$ *underactivation* of NMDA receptors?
   - NMDA-R role in learning, plasticity
 - NMDA-R antagonists -> neurodegeneration, excitotoxicity, & apoptosis
-- DA dysfunction in striatum coupled to cortical Glu + GABA levels
-- Cortical disinhibition of striatum
 
 ---
 
@@ -531,7 +571,7 @@ fig-align: "center"
 
 ## Main points
 
-- BPD and SCZ distinct, but related
+- BPD and SCZ separable, but related
 - Reduced brain volume, thickness, connectivity
 - Mood stabilizers (e.g., Li) + psychotherapy often effective BPD treatments
 - DA hypothesis of SCZ $\rightarrow$ glutamate hypothesis
