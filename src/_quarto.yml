@@ -56,6 +56,8 @@ website:
             href: slides/wk-10-2025-10-28-psychopathology-I.qmd
           - text: "Wk 10 • Thu Oct 30"
             href: slides/wk-10-2025-10-30-psychopathology-II.qmd
+          - text: "Wk 11 • Thu Nov 6"
+            href: slides/wk-11-2025-11-06-emotion-I.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src

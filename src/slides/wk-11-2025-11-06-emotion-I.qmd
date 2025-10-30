@@ -1,0 +1,203 @@
+---
+title: "Emotion I"
+subtitle: 2025-11-06
+fig-align: "center"
+---
+
+# Prelude
+
+## Announcements
+
+- Quiz 3 moved to Tuesday, November 11, 2025
+
+## Today's topics
+
+- Warm up
+- The biology of emotion
+- Pleasure & reward
+
+# Warm up
+
+---
+
+### Question about BPD
+
+---
+
+### Question about SCZ
+
+# The biology of emotion
+
+## Big questions
+
+- What is emotion?
+- What causes emotion?
+- What functions do emotions serve?
+- Where do emotions arise?
+
+## What is emotion? {-}
+
+::: {.incremental}
+- Feelings
+- Physiological states
+- Actions
+:::
+
+## Feeling emotion
+
+![@Nummenmaa2014-ub. The emBODY tool. Participants colored the initially blank body regions (A) whose activity they felt increasing (left body) and decreasing (right body) during emotions. Subjectwise activation–deactivation data (B) were stored as integers, with the whole body being represented by 50,364 data points. Activation and deactivation maps were subsequently combined (C) for statistical analysis.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/dcc3da97-2288-4f1c-a175-cad39b111aab/assets/graphic/pnas.1321664111fig01.jpeg)
+
+---
+
+![@Nummenmaa2014-ub. Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. (P < 0.05 FDR corrected; t > 1.94). The colorbar indicates the t-statistic range.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/3263030e-acb8-4654-9064-b18db4a3a146/assets/graphic/pnas.1321664111fig02.jpeg)
+
+## Physiological states
+
+>The classical view of emotion hypothesizes that certain emotion categories have a specific autonomic nervous system (ANS) “fingerprint” that is distinct from other categories... 
+
+-- @Siegel2018-ab
+
+## Physiological states
+
+:::: {.columns}
+::: {.column width=50%}
+- What ANS measures are part of the fingerprint?
+:::
+::: {.column width=50%}
+![@Siegel2018-ab Table 9.](../include/img/siegle-2018-tbl-09.png){fig-align="right"}
+:::
+::::
+
+## Physiological states
+
+![@Siegel2018-ab Figure 6.](../include/img/siegel-2018-fig-06a.png)
+
+---
+
+![@Siegel2018-ab Figure 6.](../include/img/siegel-2018-fig-06b.png)
+
+---
+
+![@Siegel2018-ab Figure 6.](../include/img/siegel-2018-fig-06c.png)
+
+## Physiological states
+
+>...**there is no 1-to-1 mapping between an emotion category and a specific autonomic nervous system response pattern**. In addition, we observed substantial variability in autonomic nervous system changes during instances of the same emotion category that was not accounted for by experimental moderators (such as the way the emotion was induced). 
+
+-- @Siegel2018-ab
+
+## Physiological states
+
+>These findings suggest that **autonomic nervous system changes during emotion are less like a bodily fingerprint and more like a population of variable, context sensitive instances**. 
+
+-- @Siegel2018-ab
+
+## Emotion in action
+
+```{r, out.width="100%", fig.cap="https://www.biomotionlab.ca/html5-bml-walker"}
+knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px")
+```
+
+## What causes emotion?
+
+>Do we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience.
+
+-- @Harrison2010-nx
+
+## Competing views on causes
+
+- James-Lange
+    - Physiological response -> subjective feelings
+- Cannon-Bard
+    - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
+    - Physiological states slow, don't differentiate among emotions
+    
+## Competing views on causes
+
+- Schacter-Singer
+    - Physiological arousal + cognitive appraisal -> emotional states
+
+---
+
+### What functions do emotions serve?
+
+:::: {.columns}
+::: {.column width=50%}
+- Vary in <span class="blue">valence</span>
+    + Positive/negative
+- Vary in <span class="blue">intensity</span> (arousal)
+:::
+::: {.column width=50%}
+![Wikipedia based on @plutchik1980emotion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Circumplex_model_of_emotion.svg/500px-Circumplex_model_of_emotion.svg.png)
+:::
+::::
+
+---
+
+### What functions do emotions serve?
+
+:::: {.columns}
+::: {.column width=50%}
+- Vary in <span class="blue">action tendency</span>
+    + Approach/avoid
+- Biological goals
+  - Ingestion (hunting/foraging)
+  - Defense (fight/freeze/flee)
+  - Reproduction
+  - Affiliation
+:::
+::: {.column width=50%}
+![Wikipedia based on @plutchik1980emotion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Circumplex_model_of_emotion.svg/500px-Circumplex_model_of_emotion.svg.png)
+:::
+::::
+
+## *Where* do emotions arise?
+
+![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg)
+
+Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue)
+
+## *Where* do emotions arise?
+
+![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg)
+
+## *Where* do emotions arise?
+
+>A psychological **constructionist account** of emotion assumes that **emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion**. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter).
+
+--- @Lindquist2012-jr
+
+## *Where* do emotions arise?
+
+> ...**emotions emerge when people make meaning out of sensory input from the body and from the world** using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf. Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation.
+
+--- @Lindquist2012-jr
+
+## Interim summary
+
+- Emotions have distinguishable patterns of subjective feeling, external actions
+- Emotions do not have distinct ANS response patterns
+- Emotions do not have distinct brain activation patterns
+- Can't be easily *localized*
+
+# Pleasure & reward
+
+# Wrap up
+
+## Main points
+
+## Next time
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

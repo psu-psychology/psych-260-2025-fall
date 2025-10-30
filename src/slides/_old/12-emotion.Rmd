@@ -1,0 +1,366 @@
+# Emotion
+
+## Biology of Emotion {-}
+
+- What is emotion?
+- What causes emotions?
+- What are the types of emotions? What functions do emotions serve?
+- Is emotion distinct from cognition?
+- Biological systems involved in emotion
+
+### What is emotion? {-}
+
+- Feelings
+- Physiological states
+- Actions
+
+```{r, out.width="100%", fig.cap="https://www.biomotionlab.ca/html5-bml-walker"}
+knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="800")
+```
+
+### What is cause? What is effect? {-}
+
+> "Do we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience."
+>
+>-- [@Harrison2010-nx](http://doi.org/10.1523/JNEUROSCI.1725-10.2010)
+
+#### Competing views {-}
+
+- James-Lange
+    - Physiological response -> subjective feelings
+- Cannon-Bard
+    - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
+    - Physiological states slow, don't differentiate among emotions
+- Schacter-Singer
+    - Physiological arousal + cognitive appraisal -> emotional states
+
+### What are the different types of emotions? {-}
+
+```{r, out.width="100%", fig.cap="[@plutchik1980emotion]"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1200px-Plutchik-wheel.svg.png")
+```
+
+- Vary in <span class="blue">valence</span>
+    + Positive/negative
+- Vary in <span class="blue">intensity</span> (arousal)
+- Vary in <span class="blue">action tendency</span>
+    + Approach/avoid
+
+- Emotions (can) serve biological goals
+    - Ingestion
+    - Defense
+    - Reproduction
+    - Affiliation
+
+```{r, out.width="100%", fig.cap="[@plutchik1980emotion]"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1200px-Plutchik-wheel.svg.png")
+```
+
+### Is emotion distinct from cognition? {-}
+
+```{r, out.width="100%", fig.cap="Figure from [@pessoa_relationship_2008](http://dx.doi.org/10.1038/nrn2317)"}
+knitr::include_graphics("include/img/pessoa-nrn.jpg")
+```
+
+>*Here, I will argue that complex cognitive–emotional behaviours have their basis in dynamic coalitions of networks of brain areas, none of which should be conceptualized as specifically affective or cognitive. Central to cognitive–emotional interactions are brain areas with a high degree of connectivity, called hubs, which are critical for regulating the flow and integration of information between regions.*
+>
+>-- [@pessoa_relationship_2008](http://dx.doi.org/10.1038/nrn2317)
+
+#### Emotion as "computing" (or information processing) {-}
+
+- Input
+    - Internal states
+    - External world
+- Processing/evaluation
+- Output
+    - Internal states
+    - External world
+    
+## *Where* in the brain is emotion processed? {-}
+
+### "Locationist" account {-}
+
+```{r, out.width="100%", fig.cap="[@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)"}
+knitr::include_graphics("https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg")
+```
+
+>Figure 1. Locationist Hypotheses of Brain–Emotion Correspondence. A: Lateral view. B: Sagital view at the midline. C: Ventral view. D: Coronal view. Brain regions hypothesized to be associated with emotion categories are depicted. Here we depict the most popular locationist hypotheses, although other locationist hypotheses of brain–emotion correspondence exist (e.g., Panksepp, Reference Panksepp 1998). Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue). A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.
+>
+> [@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)
+
+### Constructionist account {-}
+
+> A psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter).
+>
+>-- [@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)
+
+> ...emotions emerge when people make meaning out of sensory input from the body and from the world using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf. Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation,
+>
+>-- [@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)
+
+## Happiness and reward {-}
+
+### Components of happiness {-}
+
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Hedonia
+    + Pleasure
+- Eudaimonia
+    + Life satisfaction
+    + Relates to motivation
+
+### "Computing" pleasure {-}
+
+- Inputs
+    + External
+    + Internal
+- Processing
+- Outputs
+    + Feelings
+    + Actions
+
+### Brain mechanisms {-}
+
+- Circuits for signaling pleasure and pain
+- Similarities across animal species
+    - Behavior & brain
+- Dopamine and endogenous opioid neurotransmitter systems involved
+
+```{r, out.width="100%", fig.cap="[@kringelbach2009towards](http://dx.doi.org/10.1016/j.tics.2009.08.006)"}
+knitr::include_graphics("include/img/kringelbach-2009-fig-2.jpg")
+```
+
+### Rewards {-}
+
+- A *reward* reinforces (makes more prevalent/probable) some behavior
+- Milner and Olds [@milner_discovery_1989](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
+- [@heath1963electrical](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients.
+
+```{r, out.width="100%", fig.cap="https://www.youtube.com/embed/de_b7k9kQp0"}
+knitr::include_url("https://www.youtube.com/embed/de_b7k9kQp0")
+```
+
+#### Nodes in the "reward" circuit {-}
+
+```{r, out.width="100%", fig.cap="[@nestler2006mesolimbic](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)"}
+knitr::include_graphics("include/img/nestler-fig-1.jpg")
+```
+
+- Ventral tegmental area (VTA) in midbrain
+- Nucleus accumbens (nAcc), ventral striatum
+
+```{r, out.width="100%", fig.cap="[@kohls2012social](http://dx.doi.org/10.1186/1866-1955-4-10)"}
+knitr::include_graphics("include/img/kohls-fig-2.jpg")
+```
+
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+- Prefrontal cortex (PFC)
+
+### Psychopharmacology of 'happiness' {-}
+
+- Dopamine
+- Serotonin, Norepinephrine
+- ACh
+
+```{r, out.width="100%", fig.cap="[@cock_sleep_2008](http://dx.doi.org/10.1038/ncpneuro0775)"}
+knitr::include_graphics("include/img/ncpneuro0775-f4.jpg")
+```
+
+#### The brain contains its own systems for binding substances associated with feelings of 'pleasure' {-}
+
+- <span class="blue">Endorphins</span>: Endogenous morphine-like compounds
+    - e.g., morphine, heroin, oxycontin (oxycodone) are opioids
+
+```{r, out.width="100%", fig.cap="[@clapp-niaa](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)"}
+knitr::include_graphics("include/img/endorphins-niaa.gif")
+```
+
+- Endogenous cannabinoids
+    - Cannabinoids == psychoactive compounds found in cannibis
+    - Cannabinoid receptors: CB1 in CNS; CB2 in body, immune system
+
+```{r, out.width="100%", fig.cap="[@flores_cannabinoid-hypocretin_2013](http://dx.doi.org/10.3389/fnins.2013.00256)"}
+knitr::include_graphics("include/img/fnins-07-00256-g001.jpg")
+```
+
+#### Comparative risk {-}
+
+> "*A comparative risk assessment of drugs including alcohol and tobacco using the margin of exposure (MOE) approach was conducted. The MOE is defined as ratio between toxicological threshold (benchmark dose) and estimated human intake. Median lethal dose values from animal experiments were used to derive the benchmark dose. The human intake was calculated for individual scenarios and population-based scenarios...*"
+>
+>-- [@Lachenmeier2015-mm](http://dx.doi.org/10.1038/srep08126")
+
+---
+
+> "*...For individual exposure the four substances <span class="blue">alcohol, nicotine, cocaine and heroin fall into the “high risk” category</span> with MOE < 10, the rest of the compounds except THC fall into the “risk” category with MOE < 100.*"
+>
+>-- [@Lachenmeier2015-mm](http://dx.doi.org/10.1038/srep08126")
+
+### Generalizations about happiness/pleasure {-}
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage a network of brain areas
+    - VTA and ventral striatum/nucleus accumbens especially important
+- Pleasure/happiness signaling involves multiple neuromodulators
+    - DA especially important
+- “Reward” pathways activated by many different inputs
+- Some *exogenous* substances associated with feelings of pleasure bind to *endogenous* receptor systems
+
+## Fear and stress {-}
+
+### Inducing "fear-like" behavior in non-human animals  {-}
+
+```{r, out.width="100%", fig.cap="http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg"}
+knitr::include_graphics("include/img/ledoux-lab-fear_conditioning.jpg")
+```
+
+```{r, out.width="100%", fig.cap="Adapted from [@davis1992role](http://dx.doi.org/10.1016/0165-6147(92)90014-W)"}
+knitr::include_graphics("include/img/davis-anxiety-rat-vs-human.jpg")
+```
+
+### Amygdala {-}
+
+```{r, out.width="100%", fig.cap="[@medina2002parallels](http://dx.doi.org/10.1038/nrn728)"}
+knitr::include_graphics("include/img/fear-conditioning-amygdala-nrn728-f2.gif")
+```
+
+- Convergent inputs
+    + Thalamus ("direct" or "fast"")
+    + Cerebral cortex ("indirect" or "slow")
+- Project to
+    + CG (central gray matter) of tegmentum (ventral midbrain): behavior
+    + LH (lateral hyp): ANS
+    + PVN (paraventricular n. of hypothalamus): hormones
+- Fast-acting, involuntary responses
+- Lesions of amygdala impair 'fear conditioning'
+
+### Cerebral cortex {-}
+
+- Response discrimination?
+    + Cortex lesions cause generalized not cue-specific fear response 
+- Fast, crude responses vs. slower, detailed ones
+    + That’s a stick, not a snake!
+    + Prefrontal cortex and response inhibition
+- Amygdala connected to other 'affective' nodes in neural network
+- Emotion not just about subjective feelings
+
+### Amygdala as processing hub {-}
+
+```{r, out.width="100%", fig.cap="[@pessoa_relationship_2008](http://dx.doi.org/10.1038/nrn2317)"}
+knitr::include_graphics("include/img/pessoa-nrn.jpg")
+```
+
+```{r, out.width="100%", fig.cap="[@ledoux_rethinking_2012](http://dx.doi.org/10.1016/j.neuron.2012.02.004)"}
+knitr::include_graphics("include/img/ledoux-2012-f3.jpg")
+```
+
+- Emotions are global physiological/behavioral "states" 
+
+```{r, out.width="100%", fig.cap="[@ledoux_rethinking_2012](http://dx.doi.org/10.1016/j.neuron.2012.02.004)"}
+knitr::include_graphics("include/img/ledoux-2012-f4.jpg")
+```
+
+### Stress  {-}
+
+```{r, out.width="100%"}
+knitr::include_graphics("https://thumbs-prod.si-cdn.com/2tgS7DS-nibt7QIVjjP6a81H8VE=/800x600/filters:no_upscale():focal(652x167:653x168)/https://public-media.si-cdn.com/filer/ee/bc/eebc7565-839b-4a17-82ab-5f20a1bbf73f/h8cd2ygg-1501513898.jpg")
+```
+
+#### Stressors linked with biological imperatives {-}
+
+- Sustenance
+    + Hunger, thirst
+- Well-being/defense
+    + Threat
+- Reproduction
+    + Rejection
+- Affiliation
+    + Loneliness
+     
+#### Stress and the brain {-} 
+
+```{r, out.width="100%", fig.cap="[@mcewen_physiology_2007](http://dx.doi.org/10.1152/physrev.00041.2006)"}
+knitr::include_graphics("include/img/mcewen-2007-f1.jpg")
+```
+
+- Homeostasis
+    - Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij](https://doi.org/10.1152/physrev.1929.9.3.399)
+- Allostasis [@Sterling1988-rl](https://ci.nii.ac.jp/naid/10019518960/)
+    - Regulation is active process
+    - Regulation is anticipatory, varies by circumstance
+    - Targets vary [@Ramsay2014-la](http://dx.doi.org/10.1037/a0035942)
+
+- **Acute** stress
+    + Short duration
+    + Fast action required
+    + HPA (Cortisol), SAM (NE/Epi) axes
+    - Brain detects threat
+    - Mobilizes physiological, behavioral responses
+- vs. **Chronic** stress
+    + Long duration, persistent
+    
+#### Glucocorticoids {-}
+
+- ACTH (hypothalamus) -> CRH (anterior pituitary) ->
+- Adrenal cortex releases cortisol
+  - Increases blood glucose levels
+  - Suppresses immune system
+  - Reduces inflammation
+  - Aids in metabolism
++ Receptors in brain and body
+    
+```{r, out.width="100%", fig.cap="http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg"}
+knitr::include_graphics("include/img/cortisol-molecular-brain.jpg")
+```
+
+##### Glucocorticoid cascade hypothesis {-}
+
+- Cortisol receptors in hippocampus, amygdala, hypothalamus
+    - Hippocampus regulates HPA axis via hypothalamus
+- Prolonged cortisol exposure reduces hippocampus response
+    - Reduces volume, connectivity in hippocampus
+- Hippocampus critical for long-term memory formation
+    - Chronic stress impairs long-term memory
+
+- But, cortisol -> stress link not straightforward 
+
+```{r, out.width="100%", fig.cap="[@faresjo_higher_2013](http://dx.doi.org/10.1371/journal.pone.0073828)"}
+knitr::include_graphics("include/img/faresjo-2013.jpg")
+```
+
+- [@sapolsky_psychiatric_2016](http://doi.org/10.1038/nn.4397)
+    - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+    - Rats will cooperate to release distressed cage mate, foregoing food rewards
+
+```{r, out.width="100%"}
+knitr::include_graphics("include/img/zebras-sapolsky.jpg")
+```
+
+- Phasic (short-term) vs. chronic (long-term)
+- *Physical* stress (hunger, thirst, injury, disease) vs. *psychological/social* stress
+
+## Main points {-}
+
+- Biological approach to emotion
+    + Behavior
+    + Physiological states
+    + Subjective feelings
+    + Actions/behaviors
+    + Adaptive function
+- Networks of brain systems, multiple NT systems
+- Emotional and cognitive processing have strong similarities, overlapping & interacting brain networks
+
+```{r, out.width="100%", fig.cap="[@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)"}
+knitr::include_graphics("https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg")
+```
+
+```{r, out.width="100%", fig.cap="[@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)"}
+knitr::include_graphics("include/img/lindquist-etal-2012-fig-s2.png")
+```
+
+```{r, out.width="700px", fig.cap="[@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)"}
+knitr::include_graphics("include/img/lindquist-etal-2012-fig-s3.png")
+```
+

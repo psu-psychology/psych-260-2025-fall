@@ -4,19 +4,25 @@ subtitle: 2025-08-26
 fig-align: "center"
 ---
 
-## Prelude {-}
+# Prelude
 
-## Today's topics {-}
+## Announcements
+
+## Today's topics
 
 - Warm up
 - Point 1
 - Point 2
+
+# Warm up
 
 # Point 1
 
 # Point 2
 
 # Wrap up
+
+## Main points
 
 ## Next time
 

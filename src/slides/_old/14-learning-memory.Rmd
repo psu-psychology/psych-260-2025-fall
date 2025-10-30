@@ -1,0 +1,357 @@
+# Learning & memory
+
+## Background {-}
+
+### What is learning? {- #learning-types}
+
+- *A*: Acquisition of new or change in existing knowledge, skills, responses...
+- **Non-associative**
+    - Change in response to repeated encounters with same stimulus/event
+    - Habituation -> weaker response
+    - Sensitization -> stronger response
+
+```{r, echo=FALSE}
+knitr::include_graphics("https://www.researchgate.net/profile/James_Herman3/publication/256074938/figure/fig3/AS:216468764532738@1428621583098/Stress-habituation-and-facilitation-Repeated-exposure-to-the-same-stressor-results-in.png")
+```
+
+- **Associative**
+    - "Associates" or links two events/items with one another
+    - Classical & operant/instrumental conditioning
+    - Types
+        - Sequence, observational, episodic, semantic
+        
+#### Are *brains* required for learning? {-}
+
+> "*The question of whether single cells can learn led to much debate in the early 20th
+century. The view prevailed that they were capable of non-associative learning but not of
+associative learning, such as Pavlovian conditioning. Experiments indicating the contrary were
+considered either non-reproducible or subject to more acceptable interpretations.*"
+>
+> [@Gershman2021-zf]
+
+> "*We exhume the experiments of Beatrice Gelber on Pavlovian conditioning in the ciliate Paramecium aurelia, and suggest that criticisms of her findings can now be reinterpreted...Her work, and more recent studies, suggest that such learning may be evolutionarily more widespread and fundamental to life than previously thought and we discuss the implications for different aspects of biology.*"
+>
+> [@Gershman2021-zf]
+        
+### What is memory? {-}
+
+### Memory capacity of the human brain? {-}
+
+- 1e12 neurons
+- 1e3 synapses/neuron
+- 1e15 synapses or 1.25e14 bytes
+- 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
+
+<http://www.scientificamerican.com/article.cfm?id=what-is-the-memory-capacity>
+
+>"*Entirety of a human's lived experience could fit on a flash drive.*"
+
+```{r}
+knitr::include_graphics("include/img/one-tb-flash-drives.png")
+```
+
+### Computer memory vs. brain memory {-}
+
+#### Computer memory {-}
+
+- Random Access Memory (RAM), short-duration storage
+- Hard-disk/flash drive storage, long-term duration
+- Addressable (location '010101')
+- {text, sounds, images, video, data} all in binary [0,1] format
+    - `00110000` == 48 (the number)
+    - `00110000` == '0' (the character zero)
+- Write once, read many times
+
+#### Brain memory {-}
+
+- Computers have separate memory stores
+    - brains store info everywhere
+- Computers have addressable memory
+    - brain memory??
+- Computer memory can be non-volatile
+    - brain memories fade
+- Computer memory is veridical
+    - brain memories are 'reconstructions'
+
+## Biological bases of memory {-}
+
+### Types {-}
+
+- Short vs. long-term
+    - Working memory ~ short-term maintenance for guiding action
+- Explicit (declarative: semantic vs. episodic) vs. implicit (procedural)
+- Retrospective (from the past) vs. prospective (to be remembered)
+- Recognition (familiar or novel) vs. recall
+
+### Mechanism(s) {- #memory-mechanism-in-brain}
+
+>The idea that memory is stored as enduring changes in the brain dates back at least to the time of Plato and Aristotle (circa 350 BCE), but its scientific articulation emerged in the 20th century when Richard Semon introduced the term **“engram” to describe the neural substrate for storing and recalling memories**. Essentially, Semon proposed that an experience activates a population of neurons that undergo persistent chemical and/or physical changes to become an engram. Subsequent reactivation of the engram by cues available at the time of the experience induces memory retrieval. 
+>
+> [@Josselyn2020-xr]
+
+- Changes in patterns of neural activity
+- Changes in connectivity
+    + New synapses
+    + Altered synapses (strengthened or weakened)
+    
+---
+    
+```{r, fig.cap="[@squire_memory_2004]"}
+knitr::include_graphics("include/img/squire-memory-systems.gif")
+```
+
+### Hebbian learning {-}
+
+>"*When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.*" 
+>
+>-- [@Hebb1949-se]
+
+>"*Neurons that fire together wire together.*"
+>
+>-- [@Lowel1992-lk]
+
+#### How to implement 'Hebbian' learning? {-}
+
+- Hebbian learning is associative
+- Neuron A active + Neuron B active => associates/links co-activity
+
+#### [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation) {-}
+
+- Increase (potentiation) in synaptic strength based on recent co-activity
+- Change at synapse == physical basis of Hebbian learning
+
+```{r, fig.cap="Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg")
+```
+
+### 'Hebbian' learning via NMDA receptor {- #nmda-r}
+
+- *N-methyl-D-aspartate* receptor (NMDA-R)
+- 'Coincidence' detector
+    + Sending cell has released NT
+    + Receiving cell is/has been recently active
+- NMDA-R chemically-gated
+    + Ligand-gated
+        - Glutamate
+        - Glycine (co-factor/co-agonist)
+    + Sending cell active
+- AND Voltage-gated
+    + Receiving cell depolarizes (EPSP or action potential)
+    + $Zn^{++}$ or $Mg^{++}$ ion 'plug' repelled under depolarization
+    + $Na^+$ & $Ca^{++}$ influx; $K^+$ outflux
+
+```{r, fig.cap="NMDA-R from [@pitt-medical-neurosci-glu]"}
+knitr::include_graphics("http://pittmedneuro.com/img/glut1.jpg")
+```
+
+```{r, out.width="75%", fig.cap='https://i2.wp.com/www.gatewaypsychiatric.com/wp-content/uploads/2015/02/NMDA-Receptor-and-Depression.jpg?ssl=1'}
+knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content/uploads/2015/02/NMDA-Receptor-and-Depression.jpg?ssl=1")
+```
+
+#### NMDA receptors (NMDA-R) contribute to associative learning {-}
+
+- Associate (link)
+    + Concept A -> Concept B
+    + Neuron A -> Neuron B
+- I say Donald...you say...
+
+#### How does LTP (& Long-term depression or LTD) work? {-}
+
+- Synapses can also be weakened via long-term depression (LTD)
+- NMDA receptor one molecular mechanism for implementing LTP, LTD & spike-timing-dependent plasticity
+- Ca++ entry triggers biochemical cascade
+- Existing (AMPA) glutamate receptors made to stay open longer
+- New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane
+- Change in quantity of glutamate released presynaptically
+
+#### NMDA clinical significance {-}
+
+- *Memantine* (Alzheimer's Disease treatment) *blocks* NMDA-R
+    - Controls over-activation and $Ca^{++}$ excitotoxicity?
+- Implicated in effects of *phencylidine* (PCP)
+    - PCP can induce psychotic symptoms
+    - Link to glutamate hypothesis of schizophrenia?
+- *Ketamine* is an NMDA-R antagonist
+    - anesthesia, sedation pain relief
+    - short-term relief for depression
+- Linked to analgesic (pain-relieving) effects of nitrous oxide ($N_{2}O$) or 'laughing' gas
+- Ethanol inhibits [(Ron et al., 2011)](https://www.ncbi.nlm.nih.gov/pubmed/21204417)
+
+###  Learning "causal chains" {-}
+
+- lightning THEN thunder
+- unusual food THEN indigestion
+
+#### Spike-timing-dependent plasticity {-}
+
+- [*Neural Plasticity*](https://en.wikipedia.org/wiki/Neuroplasticity)
+    + Lasting changes in neural firing, connectivity
+- A before B: strengthen $A \rightarrow B$
+- A after B: weaken $A \rightarrow B$
+
+```{r, include=FALSE, fig.cap="Figure 1 from [@caporale2008spike]"}
+knitr::include_graphics("include/img/caporale-2008-fig-1.jpg")
+```
+
+```{r, include=FALSE, fig.cap="Figure 2 from [@caporale2008spike]"}
+knitr::include_graphics("include/img/caporale-2008-fig-2.jpg")
+```
+
+### Summary {-}
+
+- Learning and memory involve changes in neural firing, circuitry
+    - And probably molecular changes inside neurons
+- Hebbian learning a type of associative learning
+- NMDA receptor as coincidence detector
+    + Molecular basis of one form of long-term potentiation (LTP)
+- Unlike computers, brains store different types of information stored in different brain systems
+
+```{r, fig.cap="[@squire_memory_2004]"}
+knitr::include_graphics("include/img/squire-memory-systems.gif")
+```
+
+## Disorders of memory {-}
+
+### Amnesia {-}
+
+- Acquired loss of memory
+- ≠ normal forgetting
+- Note: computers don't forget
+
+- *Retrograde* ('backwards' in time)
+    + Damage to information acquired pre-injury
+    + Temporally graded
+- *Anterograde* ('forward' in time) 
+    + Damage to information acquired/experienced post-injury
+
+#### [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html) (Henry G. Molaison) {-}
+
+- Intractable/untreatable epilepsy
+- Bilateral resection of medial temporal lobe (1953)
+- Epilepsy now treatable
+- But, memory impaired
+- Lived until 2008
+
+```{r, fig.cap="https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg")
+# HM's brain
+```
+
+```{r, fig.cap="[@Grafe2019-mk]"}
+knitr::include_url("https://www.youtube.com/embed/aw6JmZuLhfA")
+```
+<!-- Brenda Milner on HM -->
+
+- Retrograde amnesia
+    + Can’t remember 10 yrs before operation
+    + Distant past better than more recent
+- Severe, global anterograde amnesia
+    + Impaired learning of new facts, events, people
+- But, skills (mirror learning) intact
+    
+>*Every day is alone in itself, whatever enjoyment I’ve had, and whatever sorrow I’ve had…Right now, I’m wondering, have I done or said anything amiss?  You see at this moment, everything looks clear to me, but what happened just before?  That’s what worries me.  It’s like waking from a dream.  I just don’t remember.*
+>
+>-- HM
+
+#### Other causes of amnesia {-}
+
+- Disease 
+    + Alzheimer’s, herpes virus
+- [Korsakoff’s syndrome](https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome)
+    + Result of severe alcoholism
+    + Impairs medial thalamus & mammillary bodies
+
+#### Patient NA {-}
+
+- Fencing accident
+- Damage to medial thalamus
+- Anterograde + graded retrograde amnesia
+- Are thalamus & medial temporal region connected?
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1GfFopZSyj8" frameborder="0" allowfullscreen></iframe>
+
+#### Spared skills in amnesia {-}
+
+- Skill-learning
+- Mirror-reading, writing
+- Short-term memory
+- “Cognitive” skills
+- Priming
+
+#### What does amnesia tell us? {-}
+
+- Long-term memory for facts, events, people 
+- ≠ Short-term memory
+- ≠ Long-term memory for “skills”
+- Separate memory systems in the brain?
+
+### Alzheimer's Disease (AD) {-}
+
+- Chronic, neurodegenerative disease affecting ~5 M Americans
+- Cognitive dysfunction (memory loss, language difficulties, planning, coordination)
+- Psychiatric symptoms and behavioral disturbances
+- Difficulties with daily living
+- [[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)
+
+```{r, fig.cap="[[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)"}
+knitr::include_graphics("include/img/bmj-158-F1.large.jpg")
+```
+
+- Post-mortem exams show $\beta$ amyloid plaques and neurofibrillary tangles in hippocampus + other brain areas
+
+```{r, out.height="350px"}
+knitr::include_graphics("include/img/20150331-mouse-brain.jpg")
+```
+
+#### AD Treatments {-}
+    
+- Acetylcholinesterase (AChE) *inhibitors* (e.g. Aricept)
+    - ACh a neuromodulator in the brain
+    - Boost/prolong ACh levels
+- NMDA-R partial antagonists (e.g., Memantine)
+    - Slow/impede formation of disordered new memories to keep established ones intact?
+- Drugs that address amyloid $\beta$ don't work especially well
+- Is AD the result of [disordered immune response] [@Jevtic2017-jt]?
+
+#### Hippocampus {-}
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG"}
+knitr::include_graphics("include/img/hippocampus-seahorse.jpg")
+```
+
+- Dense in NMDA receptors
+- Linked to formation, storage, consolidation of long-term episodic or declarative memories
+- Thought to stores info for later transfer to cortex
+- In non-human animals
+    - Similar architecture to humans
+        - More known about mechanisms for *spatial* than *non-spatial* memory
+    + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
+    + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
+    + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp")
+```
+
+#### Cerebral cortex {-}
+
+Activated or deactivated during memory encoding...
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig5_HTML.jpg?as=webp")
+```
+
+Deactivated in non-memory cognitive tasks but activated during memory retrieval.
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig6_HTML.jpg?as=webp")
+```
+
+## Summing up {-}
+
+- Different types of learning and memory
+- Learning and memory interlinked
+- Biological memory differs from computer memory
+- Hebbian learning via NMDA receptors one important mechanism for associative learning
+- Many interacting brain systems contribute to learning and memory
+- Hippocampus one important node in memory network

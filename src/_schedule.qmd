@@ -217,6 +217,7 @@ That said, you may find it interesting to learn and know about anyway.
 *`{r} sched_df$class_2_theme[11]`*
 
 - *Read*: MM pp 356-369
+- *Slides*:  | [html](slides/wk-11-2025-11-06-emotion-I.qmd) |
 
 ## `{r} sched_df$week[12]` {- #week-12}
 
