@@ -155,15 +155,21 @@ fig-align: "center"
 
 ## Stress and the brain
 
+:::: {.columns}
+::: {.column width=50%}
 - **Acute** stress
     + Short duration
     + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
     - Brain detects threat
     - Mobilizes physiological, behavioral responses
+:::
+::: {.column width=50%}
 - vs. **Chronic** stress
     + Long duration, persistent
-    
+:::
+::::
+
 ## Glucocorticoids
 
 - ACTH (hypothalamus) -> CRH (anterior pituitary) ->
@@ -173,10 +179,10 @@ fig-align: "center"
   - Reduces inflammation
   - Aids in metabolism
 + Receptors in brain and body
-    
-```{r, out.width="100%", fig.cap="http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg"}
-knitr::include_graphics("../include/img/cortisol-molecular-brain.jpg")
-```
+
+## Glucocorticoids
+
+![http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg](../include/img/cortisol-molecular-brain.jpg)
 
 ## Glucocorticoid cascade hypothesis
 
@@ -197,13 +203,13 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 
 ## Glucocorticoid cascade hypothesis
 
-- [@sapolsky_psychiatric_2016](http://doi.org/10.1038/nn.4397)
-    - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
-    - Rats will cooperate to release distressed cage mate, foregoing food rewards
+- [@Sapolsky2016-hs]
+  - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+  - Rats will cooperate to release distressed cage mate, foregoing food rewards
 
-```{r, out.width="100%"}
-knitr::include_graphics("../include/img/zebras-sapolsky.jpg")
-```
+---
+
+![](../include/img/zebras-sapolsky.jpg)
 
 ## Glucocorticoid cascade hypothesis
 
