@@ -224,6 +224,7 @@ That said, you may find it interesting to learn and know about anyway.
 ### `{r} prettify_date(sched_df$class_day_1[12])` {-}
 
 *`{r} sched_df$class_1_theme[12]`*
+- *Slides*:  | [html](slides/wk-12-2025-11-11-emotion-II.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[12])` {-}
 

@@ -1,0 +1,233 @@
+---
+title: "Emotion II"
+subtitle: 2025-11-11
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+## Today's topics
+
+- Quiz 3
+- Fear & stress
+
+# Warm up
+
+# Fear and stress
+
+## Animal models
+
+- Can we study the biological basis of emotions in non-human animals?
+- What functions might these states serve?
+- Are the functions comparable across species?
+
+## "Fear" conditioning 
+
+![http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg](../include/img/ledoux-lab-fear_conditioning.jpg)
+
+## Rats vs. human
+
+![Adapted from @davis1992role](../include/img/davis-anxiety-rat-vs-human.jpg)
+
+## Amygdala role
+
+:::: {.columns}
+::: {.column width=50%}
+- Inputs from
+  + Thalamus ("direct" or "fast"")
+  + Cerebral cortex ("indirect" or "slow")
+:::
+::: {.column width=50%}
+![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
+:::
+::::
+
+## Amygdala role
+
+:::: {.columns}
+::: {.column width=50%}
+- Outputs to
+  + CG (central gray matter) of tegmentum (ventral midbrain): behavior
+  + LH (lateral hyp): ANS
+  + PVN (paraventricular n. of hypothalamus): hormones
+:::
+::: {.column width=50%}
+![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
+:::
+::::
+
+## Amygdala role
+
+:::: {.columns}
+::: {.column width=50%}
+- Fast-acting, involuntary responses
+- Lesions of amygdala impair fear conditioning
+:::
+::: {.column width=50%}
+![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
+:::
+::::
+
+## Cerebral cortex role
+
+:::: {.columns}
+::: {.column width=50%}
+- Response discrimination?
+    + Cortex lesions cause generalized not cue-specific fear response 
+- Fast, crude responses vs. slower, detailed ones
+    + That’s a stick, not a snake!
+    + Prefrontal cortex and response inhibition
+:::
+::: {.column width=50%}
+![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
+:::
+::::
+
+## Cerebral cortex role
+
+:::: {.columns}
+::: {.column width=50%}
+- Amygdala connected to other 'affective' nodes in neural network
+- Emotion not just about subjective feelings
+:::
+::: {.column width=50%}
+![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
+:::
+::::
+
+## Amygdala as processing hub
+
+![@pessoa_relationship_2008](../include/img/pessoa-nrn.jpg)
+
+## Emotions serve survival goals
+
+![@ledoux_rethinking_2012 Figure 3](../include/img/ledoux-2012-f3.jpg)
+
+## Emotions are global physiological + behavioral "states" 
+
+![@ledoux_rethinking_2012 Figure 4](../include/img/ledoux-2012-f4.jpg)
+
+## Amygdala in "folk" neuroscience
+
+:::: {.columns}
+::: {.column width=50%}
+- Not the fear center
+:::
+::: {.column width=50%}
+![](https://i.imgur.com/FntPYqz.jpeg)
+:::
+::::
+
+## Stress 
+
+## Stressors linked with biological imperatives
+
+- Sustenance
+    + Hunger, thirst
+- Well-being/defense
+    + Threat
+    
+## Stressors linked with biological imperatives
+
+- Reproduction
+    + Rejection
+- Affiliation
+    + Loneliness
+     
+## Stress and the brain
+
+![@mcewen_physiology_2007 Figure 1](../include/img/mcewen-2007-f1.jpg)
+
+## Homeostasis
+
+- Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij]
+- "Homo" means same
+- No consistent physiological targets
+  
+## Allostasis
+
+- [@Sterling1988-rl]
+- Regulation is active process
+- Regulation is anticipatory, varies by circumstance
+- Targets vary [@Ramsay2014-la]
+
+## Stress and the brain
+
+- **Acute** stress
+    + Short duration
+    + Fast action required
+    + HPA (Cortisol), SAM (NE/Epi) axes
+    - Brain detects threat
+    - Mobilizes physiological, behavioral responses
+- vs. **Chronic** stress
+    + Long duration, persistent
+    
+## Glucocorticoids
+
+- ACTH (hypothalamus) -> CRH (anterior pituitary) ->
+- Adrenal cortex releases cortisol
+  - Increases blood glucose levels
+  - Suppresses immune system
+  - Reduces inflammation
+  - Aids in metabolism
++ Receptors in brain and body
+    
+```{r, out.width="100%", fig.cap="http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg"}
+knitr::include_graphics("../include/img/cortisol-molecular-brain.jpg")
+```
+
+## Glucocorticoid cascade hypothesis
+
+- Cortisol receptors in hippocampus, amygdala, hypothalamus
+    - Hippocampus regulates HPA axis via hypothalamus
+- Prolonged cortisol exposure reduces hippocampus response
+    - Reduces volume, connectivity in hippocampus
+- Hippocampus critical for long-term memory formation
+    - Chronic stress impairs long-term memory
+
+## Glucocorticoid cascade hypothesis
+
+- But, cortisol -> stress link not straightforward 
+
+```{r, out.width="100%", fig.cap="[@faresjo_higher_2013](http://dx.doi.org/10.1371/journal.pone.0073828)"}
+knitr::include_graphics("../include/img/faresjo-2013.jpg")
+```
+
+## Glucocorticoid cascade hypothesis
+
+- [@sapolsky_psychiatric_2016](http://doi.org/10.1038/nn.4397)
+    - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+    - Rats will cooperate to release distressed cage mate, foregoing food rewards
+
+```{r, out.width="100%"}
+knitr::include_graphics("../include/img/zebras-sapolsky.jpg")
+```
+
+## Glucocorticoid cascade hypothesis
+
+- Phasic (short-term) vs. chronic (long-term)
+- *Physical* stress (hunger, thirst, injury, disease) vs. *psychological/social* stress
+
+# Wrap up
+
+## Main points
+
+## Next time
+
+- Sensory systems
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
