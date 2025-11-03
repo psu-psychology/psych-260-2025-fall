@@ -9289,84 +9289,132 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#announcements",
     "title": "Emotion I",
     "section": "Announcements",
-    "text": "Announcements\n\nQuiz 3 moved to Tuesday, November 11, 2025"
+    "text": "Announcements\n\nQuiz 3 moved to next Tuesday, November 11, 2025",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#todays-topics",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#todays-topics",
     "title": "Emotion I",
     "section": "Today’s topics",
-    "text": "Today’s topics\n\nWarm up\nThe biology of emotion\nPleasure & reward"
+    "text": "Today’s topics\n\nWarm up\nThe biology of emotion\nPleasure & reward",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#big-questions",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#big-questions",
     "title": "Emotion I",
     "section": "Big questions",
-    "text": "Big questions\n\nWhat is emotion?\nWhat causes emotion?\nWhat functions do emotions serve?\nWhere do emotions arise?"
+    "text": "Big questions\n\nWhat is emotion?\nWhat causes emotion?\nWhat functions do emotions serve?\nWhere do emotions arise?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-is-emotion",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#what-is-emotion",
     "title": "Emotion I",
     "section": "What is emotion?",
-    "text": "What is emotion?\n\nFeelings\nPhysiological states\nActions"
+    "text": "What is emotion?\n\nFeelings\nPhysiological states\nActions",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#main-points",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#main-points",
     "title": "Emotion I",
     "section": "Main points",
-    "text": "Main points"
+    "text": "Main points\n\nEmotion circuits in the CNS widely distributed\nEmotion circuits involve multiple NTs\nNo simple association among feelings, brain activation, & neurotransmitter release",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#next-time",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#next-time",
     "title": "Emotion I",
     "section": "Next time",
-    "text": "Next time"
+    "text": "Next time\n\nQuiz 3\nEmotion II (fear & stress)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#about",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#about",
     "title": "Emotion I",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.9.1.401.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.9.1.401.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#references",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#references",
     "title": "Emotion I",
     "section": "References",
-    "text": "References\n\n\n\n\nHarrison, N. A., Gray, M. A., Gianaros, P. J., & Critchley, H. D. (2010). The embodiment of emotional feelings in the brain. J. Neurosci., 30(38), 12878–12884. https://doi.org/10.1523/JNEUROSCI.1725-10.2010\n\n\nLindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. Behav. Brain Sci., 35(3), 121–143. https://doi.org/10.1017/S0140525X11000446\n\n\nNummenmaa, L., Glerean, E., Hari, R., & Hietanen, J. K. (2014). Bodily maps of emotions. Proceedings of the National Academy of Sciences of the United States of America, 111(2), 646–651. https://doi.org/10.1073/pnas.1321664111\n\n\nPlutchik, R. (1980). Emotion: A psychoevolutionary synthesis. Harpercollins College Division.\n\n\nSiegel, E. H., Sands, M. K., Van den Noortgate, W., Condon, P., Chang, Y., Dy, J., … Barrett, L. F. (2018). Emotion fingerprints or emotion populations? A meta-analytic investigation of autonomic features of emotion categories. Psychological Bulletin, 144(4), 343–393. https://doi.org/10.1037/bul0000128"
+    "text": "References\n\n\n\n\nashikkerib. (2007, December). Brain mechanisms of pleasure and addiction. Youtube. Retrieved from https://www.youtube.com/watch?v=de_b7k9kQp0\n\n\nCock, V. C. D., Vidailhet, M., & Arnulf, I. (2008). Sleep disturbances in patients with parkinsonism. Nature Clinical Practice Neurology, 4(5), 254–266. https://doi.org/10.1038/ncpneuro0775\n\n\nFlores, Á., Maldonado, R., & Berrendero, F. (2013). Cannabinoid-hypocretin cross-talk in the central nervous system: What we know so far. Neuropharmacology, 7, 256. https://doi.org/10.3389/fnins.2013.00256\n\n\nHarrison, N. A., Gray, M. A., Gianaros, P. J., & Critchley, H. D. (2010). The embodiment of emotional feelings in the brain. J. Neurosci., 30(38), 12878–12884. https://doi.org/10.1523/JNEUROSCI.1725-10.2010\n\n\nHeath, R. G. (1963). Electrical self-stimulation of the brain in man. American Journal of Psychiatry, 120(6), 571–577. https://doi.org/10.1176/ajp.120.6.571\n\n\nHu, H. (2016). Reward and aversion. Annual Review of Neuroscience, 39, 297–324. https://doi.org/10.1146/annurev-neuro-070815-014106\n\n\nKohls, G., Chevallier, C., Troiani, V., & Schultz, R. T. (2012). Social ‘wanting’dysfunction in autism: Neurobiological underpinnings and treatment implications. Journal of Neurodevelopmental Disorders, 4(10), 1–20. https://doi.org/10.1186/1866-1955-4-10\n\n\nKringelbach, M. L., & Berridge, K. C. (2009). Towards a functional neuroanatomy of pleasure and happiness. Trends in Cognitive Sciences, 13(11), 479–487.\n\n\nLachenmeier, D. W., & Rehm, J. (2015). Comparative risk assessment of alcohol, tobacco, cannabis and other illicit drugs using the margin of exposure approach. Scientific Reports, 5, 8126. https://doi.org/10.1038/srep08126\n\n\nLindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. Behav. Brain Sci., 35(3), 121–143. https://doi.org/10.1017/S0140525X11000446\n\n\nMilner, P. M. (1989). The discovery of self-stimulation and other stories. Neuroscience & Biobehavioral Reviews, 13(2–3), 61–67. https://doi.org/10.1016/S0149-7634(89)80013-2\n\n\nNestler, E. J., & Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. Biological Psychiatry, 59(12), 1151–1159. https://doi.org/10.1016/j.biopsych.2005.09.018\n\n\nNumber1AnimationFan. (2007). \"Happiness\" from \"you’re a good man, charlie brown!\". YouTube. Retrieved from https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s\n\n\nNummenmaa, L., Glerean, E., Hari, R., & Hietanen, J. K. (2014). Bodily maps of emotions. Proceedings of the National Academy of Sciences of the United States of America, 111(2), 646–651. https://doi.org/10.1073/pnas.1321664111\n\n\nPixar. (2014, December). Inside out - official US trailer. YouTube. Retrieved from https://www.youtube.com/watch?v=yRUAzGQ3nSY\n\n\nPlutchik, R. (1980). Emotion: A psychoevolutionary synthesis. Harpercollins College Division.\n\n\nSiegel, E. H., Sands, M. K., Van den Noortgate, W., Condon, P., Chang, Y., Dy, J., … Barrett, L. F. (2018). Emotion fingerprints or emotion populations? A meta-analytic investigation of autonomic features of emotion categories. Psychological Bulletin, 144(4), 343–393. https://doi.org/10.1037/bul0000128\n\n\nWatabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. Annual Review of Neuroscience, 40, 373–394. https://doi.org/10.1146/annurev-neuro-072116-031109",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action",
     "title": "Emotion I",
     "section": "Emotion in action",
-    "text": "Emotion in action"
+    "text": "Emotion in action",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#feeling-emotion",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#feeling-emotion",
     "title": "Emotion I",
     "section": "Feeling emotion",
-    "text": "Feeling emotion\n\nNummenmaa, Glerean, Hari, & Hietanen (2014). The emBODY tool. Participants colored the initially blank body regions (A) whose activity they felt increasing (left body) and decreasing (right body) during emotions. Subjectwise activation–deactivation data (B) were stored as integers, with the whole body being represented by 50,364 data points. Activation and deactivation maps were subsequently combined (C) for statistical analysis."
+    "text": "Feeling emotion\n\nNummenmaa, Glerean, Hari, & Hietanen (2014). The emBODY tool. Participants colored the initially blank body regions (A) whose activity they felt increasing (left body) and decreasing (right body) during emotions. Subjectwise activation–deactivation data (B) were stored as integers, with the whole body being represented by 50,364 data points. Activation and deactivation maps were subsequently combined (C) for statistical analysis.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states",
     "title": "Emotion I",
     "section": "Physiological states",
-    "text": "Physiological states\n\nThe classical view of emotion hypothesizes that certain emotion categories have a specific autonomic nervous system (ANS) “fingerprint” that is distinct from other categories…\n\n– Siegel et al. (2018)"
+    "text": "Physiological states\n\nThe classical view of emotion hypothesizes that certain emotion categories have a specific autonomic nervous system (ANS) “fingerprint” that is distinct from other categories…\n\n– Siegel et al. (2018)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-1",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-1",
     "title": "Emotion I",
     "section": "Physiological states",
-    "text": "Physiological states\n\n\n\nWhat ANS measures are part of the fingerprint?\n\n\n\n\n\nSiegel et al. (2018) Table 9."
+    "text": "Physiological states\n\n\n\nWhat ANS measures are part of the fingerprint?\n\n\n\n\n\nSiegel et al. (2018) Table 9.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#siegel2018-ab-figure-6.",
@@ -9380,35 +9428,55 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-2",
     "title": "Emotion I",
     "section": "Physiological states",
-    "text": "Physiological states\n\nSiegel et al. (2018) Figure 6."
+    "text": "Physiological states\n\nSiegel et al. (2018) Figure 6.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-3",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-3",
     "title": "Emotion I",
     "section": "Physiological states",
-    "text": "Physiological states\n\n…there is no 1-to-1 mapping between an emotion category and a specific autonomic nervous system response pattern. In addition, we observed substantial variability in autonomic nervous system changes during instances of the same emotion category that was not accounted for by experimental moderators (such as the way the emotion was induced).\n\n– Siegel et al. (2018)"
+    "text": "Physiological states\n\n…there is no 1-to-1 mapping between an emotion category and a specific autonomic nervous system response pattern. In addition, we observed substantial variability in autonomic nervous system changes during instances of the same emotion category that was not accounted for by experimental moderators (such as the way the emotion was induced).\n\n– Siegel et al. (2018)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-4",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#physiological-states-4",
     "title": "Emotion I",
     "section": "Physiological states",
-    "text": "Physiological states\n\nThese findings suggest that autonomic nervous system changes during emotion are less like a bodily fingerprint and more like a population of variable, context sensitive instances.\n\n– Siegel et al. (2018)"
+    "text": "Physiological states\n\nThese findings suggest that autonomic nervous system changes during emotion are less like a bodily fingerprint and more like a population of variable, context sensitive instances.\n\n– Siegel et al. (2018)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-causes-emotion",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#what-causes-emotion",
     "title": "Emotion I",
     "section": "What causes emotion?",
-    "text": "What causes emotion?\n\nDo we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience.\n\n– Harrison, Gray, Gianaros, & Critchley (2010)"
+    "text": "What causes emotion?\n\nDo we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience.\n\n– Harrison, Gray, Gianaros, & Critchley (2010)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes",
     "title": "Emotion I",
     "section": "Competing views on causes",
-    "text": "Competing views on causes\n\nJames-Lange\n\nPhysiological response -&gt; subjective feelings\n\nCannon-Bard\n\nSevering CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged\nPhysiological states slow, don’t differentiate among emotions"
+    "text": "Competing views on causes\n\nJames-Lange\n\nPhysiological response -&gt; subjective feelings\n\nCannon-Bard\n\nSevering CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged\nPhysiological states slow, don’t differentiate among emotions",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-functions-to-emotions-serve",
@@ -9436,14 +9504,22 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise",
     "title": "Emotion I",
     "section": "Where do emotions arise?",
-    "text": "Where do emotions arise?\n\nLindquist, Wager, Kober, Bliss-Moreau, & Barrett (2012) Figure 1.Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue)"
+    "text": "Where do emotions arise?\n\nLindquist, Wager, Kober, Bliss-Moreau, & Barrett (2012) Figure 1.Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes-1",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes-1",
     "title": "Emotion I",
     "section": "Competing views on causes",
-    "text": "Competing views on causes\n\nSchacter-Singer\n\nPhysiological arousal + cognitive appraisal -&gt; emotional states"
+    "text": "Competing views on causes\n\nSchacter-Singer\n\nEmotion states == Physiological arousal + cognitive appraisal",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-functions-do-emotions-serve-1",
@@ -9457,28 +9533,44 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise-1",
     "title": "Emotion I",
     "section": "Where do emotions arise?",
-    "text": "Where do emotions arise?\n\nLindquist et al. (2012) Figure 1."
+    "text": "Where do emotions arise?\n\nLindquist et al. (2012) Figure 1.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise-2",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise-2",
     "title": "Emotion I",
     "section": "Where do emotions arise?",
-    "text": "Where do emotions arise?\n\nA psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter).\n\n— Lindquist et al. (2012)"
+    "text": "Where do emotions arise?\n\nA psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter).\n\n— Lindquist et al. (2012)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise-3",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#where-do-emotions-arise-3",
     "title": "Emotion I",
     "section": "Where do emotions arise?",
-    "text": "Where do emotions arise?\n\n…emotions emerge when people make meaning out of sensory input from the body and from the world using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf. Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation.\n\n— Lindquist et al. (2012)"
+    "text": "Where do emotions arise?\n\n…emotions emerge when people make meaning out of sensory input from the body and from the world using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf. Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation.\n\n— Lindquist et al. (2012)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-11-2025-11-06-emotion-I.html#interim-summary",
     "href": "slides/wk-11-2025-11-06-emotion-I.html#interim-summary",
     "title": "Emotion I",
     "section": "Interim summary",
-    "text": "Interim summary\n\nEmotions have distinguishable patterns of subjective feeling, external actions\nEmotions do not have distinct ANS response patterns\nEmotions do not have distinct brain activation patterns\nCan’t be easily localized"
+    "text": "Interim summary\n\nEmotions have distinguishable patterns of subjective feelings, external actions\nEmotions do not have distinct ANS response patterns\nEmotions do not have distinct brain activation patterns\nCan’t be easily localized in the CNS",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
   },
   {
     "objectID": "slides/wk-10-2025-10-30-psychopathology-II.html#background-on-bp",
@@ -9566,6 +9658,292 @@
     "crumbs": [
       "Slides",
       "Wk 10 • Thu Oct 30"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#big-questions-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#big-questions-1",
+    "title": "Emotion I",
+    "section": "Big questions",
+    "text": "Big questions\n\nComponents?\nWhat functions these serve?\nWhere/how do these arise?",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#components",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#components",
+    "title": "Emotion I",
+    "section": "Components",
+    "text": "Components\n\nAristotle\nEudaimonia\n\nLife satisfaction\n\nHedonia\n\nPleasure",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#functions-served",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#functions-served",
+    "title": "Emotion I",
+    "section": "Functions served",
+    "text": "Functions served\n\nApproach vs. avoidant behaviors\nRewards reinforce (makes more prevalent/probable) some behavior\nBasis of operant conditioning",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#where-how-do-these-arise",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#where-how-do-these-arise",
+    "title": "Emotion I",
+    "section": "Where how do these arise?",
+    "text": "Where how do these arise?\n\nMilner and Olds Milner (1989)\n\ndiscovered ‘rewarding’ power of electrical self-stimulation\n\nHeath (1963) studied effects in human patients.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#implications",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#implications",
+    "title": "Emotion I",
+    "section": "Implications",
+    "text": "Implications\n\nSpecific circuits signal pleasure\nSimilarities across animal species\n\nBehavior & brain",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#implications-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#implications-1",
+    "title": "Emotion I",
+    "section": "Implications",
+    "text": "Implications\n\nKringelbach & Berridge (2009) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#circuit-components",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#circuit-components",
+    "title": "Emotion I",
+    "section": "Circuit components",
+    "text": "Circuit components\n\n\n\nVentral tegmental area (VTA) in midbrain\nNucleus accumbens (nAcc), ventral striatum\nDorsal Raphe Nucleus/Locus Coeruleus (DR/LC)\n\n\n\n\n\nNestler & Carlezon (2006) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#circuit-components-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#circuit-components-1",
+    "title": "Emotion I",
+    "section": "Circuit components",
+    "text": "Circuit components\n\n\n\nHypothalamus (Hyp)\nAmygdala (Amy)\nHippocampus (HP)\nPrefrontal cortex (PFC)\n\n\n\n\n\nKohls, Chevallier, Troiani, & Schultz (2012) Figure 2",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#is-dopamine-the-happiness-neurotransmitter",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#is-dopamine-the-happiness-neurotransmitter",
+    "title": "Emotion I",
+    "section": "Is dopamine the “happiness” neurotransmitter?",
+    "text": "Is dopamine the “happiness” neurotransmitter?\n\nNo",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-signal",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-signal",
+    "title": "Emotion I",
+    "section": "What does DA signal?",
+    "text": "What does DA signal?\n\nHedonia and anhedonia\nIncentive salience\nReward prediction error (RPE)\n\nExpectation modulates DA signaling\n\n\n\n(Watabe-Uchida, Eshel, & Uchida, 2017). Figure 2. Subtractive computation in dopamine neurons. (a) In one task condition (no odor, black), different amounts of reward were presented without any predictive cue. In another condition (odor A, orange), the timing of reward was predicted by an odor. (b) Prediction. Division should change the slope of the curve, whereas subtraction should cause a downward shift. (c) Average response of 40 optogenetically identified dopamine neurons. Prediction caused a subtractive shift. Data from Eshel et al. (2015). (d) Three example neurons. Although individual neurons exhibited diversity with respect to response magnitudes, their response functions were scaled versions of one another. Data from Eshel et al. (2016).\n\n\nReward & Aversion Networks\n\n\n\n(Hu, 2016). A simplified schematic summarizing the reward-mediating (red) and aversion-mediating (blue) neural pathways that have been verified by recent optogenetics-based behavioral studies. Prominent pathways that are implicated but unverified in reward and aversion are also delineated (gray) (Beier et al. 2015; Britt et al. 2012; Humphries & Prescott 2010; Kirouac et al. 2004; Lammel et al. 2012; Lerner et al. 2015; Liu et al. 2014; Luo et al. 2015; McDevitt et al. 2014; Namburi et al. 2015a,b; Nieh et al. 2015; Qi et al. 2014; Sesack & Grace 2010; Stuber & Wise 2016; Stuber et al. 2011). Abbreviations: BLA, basolateral amygdala; CEA, central amygdala; CPu, caudate putamen; DRN, dorsal raphe nucleus; LDT, laterodorsal tegmental nucleus; LHA, lateral hypothalamus; LHb, lateral habenula; mPFC, medial prefrontal cortex; NAc, nucleus accumbens; OFC, orbitofrontal cortex; RMTg, rostromedial tegmental nucleus; SNc, substantia nigra pars compacta; VTA, ventral tegmental area.",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters",
+    "title": "Emotion I",
+    "section": "Neurotransmitters",
+    "text": "Neurotransmitters\n\n\n\nDopamine\nSerotonin, Norepinephrine\nACh\n\n\n\n\n\nCock, Vidailhet, & Arnulf (2008) Figure 4",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-release-signal",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-release-signal",
+    "title": "Emotion I",
+    "section": "What does DA release signal?",
+    "text": "What does DA release signal?\n\n\n\nDifferences between expected and actual rewards\nReward prediction error\n\n\n\n\n\nHu (2016)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters-1",
+    "title": "Emotion I",
+    "section": "Neurotransmitters",
+    "text": "Neurotransmitters\n\n\n\nCannabinoids == psychoactive compounds found in cannibis\nEndogenous cannabinoids\n\nBind to receptors\nCB1 in CNS; CB2 in body, immune system\n\n\n\n\n\n\nFlores, Maldonado, & Berrendero (2013) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters-2",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#neurotransmitters-2",
+    "title": "Emotion I",
+    "section": "Neurotransmitters",
+    "text": "Neurotransmitters\n\n\n\nCannabinoids == psychoactive compounds found in cannibis\nEndogenous cannabinoids\n\nBind to receptors\nCB1 in CNS; CB2 in body, immune system\n\n\n\n\n\n\nFlores, Maldonado, & Berrendero (2013) Figure 1",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#exogenous-substances",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#exogenous-substances",
+    "title": "Emotion I",
+    "section": "Exogenous substances",
+    "text": "Exogenous substances\n\nModulate endogenous neurotransmitter systems in some cases\nInfluence subjective feelings of pain, pleasure\nVary in relative health risk",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk",
+    "title": "Emotion I",
+    "section": "Comparative risk",
+    "text": "Comparative risk\n\nA comparative risk assessment of drugs including alcohol and tobacco using the margin of exposure (MOE) approach was conducted. The MOE is defined as ratio between toxicological threshold (benchmark dose) and estimated human intake. Median lethal dose values from animal experiments were used to derive the benchmark dose. The human intake was calculated for individual scenarios and population-based scenarios…\n\n– Lachenmeier & Rehm (2015)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk-1",
+    "title": "Emotion I",
+    "section": "Comparative risk",
+    "text": "Comparative risk\n\n…For individual exposure the four substances alcohol, nicotine, cocaine, and heroin fall into the “high risk” category with MOE &lt; 10, the rest of the compounds except THC fall into the “risk” category with MOE &lt; 100.\n\n– Lachenmeier & Rehm (2015)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#generalizations-about-happinesspleasure",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#generalizations-about-happinesspleasure",
+    "title": "Emotion I",
+    "section": "Generalizations about happiness/pleasure",
+    "text": "Generalizations about happiness/pleasure\n\nTypes of pleasure activate overlapping areas\nPleasure/happiness engage a network of brain areas\n\nVTA and ventral striatum/nucleus accumbens especially important\n\nPleasure/happiness signaling involves multiple neuromodulators\n\nDA especially important\n\n“Reward” pathways activated by many different inputs\nSome exogenous substances associated with feelings of pleasure bind to endogenous receptor systems",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#other-neurotransmitters",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#other-neurotransmitters",
+    "title": "Emotion I",
+    "section": "Other neurotransmitters",
+    "text": "Other neurotransmitters\n\n\n\nEndogenous morphines or endorphins\n\nOpioids generated & released by the CNS\nSources include ventral tegmental area, nucleus accumbens, amygdala, etc.\n\nExogenous opioids (morphine, heroin, oxycontin) powerful pain relievers",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#inputs-to-da-network",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#inputs-to-da-network",
+    "title": "Emotion I",
+    "section": "Inputs to DA network",
+    "text": "Inputs to DA network\n\n\n\nDA network\n\nVentral tegmental area (VTA) and Substantia Nigra (SN)\nMidbrain tegmentum\n\nFrom across the brain\n\n\n\n\n\nWatabe-Uchida, Eshel, & Uchida (2017) Figure 4",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#reward-aversion-networks-interconnect",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#reward-aversion-networks-interconnect",
+    "title": "Emotion I",
+    "section": "Reward & aversion networks interconnect",
+    "text": "Reward & aversion networks interconnect\n\nHu (2016) Figure 3",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#summing-up",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#summing-up",
+    "title": "Emotion I",
+    "section": "Summing up",
+    "text": "Summing up\n\nTypes of pleasure activate overlapping areas\nPleasure/happiness engage distributed brain network\n\nVTA and ventral striatum/nucleus accumbens especially important",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#interim-summary-1",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#interim-summary-1",
+    "title": "Emotion I",
+    "section": "Interim summary",
+    "text": "Interim summary\n\nPleasure/happiness signaling involves multiple NTs\n\nDA especially important in signalling unexpected outcomes\n\n“Reward” pathways activated multiple inputs\nSome exogenous substances associated with feelings of pleasure or relief from pain bind to endogenous receptor systems",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#dopamine-memes",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#dopamine-memes",
+    "title": "Emotion I",
+    "section": "Dopamine memes",
+    "text": "Dopamine memes",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-actually-signal",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#what-does-da-actually-signal",
+    "title": "Emotion I",
+    "section": "What does DA actually signal?",
+    "text": "What does DA actually signal?\n\n\n\nDifferences between expected and actual rewards\nReward prediction error\n\n\n\n\n\nHu (2016)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk-2",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#comparative-risk-2",
+    "title": "Emotion I",
+    "section": "Comparative risk",
+    "text": "Comparative risk\n\nThe toxicological MOE approach validates epidemiological and social science-based drug ranking approaches especially in regard to the positions of alcohol and tobacco (high risk) and cannabis (low risk).\n\n– Lachenmeier & Rehm (2015)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
     ]
   }
 ]

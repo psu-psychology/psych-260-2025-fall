@@ -6,9 +6,25 @@ fig-align: "center"
 
 # Prelude
 
+---
+
+<!-- Happiness from "You're a Good Man Charlie Brown" -->
+
+{{< video https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s width="100%" height="70%" >}}
+
+-- @Number1AnimationFan2007-gu
+
+---
+
+<!-- Inside Out Trailer -->
+
+{{< video https://www.youtube.com/watch?v=yRUAzGQ3nSY width="100%" height="70%" >}}
+
+-- @Pixar2014-md
+
 ## Announcements
 
-- Quiz 3 moved to Tuesday, November 11, 2025
+- Quiz 3 moved to next Tuesday, November 11, 2025
 
 ## Today's topics
 
@@ -20,11 +36,63 @@ fig-align: "center"
 
 ---
 
-### Question about BPD
+### Which of the following statements about bipolar disorder is *incorrect*?
+
+::: {.incremental}
+- A. BP is linked to disruption in a monoamine neurotransmitter system.
+- B. BP has high heritability.
+- C. BP is characterized by cycling affective states.
+- D. Mood stabilizers like Lithium are common drug therapies for BP.
+:::
 
 ---
 
-### Question about SCZ
+### Which of the following statements about bipolar disorder is *incorrect*?
+
+- **A. BP is linked to disruption in a monoamine neurotransmitter system.**
+- ~~B. BP has high heritability.~~
+- ~~C. BP is characterized by cycling affective states.~~
+- ~~D. Mood stabilizers like Lithium are common drug therapies for BP.~~
+
+---
+
+### The dopamine hypothesis of schizophrenia suggests that effective drug therapies should ______ levels of this neurotransmitter.
+
+::: {.incremental}
+- A. increase
+- B. vary seasonally
+- C. ignore
+- D. decrease
+:::
+
+---
+
+### The dopamine hypothesis of schizophrenia suggests that effective drug therapies should ______ levels of this neurotransmitter.
+
+- ~~A. increase~~
+- ~~B. vary seasonally~~
+- ~~C. ignore~~
+- **D. decrease**
+
+---
+
+### Reuptake inhibitors like SSRIs and SNRIs act on what stage of synaptic transmission?
+
+::: {.incremental}
+- A. Exocytosis
+- B. Neurotransmitter inactivation
+- C. Ca++ entry via voltage-gated channels
+- D. Generation of EPSPs or IPSPs
+:::
+
+---
+
+### Reuptake inhibitors like SSRIs and SNRIs act on what stage of synaptic transmission?
+
+- ~~A. Exocytosis~~
+- **B. Neurotransmitter inactivation**
+- ~~C. Ca++ entry via voltage-gated ion channels~~
+- ~~D. Generation of excitatory or inhibitory post-synaptic potentials (PSPs)~~
 
 # The biology of emotion
 
@@ -35,7 +103,7 @@ fig-align: "center"
 - What functions do emotions serve?
 - Where do emotions arise?
 
-## What is emotion? {-}
+## What is emotion?
 
 ::: {.incremental}
 - Feelings
@@ -115,7 +183,7 @@ knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px
 ## Competing views on causes
 
 - Schacter-Singer
-    - Physiological arousal + cognitive appraisal -> emotional states
+    - Emotion states == Physiological arousal + cognitive appraisal
 
 ---
 
@@ -175,18 +243,207 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 ## Interim summary
 
-- Emotions have distinguishable patterns of subjective feeling, external actions
+- Emotions have distinguishable patterns of subjective feelings, external actions
 - Emotions do not have distinct ANS response patterns
 - Emotions do not have distinct brain activation patterns
-- Can't be easily *localized*
+- Can't be easily *localized* in the CNS
 
 # Pleasure & reward
+
+## Big questions
+
+- Components?
+- What functions these serve?
+- Where/how do these arise?
+
+## Components
+
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Eudaimonia
+    + Life satisfaction
+- Hedonia
+    + Pleasure
+    
+## Functions served
+
+- Approach vs. avoidant behaviors
+- *Rewards* reinforce (makes more prevalent/probable) some behavior
+- Basis of operant conditioning
+
+---
+
+{{< video https://www.youtube.com/watch?v=de_b7k9kQp0 width="100%" height="70%" >}}
+
+-- @Ashikkerib2007-su
+
+## Where how do these arise?
+
+- Milner and Olds [@milner_discovery_1989](http://doi.org/10.1016/S0149-7634(89)80013-2)
+  - discovered 'rewarding' power of electrical self-stimulation
+- Heath [-@heath1963electrical] studied effects in human patients.
+
+## Implications
+
+- Specific circuits signal pleasure
+- Similarities across animal species
+  - Behavior & brain
+  
+## Implications
+
+![@kringelbach2009towards Figure 2](../include/img/kringelbach-2009-fig-2.jpg)
+
+## Circuit components
+
+:::: {.columns}
+::: {.column width=50%}
+- Ventral tegmental area (VTA) in midbrain
+- Nucleus accumbens (nAcc), ventral striatum
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+:::
+::: {.column width=50%}
+![@nestler2006mesolimbic Figure 1](../include/img/nestler-fig-1.jpg)
+:::
+::::
+
+
+## Circuit components
+
+:::: {.columns}
+::: {.column width=50%}
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Prefrontal cortex (PFC)
+:::
+::: {.column width=50%}
+![@kohls2012social Figure 2](../include/img/kohls-fig-2.jpg)
+:::
+::::
+
+## Neurotransmitters
+
+:::: {.columns}
+::: {.column width=50%}
+- Dopamine
+- Serotonin, Norepinephrine
+- ACh
+:::
+::: {.column width=50%}
+![@cock_sleep_2008 Figure 4](../include/img/ncpneuro0775-f4.jpg)
+:::
+::::
+
+## Dopamine memes
+
+![](https://www.verywellmind.com/thmb/bzVxJeMBMedf1sGoi51yIA0QdG8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/can-you-get-addicted-to-dopamine-5207433-ADD-Color-bcfbd83f2cc148aba1b2c0b130166ff8.jpg){fig-align="center"}
+
+## What does DA *actually* signal?
+
+:::: {.columns}
+::: {.column width=50%}
+- Differences between expected and actual rewards
+- Reward prediction error
+:::
+::: {.column width=50%}
+![@Hu2016-yw](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f1.gif)
+:::
+::::
+
+## Inputs to DA network
+
+:::: {.columns}
+::: {.column width=50%}
+- DA network
+  - Ventral tegmental area (VTA) and Substantia Nigra (SN)
+  - Midbrain tegmentum
+- From across the brain
+:::
+::: {.column width=50%}
+![@Watabe-Uchida2017-gi Figure 4](https://www.annualreviews.org/docserver/ahah/fulltext/neuro/40/1/ne400373.f4_thmb.gif){width="60%"}
+:::
+::::
+
+## Reward & aversion networks interconnect
+
+![@Hu2016-yw Figure 3](https://www.annualreviews.org/docserver/fulltext/neuro/39/1/ne390297.f3.gif)
+
+## Other neurotransmitters
+
+:::: {.columns}
+::: {.column width=60%}
+- Endogenous morphines or *endorphins*
+  - Opioids generated & released by the CNS
+  - Sources include ventral tegmental area, nucleus accumbens, amygdala, etc.
+- *Exogenous* opioids (morphine, heroin, oxycontin) powerful pain relievers
+:::
+::: {.column width=40%}
+![](../include/img/endorphins-niaa.gif){fig-align="right"}
+:::
+::::
+
+## Neurotransmitters
+
+:::: {.columns}
+::: {.column width=50%}
+- Cannabinoids == psychoactive compounds found in cannibis
+- Endogenous cannabinoids
+  - Bind to receptors
+  - CB1 in CNS; CB2 in body, immune system
+:::
+::: {.column width=50%}
+![@flores_cannabinoid-hypocretin_2013 Figure 1](../include/img/fnins-07-00256-g001.jpg)
+:::
+::::
+
+## Exogenous substances
+
+- Modulate endogenous neurotransmitter systems in some cases
+- Influence subjective feelings of pain, pleasure
+- Vary in relative health risk
+
+## Comparative risk
+
+>A comparative risk assessment of drugs including alcohol and tobacco using the margin of exposure (MOE) approach was conducted. The MOE is defined as ratio between toxicological threshold (benchmark dose) and estimated human intake. Median lethal dose values from animal experiments were used to derive the benchmark dose. The human intake was calculated for individual scenarios and population-based scenarios...
+
+-- @Lachenmeier2015-mm
+
+## Comparative risk
+
+>...For individual exposure the four substances alcohol, nicotine, cocaine, and heroin fall into the “high risk” category with MOE < 10, the rest of the compounds except THC fall into the “risk” category with MOE < 100.
+
+-- @Lachenmeier2015-mm
+
+## Comparative risk
+
+>The toxicological MOE approach validates epidemiological and social science-based drug ranking approaches especially in regard to the positions of alcohol and tobacco (high risk) and cannabis (low risk).
+
+-- @Lachenmeier2015-mm
+
+## Summing up
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage distributed brain network
+    - VTA and ventral striatum/nucleus accumbens especially important
+    
+## Interim summary
+
+- Pleasure/happiness signaling involves multiple NTs
+  - DA especially important in signalling unexpected outcomes
+- “Reward” pathways activated multiple inputs
+- Some *exogenous* substances associated with feelings of pleasure or relief from pain bind to *endogenous* receptor systems
 
 # Wrap up
 
 ## Main points
 
+- Emotion circuits in the CNS widely distributed
+- Emotion circuits involve multiple NTs
+- No simple association among feelings, brain activation, & neurotransmitter release
+
 ## Next time
+
+- Quiz 3
+- Emotion II (fear & stress)
 
 # Resources
 
