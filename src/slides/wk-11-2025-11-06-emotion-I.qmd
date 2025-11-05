@@ -36,13 +36,13 @@ fig-align: "center"
 
 ---
 
-### Which of the following statements about bipolar disorder is *incorrect*?
+### Which of the following statements about bipolar disorder (BP) is *incorrect*?
 
 ::: {.incremental}
 - A. BP is linked to disruption in a monoamine neurotransmitter system.
 - B. BP has high heritability.
 - C. BP is characterized by cycling affective states.
-- D. Mood stabilizers like Lithium are common drug therapies for BP.
+- D. Mood stabilizers like lithium are common drug therapies for BP.
 :::
 
 ---
@@ -52,7 +52,7 @@ fig-align: "center"
 - **A. BP is linked to disruption in a monoamine neurotransmitter system.**
 - ~~B. BP has high heritability.~~
 - ~~C. BP is characterized by cycling affective states.~~
-- ~~D. Mood stabilizers like Lithium are common drug therapies for BP.~~
+- ~~D. Mood stabilizers like lithium are common drug therapies for BP.~~
 
 ---
 
@@ -60,7 +60,7 @@ fig-align: "center"
 
 ::: {.incremental}
 - A. increase
-- B. vary seasonally
+- B. cause seasonal variation in
 - C. ignore
 - D. decrease
 :::
@@ -70,7 +70,7 @@ fig-align: "center"
 ### The dopamine hypothesis of schizophrenia suggests that effective drug therapies should ______ levels of this neurotransmitter.
 
 - ~~A. increase~~
-- ~~B. vary seasonally~~
+- ~~B. cause seasonal variation in~~
 - ~~C. ignore~~
 - **D. decrease**
 
@@ -105,11 +105,50 @@ fig-align: "center"
 
 ## What is emotion?
 
-::: {.incremental}
-- Feelings
-- Physiological states
-- Actions
+>The concept of ‘‘emotion’’ presents a particularly thorny problem.
+Even though the term is used very frequently, to the point of being
+extremely fashionable these days, the question ‘‘What is an emotion?’’ rarely generates the same answer from different individuals,
+scientists or laymen alike.
+
+--- @Scherer2005-pw
+
+## What is emotion
+
+:::: {.columns}
+::: {.column width=50%}
+- Scherer's [-@Scherer2005-pw; @Leventhal1987-ip] component process model
 :::
+::: {.column width=50%}
+![](../include/img/scherer-2005-tbl-01.png)
+:::
+::::
+
+## Components of an emotion
+
+- Cognitive appraisal
+- Bodily (physiological) symptoms
+- Motivation (action tendencies)
+- Action 
+- Subjective feelings
+
+## What causes emotion?
+
+>Do we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience.
+
+-- @Harrison2010-nx
+
+## Competing views on causes
+
+- James-Lange
+    - Physiological response -> subjective feelings
+- Cannon-Bard
+    - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
+    - Physiological states slow, don't differentiate among emotions
+    
+## Competing views on causes
+
+- Schacter-Singer
+    - Emotion states == Physiological arousal + cognitive appraisal
 
 ## Feeling emotion
 
@@ -129,7 +168,8 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- What ANS measures are part of the fingerprint?
+- What ANS measures are part of this "fingerprint?"
+- Do they distinguish among emotion categories?
 :::
 ::: {.column width=50%}
 ![@Siegel2018-ab Table 9.](../include/img/siegle-2018-tbl-09.png){fig-align="right"}
@@ -165,25 +205,6 @@ fig-align: "center"
 ```{r, out.width="100%", fig.cap="https://www.biomotionlab.ca/html5-bml-walker"}
 knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px")
 ```
-
-## What causes emotion?
-
->Do we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience.
-
--- @Harrison2010-nx
-
-## Competing views on causes
-
-- James-Lange
-    - Physiological response -> subjective feelings
-- Cannon-Bard
-    - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
-    - Physiological states slow, don't differentiate among emotions
-    
-## Competing views on causes
-
-- Schacter-Singer
-    - Emotion states == Physiological arousal + cognitive appraisal
 
 ---
 
