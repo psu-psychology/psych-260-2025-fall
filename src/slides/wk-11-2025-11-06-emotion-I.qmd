@@ -105,25 +105,37 @@ fig-align: "center"
 
 ## What is emotion?
 
+::: {.fragment}
+
+:::: {.columns}
+::: {.column width=75%}
 >The concept of ‘‘emotion’’ presents a particularly thorny problem.
 Even though the term is used very frequently, to the point of being
 extremely fashionable these days, the question ‘‘What is an emotion?’’ rarely generates the same answer from different individuals,
 scientists or laymen alike.
 
 --- @Scherer2005-pw
-
-## What is emotion
-
-:::: {.columns}
-::: {.column width=50%}
-- Scherer's [-@Scherer2005-pw; @Leventhal1987-ip] component process model
 :::
-::: {.column width=50%}
-![](../include/img/scherer-2005-tbl-01.png)
+::: {.column width=25%}
+![](https://i1.rgstatic.net/ii/profile.image/273785551061002-1442286970893_Q128/Klaus-Scherer.jpg){fig-align="right"}
 :::
 ::::
 
-## Components of an emotion
+
+:::
+
+## What is emotion?
+
+:::: {.columns}
+::: {.column width=40%}
+- Scherer's [-@Scherer2005-pw; @Leventhal1987-ip] component process model
+:::
+::: {.column width=60%}
+![@Scherer2005-pw Table 1](../include/img/scherer-2005-tbl-01.png)
+:::
+::::
+
+## Components of emotion
 
 - Cognitive appraisal
 - Bodily (physiological) symptoms
@@ -149,14 +161,6 @@ scientists or laymen alike.
 
 - Schacter-Singer
     - Emotion states == Physiological arousal + cognitive appraisal
-
-## Feeling emotion
-
-![@Nummenmaa2014-ub. The emBODY tool. Participants colored the initially blank body regions (A) whose activity they felt increasing (left body) and decreasing (right body) during emotions. Subjectwise activation–deactivation data (B) were stored as integers, with the whole body being represented by 50,364 data points. Activation and deactivation maps were subsequently combined (C) for statistical analysis.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/dcc3da97-2288-4f1c-a175-cad39b111aab/assets/graphic/pnas.1321664111fig01.jpeg)
-
----
-
-![@Nummenmaa2014-ub. Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. (P < 0.05 FDR corrected; t > 1.94). The colorbar indicates the t-statistic range.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/3263030e-acb8-4654-9064-b18db4a3a146/assets/graphic/pnas.1321664111fig02.jpeg)
 
 ## Physiological states
 
@@ -206,18 +210,39 @@ scientists or laymen alike.
 knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px")
 ```
 
+## Feeling emotion
+
+![@Nummenmaa2014-ub Figure 1](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/dcc3da97-2288-4f1c-a175-cad39b111aab/assets/graphic/pnas.1321664111fig01.jpeg)
+
 ---
 
-### What functions do emotions serve?
+![@Nummenmaa2014-ub Figure 2](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/3263030e-acb8-4654-9064-b18db4a3a146/assets/graphic/pnas.1321664111fig02.jpeg)
+
+## What functions do emotions serve?
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width=60%}
+- Charles Darwin, father of modern evolutionary theory
+- Similarities between animals in emotional expressions
+- Suggest similarities in function
+:::
+::: {.column width=40%}
+![@Darwin2012-ht](https://pictures.abebooks.com/isbn/9780006387343-us.jpg){width="60%"}
+:::
+::::
+:::
+
+## What functions do emotions serve?
 
 :::: {.columns}
 ::: {.column width=50%}
-- Vary in <span class="blue">valence</span>
+- Vary in *valence*
     + Positive/negative
-- Vary in <span class="blue">intensity</span> (arousal)
+- Vary in *intensity* (arousal)
 :::
 ::: {.column width=50%}
-![Wikipedia based on @plutchik1980emotion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Circumplex_model_of_emotion.svg/500px-Circumplex_model_of_emotion.svg.png)
+![Wikipedia based on @plutchik1980emotion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Circumplex_model_of_emotion.svg/500px-Circumplex_model_of_emotion.svg.png){width="75%"}
 :::
 ::::
 
@@ -227,7 +252,8 @@ knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px
 
 :::: {.columns}
 ::: {.column width=50%}
-- Vary in <span class="blue">action tendency</span>
+::: {.incremental}
+- Vary in *action tendency*
     + Approach/avoid
 - Biological goals
   - Ingestion (hunting/foraging)
@@ -235,6 +261,7 @@ knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px
   - Reproduction
   - Affiliation
 :::
+:::
 ::: {.column width=50%}
 ![Wikipedia based on @plutchik1980emotion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Circumplex_model_of_emotion.svg/500px-Circumplex_model_of_emotion.svg.png)
 :::
@@ -242,17 +269,25 @@ knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px
 
 ## *Where* do emotions arise?
 
-![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg)
+- If emotions are *localized*, what are the locations?
 
-Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue)
+![@Lindquist2012-jr Figure 1. Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue)](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg)
 
 ## *Where* do emotions arise?
+
+- If emotions are localized, is activity emotion-specific?
 
 ![@Lindquist2012-jr Figure 1.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg)
 
 ## *Where* do emotions arise?
 
->A psychological **constructionist account** of emotion assumes that **emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion**. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter).
+>A psychological **constructionist account** of emotion assumes that **emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion**.
+
+--- @Lindquist2012-jr
+
+## *Where* do emotions arise?
+
+>...**mental categories such as anger, sadness, fear, et cetera, are not respected by the brain**...
 
 --- @Lindquist2012-jr
 
@@ -264,6 +299,7 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 ## Interim summary
 
+- Emotion consists of multiple components, including cognition & action tendencies
 - Emotions have distinguishable patterns of subjective feelings, external actions
 - Emotions do not have distinct ANS response patterns
 - Emotions do not have distinct brain activation patterns
@@ -279,17 +315,27 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 ## Components
 
+:::: {.columns}
+::: {.column width=50%}
 - [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
 - Eudaimonia
     + Life satisfaction
 - Hedonia
     + Pleasure
+:::
+::: {.column width=50%}
+::: {.fragment}
+![](https://www.verywellmind.com/thmb/-U6DvFSZP7Lqn4C_X6x2NRjijlk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-143382618-56a798255f9b58b7d0ebfac8.jpg)
+:::
+:::
+::::
     
 ## Functions served
 
 - Approach vs. avoidant behaviors
-- *Rewards* reinforce (makes more prevalent/probable) some behavior
-- Basis of operant conditioning
+- *Rewards* 
+  - External events that reinforce (make more prevalent/probable) some behavior
+- Basis of [operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning)
 
 ---
 
@@ -297,7 +343,7 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 -- @Ashikkerib2007-su
 
-## Where how do these arise?
+## Where & how do these arise?
 
 - Milner and Olds [@milner_discovery_1989](http://doi.org/10.1016/S0149-7634(89)80013-2)
   - discovered 'rewarding' power of electrical self-stimulation
@@ -370,7 +416,7 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 :::
 ::::
 
-## Inputs to DA network
+## Inputs
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -440,7 +486,7 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 -- @Lachenmeier2015-mm
 
-## Summing up
+## Interim summary
 
 - Types of pleasure activate overlapping areas
 - Pleasure/happiness engage distributed brain network
@@ -457,9 +503,17 @@ Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: AC
 
 ## Main points
 
-- Emotion circuits in the CNS widely distributed
+:::: {.columns}
+::: {.column width=60%}
+- *Feelings* only one part of emotion
+- Emotion circuits in the CNS widely distributed, interconnected
 - Emotion circuits involve multiple NTs
 - No simple association among feelings, brain activation, & neurotransmitter release
+:::
+::: {.column width=40%}
+![@Finck2025-pd](https://m.media-amazon.com/images/I/71d51wZ+fDL._SY522_.jpg)
+:::
+::::
 
 ## Next time
 
