@@ -8,6 +8,10 @@ fig-align: "center"
 
 ---
 
+{{< audio file="../snd/brain_boxing.m4a" caption="Sample Audio File" >}}
+
+---
+
 <!-- Happiness from "You're a Good Man Charlie Brown" -->
 
 {{< video https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s width="100%" height="70%" >}}
