@@ -406,7 +406,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes",
     "title": "Emotion I",
     "section": "Competing views on causes",
-    "text": "Competing views on causes\n\nJames-Lange\n\nPhysiological response -&gt; subjective feelings\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  P ---&gt; F[Fear]\n  M ---&gt; R[Run]",
+    "text": "Competing views on causes\n\nJames-Lange theory (Wikipedia contributors, 2025a)\nCannon-Bard theory (Wikipedia contributors, 2025b)\nTwo factor (Singer/Schacter) theory (Wikipedia contributors, 2025c)",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -417,7 +417,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes-1",
     "title": "Emotion I",
     "section": "Competing views on causes",
-    "text": "Competing views on causes\n\nCannon-Bard\n\nSevering CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged\nPhysiological states slow, don’t differentiate among emotions\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; F[Fear]\n  M ---&gt; R[Run]",
+    "text": "Competing views on causes\n\n\n\nCannon-Bard\n\nSevering CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged\nPhysiological states slow, don’t differentiate among emotions\n\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; F[Fear]\n  M ---&gt; R[Run]",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -736,7 +736,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#about",
     "title": "Emotion I",
     "section": "About",
-    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.9.2.418.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version r Sys.getenv(\"RSTUDIO_VER\").\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -747,7 +747,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#references",
     "title": "Emotion I",
     "section": "References",
-    "text": "References\n\n\n\n\nashikkerib. (2007, December). Brain mechanisms of pleasure and addiction. Youtube. Retrieved from https://www.youtube.com/watch?v=de_b7k9kQp0\n\n\nCock, V. C. D., Vidailhet, M., & Arnulf, I. (2008). Sleep disturbances in patients with parkinsonism. Nature Clinical Practice Neurology, 4(5), 254–266. https://doi.org/10.1038/ncpneuro0775\n\n\nDailey, M. N., Cottrell, G. W., Padgett, C., & Adolphs, R. (2002). EMPATH: A neural network that categorizes facial expressions. Journal of Cognitive Neuroscience, 14, 1158–1173. https://doi.org/10.1162/089892902760807177\n\n\nDarwin, C. (2012). The expression of the emotions in man and animals. CreateSpace Independent Publishing Platform. Retrieved from https://www.amazon.com/Expression-Emotions-Man-Animals/dp/1470188880\n\n\nFinck, L. (2025). Mixed feelings. Penguin Young Readers.\n\n\nFlores, Á., Maldonado, R., & Berrendero, F. (2013). Cannabinoid-hypocretin cross-talk in the central nervous system: What we know so far. Neuropharmacology, 7, 256. https://doi.org/10.3389/fnins.2013.00256\n\n\nHarrison, N. A., Gray, M. A., Gianaros, P. J., & Critchley, H. D. (2010). The embodiment of emotional feelings in the brain. J. Neurosci., 30(38), 12878–12884. https://doi.org/10.1523/JNEUROSCI.1725-10.2010\n\n\nHeath, R. G. (1963). Electrical self-stimulation of the brain in man. American Journal of Psychiatry, 120(6), 571–577. https://doi.org/10.1176/ajp.120.6.571\n\n\nHu, H. (2016). Reward and aversion. Annual Review of Neuroscience, 39, 297–324. https://doi.org/10.1146/annurev-neuro-070815-014106\n\n\nKohls, G., Chevallier, C., Troiani, V., & Schultz, R. T. (2012). Social ‘wanting’dysfunction in autism: Neurobiological underpinnings and treatment implications. Journal of Neurodevelopmental Disorders, 4(10), 1–20. https://doi.org/10.1186/1866-1955-4-10\n\n\nKringelbach, M. L., & Berridge, K. C. (2009). Towards a functional neuroanatomy of pleasure and happiness. Trends in Cognitive Sciences, 13(11), 479–487.\n\n\nLachenmeier, D. W., & Rehm, J. (2015). Comparative risk assessment of alcohol, tobacco, cannabis and other illicit drugs using the margin of exposure approach. Scientific Reports, 5, 8126. https://doi.org/10.1038/srep08126\n\n\nLeventhal, H., & Scherer, K. (1987). The relationship of emotion to cognition: A functional approach to a semantic controversy. Cognition & Emotion, 1, 3–28. https://doi.org/10.1080/02699938708408361\n\n\nLindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. Behav. Brain Sci., 35(3), 121–143. https://doi.org/10.1017/S0140525X11000446\n\n\nMilner, P. M. (1989). The discovery of self-stimulation and other stories. Neuroscience & Biobehavioral Reviews, 13(2–3), 61–67. https://doi.org/10.1016/S0149-7634(89)80013-2\n\n\nNestler, E. J., & Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. Biological Psychiatry, 59(12), 1151–1159. https://doi.org/10.1016/j.biopsych.2005.09.018\n\n\nNumber1AnimationFan. (2007). \"Happiness\" from \"you’re a good man, charlie brown!\". YouTube. Retrieved from https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s\n\n\nNummenmaa, L., Glerean, E., Hari, R., & Hietanen, J. K. (2014). Bodily maps of emotions. Proceedings of the National Academy of Sciences of the United States of America, 111(2), 646–651. https://doi.org/10.1073/pnas.1321664111\n\n\nPixar. (2014, December). Inside out - official US trailer. YouTube. Retrieved from https://www.youtube.com/watch?v=yRUAzGQ3nSY\n\n\nPlutchik, R. (1980). Emotion: A psychoevolutionary synthesis. Harpercollins College Division.\n\n\nScherer, K. R. (2005). What are emotions? And how can they be measured? Social Sciences Information. Information Sur Les Sciences Sociales, 44, 695–729. https://doi.org/10.1177/0539018405058216\n\n\nSiegel, E. H., Sands, M. K., Van den Noortgate, W., Condon, P., Chang, Y., Dy, J., … Barrett, L. F. (2018). Emotion fingerprints or emotion populations? A meta-analytic investigation of autonomic features of emotion categories. Psychological Bulletin, 144(4), 343–393. https://doi.org/10.1037/bul0000128\n\n\nWatabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. Annual Review of Neuroscience, 40, 373–394. https://doi.org/10.1146/annurev-neuro-072116-031109",
+    "text": "References\n\n\n\n\nashikkerib. (2007, December). Brain mechanisms of pleasure and addiction. Youtube. Retrieved from https://www.youtube.com/watch?v=de_b7k9kQp0\n\n\nCock, V. C. D., Vidailhet, M., & Arnulf, I. (2008). Sleep disturbances in patients with parkinsonism. Nature Clinical Practice Neurology, 4(5), 254–266. https://doi.org/10.1038/ncpneuro0775\n\n\nDailey, M. N., Cottrell, G. W., Padgett, C., & Adolphs, R. (2002). EMPATH: A neural network that categorizes facial expressions. Journal of Cognitive Neuroscience, 14, 1158–1173. https://doi.org/10.1162/089892902760807177\n\n\nDarwin, C. (2012). The expression of the emotions in man and animals. CreateSpace Independent Publishing Platform. Retrieved from https://www.amazon.com/Expression-Emotions-Man-Animals/dp/1470188880\n\n\nFinck, L. (2025). Mixed feelings. Penguin Young Readers.\n\n\nFlores, Á., Maldonado, R., & Berrendero, F. (2013). Cannabinoid-hypocretin cross-talk in the central nervous system: What we know so far. Neuropharmacology, 7, 256. https://doi.org/10.3389/fnins.2013.00256\n\n\nHarrison, N. A., Gray, M. A., Gianaros, P. J., & Critchley, H. D. (2010). The embodiment of emotional feelings in the brain. J. Neurosci., 30(38), 12878–12884. https://doi.org/10.1523/JNEUROSCI.1725-10.2010\n\n\nHeath, R. G. (1963). Electrical self-stimulation of the brain in man. American Journal of Psychiatry, 120(6), 571–577. https://doi.org/10.1176/ajp.120.6.571\n\n\nHu, H. (2016). Reward and aversion. Annual Review of Neuroscience, 39, 297–324. https://doi.org/10.1146/annurev-neuro-070815-014106\n\n\nKohls, G., Chevallier, C., Troiani, V., & Schultz, R. T. (2012). Social ‘wanting’dysfunction in autism: Neurobiological underpinnings and treatment implications. Journal of Neurodevelopmental Disorders, 4(10), 1–20. https://doi.org/10.1186/1866-1955-4-10\n\n\nKringelbach, M. L., & Berridge, K. C. (2009). Towards a functional neuroanatomy of pleasure and happiness. Trends in Cognitive Sciences, 13(11), 479–487.\n\n\nLachenmeier, D. W., & Rehm, J. (2015). Comparative risk assessment of alcohol, tobacco, cannabis and other illicit drugs using the margin of exposure approach. Scientific Reports, 5, 8126. https://doi.org/10.1038/srep08126\n\n\nLeventhal, H., & Scherer, K. (1987). The relationship of emotion to cognition: A functional approach to a semantic controversy. Cognition & Emotion, 1, 3–28. https://doi.org/10.1080/02699938708408361\n\n\nLindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., & Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. Behav. Brain Sci., 35(3), 121–143. https://doi.org/10.1017/S0140525X11000446\n\n\nMilner, P. M. (1989). The discovery of self-stimulation and other stories. Neuroscience & Biobehavioral Reviews, 13(2–3), 61–67. https://doi.org/10.1016/S0149-7634(89)80013-2\n\n\nNestler, E. J., & Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. Biological Psychiatry, 59(12), 1151–1159. https://doi.org/10.1016/j.biopsych.2005.09.018\n\n\nNumber1AnimationFan. (2007). \"Happiness\" from \"you’re a good man, charlie brown!\". YouTube. Retrieved from https://www.youtube.com/watch?v=hKKjqzkGo3o&t=85s\n\n\nNummenmaa, L., Glerean, E., Hari, R., & Hietanen, J. K. (2014). Bodily maps of emotions. Proceedings of the National Academy of Sciences of the United States of America, 111(2), 646–651. https://doi.org/10.1073/pnas.1321664111\n\n\nPixar. (2014, December). Inside out - official US trailer. YouTube. Retrieved from https://www.youtube.com/watch?v=yRUAzGQ3nSY\n\n\nPlutchik, R. (1980). Emotion: A psychoevolutionary synthesis. Harpercollins College Division.\n\n\nScherer, K. R. (2005). What are emotions? And how can they be measured? Social Sciences Information. Information Sur Les Sciences Sociales, 44, 695–729. https://doi.org/10.1177/0539018405058216\n\n\nSiegel, E. H., Sands, M. K., Van den Noortgate, W., Condon, P., Chang, Y., Dy, J., … Barrett, L. F. (2018). Emotion fingerprints or emotion populations? A meta-analytic investigation of autonomic features of emotion categories. Psychological Bulletin, 144(4), 343–393. https://doi.org/10.1037/bul0000128\n\n\nStoop, T. B., Moriarty, P. M., Wolf, R., Gilmore, R. O., Perez-Edgar, K., Scherf, K. S., … Cole, P. M. (2020). I know that voice! Mothers’ voices influence children’s perceptions of emotional intensity. Journal of Experimental Child Psychology, 199, 104907. https://doi.org/10.1016/j.jecp.2020.104907\n\n\nWatabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. Annual Review of Neuroscience, 40, 373–394. https://doi.org/10.1146/annurev-neuro-072116-031109\n\n\nWikipedia contributors. (2025a, September 9). James–Lange theory. Retrieved from https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory\n\n\nWikipedia contributors. (2025b, September 27). Cannon–Bard theory. Retrieved from https://en.wikipedia.org/wiki/Cannon%E2%80%93Bard_theory\n\n\nWikipedia contributors. (2025c, November 5). Two-factor theory of emotion. Retrieved from https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -10048,7 +10048,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#competing-views-on-causes-2",
     "title": "Emotion I",
     "section": "Competing views on causes",
-    "text": "Competing views on causes\n\nSchacter-Singer\n\nEmotion states == Physiological arousal + cognitive appraisal\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; A[Appraisal]\n  A ---&gt; F[Fear]\n  P ---&gt; F\n  P ---&gt; A\n  M ---&gt; R[Run]",
+    "text": "Competing views on causes\n\n\n\nTwo factor (Singer-Schacter) theory\n\nPhysiological arousal + cognitive appraisal -&gt; Emotion states\nWikipedia contributors (2025b)\n\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; A[Appraisal]\n  A ---&gt; F[Fear]\n  P ---&gt; F\n  P ---&gt; A\n  M ---&gt; R[Run]",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -10059,7 +10059,84 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-1",
     "title": "Emotion I",
     "section": "Emotion in action",
+    "text": "Emotion in action\nWhat emotion?\n\n\nYour browser does not support the audio tag.\n\n\nStoop et al. (2020)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-2",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-2",
+    "title": "Emotion I",
+    "section": "Emotion in action",
+    "text": "Emotion in action\nHow about now?\n\n\nYour browser does not support the audio tag.\n\n\nStoop et al. (2020)",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-3",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-3",
+    "title": "Emotion I",
+    "section": "Emotion in action",
     "text": "Emotion in action",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#cannon-bard",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#cannon-bard",
+    "title": "Emotion I",
+    "section": "Cannon-Bard",
+    "text": "Cannon-Bard\n\n\n\nSevering CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged\nPhysiological states slow, don’t differentiate among emotions\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; F[Fear]\n  M ---&gt; R[Run]",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#two-factor",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#two-factor",
+    "title": "Emotion I",
+    "section": "Two factor",
+    "text": "Two factor\n\n\n\nAlso known as Singer-Schacter theory\nPhysiological arousal + cognitive appraisal -&gt; Emotion states\nWikipedia contributors (2025b)\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; A[Appraisal]\n  A ---&gt; F[Fear]\n  P ---&gt; F\n  P ---&gt; A\n  M ---&gt; R[Run]",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#james-lange-theory",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#james-lange-theory",
+    "title": "Emotion I",
+    "section": "James-Lange theory",
+    "text": "James-Lange theory\n\nPhysiological response -&gt; subjective feelings\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  P ---&gt; F[Fear]\n  M ---&gt; R[Run]",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#cannon-bard-theory",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#cannon-bard-theory",
+    "title": "Emotion I",
+    "section": "Cannon-Bard theory",
+    "text": "Cannon-Bard theory\n\n\n\nPhysiology and feelings distinct\nHypothalamus (physiological response); dorsal thalamus (feelings)\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; F[Fear]\n  M ---&gt; R[Run]",
+    "crumbs": [
+      "Slides",
+      "Wk 11 • Thu Nov 6"
+    ]
+  },
+  {
+    "objectID": "slides/wk-11-2025-11-06-emotion-I.html#two-factor-theory",
+    "href": "slides/wk-11-2025-11-06-emotion-I.html#two-factor-theory",
+    "title": "Emotion I",
+    "section": "Two factor theory",
+    "text": "Two factor theory\n\n\n\nAlso known as Singer-Schacter theory\nPhysiological arousal + cognitive appraisal -&gt; Emotion states\n\n\n\n\n\n\n\nflowchart LR\n  B[Bear] ---&gt; M[Me]\n  M ---&gt; P[Physio]\n  M ---&gt; A[Appraisal]\n  A ---&gt; F[Fear]\n  P ---&gt; F\n  P ---&gt; A\n  M ---&gt; R[Run]",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"

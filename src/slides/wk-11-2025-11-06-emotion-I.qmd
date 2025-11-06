@@ -161,8 +161,13 @@ flowchart LR
 
 ## Competing views on causes
 
-- James-Lange
-    - Physiological response -> subjective feelings
+- James-Lange theory [@Wikipedia-contributors2025-xn]
+- Cannon-Bard theory [@Wikipedia-contributors2025-wp]
+- Two factor (Singer/Schacter) theory [@Wikipedia-contributors2025-er]
+
+## [James-Lange](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory) theory
+
+- Physiological response -> subjective feelings
     
 ```{mermaid}
 flowchart LR
@@ -172,12 +177,14 @@ flowchart LR
   M ---> R[Run]
 ```
 
-## Competing views on causes
+## [Cannon-Bard](https://en.wikipedia.org/wiki/Cannon%E2%80%93Bard_theory)
 
-- Cannon-Bard
-    - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
-    - Physiological states slow, don't differentiate among emotions
-    
+:::: {.columns}
+::: {.column width=50%}
+- Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
+- Physiological states slow, don't differentiate among emotions
+:::
+::: {.column width=50%}
 ```{mermaid}
 flowchart LR
   B[Bear] ---> M[Me]
@@ -185,12 +192,35 @@ flowchart LR
   M ---> F[Fear]
   M ---> R[Run]
 ```
+:::
+::::
 
-## Competing views on causes
+## [Cannon-Bard](https://en.wikipedia.org/wiki/Cannon%E2%80%93Bard_theory) theory
 
-- Schacter-Singer
-    - Emotion states == Physiological arousal + cognitive appraisal
-    
+:::: {.columns}
+::: {.column width=50%}
+- Physiology and feelings distinct
+- Hypothalamus (physiological response); dorsal thalamus (feelings)
+:::
+::: {.column width=50%}
+```{mermaid}
+flowchart LR
+  B[Bear] ---> M[Me]
+  M ---> P[Physio]
+  M ---> F[Fear]
+  M ---> R[Run]
+```
+:::
+::::
+
+## [Two factor](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion) theory
+
+:::: {.columns}
+::: {.column width=50%}
+- Also known as Singer-Schacter theory
+- Physiological arousal + cognitive appraisal -> Emotion states
+:::
+::: {.column width=50%}
 ```{mermaid}
 flowchart LR
   B[Bear] ---> M[Me]
@@ -201,6 +231,8 @@ flowchart LR
   P ---> A
   M ---> R[Run]
 ```
+:::
+::::
 
 ## Physiological states
 
@@ -267,9 +299,29 @@ flowchart LR
 
 ## Emotion in action
 
-```{r, out.width="100%", fig.cap="https://www.biomotionlab.ca/html5-bml-walker"}
-knitr::include_url("https://www.biomotionlab.ca/html5-bml-walker", height="600px")
-```
+What emotion?
+
+<audio controls>
+
+<source src="../include/snd/9999-ang-chk-a.wav" type="audio/wav">
+Your browser does not support the audio tag.
+
+</audio>
+
+![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg)
+
+## Emotion in action
+
+How about now?
+
+<audio controls>
+
+<source src="../include/snd/9999-hap-chk-a.wav" type="audio/wav">
+Your browser does not support the audio tag. 
+
+</audio>
+
+![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg)
 
 ## Feeling emotion
 
