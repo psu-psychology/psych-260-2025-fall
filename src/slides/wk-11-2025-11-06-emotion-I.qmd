@@ -149,24 +149,81 @@ scientists or laymen alike.
 
 -- @Harrison2010-nx
 
+## What causes emotion?
+
+```{mermaid}
+flowchart LR
+  B[Bear] ---> M[Me]
+  M ---> F[Fear]
+  F ---> P[Physio]
+  F ---> R[Run]
+```
+
 ## Competing views on causes
 
 - James-Lange
     - Physiological response -> subjective feelings
+    
+```{mermaid}
+flowchart LR
+  B[Bear] ---> M[Me]
+  M ---> P[Physio]
+  P ---> F[Fear]
+  M ---> R[Run]
+```
+
+## Competing views on causes
+
 - Cannon-Bard
     - Severing CNS (spinal cord & vagus, Xth n) from rest of body leaves emotional expression unchanged
     - Physiological states slow, don't differentiate among emotions
     
+```{mermaid}
+flowchart LR
+  B[Bear] ---> M[Me]
+  M ---> P[Physio]
+  M ---> F[Fear]
+  M ---> R[Run]
+```
+
 ## Competing views on causes
 
 - Schacter-Singer
     - Emotion states == Physiological arousal + cognitive appraisal
+    
+```{mermaid}
+flowchart LR
+  B[Bear] ---> M[Me]
+  M ---> P[Physio]
+  M ---> A[Appraisal]
+  A ---> F[Fear]
+  P ---> F
+  P ---> A
+  M ---> R[Run]
+```
 
 ## Physiological states
 
+:::: {.columns}
+::: {.column width=50%}
 >The classical view of emotion hypothesizes that certain emotion categories have a specific autonomic nervous system (ANS) “fingerprint” that is distinct from other categories... 
 
 -- @Siegel2018-ab
+:::
+::: {.column width=50%}
+::: {.fragment}
+```{mermaid}
+flowchart LR
+  F[fear] ---> H(heart rate)
+  F ---> B(blood pressure)
+  P[happiness] ---> H
+  P ---> B
+  A[anger] ---> H
+  A ---> B
+```
+:::
+::: 
+::::
 
 ## Physiological states
 
@@ -176,7 +233,7 @@ scientists or laymen alike.
 - Do they distinguish among emotion categories?
 :::
 ::: {.column width=50%}
-![@Siegel2018-ab Table 9.](../include/img/siegle-2018-tbl-09.png){fig-align="right"}
+![@Siegel2018-ab Table 9.](../include/img/siegle-2018-tbl-09.png){fig-align="right" width="75%"}
 :::
 ::::
 
@@ -203,6 +260,10 @@ scientists or laymen alike.
 >These findings suggest that **autonomic nervous system changes during emotion are less like a bodily fingerprint and more like a population of variable, context sensitive instances**. 
 
 -- @Siegel2018-ab
+
+## Emotion in action
+
+![@Dailey2002-ov Figure 1](../include/img/dailey-2002-fig-01.png){fig-align="center"}
 
 ## Emotion in action
 

@@ -143,6 +143,9 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -325,6 +328,25 @@ Rick Gilmore
 </blockquote>
 <p>– <span class="citation" data-cites="Harrison2010-nx">Harrison, Gray, Gianaros, &amp; Critchley (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></p>
 </section>
+<section id="what-causes-emotion-1" class="slide level2">
+<h2>What causes emotion?</h2>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  B[Bear] ---&gt; M[Me]
+  M ---&gt; F[Fear]
+  F ---&gt; P[Physio]
+  F ---&gt; R[Run]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
 <section id="competing-views-on-causes" class="slide level2">
 <h2>Competing views on causes</h2>
 <ul>
@@ -332,14 +354,51 @@ Rick Gilmore
 <ul>
 <li>Physiological response -&gt; subjective feelings</li>
 </ul></li>
+</ul>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  B[Bear] ---&gt; M[Me]
+  M ---&gt; P[Physio]
+  P ---&gt; F[Fear]
+  M ---&gt; R[Run]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="competing-views-on-causes-1" class="slide level2">
+<h2>Competing views on causes</h2>
+<ul>
 <li>Cannon-Bard
 <ul>
 <li>Severing CNS (spinal cord &amp; vagus, Xth n) from rest of body leaves emotional expression unchanged</li>
 <li>Physiological states slow, don’t differentiate among emotions</li>
 </ul></li>
 </ul>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  B[Bear] ---&gt; M[Me]
+  M ---&gt; P[Physio]
+  M ---&gt; F[Fear]
+  M ---&gt; R[Run]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 </section>
-<section id="competing-views-on-causes-1" class="slide level2">
+<section id="competing-views-on-causes-2" class="slide level2">
 <h2>Competing views on causes</h2>
 <ul>
 <li>Schacter-Singer
@@ -347,13 +406,56 @@ Rick Gilmore
 <li>Emotion states == Physiological arousal + cognitive appraisal</li>
 </ul></li>
 </ul>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  B[Bear] ---&gt; M[Me]
+  M ---&gt; P[Physio]
+  M ---&gt; A[Appraisal]
+  A ---&gt; F[Fear]
+  P ---&gt; F
+  P ---&gt; A
+  M ---&gt; R[Run]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 </section>
 <section id="physiological-states" class="slide level2">
 <h2>Physiological states</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <blockquote>
 <p>The classical view of emotion hypothesizes that certain emotion categories have a specific autonomic nervous system (ANS) “fingerprint” that is distinct from other categories…</p>
 </blockquote>
 <p>– <span class="citation" data-cites="Siegel2018-ab">Siegel et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
+</div><div class="column" style="width:50%;">
+<div class="fragment">
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  F[fear] ---&gt; H(heart rate)
+  F ---&gt; B(blood pressure)
+  P[happiness] ---&gt; H
+  P ---&gt; B
+  A[anger] ---&gt; H
+  A ---&gt; B
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
 </section>
 <section id="physiological-states-1" class="slide level2">
 <h2>Physiological states</h2>
@@ -366,7 +468,7 @@ Rick Gilmore
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-right">
 <figure>
-<p><img data-src="../include/img/siegle-2018-tbl-09.png"></p>
+<p><img data-src="../include/img/siegle-2018-tbl-09.png" style="width:75.0%"></p>
 <figcaption><span class="citation" data-cites="Siegel2018-ab">Siegel et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span> Table 9.</figcaption>
 </figure>
 </div>
@@ -399,6 +501,10 @@ Rick Gilmore
 <p>– <span class="citation" data-cites="Siegel2018-ab">Siegel et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
 </section>
 <section id="emotion-in-action" class="slide level2">
+<h2>Emotion in action</h2>
+
+<img data-src="../include/img/dailey-2002-fig-01.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Dailey2002-ov">Dailey, Cottrell, Padgett, &amp; Adolphs (<a href="#/references" role="doc-biblioref" onclick="">2002</a>)</span> Figure 1</p></section>
+<section id="emotion-in-action-1" class="slide level2">
 <h2>Emotion in action</h2>
 <div class="cell">
 <iframe src="https://www.biomotionlab.ca/html5-bml-walker" width="100%" height="600px" data-external="1">
@@ -842,6 +948,9 @@ ashikkerib. (2007, December). Brain mechanisms of pleasure and addiction. Youtub
 </div>
 <div id="ref-cock_sleep_2008" class="csl-entry" role="listitem">
 Cock, V. C. D., Vidailhet, M., &amp; Arnulf, I. (2008). Sleep disturbances in patients with parkinsonism. <em>Nature Clinical Practice Neurology</em>, <em>4</em>(5), 254–266. <a href="https://doi.org/10.1038/ncpneuro0775">https://doi.org/10.1038/ncpneuro0775</a>
+</div>
+<div id="ref-Dailey2002-ov" class="csl-entry" role="listitem">
+Dailey, M. N., Cottrell, G. W., Padgett, C., &amp; Adolphs, R. (2002). <span>EMPATH</span>: A neural network that categorizes facial expressions. <em>Journal of Cognitive Neuroscience</em>, <em>14</em>, 1158–1173. <a href="https://doi.org/10.1162/089892902760807177">https://doi.org/10.1162/089892902760807177</a>
 </div>
 <div id="ref-Darwin2012-ht" class="csl-entry" role="listitem">
 Darwin, C. (2012). <em>The expression of the emotions in man and animals</em>. CreateSpace Independent Publishing Platform. Retrieved from <a href="https://www.amazon.com/Expression-Emotions-Man-Animals/dp/1470188880">https://www.amazon.com/Expression-Emotions-Man-Animals/dp/1470188880</a>
