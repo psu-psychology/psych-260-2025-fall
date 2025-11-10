@@ -60,6 +60,8 @@ website:
             href: slides/wk-11-2025-11-06-emotion-I.qmd
           - text: "Wk 12 • Tue Nov 11"
             href: slides/wk-12-2025-11-11-emotion-II.qmd
+          - text: "Wk 12 • Thu Nov 13"
+            href:  slides/wk-12-2025-11-13-sensory-systems.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src

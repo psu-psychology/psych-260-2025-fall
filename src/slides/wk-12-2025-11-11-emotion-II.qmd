@@ -8,12 +8,16 @@ fig-align: "center"
 
 ---
 
+{{< video https://www.youtube.com/watch?v=mMTkujnftIs&list=RDmMTkujnftIs&start_radio=1 width="100%" height="70%" >}}
+
+-- @Musikladen2020-kq
+
 ## Today's topics
 
 - Quiz 3
 - Fear & stress
 
-# Warm up
+# Quiz 3
 
 # Fear and stress
 
@@ -27,31 +31,41 @@ fig-align: "center"
 
 ![http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg](../include/img/ledoux-lab-fear_conditioning.jpg)
 
-## Rats vs. human
+## Rat vs. human
 
 ![Adapted from @davis1992role](../include/img/davis-anxiety-rat-vs-human.jpg)
 
-## Amygdala role
+## Amygdala
 
 :::: {.columns}
 ::: {.column width=50%}
-- Inputs from
-  + Thalamus ("direct" or "fast"")
-  + Cerebral cortex ("indirect" or "slow")
+- From Greek 'almond'
+- medial temporal lobe (bilateral)
+:::
+::: {.column width=50%}
+![<https://www.calacademy.org/explore-science/social-network%E2%80%94in-your-head>](https://www.calacademy.org/sites/default/files/sciencetoday/wp-content/uploads/2010/12/Amygdala.jpg)
+:::
+::::
+
+## Amygdala inputs
+
+:::: {.columns}
+::: {.column width=50%}
++ Thalamus ("direct" or "fast"")
++ Cerebral cortex ("indirect" or "slow")
 :::
 ::: {.column width=50%}
 ![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
 :::
 ::::
 
-## Amygdala role
+## Amygdala outputs
 
 :::: {.columns}
 ::: {.column width=50%}
-- Outputs to
-  + CG (central gray matter) of tegmentum (ventral midbrain): behavior
-  + LH (lateral hyp): ANS
-  + PVN (paraventricular n. of hypothalamus): hormones
++ CG (central gray matter) of tegmentum (ventral midbrain): behavior
++ LH (lateral hyp): ANS
++ PVN (paraventricular n. of hypothalamus): hormones
 :::
 ::: {.column width=50%}
 ![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
@@ -89,13 +103,17 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- Amygdala connected to other 'affective' nodes in neural network
-- Emotion not just about subjective feelings
+- Amygdala connected to other 'affective' nodes
+- Emotion more than subjective feelings (see [2025-11-06](wk-11-2025-11-06-emotion-I.qmd))
 :::
 ::: {.column width=50%}
 ![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
 :::
 ::::
+
+## Amygdala meme
+
+![https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5](../include/img/amygdala-what-doesnt-kill-you.png)
 
 ## Amygdala as processing hub
 
@@ -105,53 +123,66 @@ fig-align: "center"
 
 ![@ledoux_rethinking_2012 Figure 3](../include/img/ledoux-2012-f3.jpg)
 
-## Emotions are global physiological + behavioral "states" 
-
-![@ledoux_rethinking_2012 Figure 4](../include/img/ledoux-2012-f4.jpg)
-
-## Amygdala in "folk" neuroscience
+## Emotions are 
 
 :::: {.columns}
 ::: {.column width=50%}
-- Not the fear center
+- global states
+- physiological responses + behaviors
 :::
 ::: {.column width=50%}
-![](https://i.imgur.com/FntPYqz.jpeg)
+![@ledoux_rethinking_2012 Figure 4](../include/img/ledoux-2012-f4.jpg)
 :::
 ::::
 
-## Stress 
+## From fear to stress...
 
 ## Stressors linked with biological imperatives
 
+:::: {.columns}
+::: {.column width=50%}
 - Sustenance
     + Hunger, thirst
 - Well-being/defense
     + Threat
-    
-## Stressors linked with biological imperatives
-
+:::
+::: {.column width=50%}
 - Reproduction
     + Rejection
 - Affiliation
     + Loneliness
-     
+
+:::
+::::
+
+::: {.fragment}
+- Many human stressors have social origins
+:::
+
 ## Stress and the brain
 
 ![@mcewen_physiology_2007 Figure 1](../include/img/mcewen-2007-f1.jpg)
 
 ## Homeostasis
 
-- Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij]
-- "Homo" means same
-- No consistent physiological targets
+- == maintenance of stable internal environment
+- e,g., Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij]
+- But do animals really require stable internal environments or *adaptive* ones?
   
 ## Allostasis
 
-- [@Sterling1988-rl]
+:::: {.columns}
+::: {.column width=50%}
+- @Sterling1988-rl
+- Adaptation to *changing* external conditions
 - Regulation is active process
 - Regulation is anticipatory, varies by circumstance
 - Targets vary [@Ramsay2014-la]
+:::
+::: {.column width=50%}
+![https://en.wikipedia.org/wiki/Paula_Radcliffe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Paula_Radcliffe_NYC_Marathon_2008_cropped.jpg/500px-Paula_Radcliffe_NYC_Marathon_2008_cropped.jpg){width="50%"}
+:::
+::::
 
 ## Stress and the brain
 
@@ -170,15 +201,27 @@ fig-align: "center"
 :::
 ::::
 
-## Glucocorticoids
+## Glucocorticoid release
 
-- ACTH (hypothalamus) -> CRH (anterior pituitary) ->
+
+
+:::: {.columns}
+::: {.column width=50%}
 - Adrenal cortex releases cortisol
   - Increases blood glucose levels
   - Suppresses immune system
   - Reduces inflammation
   - Aids in metabolism
 + Receptors in brain and body
+:::
+::: {.column width=50%}
+![@Wikipedia-contributors2025-sy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg/700px-HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg.png)
+:::
+::::
+
+## Glucocorticoids
+
+![@McEwen2013-bw](../include/img/mcewen-2013-fig-01.png)
 
 ## Glucocorticoids
 
@@ -203,13 +246,16 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 
 ## Glucocorticoid cascade hypothesis
 
-- [@Sapolsky2016-hs]
+- @Sapolsky2016-hs
+  - Some non-human animals demonstrate sensitivity to conspecifics' distress
   - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
   - Rats will cooperate to release distressed cage mate, foregoing food rewards
 
 ---
 
 ![](../include/img/zebras-sapolsky.jpg)
+
+- Zebras don't "worry" about predation by lions
 
 ## Glucocorticoid cascade hypothesis
 
@@ -219,6 +265,18 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 # Wrap up
 
 ## Main points
+
+- Fear responses include behavior, physiology, internal states
+- Parallels between human and non-human animal responses support
+- Like happiness and pleasure, fear engages network of brain systems
+- Amygdala important node in this network, but not exclusive
+
+## Main points
+
+- Stressors arise from multiple sources
+- Acute (short-term) vs. chronic (long-term) stress distinction crucial
+- Corticosteroid receptors found across the CNS
+- Some animals experience others' distress as stressful
 
 ## Next time
 
