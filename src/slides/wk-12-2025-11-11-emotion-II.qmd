@@ -12,6 +12,12 @@ fig-align: "center"
 
 -- @Musikladen2020-kq
 
+---
+
+{{< video https://www.youtube.com/watch?v=McB9sJqHFx4&list=RDMcB9sJqHFx4&start_radio=1 width="100%” height="70%” >}}
+
+-- @Cocker-Topic2018-kr
+
 ## Today's topics
 
 - Quiz 3
@@ -192,8 +198,6 @@ fig-align: "center"
     + Short duration
     + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
-    - Brain detects threat
-    - Mobilizes physiological, behavioral responses
 :::
 ::: {.column width=50%}
 - vs. **Chronic** stress
@@ -202,8 +206,6 @@ fig-align: "center"
 ::::
 
 ## Glucocorticoid release
-
-
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -219,9 +221,6 @@ fig-align: "center"
 :::
 ::::
 
-## Glucocorticoids
-
-![@McEwen2013-bw](../include/img/mcewen-2013-fig-01.png)
 
 ## Glucocorticoids
 
@@ -235,6 +234,10 @@ fig-align: "center"
     - Reduces volume, connectivity in hippocampus
 - Hippocampus critical for long-term memory formation
     - Chronic stress impairs long-term memory
+    
+## Glucocorticoids
+
+![@McEwen2013-bw](../include/img/mcewen-2013-fig-01.png)
 
 ## Glucocorticoid cascade hypothesis
 
@@ -246,10 +249,8 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 
 ## Glucocorticoid cascade hypothesis
 
-- @Sapolsky2016-hs
-  - Some non-human animals demonstrate sensitivity to conspecifics' distress
-  - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
-  - Rats will cooperate to release distressed cage mate, foregoing food rewards
+- Phasic (short-term) vs. chronic (long-term)
+- *Physical* stress (hunger, thirst, injury, disease) vs. *psychological/social* stress
 
 ---
 
@@ -257,19 +258,25 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 
 - Zebras don't "worry" about predation by lions
 
-## Glucocorticoid cascade hypothesis
+## Social distress & empathy
 
-- Phasic (short-term) vs. chronic (long-term)
-- *Physical* stress (hunger, thirst, injury, disease) vs. *psychological/social* stress
+- @Sapolsky2016-hs
+  - Some non-human animals demonstrate sensitivity to conspecifics' distress
+  - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+  - Rats will cooperate to release distressed cage mate, foregoing food rewards
+
+## Non-human animal empathy
+
+![@de-Waal2017-ta Figure 2](../include/img/dewaal-2017-empathy-fig-02.png)
 
 # Wrap up
 
 ## Main points
 
 - Fear responses include behavior, physiology, internal states
-- Parallels between human and non-human animal responses support
+- Parallels between human and non-human animal responses
 - Like happiness and pleasure, fear engages network of brain systems
-- Amygdala important node in this network, but not exclusive
+- Amygdala key node in this network, but not exclusive
 
 ## Main points
 

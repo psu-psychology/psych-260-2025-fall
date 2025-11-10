@@ -63,15 +63,22 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## My smartphone and me...
 
-```{r, out.width="100%", fig.cap="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/02/Samsung-Galaxy-S23-Ultra-hands-on-10.jpg"}
-knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/02/Samsung-Galaxy-S23-Ultra-hands-on-10.jpg")
-```
+![](https://m.media-amazon.com/images/I/61qvRagAn9L._AC_SX679_.jpg){fig-align="center"}
 
 ## Smartphone design goals
 
+::: {.incremental}
 - What information do your users need to acquire? 
 - Why do they need to know it? In what context, for what purpose?
 - What types of information does your device need to gather, through which channels?
+:::
+
+::: {.fragment}
+::: {.callout-important}
+- Animal sensory systems not designed *per se*
+- Evolution via natural selection can look like design
+:::
+:::
 
 ## Smartphone sensors
 
@@ -100,7 +107,7 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 - Why do **I** need to know it? In what context & for what purpose?
 - What types of information do **I** need to gather, through which channels?
 
-## Dimensions of sensory processing
+## Types of sensory processing
 
 - *Interoceptive*
     + How am I?
@@ -142,20 +149,22 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
     
 ## From physics to psychology
 
+::: {.incremental}
 - What is the energy/chemical channel?
 - Channels carry different types of information about
     + *What* is out there?
     + *Where* is it located or moving?
-- Convey information at different rates, with varied precision
+- Channels convey information at different rates, with varied precision
 - Information often signaled by multiple sources
+:::
 
 ## Psychophysics
 
 :::: {.columns}
 ::: {.column width=60%}
 - Earliest field of scientific psychology, origins in mid-1800s
-- How precisely human observers detect physical properties?
-- Emphasizes quantitative relationships, careful measurement
+- How precisely do human observers detect physical properties?
+- Emphasizes quantitative relationships, precise measurement
 - More: @Wikipedia-contributors2025-gx
 :::
 ::: {.column width=40%}
@@ -172,8 +181,19 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ## Vision
 
+:::: {.columns}
+::: {.column width=50%}
 - Source: Electromagnetic radiation
     - Reflected from surfaces
+    
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/EM_Spectrum_Properties_edit.svg/1350px-EM_Spectrum_Properties_edit.svg.png)
+:::
+::::
+
+## Vision
+
 - What is it?
     - Shape, size, surface properties (color, texture, reflectance, etc.)
     - Wavelength/frequency, intensity
@@ -184,7 +204,17 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ## Audition
 
+:::: {.columns}
+::: {.column width=50%}
 - Source: Mechanical vibrations in air or water
+:::
+::: {.column width=50%}
+![](https://acoustics.byu.edu/images/Spectrum-of-Acoustics.jpg)
+:::
+::::
+
+## Audition
+
 - What is it?
     - Pattern of frequencies, amplitudes, durations
 - Where is it?
@@ -193,7 +223,17 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
     
 ## Chemosensation
 
-- Source: Chemicals in mouth, nasal cavity 
+:::: {.columns}
+::: {.column width=50%}
+- Source: Chemicals in mouth, nasal cavity, elsewhere 
+:::
+::: {.column width=50%}
+![@Bargmann2006-gr](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05402/MediaObjects/41586_2006_Article_BFnature05402_Fig2_HTML.jpg?as=webp)
+:::
+::::
+
+## Chemosensation
+
 - What is it?
     - Mixtures of chemicals
 - Where is it?
@@ -201,7 +241,17 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
     
 ## Somatosensation
 
+:::: {.columns}
+::: {.column width=50%}
 - Source: Thermal or mechanical stimulation (vibration/pressure) of skin
+:::
+::: {.column width=50%}
+![https://basicmedicalkey.com/the-somatosensory-system/](https://basicmedicalkey.com/wp-content/uploads/2016/07/B9780323073622500115_f07-02-9780323073622.jpg){width="75%"}
+:::
+::::
+
+## Somatosensation
+
 - What is it?
     - Shape, size, smoothness, mass, temperature, deformability: Pattern of stimulation
 - Where it it?
@@ -216,8 +266,7 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 - Energy levels
     - Receptors for hormones, NTs 
     - ANS responses
-- Temperature
-    - Receptors in skin, viscera
+
 :::
 ::: {.column width=50%}
 ![Figure 2 from @Namkung2017-gc](https://ars.els-cdn.com/content/image/1-s2.0-S0166223617300176-gr2.jpg)
@@ -228,9 +277,8 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 :::: {.columns}
 ::: {.column width=50%}
-- Mating interest
-    - Receptors for hormones, NTs 
-    - ANS responses
+- Temperature
+    - Receptors in skin, viscera
 - Body position & movement (proprioception)
     - Receptors in muscles, joints, skin
 :::
@@ -239,7 +287,7 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 :::
 ::::
 
-## Features of sensory signals & processing
+## Common features
 
 - Signals change across time and space
   - Consist of repeating patterns
@@ -249,17 +297,29 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ## Change across time
 
+:::: {.columns}
+::: {.column width=50%}
 - Tonic (sustained) vs. phasic (transient) responses
-
-![https://www.researchgate.net/figure/Two-types-of-receptions-differing-by-the-rate-of-adaptation-to-the-dynamical-stimulus-A_fig1_51231510](https://www.researchgate.net/publication/51231510/figure/fig1/AS:202984857313285@1425406769897/Two-types-of-receptions-differing-by-the-rate-of-adaptation-to-the-dynamical-stimulus-A.png)
+:::
+::: {.column width=50%}
+![https://humanphysiology.academy/Neurosciences%202015/Chapter%202/P.2.1%20Afferents.html](https://humanphysiology.academy/Neurosciences%202015/Images/4/phasic%20vs%20tonic%20generator%20potentials.jpg)
+:::
+::::
 
 ## Change across time
 
+:::: {.columns}
+::: {.column width=50%}
 - Adaptation
     + Decline in sensitivity with sustained stimulation 
     + Most sensory systems attuned to change
-    
-## Detecting change
+:::
+::: {.column width=50%}
+![https://hoeftvision.weebly.com/adaptation.html](https://hoeftvision.weebly.com/uploads/5/4/5/6/54566863/3371749_orig.gif)
+:::
+::::
+
+## Measuring sensitivity to change
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -283,7 +343,7 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 <iframe width="800px" height="800px" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity">
 </iframe>
     
-## Consist of repeating signals
+## Information consists of repeating signals
 
 - e.g., patterns
 + In space (textures)
@@ -324,14 +384,19 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 ::::
 
 ## Compare (>1) sensors located in different parts of the body
-    
+
+:::: {.columns}
+::: {.column width=50%}
 + Eyes
 + Ears
 + Skin surface
 + Nostrils
 - Tongue
-
+:::
+::: {.column width=50%}
 ![](https://images.unsplash.com/photo-1519699486208-1293e479cb98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+:::
+::::
 
 ## ["Receptive fields"](https://en.wikipedia.org/wiki/Receptive_field)
 
@@ -343,15 +408,21 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ## Visual
 
+:::: {.columns}
+::: {.column width=50%}
 ![https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/](https://openbooks.lib.msu.edu/app/uploads/sites/6/2021/03/RetinalReceptiveField.png)
+:::
+::: {.column width=50%}
+![https://wandell.github.io/FOV-1995/](https://wandell.github.io/FOV-1995/wp-content/uploads/2012/02/dir.selective.png)
 
-![https://foundationsofvision.stanford.edu/chapter-6-the-cortical-representation/](https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/orientedRF-1024x602.png)
+:::
+::::
 
 ## Topographic maps
 
 ## Auditory: Tonotopic maps
 
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2830355/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2830355/bin/nihms172043f3.jpg)
+![@Humphries2010-hi Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/77e5/2830355/d2c2a836b94d/nihms172043f3.jpg)
 
 ## Visual: Retinotopic maps
 
@@ -368,21 +439,11 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ![@dougherty_visual_2003 Figure 1](https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/933499/jov-3-10-1-fig001.jpeg?Expires=1763503132&Signature=OxiVCoyJMgfEc8bAyJEUQJ3KMkvObT4lUymvb5NZBT9MyBALGAToZ-nymXPxn2A3-9VlmJP-TfM5naE75nP4t7diS-h9PmUw~xeRMRsu-XxbB7ez4mYIPmTTN9vtsA~WczKK0Fn9twx1pRZh2~REgUNwDMKmTWSzxMdpH2FMnFyM47a8PdBn5rmpS6InhmIzH12mVDAM3pwEYsPknYyuupU8zFTO7wn5kcS0FKXsN7aHx~jNFVzqY6M8WgvlcQiD84WVc0o8Yiw-EKyMTaChMEOJHDLIPuyVgYHgzw3hvdeuaw2UGuyqCYlaVpdGitKioh409NoGVDzIk8s6BdLR8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
-## Somatosensory: Somatotopic maps in S1 & M1
+## Somatotopic maps
 
-![](http://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg)
+![http://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg](http://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg){fig-align="center" width="70%"}
 
 ## Sensivity non-uniform
-
-## Two-point touch thresholds
-
-![](../include/img/two-point-thresholds.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t97QiEiKjD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Somatosensory homunculus
-
-![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif)
 
 ## Visual acuity non-uniform
 
@@ -392,22 +453,33 @@ knitr::include_graphics("https://www.trustedreviews.com/wp-content/uploads/sites
 
 ![http://auditoryneuroscience.com/](http://auditoryneuroscience.com/sites/default/files/inline-images/HLdata_0.png)
 
-## Hierarchical/sequential AND parallel
+## Two-point touch thresholds
 
+:::: {.columns}
+::: {.column width=50%}
+![](../include/img/two-point-thresholds.jpg)
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/embed/t97QiEiKjD8 width="560" height="315" >}}
+
+-- @OTGeddie2017-al
+:::
+::::
+
+## Somatosensory homunculus
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif)
+
+## Sequential & parallel processing
+
+:::: {.columns}
+::: {.column width=50%}
 ![](../include/img/swanson-11.4.jpg)
-
+:::
+::: {.column width=50%}
 ![](../include/img/biopsych-fig-5.5.jpg)
-
-![](../include/img/biospsych-labeled-lines.jpg)
-
-## Feedforward and feedback
-
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-el <- rbind(c("Wrld","Sens"), c("Sens","Mind"), c("Mind", "Act"), c("Mind","Sens"), c("Act", "Mind"), c("Act", "Wrld"))
-g <- graph_from_edgelist(el)
-g$layout <- layout_in_circle
-plot(g, vertex.size=50, vertex.color="gray")
-```
+:::
+::::
 
 # Wrap up
 
