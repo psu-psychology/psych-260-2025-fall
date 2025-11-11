@@ -14,7 +14,7 @@ fig-align: "center"
 
 ---
 
-{{< video https://www.youtube.com/watch?v=McB9sJqHFx4&list=RDMcB9sJqHFx4&start_radio=1 width="100%” height="70%” >}}
+{{< video https://www.youtube.com/watch?v=McB9sJqHFx4&list=RDMcB9sJqHFx4&start_radio=1 width="100%" height="70%" >}}
 
 -- @Cocker-Topic2018-kr
 
@@ -22,6 +22,7 @@ fig-align: "center"
 
 - Quiz 3
 - Fear & stress
+  - with a touch of empathy
 
 # Quiz 3
 
@@ -29,17 +30,35 @@ fig-align: "center"
 
 ## Animal models
 
-- Can we study the biological basis of emotions in non-human animals?
-- What functions might these states serve?
-- Are the functions comparable across species?
+- Do non-human animals experience emotion?
+- What functions might these serve?
+- Risks vs. reward of cross-species comparisons?
 
-## "Fear" conditioning 
+## Threat ("fear") conditioning 
 
 ![http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg](../include/img/ledoux-lab-fear_conditioning.jpg)
 
 ## Rat vs. human
 
 ![Adapted from @davis1992role](../include/img/davis-anxiety-rat-vs-human.jpg)
+
+## Threat conditioning
+
+```{mermaid}
+flowchart LR
+  S[sound] ---> A(auditory)
+  F[shock] ---> T(somatosensory)
+  A ---> L(learning)
+  T ---> L
+  L ---> D(freezing)
+  L ---> H(blood pressure)
+  L ---> C(hormones)
+```
+
+::: {.fragment}
+- Why *these* responses to threat?
+- What are the pathways from stimuli to responses?
+:::
 
 ## Amygdala
 
@@ -57,8 +76,10 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-+ Thalamus ("direct" or "fast"")
-+ Cerebral cortex ("indirect" or "slow")
++ Thalamus 
+  - "direct" or "fast"
++ Cerebral cortex
+  - "indirect" or "slow"
 :::
 ::: {.column width=50%}
 ![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
@@ -82,44 +103,57 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-- Fast-acting, involuntary responses
-- Lesions of amygdala impair fear conditioning
+- Lesions of amygdala impair threat conditioning
+- Interpretation: Fast-acting, involuntary responses
 :::
 ::: {.column width=50%}
 ![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif)
 :::
 ::::
 
-## Cerebral cortex role
-
-:::: {.columns}
-::: {.column width=50%}
-- Response discrimination?
-    + Cortex lesions cause generalized not cue-specific fear response 
-- Fast, crude responses vs. slower, detailed ones
-    + That’s a stick, not a snake!
-    + Prefrontal cortex and response inhibition
-:::
-::: {.column width=50%}
-![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
-:::
-::::
-
-## Cerebral cortex role
-
-:::: {.columns}
-::: {.column width=50%}
-- Amygdala connected to other 'affective' nodes
-- Emotion more than subjective feelings (see [2025-11-06](wk-11-2025-11-06-emotion-I.qmd))
-:::
-::: {.column width=50%}
-![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
-:::
-::::
-
 ## Amygdala meme
 
 ![https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5](../include/img/amygdala-what-doesnt-kill-you.png)
+
+## Cerebral cortex role
+
+:::: {.columns}
+::: {.column width=50%}
+- Cerebral cortex lesions cause generalized response
+  - Not specific to cue features
+  - Response discrimination?
+:::
+::: {.column width=50%}
+![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
+:::
+::::
+
+## Cerebral cortex role
+
+:::: {.columns}
+::: {.column width=50%}
+- Interpretation
+  - Fast, crude responses vs. slower, detailed ones
+  + That’s a stick, not a snake!
+:::
+::: {.column width=50%}
+![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
+:::
+::::
+
+## Cerebral cortex role
+
+:::: {.columns}
+::: {.column width=50%}
+- Amygdala widely connected
+- Emotion ==
+  - subjective feelings + physiology + behaviors
+  - see [2025-11-06](wk-11-2025-11-06-emotion-I.qmd)
+:::
+::: {.column width=50%}
+![](https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w)
+:::
+::::
 
 ## Amygdala as processing hub
 
@@ -143,26 +177,32 @@ fig-align: "center"
 
 ## From fear to stress...
 
+![Giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnaGRjZjN6bTF2eGI0OGVsdGo5ZGlpZ2ZvbnFoMTY1ZGRrbHJvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17bvpzBFFQ5Xi/giphy.gif)
+
 ## Stressors linked with biological imperatives
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - Sustenance
     + Hunger, thirst
 - Well-being/defense
     + Threat
 :::
+:::
 ::: {.column width=50%}
+::: {.fragment}
 - Reproduction
     + Rejection
 - Affiliation
     + Loneliness
-
+:::
 :::
 ::::
 
 ::: {.fragment}
-- Many human stressors have social origins
+- Social relationships critical to human biology
+- Many human stressors have social underpinnings
 :::
 
 ## Stress and the brain
@@ -171,19 +211,21 @@ fig-align: "center"
 
 ## Homeostasis
 
-- == maintenance of stable internal environment
-- e,g., Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij]
-- But do animals really require stable internal environments or *adaptive* ones?
+- Maintenance of stable internal environment
+  - e,g., Regulation of physiological variables (e.g., blood $O_2$) via negative feedback [@Cannon1929-ij]
+- Stable internal environments or *adaptive* ones?
   
 ## Allostasis
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - @Sterling1988-rl
 - Adaptation to *changing* external conditions
-- Regulation is active process
-- Regulation is anticipatory, varies by circumstance
-- Targets vary [@Ramsay2014-la]
+- Regulation an active process
+- Regulation anticipatory, varies by circumstance
+- Regulation targets vary [@Ramsay2014-la]
+:::
 :::
 ::: {.column width=50%}
 ![https://en.wikipedia.org/wiki/Paula_Radcliffe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Paula_Radcliffe_NYC_Marathon_2008_cropped.jpg/500px-Paula_Radcliffe_NYC_Marathon_2008_cropped.jpg){width="50%"}
@@ -194,21 +236,29 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
+::: {.incremental}
 - **Acute** stress
     + Short duration
     + Fast action required
+      - e.g., fight, flee, freeze
     + HPA (Cortisol), SAM (NE/Epi) axes
 :::
+:::
 ::: {.column width=50%}
+::: {.fragment}
 - vs. **Chronic** stress
     + Long duration, persistent
+    - Prolonged coping required
+- What happens to HPA, SAM systems?  
+:::
 :::
 ::::
 
-## Glucocorticoid release
+## Glucocorticoid (CORT) release
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
+::: {.incremental}
 - Adrenal cortex releases cortisol
   - Increases blood glucose levels
   - Suppresses immune system
@@ -216,58 +266,108 @@ fig-align: "center"
   - Aids in metabolism
 + Receptors in brain and body
 :::
-::: {.column width=50%}
+:::
+::: {.column width=40%}
 ![@Wikipedia-contributors2025-sy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg/700px-HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg.png)
 :::
 ::::
 
 
-## Glucocorticoids
+## CORT
 
+:::: {.columns}
+::: {.column width=50%}
+- Circadian rhythm to release
+- Peak ~30 min of morning awakening in humans
+:::
+::: {.column width=50%}
 ![http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg](../include/img/cortisol-molecular-brain.jpg)
+:::
+::::
 
 ## Glucocorticoid cascade hypothesis
 
-- Cortisol receptors in hippocampus, amygdala, hypothalamus
+:::: {.columns}
+::: {.column width=50%}
+- CORT receptors in hippocampus, amygdala, hypothalamus
     - Hippocampus regulates HPA axis via hypothalamus
-- Prolonged cortisol exposure reduces hippocampus response
-    - Reduces volume, connectivity in hippocampus
+:::
+::: {.column width=50%}
+![http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg](../include/img/cortisol-molecular-brain.jpg)
+:::
+::::
+
+## Glucocorticoid cascade hypothesis
+
+:::: {.columns}
+::: {.column width=50%}
+- Prolonged CORT $\downarrow$ hippocampus response
+    - $\downarrow$ volume, connectivity in hippocampus
+:::
+::: {.column width=50%}
+![http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg](../include/img/cortisol-molecular-brain.jpg)
+:::
+::::
+
+## Glucocorticoid cascade hypothesis
+
+:::: {.columns}
+::: {.column width=50%}
 - Hippocampus critical for long-term memory formation
-    - Chronic stress impairs long-term memory
+- Acute stress can $\uparrow$ memory
+- Chronic stress $\downarrow$ long-term memory [@Schwabe2025-pz]
+:::
+::: {.column width=50%}
+![http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg](../include/img/cortisol-molecular-brain.jpg)
+:::
+::::
     
-## Glucocorticoids
+## Glucocorticoids & DA
 
 ![@McEwen2013-bw](../include/img/mcewen-2013-fig-01.png)
 
 ## Glucocorticoid cascade hypothesis
 
-- But, cortisol -> stress link not straightforward 
-
 ```{r, out.width="100%", fig.cap="[@faresjo_higher_2013](http://dx.doi.org/10.1371/journal.pone.0073828)"}
 knitr::include_graphics("../include/img/faresjo-2013.jpg")
 ```
 
-## Glucocorticoid cascade hypothesis
+::: {.fragment}
+- CORT -> stress link not straightforward 
+:::
 
+## Your stress ain't like mine
+
+:::: {.columns}
+::: {.column width=50%}
+- Zebras (probably) don't worry about predation by lions
+
+::: {.incremental}
 - Phasic (short-term) vs. chronic (long-term)
 - *Physical* stress (hunger, thirst, injury, disease) vs. *psychological/social* stress
-
----
-
-![](../include/img/zebras-sapolsky.jpg)
-
-- Zebras don't "worry" about predation by lions
+:::
+:::
+::: {.column width=50%}
+![@Sapolsky1994-yk](../include/img/zebras-sapolsky.jpg)
+:::
+::::
 
 ## Social distress & empathy
 
-- @Sapolsky2016-hs
-  - Some non-human animals demonstrate sensitivity to conspecifics' distress
-  - Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
-  - Rats will cooperate to release distressed cage mate, foregoing food rewards
+- Some non-human animals demonstrate sensitivity to conspecifics' distress
+- Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain [@Smith2016-ts]
+  - But no CORT $\uparrow$
+- Rats will cooperate to release distressed cage mate, foregoing food rewards
+  
+-- @Sapolsky2016-hs
 
-## Non-human animal empathy
+## Empathy in non-human animals
 
 ![@de-Waal2017-ta Figure 2](../include/img/dewaal-2017-empathy-fig-02.png)
+
+---
+
+[![@Unknown1969-ra](../include/img/nova-rats-feel-empathy.png){width="60%"}](https://wpsu.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/)
 
 # Wrap up
 
@@ -276,14 +376,15 @@ knitr::include_graphics("../include/img/faresjo-2013.jpg")
 - Fear responses include behavior, physiology, internal states
 - Parallels between human and non-human animal responses
 - Like happiness and pleasure, fear engages network of brain systems
-- Amygdala key node in this network, but not exclusive
+- Amygdala key node in this network, but connects widely
 
 ## Main points
 
 - Stressors arise from multiple sources
-- Acute (short-term) vs. chronic (long-term) stress distinction crucial
+- Acute (short-term) vs. chronic (long-term) distinction crucial
 - Corticosteroid receptors found across the CNS
-- Some animals experience others' distress as stressful
+- Glucorticoid cascade hypothesis
+- Some animals respond to others' distress
 
 ## Next time
 

@@ -143,6 +143,9 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -174,11 +177,19 @@ Rick Gilmore
 <iframe data-external="1" src="https://www.youtube.com/embed/mMTkujnftIs" width="100%" height="70%" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p>– <span class="citation" data-cites="Musikladen2020-kq">Musikladen (<a href="#/references" role="doc-biblioref" onclick="">2020</a>)</span></p>
 </section>
+<section class="slide level2">
+
+<iframe data-external="1" src="https://www.youtube.com/embed/McB9sJqHFx4" width="100%" height="70%" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>– <span class="citation" data-cites="Cocker-Topic2018-kr">Cocker-Topic (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
+</section>
 <section id="todays-topics" class="slide level2">
 <h2>Today’s topics</h2>
 <ul>
 <li>Quiz 3</li>
-<li>Fear &amp; stress</li>
+<li>Fear &amp; stress
+<ul>
+<li>with a touch of empathy</li>
+</ul></li>
 </ul>
 </section></section>
 <section id="quiz-3" class="title-slide slide level1 center">
@@ -194,19 +205,47 @@ Rick Gilmore
 <section id="animal-models" class="slide level2">
 <h2>Animal models</h2>
 <ul>
-<li>Can we study the biological basis of emotions in non-human animals?</li>
-<li>What functions might these states serve?</li>
-<li>Are the functions comparable across species?</li>
+<li>Do non-human animals experience emotion?</li>
+<li>What functions might these serve?</li>
+<li>Risks vs.&nbsp;reward of cross-species comparisons?</li>
 </ul>
 </section>
-<section id="fear-conditioning" class="slide level2">
-<h2>“Fear” conditioning</h2>
+<section id="threat-fear-conditioning" class="slide level2">
+<h2>Threat (“fear”) conditioning</h2>
 
 <img data-src="../include/img/ledoux-lab-fear_conditioning.jpg" class="r-stretch quarto-figure-center"><p class="caption">http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg</p></section>
 <section id="rat-vs.-human" class="slide level2">
 <h2>Rat vs.&nbsp;human</h2>
 
 <img data-src="../include/img/davis-anxiety-rat-vs-human.jpg" class="r-stretch quarto-figure-center"><p class="caption">Adapted from <span class="citation" data-cites="davis1992role">Davis (<a href="#/references" role="doc-biblioref" onclick="">1992</a>)</span></p></section>
+<section id="threat-conditioning" class="slide level2">
+<h2>Threat conditioning</h2>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  S[sound] ---&gt; A(auditory)
+  F[shock] ---&gt; T(somatosensory)
+  A ---&gt; L(learning)
+  T ---&gt; L
+  L ---&gt; D(freezing)
+  L ---&gt; H(blood pressure)
+  L ---&gt; C(hormones)
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<div class="fragment">
+<ul>
+<li>Why <em>these</em> responses to threat?</li>
+<li>What are the pathways from stimuli to responses?</li>
+</ul>
+</div>
+</section>
 <section id="amygdala" class="slide level2">
 <h2>Amygdala</h2>
 <div class="columns">
@@ -229,8 +268,14 @@ Rick Gilmore
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Thalamus (“direct” or “fast”“)</li>
-<li>Cerebral cortex (“indirect” or “slow”)</li>
+<li>Thalamus
+<ul>
+<li>“direct” or “fast”</li>
+</ul></li>
+<li>Cerebral cortex
+<ul>
+<li>“indirect” or “slow”</li>
+</ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
@@ -264,8 +309,8 @@ Rick Gilmore
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Fast-acting, involuntary responses</li>
-<li>Lesions of amygdala impair fear conditioning</li>
+<li>Lesions of amygdala impair threat conditioning</li>
+<li>Interpretation: Fast-acting, involuntary responses</li>
 </ul>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
@@ -276,19 +321,19 @@ Rick Gilmore
 </div>
 </div></div>
 </section>
+<section id="amygdala-meme" class="slide level2">
+<h2>Amygdala meme</h2>
+
+<img data-src="../include/img/amygdala-what-doesnt-kill-you.png" class="r-stretch quarto-figure-center"><p class="caption">https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5</p></section>
 <section id="cerebral-cortex-role" class="slide level2">
 <h2>Cerebral cortex role</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Response discrimination?
+<li>Cerebral cortex lesions cause generalized response
 <ul>
-<li>Cortex lesions cause generalized not cue-specific fear response</li>
-</ul></li>
-<li>Fast, crude responses vs.&nbsp;slower, detailed ones
-<ul>
-<li>That’s a stick, not a snake!</li>
-<li>Prefrontal cortex and response inhibition</li>
+<li>Not specific to cue features</li>
+<li>Response discrimination?</li>
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
@@ -300,17 +345,32 @@ Rick Gilmore
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Amygdala connected to other ‘affective’ nodes</li>
-<li>Emotion more than subjective feelings (see <a href="../slides/wk-11-2025-11-06-emotion-I.html">2025-11-06</a>)</li>
+<li>Interpretation
+<ul>
+<li>Fast, crude responses vs.&nbsp;slower, detailed ones</li>
+<li>That’s a stick, not a snake!</li>
+</ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
 <p><img data-src="https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w"></p>
 </div></div>
 </section>
-<section id="amygdala-meme" class="slide level2">
-<h2>Amygdala meme</h2>
-
-<img data-src="../include/img/amygdala-what-doesnt-kill-you.png" class="r-stretch quarto-figure-center"><p class="caption">https://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5</p></section>
+<section id="cerebral-cortex-role-2" class="slide level2">
+<h2>Cerebral cortex role</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Amygdala widely connected</li>
+<li>Emotion ==
+<ul>
+<li>subjective feelings + physiology + behaviors</li>
+<li>see <a href="../slides/wk-11-2025-11-06-emotion-I.html">2025-11-06</a></li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><img data-src="https://images.squarespace-cdn.com/content/v1/5e38cbe10b2e453ed5f2d154/0b125357-27b6-419e-a21f-b56e9e3638d1/snakes-and-prairie-restoration-jv-edits-page-05-image-0001_orig.jpg?format=2500w"></p>
+</div></div>
+</section>
 <section id="amygdala-as-processing-hub" class="slide level2">
 <h2>Amygdala as processing hub</h2>
 
@@ -338,22 +398,24 @@ Rick Gilmore
 </section>
 <section id="from-fear-to-stress" class="slide level2">
 <h2>From fear to stress…</h2>
-</section>
+
+<img data-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnaGRjZjN6bTF2eGI0OGVsdGo5ZGlpZ2ZvbnFoMTY1ZGRrbHJvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17bvpzBFFQ5Xi/giphy.gif" class="r-stretch quarto-figure-center"><p class="caption">Giphy</p></section>
 <section id="stressors-linked-with-biological-imperatives" class="slide level2">
 <h2>Stressors linked with biological imperatives</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li>Sustenance
+<li class="fragment">Sustenance
 <ul>
-<li>Hunger, thirst</li>
+<li class="fragment">Hunger, thirst</li>
 </ul></li>
-<li>Well-being/defense
+<li class="fragment">Well-being/defense
 <ul>
-<li>Threat</li>
+<li class="fragment">Threat</li>
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
+<div class="fragment">
 <ul>
 <li>Reproduction
 <ul>
@@ -364,10 +426,12 @@ Rick Gilmore
 <li>Loneliness</li>
 </ul></li>
 </ul>
+</div>
 </div></div>
 <div class="fragment">
 <ul>
-<li>Many human stressors have social origins</li>
+<li>Social relationships critical to human biology</li>
+<li>Many human stressors have social underpinnings</li>
 </ul>
 </div>
 </section>
@@ -378,9 +442,11 @@ Rick Gilmore
 <section id="homeostasis" class="slide level2">
 <h2>Homeostasis</h2>
 <ul>
-<li>== maintenance of stable internal environment</li>
+<li>Maintenance of stable internal environment
+<ul>
 <li>e,g., Regulation of physiological variables (e.g., blood <span class="math inline">\(O_2\)</span>) via negative feedback <span class="citation" data-cites="Cannon1929-ij">(<a href="#/references" role="doc-biblioref" onclick="">Cannon, 1929</a>)</span></li>
-<li>But do animals really require stable internal environments or <em>adaptive</em> ones?</li>
+</ul></li>
+<li>Stable internal environments or <em>adaptive</em> ones?</li>
 </ul>
 </section>
 <section id="allostasis" class="slide level2">
@@ -388,11 +454,11 @@ Rick Gilmore
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li><span class="citation" data-cites="Sterling1988-rl">Sterling (<a href="#/references" role="doc-biblioref" onclick="">1988</a>)</span></li>
-<li>Adaptation to <em>changing</em> external conditions</li>
-<li>Regulation is active process</li>
-<li>Regulation is anticipatory, varies by circumstance</li>
-<li>Targets vary <span class="citation" data-cites="Ramsay2014-la">(<a href="#/references" role="doc-biblioref" onclick="">Ramsay &amp; Woods, 2014</a>)</span></li>
+<li class="fragment"><span class="citation" data-cites="Sterling1988-rl">Sterling (<a href="#/references" role="doc-biblioref" onclick="">1988</a>)</span></li>
+<li class="fragment">Adaptation to <em>changing</em> external conditions</li>
+<li class="fragment">Regulation an active process</li>
+<li class="fragment">Regulation anticipatory, varies by circumstance</li>
+<li class="fragment">Regulation targets vary <span class="citation" data-cites="Ramsay2014-la">(<a href="#/references" role="doc-biblioref" onclick="">Ramsay &amp; Woods, 2014</a>)</span></li>
 </ul>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
@@ -408,39 +474,45 @@ Rick Gilmore
 <div class="columns">
 <div class="column" style="width:50%;">
 <ul>
-<li><strong>Acute</strong> stress
+<li class="fragment"><strong>Acute</strong> stress
 <ul>
-<li>Short duration</li>
-<li>Fast action required</li>
-<li>HPA (Cortisol), SAM (NE/Epi) axes</li>
-<li>Brain detects threat</li>
-<li>Mobilizes physiological, behavioral responses</li>
+<li class="fragment">Short duration</li>
+<li class="fragment">Fast action required
+<ul>
+<li class="fragment">e.g., fight, flee, freeze</li>
+</ul></li>
+<li class="fragment">HPA (Cortisol), SAM (NE/Epi) axes</li>
 </ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
+<div class="fragment">
 <ul>
 <li>vs.&nbsp;<strong>Chronic</strong> stress
 <ul>
 <li>Long duration, persistent</li>
+<li>Prolonged coping required</li>
 </ul></li>
+<li>What happens to HPA, SAM systems?<br>
+</li>
 </ul>
+</div>
 </div></div>
 </section>
-<section id="glucocorticoid-release" class="slide level2">
-<h2>Glucocorticoid release</h2>
+<section id="glucocorticoid-cort-release" class="slide level2">
+<h2>Glucocorticoid (CORT) release</h2>
 <div class="columns">
-<div class="column" style="width:50%;">
+<div class="column" style="width:60%;">
 <ul>
-<li>Adrenal cortex releases cortisol
+<li class="fragment">Adrenal cortex releases cortisol
 <ul>
-<li>Increases blood glucose levels</li>
-<li>Suppresses immune system</li>
-<li>Reduces inflammation</li>
-<li>Aids in metabolism</li>
+<li class="fragment">Increases blood glucose levels</li>
+<li class="fragment">Suppresses immune system</li>
+<li class="fragment">Reduces inflammation</li>
+<li class="fragment">Aids in metabolism</li>
 </ul></li>
-<li>Receptors in brain and body</li>
+<li class="fragment">Receptors in brain and body</li>
 </ul>
-</div><div class="column" style="width:50%;">
+</div><div class="column" style="width:40%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg/700px-HPA_Axis_Diagram_%28Brian_M_Sweis_2012%29.svg.png"></p>
@@ -449,62 +521,136 @@ Rick Gilmore
 </div>
 </div></div>
 </section>
-<section id="glucocorticoids" class="slide level2">
-<h2>Glucocorticoids</h2>
-
-<img data-src="../include/img/mcewen-2013-fig-01.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="McEwen2013-bw">Bruce S. McEwen (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p></section>
-<section id="glucocorticoids-1" class="slide level2">
-<h2>Glucocorticoids</h2>
-
-<img data-src="../include/img/cortisol-molecular-brain.jpg" class="r-stretch quarto-figure-center"><p class="caption">http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</p></section>
+<section id="cort" class="slide level2">
+<h2>CORT</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Circadian rhythm to release</li>
+<li>Peak ~30 min of morning awakening in humans</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/cortisol-molecular-brain.jpg"></p>
+<figcaption>http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
 <section id="glucocorticoid-cascade-hypothesis" class="slide level2">
 <h2>Glucocorticoid cascade hypothesis</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <ul>
-<li>Cortisol receptors in hippocampus, amygdala, hypothalamus
+<li>CORT receptors in hippocampus, amygdala, hypothalamus
 <ul>
 <li>Hippocampus regulates HPA axis via hypothalamus</li>
 </ul></li>
-<li>Prolonged cortisol exposure reduces hippocampus response
-<ul>
-<li>Reduces volume, connectivity in hippocampus</li>
-</ul></li>
-<li>Hippocampus critical for long-term memory formation
-<ul>
-<li>Chronic stress impairs long-term memory</li>
-</ul></li>
 </ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/cortisol-molecular-brain.jpg"></p>
+<figcaption>http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</figcaption>
+</figure>
+</div>
+</div></div>
 </section>
 <section id="glucocorticoid-cascade-hypothesis-1" class="slide level2">
 <h2>Glucocorticoid cascade hypothesis</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <ul>
-<li>But, cortisol -&gt; stress link not straightforward</li>
-</ul>
-
-<img data-src="../include/img/faresjo-2013.jpg" style="width:100.0%" class="r-stretch quarto-figure-center"><p class="caption"><a href="http://dx.doi.org/10.1371/journal.pone.0073828"><span class="citation" data-cites="faresjo_higher_2013">Faresjö et al. (<span>2013</span>)</span></a></p></section>
-<section id="glucocorticoid-cascade-hypothesis-2" class="slide level2">
-<h2>Glucocorticoid cascade hypothesis</h2>
+<li>Prolonged CORT <span class="math inline">\(\downarrow\)</span> hippocampus response
 <ul>
-<li><span class="citation" data-cites="Sapolsky2016-hs">Sapolsky (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span>
-<ul>
-<li>Some non-human animals demonstrate sensitivity to conspecifics’ distress</li>
-<li>Pain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain</li>
-<li>Rats will cooperate to release distressed cage mate, foregoing food rewards</li>
+<li><span class="math inline">\(\downarrow\)</span> volume, connectivity in hippocampus</li>
 </ul></li>
 </ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/cortisol-molecular-brain.jpg"></p>
+<figcaption>http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</figcaption>
+</figure>
+</div>
+</div></div>
 </section>
-<section class="slide level2">
-
-
-<img data-src="../include/img/zebras-sapolsky.jpg" class="r-stretch"><ul>
-<li>Zebras don’t “worry” about predation by lions</li>
+<section id="glucocorticoid-cascade-hypothesis-2" class="slide level2">
+<h2>Glucocorticoid cascade hypothesis</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Hippocampus critical for long-term memory formation</li>
+<li>Acute stress can <span class="math inline">\(\uparrow\)</span> memory</li>
+<li>Chronic stress <span class="math inline">\(\downarrow\)</span> long-term memory <span class="citation" data-cites="Schwabe2025-pz">(<a href="#/references" role="doc-biblioref" onclick="">Schwabe, 2025</a>)</span></li>
 </ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/cortisol-molecular-brain.jpg"></p>
+<figcaption>http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</figcaption>
+</figure>
+</div>
+</div></div>
 </section>
+<section id="glucocorticoids-da" class="slide level2">
+<h2>Glucocorticoids &amp; DA</h2>
+
+<img data-src="../include/img/mcewen-2013-fig-01.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="McEwen2013-bw">Bruce S. McEwen (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p></section>
 <section id="glucocorticoid-cascade-hypothesis-3" class="slide level2">
 <h2>Glucocorticoid cascade hypothesis</h2>
+
+<img data-src="../include/img/faresjo-2013.jpg" style="width:100.0%" class="r-stretch quarto-figure-center"><p class="caption"><a href="http://dx.doi.org/10.1371/journal.pone.0073828"><span class="citation" data-cites="faresjo_higher_2013">Faresjö et al. (<span>2013</span>)</span></a></p><div class="fragment">
 <ul>
-<li>Phasic (short-term) vs.&nbsp;chronic (long-term)</li>
-<li><em>Physical</em> stress (hunger, thirst, injury, disease) vs.&nbsp;<em>psychological/social</em> stress</li>
+<li>CORT -&gt; stress link not straightforward</li>
 </ul>
+</div>
+</section>
+<section id="your-stress-aint-like-mine" class="slide level2">
+<h2>Your stress ain’t like mine</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Zebras (probably) don’t worry about predation by lions</li>
+</ul>
+<ul>
+<li class="fragment">Phasic (short-term) vs.&nbsp;chronic (long-term)</li>
+<li class="fragment"><em>Physical</em> stress (hunger, thirst, injury, disease) vs.&nbsp;<em>psychological/social</em> stress</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../include/img/zebras-sapolsky.jpg"></p>
+<figcaption><span class="citation" data-cites="Sapolsky1994-yk">R. Sapolsky (<a href="#/references" role="doc-biblioref" onclick="">1994</a>)</span></figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="social-distress-empathy" class="slide level2">
+<h2>Social distress &amp; empathy</h2>
+<ul>
+<li>Some non-human animals demonstrate sensitivity to conspecifics’ distress</li>
+<li>Pain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain <span class="citation" data-cites="Smith2016-ts">(<a href="#/references" role="doc-biblioref" onclick="">Smith, Hostetler, Heinricher, &amp; Ryabinin, 2016</a>)</span>
+<ul>
+<li>But no CORT <span class="math inline">\(\uparrow\)</span></li>
+</ul></li>
+<li>Rats will cooperate to release distressed cage mate, foregoing food rewards</li>
+</ul>
+<p>– <span class="citation" data-cites="Sapolsky2016-hs">R. M. Sapolsky (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</section>
+<section id="empathy-in-non-human-animals" class="slide level2">
+<h2>Empathy in non-human animals</h2>
+
+<img data-src="../include/img/dewaal-2017-empathy-fig-02.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="de-Waal2017-ta">Waal &amp; Preston (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span> Figure 2</p></section>
+<section class="slide level2">
+
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://wpsu.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/"><img data-src="../include/img/nova-rats-feel-empathy.png" style="width:60.0%"></a></p>
+<figcaption><span class="citation" data-cites="Unknown1969-ra"><em>Do rats feel empathy?</em> (<a href="#/references" role="doc-biblioref" onclick="">1969</a>)</span></figcaption>
+</figure>
+</div>
 </section></section>
 <section>
 <section id="wrap-up" class="title-slide slide level1 center">
@@ -515,18 +661,19 @@ Rick Gilmore
 <h2>Main points</h2>
 <ul>
 <li>Fear responses include behavior, physiology, internal states</li>
-<li>Parallels between human and non-human animal responses support</li>
+<li>Parallels between human and non-human animal responses</li>
 <li>Like happiness and pleasure, fear engages network of brain systems</li>
-<li>Amygdala important node in this network, but not exclusive</li>
+<li>Amygdala key node in this network, but connects widely</li>
 </ul>
 </section>
 <section id="main-points-1" class="slide level2">
 <h2>Main points</h2>
 <ul>
 <li>Stressors arise from multiple sources</li>
-<li>Acute (short-term) vs.&nbsp;chronic (long-term) stress distinction crucial</li>
+<li>Acute (short-term) vs.&nbsp;chronic (long-term) distinction crucial</li>
 <li>Corticosteroid receptors found across the CNS</li>
-<li>Some animals experience others’ distress as stressful</li>
+<li>Glucorticoid cascade hypothesis</li>
+<li>Some animals respond to others’ distress</li>
 </ul>
 </section>
 <section id="next-time" class="slide level2">
@@ -553,8 +700,14 @@ Rick Gilmore
 <div id="ref-Cannon1929-ij" class="csl-entry" role="listitem">
 Cannon, W. B. (1929). Organization for physiological homeostasis. <em>Physiological <span>R</span>eviews</em>, <em>9</em>, 399–431. <a href="https://doi.org/10.1152/physrev.1929.9.3.399">https://doi.org/10.1152/physrev.1929.9.3.399</a>
 </div>
+<div id="ref-Cocker-Topic2018-kr" class="csl-entry" role="listitem">
+Cocker-Topic, J. (2018). <em>With a little help from my friends</em>. You<span>T</span>ube. Retrieved from <a href="https://www.youtube.com/watch?v=McB9sJqHFx4&amp;list=RDMcB9sJqHFx4&amp;start_radio=1">https://www.youtube.com/watch?v=McB9sJqHFx4&amp;list=RDMcB9sJqHFx4&amp;start_radio=1</a>
+</div>
 <div id="ref-davis1992role" class="csl-entry" role="listitem">
 Davis, M. (1992). The role of the amygdala in fear-potentiated startle: Implications for animal models of anxiety. <em>Trends in Pharmacological Sciences</em>, <em>13</em>, 35–41. <a href="https://doi.org/10.1016/0165-6147(92)90014-W">https://doi.org/10.1016/0165-6147(92)90014-W</a>
+</div>
+<div id="ref-Unknown1969-ra" class="csl-entry" role="listitem">
+<em>Do rats feel empathy?</em> (1969). NOVA <span>S</span>cienceNow. Retrieved from <a href="https://www.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/">https://www.pbslearningmedia.org/resource/nvsn6.sci.bio.rats/do-rats-feel-empathy/</a>
 </div>
 <div id="ref-faresjo_higher_2013" class="csl-entry" role="listitem">
 Faresjö, Å., Theodorsson, E., Chatziarzenis, M., Sapouna, V., Claesson, H.-P., Koppner, J., &amp; Faresjö, T. (2013). Higher <span>Perceived</span> <span>Stress</span> but <span>Lower</span> <span>Cortisol</span> <span>Levels</span> <span>Found</span> among <span>Young</span> <span>Greek</span> <span>Adults</span> <span>Living</span> in a <span>Stressful</span> <span>Social</span> <span>Environment</span> in <span>Comparison</span> with <span>Swedish</span> <span>Young</span> <span>Adults</span>. <em>PLoS ONE</em>, <em>8</em>(9), e73828. <a href="https://doi.org/10.1371/journal.pone.0073828">https://doi.org/10.1371/journal.pone.0073828</a>
@@ -580,11 +733,23 @@ Pessoa, L. (2008). On the relationship between emotion and cognition. <em>Nature
 <div id="ref-Ramsay2014-la" class="csl-entry" role="listitem">
 Ramsay, D. S., &amp; Woods, S. C. (2014). Clarifying the roles of homeostasis and allostasis in physiological regulation. <em>Psychological <span>R</span>eview</em>, <em>121</em>, 225–247. <a href="https://doi.org/10.1037/a0035942">https://doi.org/10.1037/a0035942</a>
 </div>
+<div id="ref-Sapolsky1994-yk" class="csl-entry" role="listitem">
+Sapolsky, R. (1994). <em>Why zebras don’t get ulcers</em>. New York, NY: W.H. Freeman.
+</div>
 <div id="ref-Sapolsky2016-hs" class="csl-entry" role="listitem">
 Sapolsky, R. M. (2016). Psychiatric distress in animals versus animal models of psychiatric distress. <em>Nature <span>N</span>euroscience</em>, <em>19</em>, 1387–1389. <a href="https://doi.org/10.1038/nn.4397">https://doi.org/10.1038/nn.4397</a>
 </div>
+<div id="ref-Schwabe2025-pz" class="csl-entry" role="listitem">
+Schwabe, L. (2025). Memory under stress: From adaptation to disorder. <em>Biological <span>P</span>sychiatry</em>, <em>97</em>, 339–348. <a href="https://doi.org/10.1016/j.biopsych.2024.06.005">https://doi.org/10.1016/j.biopsych.2024.06.005</a>
+</div>
+<div id="ref-Smith2016-ts" class="csl-entry" role="listitem">
+Smith, M. L., Hostetler, C. M., Heinricher, M. M., &amp; Ryabinin, A. E. (2016). Social transfer of pain in mice. <em>Science <span>A</span>dvances</em>, <em>2</em>, e1600855. <a href="https://doi.org/10.1126/sciadv.1600855">https://doi.org/10.1126/sciadv.1600855</a>
+</div>
 <div id="ref-Sterling1988-rl" class="csl-entry" role="listitem">
 Sterling, P. (1988). Allostasis : A new paradigm to explain arousal pathology. <em>Handbook of Life Stress, Cognition and Health</em>. Retrieved from <a href="https://ci.nii.ac.jp/naid/10019518960/">https://ci.nii.ac.jp/naid/10019518960/</a>
+</div>
+<div id="ref-de-Waal2017-ta" class="csl-entry" role="listitem">
+Waal, F. B. M. de, &amp; Preston, S. D. (2017). Mammalian empathy: Behavioural manifestations and neural basis. <em>Nature <span>R</span>eviews. <span>N</span>euroscience</em>, <em>18</em>, 498–509. <a href="https://doi.org/10.1038/nrn.2017.72">https://doi.org/10.1038/nrn.2017.72</a>
 </div>
 <div id="ref-Wikipedia-contributors2025-sy" class="csl-entry" role="listitem">
 Wikipedia contributors. (2025, November 7). Hypothalamic–pituitary–adrenal axis. Retrieved from <a href="https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis">https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis</a>
