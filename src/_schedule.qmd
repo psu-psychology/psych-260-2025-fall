@@ -225,12 +225,14 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[12]`*
 
+- *Read*: MM pp 375-383
 - *Slides*:  | [html](slides/wk-12-2025-11-11-emotion-II.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[12])` {-}
 
 *`{r} sched_df$class_2_theme[12]`*
 
+- *Read*: MM pp 148-157
 - *Slides*:  | [html](slides/wk-12-2025-11-13-sensory-systems.qmd) |
 
 ## `{r} sched_df$week[13]` {- #week-13}
@@ -242,6 +244,8 @@ That said, you may find it interesting to learn and know about anyway.
 ### `{r} prettify_date(sched_df$class_day_2[13])` {-}
 
 *`{r} sched_df$class_2_theme[13]`*
+
+- *Read*: MM pp 148-157
 
 ## `{r} sched_df$week[14]` {- #week-14}
 

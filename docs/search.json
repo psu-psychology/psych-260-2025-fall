@@ -124,7 +124,7 @@
     "href": "schedule.html#week-12",
     "title": "Schedule",
     "section": "Week 12",
-    "text": "Week 12\n\nTue, Nov 11, 2025\nEmotion II; Quiz 3\n\nSlides: | html |\n\n\n\nThu, Nov 13, 2025\nSensory Systems\n\nSlides: | html |",
+    "text": "Week 12\n\nTue, Nov 11, 2025\nEmotion II; Quiz 3\n\nRead: MM pp 375-383\nSlides: | html |\n\n\n\nThu, Nov 13, 2025\nSensory Systems\n\nRead: MM pp 148-157\nSlides: | html |",
     "crumbs": [
       "Schedule"
     ]
@@ -134,7 +134,7 @@
     "href": "schedule.html#week-13",
     "title": "Schedule",
     "section": "Week 13",
-    "text": "Week 13\n\nTue, Nov 18, 2025\nSomatosensation\n\n\nThu, Nov 20, 2025\nAction I; Exam 3 Review",
+    "text": "Week 13\n\nTue, Nov 18, 2025\nSomatosensation\n\n\nThu, Nov 20, 2025\nAction I; Exam 3 Review\n\nRead: MM pp 148-157",
     "crumbs": [
       "Schedule"
     ]
@@ -292,11 +292,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#fear-conditioning",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#fear-conditioning",
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#threat-fear-conditioning",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#threat-fear-conditioning",
     "title": "Emotion II",
-    "section": "“Fear” conditioning",
-    "text": "“Fear” conditioning\n\nhttp://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg",
+    "section": "Threat (“fear”) conditioning",
+    "text": "Threat (“fear”) conditioning\n\nhttp://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
@@ -308,6 +308,17 @@
     "title": "Emotion II",
     "section": "Rat vs. human",
     "text": "Rat vs. human\n\nAdapted from Davis (1992)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#threat-conditioning",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#threat-conditioning",
+    "title": "Emotion II",
+    "section": "Threat conditioning",
+    "text": "Threat conditioning\n\n\n\n\n\nflowchart LR\n  S[sound] ---&gt; A(auditory)\n  F[shock] ---&gt; T(somatosensory)\n  A ---&gt; L(learning)\n  T ---&gt; L\n  L ---&gt; D(freezing)\n  L ---&gt; H(blood pressure)\n  L ---&gt; C(hormones)\n\n\n\n\n\n\n\n\nWhy these responses to threat?\nWhat are the pathways from stimuli to responses?",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
@@ -358,6 +369,17 @@
     ]
   },
   {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#amygdala-meme",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#amygdala-meme",
+    "title": "Emotion II",
+    "section": "Amygdala meme",
+    "text": "Amygdala meme\n\nhttps://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
     "objectID": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role",
     "href": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role",
     "title": "Emotion II",
@@ -380,11 +402,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#amygdala-meme",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#amygdala-meme",
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role-2",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role-2",
     "title": "Emotion II",
-    "section": "Amygdala meme",
-    "text": "Amygdala meme\n\nhttps://www.redbubble.com/i/sticker/What-Doesn-t-Kill-You-Enlarges-Your-Amygdala-by-4naans/96258094.EJUG5",
+    "section": "Cerebral cortex role",
+    "text": "Cerebral cortex role\n\n\n\nAmygdala widely connected\nEmotion ==\n\nsubjective feelings + physiology + behaviors\nsee 2025-11-06",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
@@ -490,33 +512,22 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-release",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-release",
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cort-release",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cort-release",
     "title": "Emotion II",
-    "section": "Glucocorticoid release",
-    "text": "Glucocorticoid release\n\n\n\nAdrenal cortex releases cortisol\n\nIncreases blood glucose levels\nSuppresses immune system\nReduces inflammation\nAids in metabolism\n\nReceptors in brain and body\n\n\n\n\n\nWikipedia contributors (2025)",
+    "section": "Glucocorticoid (CORT) release",
+    "text": "Glucocorticoid (CORT) release\n\n\n\nAdrenal cortex releases cortisol\n\nIncreases blood glucose levels\nSuppresses immune system\nReduces inflammation\nAids in metabolism\n\nReceptors in brain and body\n\n\n\n\n\nWikipedia contributors (2025)",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids",
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#cort",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#cort",
     "title": "Emotion II",
-    "section": "Glucocorticoids",
-    "text": "Glucocorticoids\n\n\n\nCircadian rhythm to cortisol release\nPeak ~30 min of morning awakening in humans\n\n\n\n\n\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-1",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-1",
-    "title": "Emotion II",
-    "section": "Glucocorticoids",
-    "text": "Glucocorticoids\n\nBruce S. McEwen (2013)",
+    "section": "CORT",
+    "text": "CORT\n\n\n\nCircadian rhythm to release\nPeak ~30 min of morning awakening in humans\n\n\n\n\n\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
@@ -556,11 +567,55 @@
     ]
   },
   {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-da",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-da",
+    "title": "Emotion II",
+    "section": "Glucocorticoids & DA",
+    "text": "Glucocorticoids & DA\n\nBruce S. McEwen (2013)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
     "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cascade-hypothesis-3",
     "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cascade-hypothesis-3",
     "title": "Emotion II",
     "section": "Glucocorticoid cascade hypothesis",
     "text": "Glucocorticoid cascade hypothesis\n\nFaresjö et al. (2013)\n\nCORT -&gt; stress link not straightforward",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#your-stress-aint-like-mine",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#your-stress-aint-like-mine",
+    "title": "Emotion II",
+    "section": "Your stress ain’t like mine",
+    "text": "Your stress ain’t like mine\n\n\n\nZebras (probably) don’t worry about predation by lions\n\n\nPhasic (short-term) vs. chronic (long-term)\nPhysical stress (hunger, thirst, injury, disease) vs. psychological/social stress\n\n\n\n\n\nR. Sapolsky (1994)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#social-distress-empathy",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#social-distress-empathy",
+    "title": "Emotion II",
+    "section": "Social distress & empathy",
+    "text": "Social distress & empathy\n\nSome non-human animals demonstrate sensitivity to conspecifics’ distress\nPain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain (Smith, Hostetler, Heinricher, & Ryabinin, 2016)\n\nBut no CORT \\(\\uparrow\\)\n\nRats will cooperate to release distressed cage mate, foregoing food rewards\n\n– R. M. Sapolsky (2016)",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Tue Nov 11"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals",
+    "href": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals",
+    "title": "Emotion II",
+    "section": "Empathy in non-human animals",
+    "text": "Empathy in non-human animals\n\nWaal & Preston (2017) Figure 2",
     "crumbs": [
       "Slides",
       "Wk 12 • Tue Nov 11"
@@ -9646,7 +9701,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-1",
     "title": "Emotion I",
     "section": "Emotion in action",
-    "text": "Emotion in action\nWhat emotion?\n\n\nYour browser does not support the audio tag.\n\n\nStoop et al. (2020)",
+    "text": "Emotion in action\n\n\nWhat emotion?\nYour browser does not support the audio tag.\n\n\n\n\nStoop et al. (2020)",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -9657,7 +9712,7 @@
     "href": "slides/wk-11-2025-11-06-emotion-I.html#emotion-in-action-2",
     "title": "Emotion I",
     "section": "Emotion in action",
-    "text": "Emotion in action\nHow about now?\n\n\nYour browser does not support the audio tag.\n\n\nStoop et al. (2020)",
+    "text": "Emotion in action\n\n\nHow about now?\nYour browser does not support the audio tag.\n\n\n\n\nStoop et al. (2020)",
     "crumbs": [
       "Slides",
       "Wk 11 • Thu Nov 6"
@@ -10137,11 +10192,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#dimensions-of-sensory-processing",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#dimensions-of-sensory-processing",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#types-of-sensory-processing",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#types-of-sensory-processing",
     "title": "Sensory Systems",
-    "section": "Dimensions of sensory processing",
-    "text": "Dimensions of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?",
+    "section": "Types of sensory processing",
+    "text": "Types of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10225,11 +10280,33 @@
     ]
   },
   {
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#vision-1",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#vision-1",
+    "title": "Sensory Systems",
+    "section": "Vision",
+    "text": "Vision\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
+  },
+  {
     "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#audition",
     "href": "slides/wk-12-2025-11-13-sensory-systems.html#audition",
     "title": "Sensory Systems",
     "section": "Audition",
     "text": "Audition\n\n\n\nSource: Mechanical vibrations in air or water",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#audition-1",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#audition-1",
+    "title": "Sensory Systems",
+    "section": "Audition",
+    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10247,11 +10324,33 @@
     ]
   },
   {
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#chemosensation-1",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#chemosensation-1",
+    "title": "Sensory Systems",
+    "section": "Chemosensation",
+    "text": "Chemosensation\n\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
+  },
+  {
     "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation",
     "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation",
     "title": "Sensory Systems",
     "section": "Somatosensation",
     "text": "Somatosensation\n\n\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\n\n\n\n\n\nhttps://basicmedicalkey.com/the-somatosensory-system/",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-1",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-1",
+    "title": "Sensory Systems",
+    "section": "Somatosensation",
+    "text": "Somatosensation\n\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10280,11 +10379,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#features-of-sensory-signals-processing",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#features-of-sensory-signals-processing",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#common-features",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#common-features",
     "title": "Sensory Systems",
-    "section": "Features of sensory signals & processing",
-    "text": "Features of sensory signals & processing\n\nSignals change across time and space\n\nConsist of repeating patterns\n\nInvolve comparisons across multiple sensors\nBrain regions contain topographic maps\nSensitivity is non-uniform",
+    "section": "Common features",
+    "text": "Common features\n\nSignals change across time and space\n\nConsist of repeating patterns\n\nInvolve comparisons across multiple sensors\nBrain regions contain topographic maps\nSensitivity is non-uniform",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10313,11 +10412,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#detecting-change",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#detecting-change",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#measuring-sensitivity-to-change",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#measuring-sensitivity-to-change",
     "title": "Sensory Systems",
-    "section": "Detecting change",
-    "text": "Detecting change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions",
+    "section": "Measuring sensitivity to change",
+    "text": "Measuring sensitivity to change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10335,44 +10434,44 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#consist-of-repeating-signals",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#consist-of-repeating-signals",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#information-consists-of-repeating-signals",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#information-consists-of-repeating-signals",
     "title": "Sensory Systems",
-    "section": "Consist of repeating signals",
-    "text": "Consist of repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time",
+    "section": "Information consists of repeating signals",
+    "text": "Information consists of repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#vision-1",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#vision-1",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#vision-2",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#vision-2",
     "title": "Sensory Systems",
     "section": "Vision",
-    "text": "Vision\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion",
+    "text": "Vision\n\n\n\nSpatial frequency/contrast sensitivity\n\n\n\n\n\nRoark & Stringham (2019) Figure 1",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#audition-1",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#audition-1",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#audition-2",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#audition-2",
     "title": "Sensory Systems",
     "section": "Audition",
-    "text": "Audition\n\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect",
+    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-1",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-1",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-2",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-2",
     "title": "Sensory Systems",
-    "section": "Somatosensation",
-    "text": "Somatosensation\n\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin",
+    "section": "Somatosensation:",
+    "text": "Somatosensation:\n\n\n\nTextures\n\n\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10467,11 +10566,11 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-somatotopic-maps-in-s1-m1",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-somatotopic-maps-in-s1-m1",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatotopic-maps",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatotopic-maps",
     "title": "Sensory Systems",
-    "section": "Somatosensory: Somatotopic maps in S1 & M1",
-    "text": "Somatosensory: Somatotopic maps in S1 & M1\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg",
+    "section": "Somatotopic maps",
+    "text": "Somatotopic maps\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10483,28 +10582,6 @@
     "title": "Sensory Systems",
     "section": "Sensivity non-uniform",
     "text": "Sensivity non-uniform",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#two-point-touch-thresholds",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#two-point-touch-thresholds",
-    "title": "Sensory Systems",
-    "section": "Two-point touch thresholds",
-    "text": "Two-point touch thresholds\n\n\n\n\n\n– OTGeddie (2017)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-homunculus",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-homunculus",
-    "title": "Sensory Systems",
-    "section": "Somatosensory homunculus",
-    "text": "Somatosensory homunculus",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10533,22 +10610,33 @@
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#hierarchicalsequential-and-parallel",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#hierarchicalsequential-and-parallel",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#two-point-touch-thresholds",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#two-point-touch-thresholds",
     "title": "Sensory Systems",
-    "section": "Hierarchical/sequential AND parallel",
-    "text": "Hierarchical/sequential AND parallel",
+    "section": "Two-point touch thresholds",
+    "text": "Two-point touch thresholds\n\n\n\n\n\n– OTGeddie (2017)",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
     ]
   },
   {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#feedforward-and-feedback",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#feedforward-and-feedback",
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-homunculus",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensory-homunculus",
     "title": "Sensory Systems",
-    "section": "Feedforward and feedback",
-    "text": "Feedforward and feedback",
+    "section": "Somatosensory homunculus",
+    "text": "Somatosensory homunculus",
+    "crumbs": [
+      "Slides",
+      "Wk 12 • Thu Nov 13"
+    ]
+  },
+  {
+    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel-processing",
+    "href": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel-processing",
+    "title": "Sensory Systems",
+    "section": "Sequential & parallel processing",
+    "text": "Sequential & parallel processing",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10592,7 +10680,7 @@
     "href": "slides/wk-12-2025-11-13-sensory-systems.html#references",
     "title": "Sensory Systems",
     "section": "References",
-    "text": "References\n\n\n\n\nBargmann, C. I. (2006). Comparative chemosensation from receptors to ecology. Nature, 444, 295–301. https://doi.org/10.1038/nature05402\n\n\nBarker, M., Brewer, R., & Murphy, J. (2021). What is interoception and why is it important? Frontiers for Young Minds, 9. https://doi.org/10.3389/frym.2021.558246\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nHumphries, C., Liebenthal, E., & Binder, J. R. (2010). Tonotopic organization of human auditory cortex. NeuroImage, 50, 1202–1211. https://doi.org/10.1016/j.neuroimage.2010.01.046\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. https://doi.org/10.1016/j.tins.2017.02.002\n\n\nOTGeddie. (2017). Tactile localization. Youtube. Retrieved from https://www.youtube.com/watch?v=t97QiEiKjD8\n\n\nRoark, M. W., & Stringham, J. M. (2019). Visual performance in the “real world”: Contrast sensitivity, visual acuity, and effects of macular carotenoids. Molecular Nutrition & Food Research, 63(15), e1801053. https://doi.org/10.1002/mnfr.201801053\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733\n\n\nSwanson, L. W. (2012). Brain architecture: Understanding the basic plan. Oxford University Press.\n\n\nTodorov, N. (2014, July 6). Did you know how many different kinds of sensors go inside a smartphone? Retrieved March 27, 2023, from https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885\n\n\nWikipedia contributors. (2025, August 17). Psychophysics. Retrieved from https://en.wikipedia.org/wiki/Psychophysics",
+    "text": "References\n\n\n\n\nBargmann, C. I. (2006). Comparative chemosensation from receptors to ecology. Nature, 444, 295–301. https://doi.org/10.1038/nature05402\n\n\nBarker, M., Brewer, R., & Murphy, J. (2021). What is interoception and why is it important? Frontiers for Young Minds, 9. https://doi.org/10.3389/frym.2021.558246\n\n\nDougherty, R. F., Koch, V. M., Brewer, A. A., Fischer, B., Modersitzki, J., & Wandell, B. A. (2003). Visual field representations and locations of visual areas V1/2/3 in human visual cortex. Journal of Vision, 3(10), 1–1. https://doi.org/10.1167/3.10.1\n\n\nHumphries, C., Liebenthal, E., & Binder, J. R. (2010). Tonotopic organization of human auditory cortex. NeuroImage, 50, 1202–1211. https://doi.org/10.1016/j.neuroimage.2010.01.046\n\n\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. https://doi.org/10.1016/j.tins.2017.02.002\n\n\nOTGeddie. (2017). Tactile localization. YouTube. Retrieved from https://www.youtube.com/watch?v=t97QiEiKjD8\n\n\nRoark, M. W., & Stringham, J. M. (2019). Visual performance in the “real world”: Contrast sensitivity, visual acuity, and effects of macular carotenoids. Molecular Nutrition & Food Research, 63(15), e1801053. https://doi.org/10.1002/mnfr.201801053\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733\n\n\nSwanson, L. W. (2012). Brain architecture: Understanding the basic plan. Oxford University Press.\n\n\nTodorov, N. (2014, July 6). Did you know how many different kinds of sensors go inside a smartphone? Retrieved March 27, 2023, from https://www.phonearena.com/news/Did-you-know-how-many-different-kinds-of-sensors-go-inside-a-smartphone_id57885\n\n\nWikipedia contributors. (2025, August 17). Psychophysics. Retrieved from https://en.wikipedia.org/wiki/Psychophysics",
     "crumbs": [
       "Slides",
       "Wk 12 • Thu Nov 13"
@@ -10646,292 +10734,6 @@
     "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
     "crumbs": [
       "Policies"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#types-of-sensory-processing",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#types-of-sensory-processing",
-    "title": "Sensory Systems",
-    "section": "Types of sensory processing",
-    "text": "Types of sensory processing\n\nInteroceptive\n\nHow am I?\n\nExteroceptive\n\nWhat’s in the world, where is it?",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#vision-2",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#vision-2",
-    "title": "Sensory Systems",
-    "section": "Vision",
-    "text": "Vision\n\n\n\nSpatial frequency/contrast sensitivity\n\n\n\n\n\nRoark & Stringham (2019) Figure 1",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#chemosensation-1",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#chemosensation-1",
-    "title": "Sensory Systems",
-    "section": "Chemosensation",
-    "text": "Chemosensation\n\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#common-features",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#common-features",
-    "title": "Sensory Systems",
-    "section": "Common features",
-    "text": "Common features\n\nSignals change across time and space\n\nConsist of repeating patterns\n\nInvolve comparisons across multiple sensors\nBrain regions contain topographic maps\nSensitivity is non-uniform",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#audition-2",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#audition-2",
-    "title": "Sensory Systems",
-    "section": "Audition",
-    "text": "Audition\n\n\n\nFrequencies in sound\n\n\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-2",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatosensation-2",
-    "title": "Sensory Systems",
-    "section": "Somatosensation:",
-    "text": "Somatosensation:\n\n\n\nTextures\n\n\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#measuring-sensitivity-to-change",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#measuring-sensitivity-to-change",
-    "title": "Sensory Systems",
-    "section": "Measuring sensitivity to change",
-    "text": "Measuring sensitivity to change\n\n\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#information-consists-of-repeating-signals",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#information-consists-of-repeating-signals",
-    "title": "Sensory Systems",
-    "section": "Information consists of repeating signals",
-    "text": "Information consists of repeating signals\n\ne.g., patterns\nIn space (textures)\nIn time",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#somatotopic-maps",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#somatotopic-maps",
-    "title": "Sensory Systems",
-    "section": "Somatotopic maps",
-    "text": "Somatotopic maps\n\nhttp://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#processing-hierarchicalsequential",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#processing-hierarchicalsequential",
-    "title": "Sensory Systems",
-    "section": "Processing hierarchical/sequential",
-    "text": "Processing hierarchical/sequential\n\nAND parallel",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel",
-    "title": "Sensory Systems",
-    "section": "Sequential & parallel",
-    "text": "Sequential & parallel",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel-processing",
-    "href": "slides/wk-12-2025-11-13-sensory-systems.html#sequential-parallel-processing",
-    "title": "Sensory Systems",
-    "section": "Sequential & parallel processing",
-    "text": "Sequential & parallel processing",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Thu Nov 13"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#threat-conditioning",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#threat-conditioning",
-    "title": "Emotion II",
-    "section": "Threat conditioning",
-    "text": "Threat conditioning\n\n\n\n\n\nflowchart LR\n  S[sound] ---&gt; A(auditory)\n  F[shock] ---&gt; T(somatosensory)\n  A ---&gt; L(learning)\n  T ---&gt; L\n  L ---&gt; D(freezing)\n  L ---&gt; H(blood pressure)\n  L ---&gt; C(hormones)\n\n\n\n\n\n\n\n\nWhy these responses to threat?\nWhat are the pathways from stimuli to responses?",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#social-distress-empathy",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#social-distress-empathy",
-    "title": "Emotion II",
-    "section": "Social distress & empathy",
-    "text": "Social distress & empathy\n\nSome non-human animals demonstrate sensitivity to conspecifics’ distress\nPain thresholds lower (sensitivity greater) when a mouse’s cage mate is also in pain (Smith, Hostetler, Heinricher, & Ryabinin, 2016)\n\nBut no CORT \\(\\uparrow\\)\n\nRats will cooperate to release distressed cage mate, foregoing food rewards\n\n– R. M. Sapolsky (2016)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#non-human-animal-empathy",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#non-human-animal-empathy",
-    "title": "Emotion II",
-    "section": "Non-human animal empathy",
-    "text": "Non-human animal empathy\n\nWaal & Preston (2017) Figure 2",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#threat-fear-conditioning",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#threat-fear-conditioning",
-    "title": "Emotion II",
-    "section": "Threat (“fear”) conditioning",
-    "text": "Threat (“fear”) conditioning\n\nhttp://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role-2",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#cerebral-cortex-role-2",
-    "title": "Emotion II",
-    "section": "Cerebral cortex role",
-    "text": "Cerebral cortex role\n\n\n\nAmygdala widely connected\nEmotion ==\n\nsubjective feelings + physiology + behaviors\nsee 2025-11-06",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cort-release",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cort-release",
-    "title": "Emotion II",
-    "section": "Glucocorticoid (CORT) release",
-    "text": "Glucocorticoid (CORT) release\n\n\n\nAdrenal cortex releases cortisol\n\nIncreases blood glucose levels\nSuppresses immune system\nReduces inflammation\nAids in metabolism\n\nReceptors in brain and body\n\n\n\n\n\nWikipedia contributors (2025)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#cort",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#cort",
-    "title": "Emotion II",
-    "section": "CORT",
-    "text": "CORT\n\n\n\nCircadian rhythm to release\nPeak ~30 min of morning awakening in humans\n\n\n\n\n\nhttp://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-da",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoids-da",
-    "title": "Emotion II",
-    "section": "Glucocorticoids & DA",
-    "text": "Glucocorticoids & DA\n\nBruce S. McEwen (2013)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals",
-    "title": "Emotion II",
-    "section": "Empathy in non-human animals",
-    "text": "Empathy in non-human animals\n\nWaal & Preston (2017) Figure 2",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals-1",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#empathy-in-non-human-animals-1",
-    "title": "Emotion II",
-    "section": "Empathy in non-human animals",
-    "text": "Empathy in non-human animals\n\n– (Unknown1969-ra?)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#section",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#section",
-    "title": "Emotion II",
-    "section": "",
-    "text": "– (Unknown1969-ra?)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#do-rats-feel-empathy",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#do-rats-feel-empathy",
-    "title": "Emotion II",
-    "section": "Do rats feel empathy?",
-    "text": "Do rats feel empathy?\n\n\n\nDo rats feel empathy? (1969)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cascade-hypothesis-4",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#glucocorticoid-cascade-hypothesis-4",
-    "title": "Emotion II",
-    "section": "Glucocorticoid cascade hypothesis",
-    "text": "Glucocorticoid cascade hypothesis\n\n\n\nZebras (probably) don’t worry about predation by lions\n\n\nPhasic (short-term) vs. chronic (long-term)\nPhysical stress (hunger, thirst, injury, disease) vs. psychological/social stress\n\n\n\n\n\nR. Sapolsky (1994)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
-    ]
-  },
-  {
-    "objectID": "slides/wk-12-2025-11-11-emotion-II.html#your-stress-aint-like-mine",
-    "href": "slides/wk-12-2025-11-11-emotion-II.html#your-stress-aint-like-mine",
-    "title": "Emotion II",
-    "section": "Your stress ain’t like mine",
-    "text": "Your stress ain’t like mine\n\n\n\nZebras (probably) don’t worry about predation by lions\n\n\nPhasic (short-term) vs. chronic (long-term)\nPhysical stress (hunger, thirst, injury, disease) vs. psychological/social stress\n\n\n\n\n\nR. Sapolsky (1994)",
-    "crumbs": [
-      "Slides",
-      "Wk 12 • Tue Nov 11"
     ]
   }
 ]

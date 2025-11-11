@@ -299,29 +299,29 @@ flowchart LR
 
 ## Emotion in action
 
+:::: {.columns}
+::: {.column width=50%}
 What emotion?
 
-<audio controls>
-
-<source src="../include/snd/9999-ang-chk-a.wav" type="audio/wav">
-Your browser does not support the audio tag.
-
-</audio>
-
-![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg)
+{{< audio "../include/snd/9999-ang-chk-a.wav" >}}
+:::
+::: {.column width=50%}
+![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+:::
+::::
 
 ## Emotion in action
 
+:::: {.columns}
+::: {.column width=50%}
 How about now?
 
-<audio controls>
-
-<source src="../include/snd/9999-hap-chk-a.wav" type="audio/wav">
-Your browser does not support the audio tag. 
-
-</audio>
-
-![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg)
+{{< audio "../include/snd/9999-hap-chk-a.wav" >}}
+:::
+::: {.column width=50%}
+![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg){width="60%"}
+:::
+::::
 
 ## Feeling emotion
 

@@ -1,0 +1,17 @@
+---
+title: "test-embeddio"
+format: html
+---
+
+## Emotion in action
+
+:::: {.columns}
+::: {.column width=50%}
+What emotion?
+
+{{< audio "../include/snd/9999-ang-chk-a.wav" >}}
+:::
+::: {.column width=50%}
+![@Stoop2020-bu](https://ars.els-cdn.com/content/image/1-s2.0-S0022096519301183-gr1.jpg)
+:::
+::::
