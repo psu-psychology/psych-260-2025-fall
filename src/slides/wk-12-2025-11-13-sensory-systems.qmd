@@ -6,7 +6,11 @@ fig-align: "center"
 
 # Prelude
 
-## Announcements
+---
+
+{{< video https://www.youtube.com/watch?v=-J03yCE15rg&list=RD-J03yCE15rg width="100%" height="70%" >}}
+
+-- @TheWhoVEVO2016-wl
 
 ## Today's topics
 
@@ -17,15 +21,77 @@ fig-align: "center"
 
 ---
 
-### Question 1
+### Which of the following brain areas are *not* implicated in the threat conditioning paradigm?
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- A. amygdala
+- B. auditory thalamus
+- C. somatosensory thalamus
+- D. visual cortex (V1)
+:::
+
+:::
+::: {.column width=50%}
+
+:::
+::::
 
 ---
 
-### Question 2
+### Which of the following brain areas are *not* implicated in the threat conditioning paradigm?
+
+:::: {.columns}
+::: {.column width=50%}
+- ~~A. amygdala~~
+- ~~B. auditory thalamus~~
+- ~~C. somatosensory thalamus~~
+- **D. visual cortex (V1)**
+:::
+::: {.column width=50%}
+![@medina2002parallels Figure 2](../include/img/fear-conditioning-amygdala-nrn728-f2.gif){width="70%"}
+:::
+::::
 
 ---
 
-### Question 3
+### The hypothalamus gets input from this structure as part of the system regulating hormonal and ANS responses to threat.
+
+::: {.incremental}
+- A. ventral tegmental area (VTA)
+- B. amygdala
+- C. cerebellum
+- D. olfactory bulb
+:::
+
+---
+
+### The hypothalamus gets input from this structure as part of the system regulating hormonal and ANS responses to threat.
+
+- ~~A. ventral tegmental area (VTA)~~
+- **B. amygdala**
+- ~~C. cerebellum~~
+- ~~D. olfactory bulb~~
+
+---
+
+### Whether stressors are ______ or _______ influences whether they cause long-term health problems.
+
+::: {.incremental}
+- A. loud; quiet
+- B. bright; dim
+- C. social; chemical
+- D. acute; chronic
+:::
+---
+
+### Whether stressors are ______ or _______ influences whether they cause long-term health problems.
+
+- ~~A. loud; quiet~~
+- ~~B. bright; dim~~
+- ~~C. social; chemical~~
+- **D. acute; chronic**
 
 # Sensory Systems
 
@@ -130,6 +196,9 @@ plot(g, vertex.size=50, vertex.color="gray")
 :::
 ::::
 
+---
+
+![@UnknownUnknown-pc](../include/img/nih-interoception-grant.png)
 
 ## Questions for exteroception
 
@@ -154,18 +223,22 @@ plot(g, vertex.size=50, vertex.color="gray")
 - Channels carry different types of information about
     + *What* is out there?
     + *Where* is it located or moving?
-- Channels convey information at different rates, with varied precision
-- Information often signaled by multiple sources
+- Channels convey information 
+  - at different rates
+  - with varied precision
+- Similar information often signaled by multiple sources
 :::
 
 ## Psychophysics
 
 :::: {.columns}
 ::: {.column width=60%}
+::: {.incremental}
 - Earliest field of scientific psychology, origins in mid-1800s
 - How precisely do human observers detect physical properties?
 - Emphasizes quantitative relationships, precise measurement
 - More: @Wikipedia-contributors2025-gx
+:::
 :::
 ::: {.column width=40%}
 ![](https://www.psywww.com/intropsych/ch04-senses/04stevenscurves.jpg){width="80%" fig-align="right"}
@@ -184,7 +257,8 @@ plot(g, vertex.size=50, vertex.color="gray")
 :::: {.columns}
 ::: {.column width=50%}
 - Source: Electromagnetic radiation
-    - Reflected from surfaces
+- Reflected from surfaces
+- Emitted by sources (e.g., sun, screens)
     
 :::
 ::: {.column width=50%}
@@ -292,6 +366,8 @@ plot(g, vertex.size=50, vertex.color="gray")
 - Signals change across time and space
   - Consist of repeating patterns
 - Involve comparisons across multiple sensors
+- Specialized neurons
+- Receptive fields
 - Brain regions contain topographic maps
 - Sensitivity is non-uniform
 
@@ -398,6 +474,39 @@ plot(g, vertex.size=50, vertex.color="gray")
 :::
 ::::
 
+## Specialized neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Photoreceptors
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1414_Rods_and_Cones.jpg/330px-1414_Rods_and_Cones.jpg)
+:::
+::::
+
+## Specialized neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- Cochlear hair cells
+:::
+::: {.column width=50%}
+![](https://med.stanford.edu/ohns/OHNS-healthcare/earinstitute/conditions-we-treat/hearing-hair-cell/_jcr_content/main/panel_builder_348698106/panel_0/image_0.img.full.high.jpg/organ-of-corti.jpg)
+:::
+::::
+
+## Specialized neurons
+
+:::: {.columns}
+::: {.column width=50%}
+- taste receptor cells
+:::
+::: {.column width=50%}
+![@Chandrashekar2006-mn](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05401/MediaObjects/41586_2006_Article_BFnature05401_Fig1_HTML.jpg?as=webp)
+:::
+::::
+
 ## ["Receptive fields"](https://en.wikipedia.org/wiki/Receptive_field)
 
 + Area on sensory surface (e.g., retina, skin) that when stimulated changes neuron's firing
@@ -468,7 +577,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Somatosensory homunculus
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_Sensory_Homunculus.gif){fig-align="center"}
 
 ## Sequential & parallel processing
 
@@ -485,7 +594,36 @@ plot(g, vertex.size=50, vertex.color="gray")
 
 ## Main points
 
+:::: {.columns}
+::: {.column width=60%}
+- Psychology originated with the study of perception
+- Closing the behavioral loop
+  - from sensation to action
+  - important scientific goal
+:::
+::: {.column width=40%}
+![](../include/img/perception-action-cycle.jpg)
+:::
+::::
+
+## Main points
+
+- Interoception vs. exteroception
+- Key questions for *exteroception*
+  - What's out there (or who)?
+  - Where is it?
+
+## Main points
+
+- Sensory systems specialized (e.g., detect light, sound, chemicals)
+- But have similarities
+- Know more about (except interoception)
+  - Easier to measure
+  - Easier to access
+
 ## Next time
+
+- Somatosensation
 
 # Resources
 
