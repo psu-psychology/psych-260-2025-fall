@@ -241,6 +241,8 @@ That said, you may find it interesting to learn and know about anyway.
 
 *`{r} sched_df$class_1_theme[13]`*
 
+- *Slides*:  | [html](slides/wk-13-2025-11-18-somatosensation.qmd) |
+
 ### `{r} prettify_date(sched_df$class_day_2[13])` {-}
 
 *`{r} sched_df$class_2_theme[13]`*

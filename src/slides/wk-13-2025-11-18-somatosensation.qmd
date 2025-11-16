@@ -1,0 +1,479 @@
+---
+title: "Somatosensation"
+subtitle: 2025-11-18
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=nvZfQzlS9t8 width="100%" height="70%" >}}
+
+-- @Ross-Topic2018-zj
+
+---
+
+{{< video https://www.youtube.com/watch?v=yuOPRfq-q6U&list=RDyuOPRfq-q6U width="100%" height="70%" >}}
+
+-- @ThePoliceVEVO2010-sc
+
+## Announcements
+
+- Exam 3 Tuesday, December 2, 2025
+
+## Today's topics
+
+- Warm up
+- Somatosensation
+- Pain
+
+# Warm up
+
+# Somatosensation
+
+## What is it?
+
+- Sensations about the body (soma)
+
+## Types of somatosensation
+
+- Internal (interoceptive)
+    - How do I feel?
+    + Where/how is my body positioned?
+    + Proprioception (perception of the self)
+- External (exteroceptive)
+    + What’s in the world?
+    + Where is it?
+
+## Internal senses
+
+- Kinesthesia
+    + Body position
+    + Movement 
+- Vestibular sense
+    + Head position (relative to gravity)
+    + Head movement (rotation, translation)
+    
+## Vesibulo-ocular response (VOR)
+
+:::: {.columns}
+::: {.column width=50%}
+- Keeps eyes steady when head moves
+- Fast: response < 10 ms
+- Disturbed in vertigo
+:::
+::: {.column width=50%}
+![Vestibulo-ocular response (VOR): https://www.mcgill.ca/vestibular-gazecontrol-lab/files/vestibular-gazecontrol-lab/images/222_0.gif](https://www.mcgill.ca/vestibular-gazecontrol-lab/files/vestibular-gazecontrol-lab/images/222_0.gif)
+:::
+::::
+
+## Vestibulo-ocular response (VOR)
+
+:::: {.columns}
+::: {.column width=50%}
+- Keeps eyes steady when head moves
+- Can't walk & text without it
+:::
+::: {.column width=50%}
+{{< video https://www.youtube.com/embed/j_R0LcPnZ_w >}}
+
+-- @Castilla2007-cq
+:::
+::::
+
+## External senses
+
+- What's out there and where is it located?
+
+:::: {.columns}
+::: {.column width=50%}
+- Cutaneous (receptors in the skin) senses
+    + Hot, cold
+    + Pressure
+    + Vibration
+- Plus kinesthesia (why?)
+:::
+::: {.column width=50%}
+![](../include/img/cuteneous-receptors.jpg)
+:::
+::::
+
+## Cutaneous receptors
+
+:::: {.columns}
+::: {.column width=33%}
+- Receptors specialize in different info types, properties
+:::
+::: {.column width=33%}
+![](../include/img/pacinian-meissner.jpg)
+:::
+::: {.column width=33%}
+![](../include/img/merkel-ruffini.jpg)
+:::
+::::
+
+## Question
+
+- Why are minty foods cool?
+- Why are spicy foods hot?
+
+## Receptors detect chemicals + temperature
+
+:::: {.columns}
+::: {.column width=50%}
+- **Menthol/mint receptor** (CMR1)
+    + Also signals "cool" temperatures
+:::
+::: {.column width=50%}
+![](../include/img/menthol-vanilloid-receptors.jpg)
+:::
+::::
+
+## Receptors detect chemicals + temperature
+
+:::: {.columns}
+::: {.column width=50%}
+- **Vanilloid Receptors** (TrpV1/VR1, VRL1)
+    + Respond to capsaicin (in peppers), allyl isothiocyanate (in mustard, wasabi)
+    + Also signal "hot" temperatures
+:::
+::: {.column width=50%}
+![](../include/img/menthol-vanilloid-receptors.jpg)
+:::
+::::
+
+## Capsaicin for pain relief
+
+>**The mechanism of action of topical capsaicin has been ascribed to depletion of substance
+P^[a peptide neurotransmitter & neuromodulator released following injury]**. However, experimental and clinical studies show that **depletion of substance P from
+nociceptors is only a correlate of capsaicin treatment and has little, if any, causative role in
+pain relief**...
+
+-- @Anand2011-dm
+
+## Capsaicin for pain relief
+
+>...Rather, **topical capsaicin acts in the skin to attenuate cutaneous hypersensitivity
+and reduce pain by a process best described as ‘defunctionalization’ of nociceptor fibres**.
+
+-- @Anand2011-dm
+
+## Axon size/speed trade-off
+
+:::: {.columns}
+::: {.column width=50%}
+- Not all info travels at the same speed
+- Thicker -> faster
+- Myelinated -> faster
+:::
+::: {.column width=50%}
+![](../include/img/axon-size-speed-tradeoff.jpg)
+:::
+::::
+
+## Axon size/speed trade-off
+
+:::: {.columns}
+::: {.column width=50%}
+- Fast: Kinesthesia (from muscles and joints) the fastest
+- Slow: Pain/itch, temperature
+:::
+::: {.column width=50%}
+![](../include/img/axon-size-speed-tradeoff.jpg)
+:::
+::::
+
+## From skin to brain
+
+- Cutaneous receptors ->
+- Dorsal root ganglion in spinal cord ->
+- Ventral posterior lateral (VPL) thalamus ->
+- Primary somatosensory cortex (S1) ->
+    + Post-central gyrus of parietal lobe
+    
+## Dermatomes
+
+- Patches of skin ennervated by a set of nerves
+
+:::: {.columns}
+::: {.column width=50%}
+![](../include/img/skin-to-spinal-cord.jpg)
+:::
+::: {.column width=50%}
+![](../include/img/dermatomes.jpg)
+:::
+::::
+
+
+## Functional segregation in spinal cord
+
+- Separate pathways for different information types
+
+:::: {.columns}
+::: {.column width=50%}
+- **Dorsal column/medial leminiscal pathway**
+    - Touch, proprioception
+:::
+::: {.column width=50%}
+![](http://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Dorsal-Column-Medial-Lemniscal-Pathway-1.jpg")
+:::
+::::
+
+## Functional segregation in spinal cord
+
+:::: {.columns}
+::: {.column width=50%}
+- **Spinothalamic tract**
+    - Pain, temperature
+:::
+::: {.column width=50%}
+![](http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg)
+:::
+::::
+
+
+## Somatotopic maps
+
+:::: {.columns}
+::: {.column width=50%}
+- In thalamus & cerebral cortex
+:::
+::: {.column width=50%}
+![](../include/img/s1.jpg)
+:::
+::::
+
+## Maps non-uniform
+
+:::: {.columns}
+::: {.column width=50%}
+- Some areas of skin activate disproportionately sized areas of the cerebral cortex
+  - hands, face, lips & tongue
+- More sensors in skin...
+- More axons to brain...
+- Larger areas in brain
+:::
+::: {.column width=50%}
+![](../include/img/homunculus.jpg){fig-align="right" width="65%"}
+:::
+::::
+
+---
+
+## Parallel pathways
+
+:::: {.columns}
+::: {.column width=50%}
+- S1 maintains functional segregation of input types
+:::
+::: {.column width=50%}
+![](../include/img/s1-columns.jpg)
+:::
+::::
+
+## Interim summary
+
+- Perceiving Where
+    + Somatotopic maps -- locations on skin
+    + Kinesthesia -- configuration of limbs
+- Perceiving What
+    + Patterns of smoothness, roughness, shape, temperature
+    
+```{r}
+knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/migrated/images/somcort.gif")
+```
+
+## Phantom Limbs
+
+{{< video https://www.youtube.com/embed/1mHIv5ToMTM width="100%" height="70%" >}}
+
+-- @Cogmonaut2010-el
+
+# Pain
+
+## Nociceptors
+
+- *Nociceptors* (Latin *nocere* to harm or hurt) detect harmful or potentially harmful stimuli of varied types:
+    - chemical
+    - mechanical
+    - thermal
+
+## Nociceptors
+
+- External
+    - Skin, cornea (eye), mucosa
+- Internal
+    - Muscles, joints, bladder, gut
+
+## Types
+
+- metabolism (acidic pH, hypoxia, ...)
+- cell rupture (ATP and glutamate)
+- cutaneous parasite penetration (histamine)
+- mast cell (white blood cell) activation (serotonin, bradykinin, ...)
+- immune and hormonal activity (cytokines and somatostatin)
+
+## Projections to CNS
+
+:::: {.columns}
+::: {.column width=50%}
+- Fast ($A\delta$) and slow ($C$) transmission to CNS
+:::
+::: {.column width=50%}
+![](../include/img/axon-size-speed-tradeoff.jpg)
+:::
+::::
+
+## Projections to CNS
+
+:::: {.columns}
+::: {.column width=50%}
+- Via anterolateral system
+:::
+::: {.column width=50%}
+![](http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg)
+:::
+::::
+
+---
+
+```{r, out.width="100%", fig.cap="Figure 1 from [@Craig2002-ce](http://doi.org/10.1038/nrn894)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig1_HTML.gif?as=webp")
+```
+
+## Key CNS nodes
+
+:::: {.columns}
+::: {.column width=50%}
+- Periaqueductal grey (PAG) in midbrain
+- Insular cortex (insula)
+- Hypothalamus
+- Amygdala
+:::
+::: {.column width=50%}
+![Figure 2 from [@Craig2002-ce]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig2_HTML.gif?as=webp)
+:::
+::::
+
+## Key CNS nodes
+
+:::: {.columns}
+::: {.column width=50%}
+- Thalamus
+    - Ventroposterior lateral nucleus
+    - Ventroposterior medial nucleus
+    - Ventromedial nucleus
+:::
+::: {.column width=50%}
+http://www.annevanrossum.com/images/blog/thalamus1.jpg
+:::
+::::
+
+## Pain in the brain
+
+```{r, out.width="100%", fig.cap="Figure 1 from [@Wager2013-uw](http://doi.org/10.1056/NEJMoa1204471)"}
+knitr::include_graphics("http://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2013/nejm_2013.368.issue-15/nejmoa1204471/20170324/images/large/nejmoa1204471_f1.jpeg")
+```
+
+## Pain in the brain
+
+>...we used machine-learning analyses to identify a pattern of fMRI activity across brain regions — a neurologic signature — that was associated with heat-induced pain. The pattern included the **thalamus, the posterior and anterior insulae, the secondary somatosensory cortex, the anterior cingulate cortex, the periaqueductal gray matter**, and other areas...
+
+-- @Wager2013-uw
+
+## Pain relief
+
+- *Prostaglandins*
+    - hormone-like effects, but released in many places
+    - trigger vasodilation and inflammation
+- *Paracetymol (acetaminophen)*
+    - Mechanism not fully understood
+    - inhibits synthesis of prostaglandins via cyclooxygenase (COX) enzyme
+    - may modulate endocannabinoid system
+    
+## Pain relief
+
+- *Nonsteroidal anti-inflamatory drugs (NSAIDs)*: aspirin, ibuprofen
+    - Also inhibit prostaglandins via COX
+    
+## Pain relief
+
+:::: {.columns}
+::: {.column width=50%}
+- *Opioids*
+    - Activate endogenous opioid systems
+    - multiple receptor types ($\delta$, $\kappa$, $\mu$,...)
+    - peripheral sensory neurons, amygdala, hypothalamus, PAG, spinal cord, cortex, medulla, pons,...
+    - brainstem opioid neurons provide *descending* inhibition of nociceptors
+:::
+::: {.column width=50%}
+![Figure 1 from [@Benarroch2012-ek]](http://www.neurology.org/content/79/8/807/F1.large.jpg)
+:::
+::::
+
+## Synthetic *Capsaicin*
+
+:::: {.columns}
+::: {.column width=50%}
+- Binds to TrpV1/VR1 thermo/nociceptors
+- Eventually causes decrease in TrpV1 response
+- Alters how peripheral neuron responds to mechanical (rubbing) stimulation
+- @Borbiro2015-ik
+:::
+::: {.column width=50%}
+![](https://images-na.ssl-images-amazon.com/images/I/510PjwGtTpL._SY355_.jpg)
+:::
+::::
+
+## Why rubbing might help
+
+<div class="centered">
+<img src="include/img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## Gate control theory 
+
+:::: {.columns}
+::: {.column width=50%}
+- @Melzack1965-va
+- Pain projection neurons receive nociceptive + non-nociceptive input
+- Non-nociceptive input activates inhibitory interneuron
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gate_control_no_A.svg/1200px-Gate_control_no_A.svg.png)
+:::
+::::
+
+## Pain has multiple components
+
+![Figure 1 from @Papini2015-ed](https://ars.els-cdn.com/content/image/1-s2.0-S0149763414002978-gr1.jpg)
+
+## Interim summary
+
+- Multiple receptor channels
+- Highly interconnected CNS network
+- Multiple targets for modulation
+    
+# Wrap up
+
+## Main points
+
+## Next time
+
+- Action I
+- Exam 3 review
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
