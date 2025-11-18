@@ -297,6 +297,10 @@ flowchart TD
 :::
 ::::
 
+## Why this matters...
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjNXIxOGNzejhuaGNrcThxYzA1NGt5MG13YXY0eTJlNjM0NnlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeZvq8yltmsUfq2sgX/giphy.gif){fig-align="center"}
+
 # Exam 3 review
     
 # Wrap up
