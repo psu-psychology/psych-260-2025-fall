@@ -20,7 +20,7 @@ fig-align: "center"
 
 ## Announcements
 
-- Exam 3 Tuesday, December 2, 2025
+- Exam 3 on Tuesday, December 2, 2025
 
 ## Today's topics
 

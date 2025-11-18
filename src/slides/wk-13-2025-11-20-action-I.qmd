@@ -1,0 +1,322 @@
+---
+title: "Action"
+subtitle: 2025-11-20
+fig-align: "center"
+---
+
+# Prelude
+
+## Announcements
+
+- Exam 3 on Tuesday, December 2, 2025
+
+## Today's topics
+
+- Warm up
+- Action
+- Exam 3 review
+
+# Warm up
+
+# Action
+
+## Behavior as a system
+
+:::: {.columns}
+::: {.column width=50%}
+- Inputs (sensation/perception)
+- Processing (emotion/cognition)
+- Outputs
+:::
+::: {.column width=50%}
+```{mermaid}
+flowchart TD
+  I(input) --> P[processing]
+  P --> O(output)
+```
+:::
+::::
+
+## Multiple outputs
+
+:::: {.columns}
+::: {.column width=50%}
+- Autonomic
+- Endocrine
+- Secretions, excretions
+- Behavior
+  - Body movements
+  - Vocalization
+:::
+::: {.column width=50%}
+```{mermaid}
+flowchart TD
+  P(processing) --> A[ANS]
+  P --> H(endocrine)
+  P --> S(secretions, excretions)
+  P --> B(behavior/action)
+  B --> M(movements)
+  B --> V(vocalizations)
+```
+:::
+::::
+    
+## Types of movements
+
+::: {.incremental}
+- Reflexes
+  + Simple, highly stereotyped, unlearned, rapid
+- vs. planned or voluntary actions
+  + Complex, flexible, acquired, slower
+  - Discrete (reaching) vs. rhythmic (walking)
+  - Ballistic (no feedback) vs. controlled (feedback)
+  - Sequential
+
+::: 
+    
+## Muscle groups
+
+- Axial
+    + Trunk, neck, hips
+- Proximal
+    + Shoulder/elbow, pelvis/knee
+- Distal
+    + Hands/fingers, feet/toes
+
+## Types
+
+:::: {.columns}
+::: {.column width=50%}
+- Cardiac
+- Smooth
+    + Arteries, hair follicles, uterus, intestines
+    - Involuntary
+    + Regulated by ANS
+:::
+::: {.column width=50%}
+![](http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg)
+:::
+::::
+
+## Types
+
+:::: {.columns}
+::: {.column width=50%}
+- Striated (striped)
+    + Skeletal
+    + Voluntary control
+    - Mostly connected to tendons and bones
+    - Regulated by somatic part of PNS
+:::
+::: {.column width=50%}
+![](http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg)
+:::
+::::
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Fast twitch/fatiguing
+    + Type II
+    + White meat
+- Slow twitch/fatiguing
+    + Type I
+    + Red/dark meat
+:::
+:::
+::: {.column width=50%}
+![](../include/img/turkey.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+
+- Motor neuron
+  - Cell body in ventral horn of spinal cord
+  - Exit spinal cord via ventral root
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- Neuromuscular junction
+    + Releases acetylcholine (ACh) onto skeletal muscle fiber
+:::
+::: {.column width=50%}
+![](http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg)
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- Motor endplate
+    + Contains nicotinic ACh receptors (nAChR)
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
+- nAChR receptor opens
+  - Na+ enters; K+ exits
+  - Combined effect excitatory
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+## From neuron to muscle
+
+:::: {.columns}
+::: {.column width=50%}
++ Generates excitatory endplate potential (EPP)
+    + Muscle fiber depolarizes
+    + Depolarization spreads along fiber
+    + Ca++ released from stores inside muscle
+:::
+::: {.column width=50%}
+![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle fibers segmented into sarcomeres
+- Myofibrils (w/in sarcomere)
+    + Paired actin & mysosin proteins
+    + “Molecular gears”
+- Bind, move, unbind in presence of Ca++ plus energy source (ATP)
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fibers-biopsych.jpg)
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+- Skeletal muscles have no "reverse" gear
+  - Only contract
+- Muscles often arranged in agonist/antagonist pairs
+:::
+::: {.column width=50%}
+![](http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg)
+:::
+::::
+
+## Muscles are sensory organs, too!
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+- **Intrafusal** fibers
+    + Sense length/tension
+    + Ennervated (contract) via gamma ($\gamma$) motor neuron activation
+    + Contain muscle spindles (sensory organs linked to Ia afferents)
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fiber-types.jpg)
+:::
+::::
+
+## Muscle fiber types
+
+:::: {.columns}
+::: {.column width=50%}
+- **Extrafusal** fibers
+    + Generate force
+    + Ennervated (contract) via alpha ($\alpha$) motor neurons
+:::
+::: {.column width=50%}
+![](../include/img/muscle-fiber-types.jpg)
+:::
+::::
+
+## Monosynaptic stretch (myotatic) reflex
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle stretched (length increases)
+- Muscle spindle in intrafusal fiber activates
+- Ia afferent sends signal to spinal cord
+    + Activates alpha ($\alpha$) motor neuron
+:::
+::: {.column width=50%}
+![](../include/img/intrafusal-extrafusal-fibers.jpg)
+:::
+::::
+
+## Monosynaptic stretch (myotatic) reflex
+
+:::: {.columns}
+::: {.column width=50%}
+- Muscle contracts, shortens length
+- Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
+:::
+::: {.column width=50%}
+![](../include/img/intrafusal-extrafusal-fibers.jpg)
+:::
+::::
+
+---
+
+![](../include/img/stretch-reflex.jpg)
+
+## Avoiding tremor
+
+:::: {.columns}
+::: {.column width=50%}
+- Polysynaptic *inhibition* of antagonist muscle
+- Prevents/dampens tremor
+
+- Brain gets fast(est) sensory info from spindles
+:::
+::: {.column width=50%}
+![](../include/img/axon-size-speed-tradeoff.jpg)
+:::
+::::
+
+# Exam 3 review
+    
+# Wrap up
+
+## Main points
+
+## Next time
+
+- Exam 3
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References
