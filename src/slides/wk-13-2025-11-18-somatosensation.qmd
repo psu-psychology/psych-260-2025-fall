@@ -143,21 +143,7 @@ fig-align: "center"
 :::
 ::::
 
-## Capsaicin for pain relief
 
->**The mechanism of action of topical capsaicin has been ascribed to depletion of substance
-P^[a peptide neurotransmitter & neuromodulator released following injury]**. However, experimental and clinical studies show that **depletion of substance P from
-nociceptors is only a correlate of capsaicin treatment and has little, if any, causative role in
-pain relief**...
-
--- @Anand2011-dm
-
-## Capsaicin for pain relief
-
->...Rather, **topical capsaicin acts in the skin to attenuate cutaneous hypersensitivity
-and reduce pain by a process best described as ‘defunctionalization’ of nociceptor fibres**.
-
--- @Anand2011-dm
 
 ## Axon size/speed trade-off
 
@@ -216,7 +202,7 @@ and reduce pain by a process best described as ‘defunctionalization’ of noci
     - Touch, proprioception
 :::
 ::: {.column width=50%}
-![](http://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Dorsal-Column-Medial-Lemniscal-Pathway-1.jpg")
+![](http://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Dorsal-Column-Medial-Lemniscal-Pathway-1.jpg)
 :::
 ::::
 
@@ -231,7 +217,6 @@ and reduce pain by a process best described as ‘defunctionalization’ of noci
 ![](http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg)
 :::
 ::::
-
 
 ## Somatotopic maps
 
@@ -292,27 +277,47 @@ knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/m
 
 # Pain
 
+## Types of
+
+:::: {.columns}
+::: {.column width=50%}
+- Nociceptive
+- Neuropathic
+- Nociplastic
+:::
+::: {.column width=50%}
+![](https://restore-painrelief.com/wp-content/uploads/2024/09/Three-types-of-pain_v1.webp)
+:::
+::::
+
 ## Nociceptors
 
-- *Nociceptors* (Latin *nocere* to harm or hurt) detect harmful or potentially harmful stimuli of varied types:
-    - chemical
-    - mechanical
-    - thermal
+:::: {.columns}
+::: {.column width=50%}
+- *Nociceptors* (Latin *nocere* to harm or hurt) detect harmful or potentially harmful stimuli
+  - chemical
+  - mechanical
+  - thermal
+:::
+::: {.column width=50%}
+![@UnknownUnknown-jq](https://uw.pressbooks.pub/app/uploads/sites/525/2022/05/nociceptive_fibers-2048x1166.jpg)
+:::
+::::
 
-## Nociceptors
+## Nociceptor locations
 
 - External
     - Skin, cornea (eye), mucosa
 - Internal
     - Muscles, joints, bladder, gut
 
-## Types
+<!-- ## Types -->
 
-- metabolism (acidic pH, hypoxia, ...)
-- cell rupture (ATP and glutamate)
-- cutaneous parasite penetration (histamine)
-- mast cell (white blood cell) activation (serotonin, bradykinin, ...)
-- immune and hormonal activity (cytokines and somatostatin)
+<!-- - metabolism (acidic pH, hypoxia, ...) -->
+<!-- - cell rupture (ATP and glutamate) -->
+<!-- - cutaneous parasite penetration (histamine) -->
+<!-- - mast cell (white blood cell) activation (serotonin, bradykinin, ...) -->
+<!-- - immune and hormonal activity (cytokines and somatostatin) -->
 
 ## Projections to CNS
 
@@ -338,9 +343,7 @@ knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/m
 
 ---
 
-```{r, out.width="100%", fig.cap="Figure 1 from [@Craig2002-ce](http://doi.org/10.1038/nrn894)"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig1_HTML.gif?as=webp")
-```
+![@Craig2002-ce Figure 1](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig1_HTML.gif?as=webp)
 
 ## Key CNS nodes
 
@@ -352,7 +355,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 - Amygdala
 :::
 ::: {.column width=50%}
-![Figure 2 from [@Craig2002-ce]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig2_HTML.gif?as=webp)
+![Figure 2 from [@Craig2002-ce]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn894/MediaObjects/41583_2002_Article_BFnrn894_Fig2_HTML.gif?as=webp){width="50%"}
 :::
 ::::
 
@@ -366,15 +369,13 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
     - Ventromedial nucleus
 :::
 ::: {.column width=50%}
-http://www.annevanrossum.com/images/blog/thalamus1.jpg
+![](http://www.annevanrossum.com/images/blog/thalamus1.jpg)
 :::
 ::::
 
 ## Pain in the brain
 
-```{r, out.width="100%", fig.cap="Figure 1 from [@Wager2013-uw](http://doi.org/10.1056/NEJMoa1204471)"}
-knitr::include_graphics("http://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2013/nejm_2013.368.issue-15/nejmoa1204471/20170324/images/large/nejmoa1204471_f1.jpeg")
-```
+![@Wager2013-uw Figure 1](http://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2013/nejm_2013.368.issue-15/nejmoa1204471/20170324/images/large/nejmoa1204471_f1.jpeg)
 
 ## Pain in the brain
 
@@ -382,18 +383,27 @@ knitr::include_graphics("http://www.nejm.org/na101/home/literatum/publisher/mms/
 
 -- @Wager2013-uw
 
-## Pain relief
+## Chemical factors
+
+- *Substance P*
+  - Released by peripheral sensory nerves
+  - Neurotransmitter and neuromodulator in PNS & CNS
+  - Vasodilator and inflammatory promoter
+  - @Wikipedia-contributors2025-jo
+  
+## Chemical factors
 
 - *Prostaglandins*
-    - hormone-like effects, but released in many places
+    - hormone-like effects, released in many places
     - trigger vasodilation and inflammation
+    - @Wikipedia-contributors2025-es
+    
+## Pain relief
+
 - *Paracetymol (acetaminophen)*
     - Mechanism not fully understood
     - inhibits synthesis of prostaglandins via cyclooxygenase (COX) enzyme
     - may modulate endocannabinoid system
-    
-## Pain relief
-
 - *Nonsteroidal anti-inflamatory drugs (NSAIDs)*: aspirin, ibuprofen
     - Also inhibit prostaglandins via COX
     
@@ -404,33 +414,42 @@ knitr::include_graphics("http://www.nejm.org/na101/home/literatum/publisher/mms/
 - *Opioids*
     - Activate endogenous opioid systems
     - multiple receptor types ($\delta$, $\kappa$, $\mu$,...)
+:::
+::: {.column width=50%}
+![Figure 1 from @Benarroch2012-ek](http://www.neurology.org/content/79/8/807/F1.large.jpg)
+:::
+::::
+
+## Pain relief
+
+:::: {.columns}
+::: {.column width=50%}
+- *Opioids*
     - peripheral sensory neurons, amygdala, hypothalamus, PAG, spinal cord, cortex, medulla, pons,...
     - brainstem opioid neurons provide *descending* inhibition of nociceptors
 :::
 ::: {.column width=50%}
-![Figure 1 from [@Benarroch2012-ek]](http://www.neurology.org/content/79/8/807/F1.large.jpg)
+![Figure 1 from @Benarroch2012-ek](http://www.neurology.org/content/79/8/807/F1.large.jpg)
 :::
 ::::
 
 ## Synthetic *Capsaicin*
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
 - Binds to TrpV1/VR1 thermo/nociceptors
 - Eventually causes decrease in TrpV1 response
 - Alters how peripheral neuron responds to mechanical (rubbing) stimulation
 - @Borbiro2015-ik
 :::
-::: {.column width=50%}
+::: {.column width=40%}
 ![](https://images-na.ssl-images-amazon.com/images/I/510PjwGtTpL._SY355_.jpg)
 :::
 ::::
 
 ## Why rubbing might help
 
-<div class="centered">
-<img src="include/img/axon-size-speed-tradeoff.jpg" height=450px>
-</div>
+![](../include/img/axon-size-speed-tradeoff.jpg){fig-align="center" width="80%"}
 
 ## Gate control theory 
 
@@ -445,7 +464,7 @@ knitr::include_graphics("http://www.nejm.org/na101/home/literatum/publisher/mms/
 :::
 ::::
 
-## Pain has multiple components
+## Pain's multiple components
 
 ![Figure 1 from @Papini2015-ed](https://ars.els-cdn.com/content/image/1-s2.0-S0149763414002978-gr1.jpg)
 
