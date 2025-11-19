@@ -11228,7 +11228,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#announcements",
     "href": "slides/wk-13-2025-11-20-action-I.html#announcements",
-    "title": "Action",
+    "title": "Action I",
     "section": "Announcements",
     "text": "Announcements\n\nExam 3 on Tuesday, December 2, 2025",
     "crumbs": [
@@ -11239,7 +11239,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#todays-topics",
     "href": "slides/wk-13-2025-11-20-action-I.html#todays-topics",
-    "title": "Action",
+    "title": "Action I",
     "section": "Today’s topics",
     "text": "Today’s topics\n\nWarm up\nAction\nExam 3 review",
     "crumbs": [
@@ -11250,7 +11250,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#behavior-as-a-system",
     "href": "slides/wk-13-2025-11-20-action-I.html#behavior-as-a-system",
-    "title": "Action",
+    "title": "Action I",
     "section": "Behavior as a system",
     "text": "Behavior as a system\n\n\n\nInputs (sensation/perception)\nProcessing (emotion/cognition)\nOutputs\n\n\n\n\n\n\n\nflowchart TD\n  I(input) --&gt; P[processing]\n  P --&gt; O(output)",
     "crumbs": [
@@ -11261,7 +11261,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#multiple-outputs",
     "href": "slides/wk-13-2025-11-20-action-I.html#multiple-outputs",
-    "title": "Action",
+    "title": "Action I",
     "section": "Multiple outputs",
     "text": "Multiple outputs\n\n\n\nAutonomic\nEndocrine\nSecretions, excretions\nBehavior\n\nBody movements\nVocalization\n\n\n\n\n\n\n\n\nflowchart TD\n  P(processing) --&gt; A[ANS]\n  P --&gt; H(endocrine)\n  P --&gt; S(secretions, excretions)\n  P --&gt; B(behavior/action)\n  B --&gt; M(movements)\n  B --&gt; V(vocalizations)",
     "crumbs": [
@@ -11272,9 +11272,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#types-of-movements",
     "href": "slides/wk-13-2025-11-20-action-I.html#types-of-movements",
-    "title": "Action",
+    "title": "Action I",
     "section": "Types of movements",
-    "text": "Types of movements\n\nReflexes\n\nSimple, highly stereotyped, unlearned, rapid\n\nvs. planned or voluntary actions\n\nComplex, flexible, acquired, slower\nDiscrete (reaching) vs. rhythmic (walking)\nBallistic (no feedback) vs. controlled (feedback)\nSequential",
+    "text": "Types of movements\n\nLocomotion\nReaching, grasping, manipulation\nFacial expressions\nEye/head movements\nMaintain posture, balance",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11294,9 +11294,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#types",
     "href": "slides/wk-13-2025-11-20-action-I.html#types",
-    "title": "Action",
+    "title": "Action I",
     "section": "Types",
-    "text": "Types\n\n\n\nCardiac\nSmooth\n\nArteries, hair follicles, uterus, intestines\nInvoluntary\nRegulated by ANS",
+    "text": "Types\n\n\n\nStriated (striped)\n\nSkeletal\nVoluntary control\nMostly connected to tendons and bones\nRegulated by somatic part of PNS",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11316,9 +11316,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types",
     "href": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types",
-    "title": "Action",
+    "title": "Action I",
     "section": "Muscle fiber types",
-    "text": "Muscle fiber types\n\n\n\nFast twitch/fatiguing\n\nType II\nWhite meat\n\nSlow twitch/fatiguing\n\nType I\nRed/dark meat",
+    "text": "Muscle fiber types\n\n\n\nFast twitch/fatiguing\n\nType II (A & B)\nWhite meat\n\nSlow twitch/fatiguing\n\nType I\nRed/dark meat",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11327,9 +11327,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle",
     "href": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle",
-    "title": "Action",
+    "title": "Action I",
     "section": "From neuron to muscle",
-    "text": "From neuron to muscle\n\n\n\nMotor neuron\n\nCell body in ventral horn of spinal cord\nExit spinal cord via ventral root",
+    "text": "From neuron to muscle\n\n\n\nMotor neuron\n\nCell body in ventral or lateral horn of spinal cord\nAxons exit spinal cord via ventral root",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11338,9 +11338,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-1",
     "href": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-1",
-    "title": "Action",
+    "title": "Action I",
     "section": "From neuron to muscle",
-    "text": "From neuron to muscle\n\n\n\nNeuromuscular junction\n\nReleases acetylcholine (ACh) onto skeletal muscle fiber",
+    "text": "From neuron to muscle\n\n\n\nSynapse at neuromuscular junction\n\nRelease acetylcholine (ACh) onto skeletal muscle fiber",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11349,9 +11349,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-2",
     "href": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-2",
-    "title": "Action",
+    "title": "Action I",
     "section": "From neuron to muscle",
-    "text": "From neuron to muscle\n\n\n\nMotor endplate\n\nContains nicotinic ACh receptors (nAChR)",
+    "text": "From neuron to muscle\n\n\n\nMotor endplate on muscle fiber\n\nContains nicotinic ACh receptors (nAChR)",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11360,7 +11360,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-3",
     "href": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-3",
-    "title": "Action",
+    "title": "Action I",
     "section": "From neuron to muscle",
     "text": "From neuron to muscle\n\n\n\nnAChR receptor opens\n\nNa+ enters; K+ exits\nCombined effect excitatory",
     "crumbs": [
@@ -11371,7 +11371,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-4",
     "href": "slides/wk-13-2025-11-20-action-I.html#from-neuron-to-muscle-4",
-    "title": "Action",
+    "title": "Action I",
     "section": "From neuron to muscle",
     "text": "From neuron to muscle\n\n\n\nGenerates excitatory endplate potential (EPP)\n\nMuscle fiber depolarizes\nDepolarization spreads along fiber\nCa++ released from stores inside muscle",
     "crumbs": [
@@ -11382,7 +11382,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#muscles-are-sensory-organs-too",
     "href": "slides/wk-13-2025-11-20-action-I.html#muscles-are-sensory-organs-too",
-    "title": "Action",
+    "title": "Action I",
     "section": "Muscles are sensory organs, too!",
     "text": "Muscles are sensory organs, too!",
     "crumbs": [
@@ -11393,7 +11393,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types-1",
     "href": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types-1",
-    "title": "Action",
+    "title": "Action I",
     "section": "Muscle fiber types",
     "text": "Muscle fiber types\n\n\n\nIntrafusal fibers\n\nSense length/tension\nEnnervated (contract) via gamma (\\(\\gamma\\)) motor neuron activation\nContain muscle spindles (sensory organs linked to Ia afferents)",
     "crumbs": [
@@ -11404,7 +11404,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types-2",
     "href": "slides/wk-13-2025-11-20-action-I.html#muscle-fiber-types-2",
-    "title": "Action",
+    "title": "Action I",
     "section": "Muscle fiber types",
     "text": "Muscle fiber types\n\n\n\nExtrafusal fibers\n\nGenerate force\nEnnervated (contract) via alpha (\\(\\alpha\\)) motor neurons",
     "crumbs": [
@@ -11415,7 +11415,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#monosynaptic-stretch-myotatic-reflex",
     "href": "slides/wk-13-2025-11-20-action-I.html#monosynaptic-stretch-myotatic-reflex",
-    "title": "Action",
+    "title": "Action I",
     "section": "Monosynaptic stretch (myotatic) reflex",
     "text": "Monosynaptic stretch (myotatic) reflex\n\n\n\nMuscle stretched (length increases)\nMuscle spindle in intrafusal fiber activates\nIa afferent sends signal to spinal cord\n\nActivates alpha (\\(\\alpha\\)) motor neuron",
     "crumbs": [
@@ -11426,7 +11426,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#monosynaptic-stretch-myotatic-reflex-1",
     "href": "slides/wk-13-2025-11-20-action-I.html#monosynaptic-stretch-myotatic-reflex-1",
-    "title": "Action",
+    "title": "Action I",
     "section": "Monosynaptic stretch (myotatic) reflex",
     "text": "Monosynaptic stretch (myotatic) reflex\n\n\n\nMuscle contracts, shortens length\nGamma (\\(\\gamma\\)) motor neuron fires to take up intrafusal fiber slack",
     "crumbs": [
@@ -11437,7 +11437,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#avoiding-tremor",
     "href": "slides/wk-13-2025-11-20-action-I.html#avoiding-tremor",
-    "title": "Action",
+    "title": "Action I",
     "section": "Avoiding tremor",
     "text": "Avoiding tremor\n\n\n\nPolysynaptic inhibition of antagonist muscle\nPrevents/dampens tremor\nBrain gets fast(est) sensory info from spindles",
     "crumbs": [
@@ -11448,7 +11448,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#why-this-matters",
     "href": "slides/wk-13-2025-11-20-action-I.html#why-this-matters",
-    "title": "Action",
+    "title": "Action I",
     "section": "Why this matters…",
     "text": "Why this matters…",
     "crumbs": [
@@ -11459,7 +11459,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#main-points",
     "href": "slides/wk-13-2025-11-20-action-I.html#main-points",
-    "title": "Action",
+    "title": "Action I",
     "section": "Main points",
     "text": "Main points",
     "crumbs": [
@@ -11470,7 +11470,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#next-time",
     "href": "slides/wk-13-2025-11-20-action-I.html#next-time",
-    "title": "Action",
+    "title": "Action I",
     "section": "Next time",
     "text": "Next time\n\nExam 3",
     "crumbs": [
@@ -11481,7 +11481,7 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#about",
     "href": "slides/wk-13-2025-11-20-action-I.html#about",
-    "title": "Action",
+    "title": "Action I",
     "section": "About",
     "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version r Sys.getenv(\"RSTUDIO_VER\").\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/",
     "crumbs": [
@@ -11492,9 +11492,9 @@
   {
     "objectID": "slides/wk-13-2025-11-20-action-I.html#references",
     "href": "slides/wk-13-2025-11-20-action-I.html#references",
-    "title": "Action",
+    "title": "Action I",
     "section": "References",
-    "text": "References",
+    "text": "References\n\n\n\n\nFrontera, W. R., & Ochala, J. (2015). Skeletal muscle: A brief review of structure and function. Calcified Tissue International, 96, 183–195. https://doi.org/10.1007/s00223-014-9915-y\n\n\nReviews, B. &. T. (2012). I like to move it (original video) madagascar HD. Youtube. Retrieved from https://www.youtube.com/watch?v=hdcTmpvDO0I",
     "crumbs": [
       "Slides",
       "Wk 13 • Thu Nov 20"
@@ -11548,6 +11548,149 @@
     "text": "Values\n\nPenn State Principles\nThe Pennsylvania State University is a community dedicated to personal and academic excellence. The Penn State Principles were developed to embody the values that we hope our students, faculty, staff, administration, and alumni possess. At the same time, the University is strongly committed to freedom of expression. Consequently, these Principles do not constitute University policy and are not intended to interfere in any way with an individual’s academic or personal freedoms. We hope, however, that individuals will voluntarily endorse these common principles, thereby contributing to the traditions and scholarly heritage left by those who preceded them, and will thus leave Penn State a better place for those who follow.\nI will respect the dignity of all individuals within the Penn State community. The University is committed to creating and maintaining an educational environment that respects the right of all individuals to participate fully in the community. Actions motivated by hate, prejudice, or intolerance violate this principle. I will not engage in any behaviors that compromise or demean the dignity of individuals or groups, including intimidation, stalking, harassment, discrimination, taunting, ridiculing, insulting, or acts of violence. I will demonstrate respect for others by striving to learn from differences between people, ideas, and opinions and by avoiding behaviors that inhibit the ability of other community members to feel safe or welcome as they pursue their academic goals.\nI will practice academic integrity. Academic integrity is a basic guiding principle for all academic activity at Penn State University, allowing the pursuit of scholarly activity in an open, honest, and responsible manner. In accordance with the University Code of Conduct, I will practice integrity in regard to all academic assignments. I will not engage in or tolerate acts of falsification, misrepresentation or deception because such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.\nI will demonstrate social and personal responsibility. The University is a community that promotes learning; any behaviors that are inconsistent with that goal are unacceptable. Irresponsible behaviors, including alcohol or drug abuse and the use of violence against people or property, undermine the educational climate by threatening the physical and mental health of members of the community. I will exercise personal responsibility for my actions and I will make sure that my actions do not interfere with the academic and social environment of the University. I will maintain a high standard of behavior by adhering to the Code of Conduct and respecting the rights of others.\nI will be responsible for my own academic progress and agree to comply with all University policies. The University allows students to identify and achieve their academic goals by providing the information needed to plan the chosen program of study and the necessary educational opportunities, but students assume final responsibility for course scheduling, program planning, and the successful completion of graduation requirements. I will be responsible for seeking the academic and career information needed to meet my educational goals by becoming knowledgeable about the relevant policies, procedures, and rules of the University and academic program, by consulting and meeting with my adviser, and by successfully completing all of the requirements for graduation.\n\n\nPenn State Values\nIntegrity: We act with integrity and honesty in accordance with the highest academic, professional, and ethical standards.\nRespect: We respect and honor the dignity of each person, embrace civil discourse, and foster a diverse and inclusive community.\nResponsibility: We act responsibly, and we are accountable for our decisions, actions, and their consequences.\nDiscovery: We seek and create new knowledge and understanding, and foster creativity and innovation, for the benefit of our communities, society, and the environment.\nExcellence: We strive for excellence in all our endeavors as individuals, an institution, and a leader in higher education.\nCommunity: We work together for the betterment of our University, the communities we serve, and the world.",
     "crumbs": [
       "Policies"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#types-of-movements-1",
+    "href": "slides/wk-13-2025-11-20-action-I.html#types-of-movements-1",
+    "title": "Action I",
+    "section": "Types of movements",
+    "text": "Types of movements\n\nReflexes\n\nSimple, highly stereotyped, unlearned, rapid\n\nvs. planned or voluntary actions\n\nComplex, flexible, acquired, slower\nDiscrete (reaching) vs. rhythmic (walking)\nBallistic (no feedback) vs. controlled (feedback)\nSequential",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#muscle-types",
+    "href": "slides/wk-13-2025-11-20-action-I.html#muscle-types",
+    "title": "Action I",
+    "section": "Muscle types",
+    "text": "Muscle types\n\n\n\nCardiac\nSmooth\n\nArteries, hair follicles, uterus, intestines\nInvoluntary\nRegulated by ANS",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#skeletal-muscle-groups",
+    "href": "slides/wk-13-2025-11-20-action-I.html#skeletal-muscle-groups",
+    "title": "Action I",
+    "section": "Skeletal muscle groups",
+    "text": "Skeletal muscle groups\n\nAxial\n\nTrunk, neck, hips\n\nProximal\n\nShoulder/elbow, pelvis/knee\n\nDistal\n\nHands/fingers, feet/toes",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#skeletal-muscles",
+    "href": "slides/wk-13-2025-11-20-action-I.html#skeletal-muscles",
+    "title": "Action I",
+    "section": "Skeletal muscles",
+    "text": "Skeletal muscles\n\n\n\n650+ muscles\n40% of total body mass\n50-75% of total body proteins\nFrontera & Ochala (2015)\nmillions of motor neurons\n\n\n\n\n\nWikipedia\n\n\n\n\n\n\nWikipedia",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#marionette-analogy",
+    "href": "slides/wk-13-2025-11-20-action-I.html#marionette-analogy",
+    "title": "Action I",
+    "section": "Marionette analogy",
+    "text": "Marionette analogy\n\nGiphy: Bob Baker Marionette Theater",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#interim-summary",
+    "href": "slides/wk-13-2025-11-20-action-I.html#interim-summary",
+    "title": "Action I",
+    "section": "Interim summary",
+    "text": "Interim summary\n\n\n650 skeletal muscles control voluntary human movement, balance/posture control\n\nLarge diameter, thickly myelinated axons control skeletal muscles\nMotor neurons release ACh onto nicotinic receptors (AChR) in motor endplate\nDepolarization of muscle fiber causes Ca++ release\n\nTriggers actin & myosin proteins to cause muscle contraction\n\nMuscles are sensory organs AND force/movement producers\nMonosynaptic stretch reflex",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#evolution-development",
+    "href": "slides/wk-13-2025-11-20-action-I.html#evolution-development",
+    "title": "Action I",
+    "section": "Evolution & Development",
+    "text": "Evolution & Development\n\nLoss of neurons and synapses\nMammalian brain sizes vs. other animal groups\nWhen does myelination in the human brain finish?\nWhere does the adult brain retain the ability to generate new neurons and glia",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#disorder",
+    "href": "slides/wk-13-2025-11-20-action-I.html#disorder",
+    "title": "Action I",
+    "section": "Disorder",
+    "text": "Disorder\n\nTreatments for MDD, bipolar, schizophrenia\nBrain abnormalities in schizophrenia\nGlutamate hypothesis of schizophrenia; monoamine",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#emotion",
+    "href": "slides/wk-13-2025-11-20-action-I.html#emotion",
+    "title": "Action I",
+    "section": "Emotion",
+    "text": "Emotion\n\nLocationist theory\nPlutchik\nComparing animal “emotions” to human ones\nAcute vs. chronic stressors\nCortisol response",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#emotion-1",
+    "href": "slides/wk-13-2025-11-20-action-I.html#emotion-1",
+    "title": "Action I",
+    "section": "Emotion",
+    "text": "Emotion\n\nRoles of amygdala, especially in threat/“fear” conditioning\nMajor nodes of the reward pathway\nEffects found by Milner and Olds following electrical stimulation in the ventral midbrain",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#sensory-systems",
+    "href": "slides/wk-13-2025-11-20-action-I.html#sensory-systems",
+    "title": "Action I",
+    "section": "Sensory Systems",
+    "text": "Sensory Systems\n\nInteroceptive vs. exteroceptive\nHow receptive field size relates to perceptual sensitivity\nLobes of the cerebral cortex associated with V1, S1, A1, and M1\nHow smartphone sensors are like human sensory systems",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#somatosensation",
+    "href": "slides/wk-13-2025-11-20-action-I.html#somatosensation",
+    "title": "Action I",
+    "section": "Somatosensation",
+    "text": "Somatosensation\n\nWhat properties skin receptors respond to\nCutaneous receptors that respond to chemical and thermal (temperature) info\nAssociated nuclei of the thalamus\nParts of the skin with especially small receptive fields (high tactile acuity)",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
+    ]
+  },
+  {
+    "objectID": "slides/wk-13-2025-11-20-action-I.html#anatomy",
+    "href": "slides/wk-13-2025-11-20-action-I.html#anatomy",
+    "title": "Action I",
+    "section": "Anatomy",
+    "text": "Anatomy\n\nLocation of the cerebral ventricles",
+    "crumbs": [
+      "Slides",
+      "Wk 13 • Thu Nov 20"
     ]
   }
 ]

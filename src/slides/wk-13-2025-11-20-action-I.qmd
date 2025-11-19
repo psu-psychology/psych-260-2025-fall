@@ -1,10 +1,16 @@
 ---
-title: "Action"
+title: "Action I"
 subtitle: 2025-11-20
 fig-align: "center"
 ---
 
 # Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=hdcTmpvDO0I width="100%" height="70%" >}}
+
+-- @Reviews2012-fg
 
 ## Announcements
 
@@ -60,6 +66,14 @@ flowchart TD
 ```
 :::
 ::::
+
+## Types of movements
+
+- Locomotion
+- Reaching, grasping, manipulation
+- Facial expressions
+- Eye/head movements
+- Maintain posture, balance
     
 ## Types of movements
 
@@ -71,19 +85,9 @@ flowchart TD
   - Discrete (reaching) vs. rhythmic (walking)
   - Ballistic (no feedback) vs. controlled (feedback)
   - Sequential
-
 ::: 
     
-## Muscle groups
-
-- Axial
-    + Trunk, neck, hips
-- Proximal
-    + Shoulder/elbow, pelvis/knee
-- Distal
-    + Hands/fingers, feet/toes
-
-## Types
+## Muscle types
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -113,13 +117,40 @@ flowchart TD
 :::
 ::::
 
+## Skeletal muscle groups
+
+- Axial
+    + Trunk, neck, hips
+- Proximal
+    + Shoulder/elbow, pelvis/knee
+- Distal
+    + Hands/fingers, feet/toes
+    
+## Skeletal muscles
+
+:::: {.columns}
+::: {.column width=40%}
+- 650+ muscles
+- 40% of total body mass
+- 50-75% of total body proteins
+- @Frontera2015-rt
+- millions of motor neurons
+:::
+::: {.column width=30%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c4/Anterior_View_of_Muscles.jpg)
+:::
+::: {.column width=30%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/6/69/Posterior_View_of_Muscles.jpg)
+:::
+::::
+
 ## Muscle fiber types
 
 :::: {.columns}
 ::: {.column width=50%}
 ::: {.incremental}
 - Fast twitch/fatiguing
-    + Type II
+    + Type II (A & B)
     + White meat
 - Slow twitch/fatiguing
     + Type I
@@ -131,14 +162,18 @@ flowchart TD
 :::
 ::::
 
+---
+
+<!-- Orchestra -->
+![](https://www.mrqsmusic.com/uploads/1/8/1/9/18198925/1269360_2.jpg)
+
 ## From neuron to muscle
 
 :::: {.columns}
 ::: {.column width=50%}
-
 - Motor neuron
-  - Cell body in ventral horn of spinal cord
-  - Exit spinal cord via ventral root
+  - Cell body in ventral or lateral horn of spinal cord
+  - Axons exit spinal cord via ventral root
 :::
 ::: {.column width=50%}
 ![](../include/img/from-spinal-cord-to-muscle.jpg){fig-align="right"}
@@ -149,8 +184,8 @@ flowchart TD
 
 :::: {.columns}
 ::: {.column width=50%}
-- Neuromuscular junction
-    + Releases acetylcholine (ACh) onto skeletal muscle fiber
+- Synapse at neuromuscular junction
+    + Release acetylcholine (ACh) onto skeletal muscle fiber
 :::
 ::: {.column width=50%}
 ![](http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg)
@@ -161,7 +196,7 @@ flowchart TD
 
 :::: {.columns}
 ::: {.column width=50%}
-- Motor endplate
+- Motor endplate on muscle fiber
     + Contains nicotinic ACh receptors (nAChR)
 :::
 ::: {.column width=50%}
@@ -204,7 +239,8 @@ flowchart TD
 - Myofibrils (w/in sarcomere)
     + Paired actin & mysosin proteins
     + “Molecular gears”
-- Bind, move, unbind in presence of Ca++ plus energy source (ATP)
+- Ca++ plus energy source (ATP)
+    - Bind, move, unbind (repeat)
 :::
 ::: {.column width=50%}
 ![](../include/img/muscle-fibers-biopsych.jpg)
@@ -215,14 +251,19 @@ flowchart TD
 
 :::: {.columns}
 ::: {.column width=50%}
-- Skeletal muscles have no "reverse" gear
+- No "reverse" gear
   - Only contract
+  - Must be pulled to stretch/extend
 - Muscles often arranged in agonist/antagonist pairs
 :::
 ::: {.column width=50%}
 ![](http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg)
 :::
 ::::
+
+## Marionette analogy
+
+![Giphy: Bob Baker Marionette Theater](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxMzAxMzI2MXB2NXpvdTduOXF0ZWIzOG5zejMycGtmbzlkaXN6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7b9mwnBioe3hcwvK/giphy.gif){fig-align="center"}
 
 ## Muscles are sensory organs, too!
 
@@ -301,11 +342,64 @@ flowchart TD
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjNXIxOGNzejhuaGNrcThxYzA1NGt5MG13YXY0eTJlNjM0NnlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeZvq8yltmsUfq2sgX/giphy.gif){fig-align="center"}
 
+## Interim summary
+
+- >650 skeletal muscles control voluntary human movement, balance/posture control
+- Large diameter, thickly myelinated axons control skeletal muscles
+- Motor neurons release ACh onto nicotinic receptors (AChR) in motor endplate
+- Depolarization of muscle fiber causes Ca++ release
+  - Triggers actin & myosin proteins to cause muscle contraction 
+- Muscles are sensory organs AND force/movement producers
+- Monosynaptic stretch reflex
+
 # Exam 3 review
+
+## Evolution & Development
+
+- Loss of neurons and synapses
+- Mammalian brain sizes vs. other animal groups
+- When does myelination in the human brain finish?
+- Where does the adult brain retain the ability to generate new neurons and glia
+
+## Disorder
+
+- Treatments for MDD, bipolar, schizophrenia
+- Brain abnormalities in schizophrenia
+- Glutamate hypothesis of schizophrenia; monoamine
+
+## Emotion
+
+- Locationist theory
+- Plutchik
+- Comparing animal "emotions" to human ones
+- Acute vs. chronic stressors
+- Cortisol response
+
+## Emotion
+
+- Roles of amygdala, especially in threat/"fear" conditioning
+- Major nodes of the reward pathway
+- Effects found by Milner and Olds following electrical stimulation in the ventral midbrain
+
+## Sensory Systems
+
+- Interoceptive vs. exteroceptive
+- How receptive field size relates to perceptual sensitivity
+- Lobes of the cerebral cortex associated with V1, S1, A1, and M1
+- How smartphone sensors are like human sensory systems
+
+## Somatosensation
+
+- What properties skin receptors respond to
+- Cutaneous receptors that respond to chemical and thermal (temperature) info
+- Associated nuclei of the thalamus
+- Parts of the skin with especially small receptive fields (high tactile acuity)
+
+## Anatomy
+
+- Location of the cerebral ventricles
     
 # Wrap up
-
-## Main points
 
 ## Next time
 
