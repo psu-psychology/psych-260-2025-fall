@@ -264,10 +264,8 @@ fig-align: "center"
     + Kinesthesia -- configuration of limbs
 - Perceiving What
     + Patterns of smoothness, roughness, shape, temperature
-    
-```{r}
-knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/migrated/images/somcort.gif")
-```
+- Functional segregation
+  - Multiple receptors, parallel axon pathways
 
 ## Phantom Limbs
 
@@ -388,48 +386,48 @@ knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/m
 - *Substance P*
   - Released by peripheral sensory nerves
   - Neurotransmitter and neuromodulator in PNS & CNS
-  - Vasodilator and inflammatory promoter
+  - Promotes vasodilation and inflammation
   - @Wikipedia-contributors2025-jo
   
 ## Chemical factors
 
 - *Prostaglandins*
     - hormone-like effects, released in many places
-    - trigger vasodilation and inflammation
+    - Promotes vasodilation and inflammation
     - @Wikipedia-contributors2025-es
     
 ## Pain relief
 
 - *Paracetymol (acetaminophen)*
-    - Mechanism not fully understood
-    - inhibits synthesis of prostaglandins via cyclooxygenase (COX) enzyme
+    - mechanism not fully understood
+    - may inhibit synthesis of prostaglandins via cyclooxygenase (COX) enzyme
     - may modulate endocannabinoid system
 - *Nonsteroidal anti-inflamatory drugs (NSAIDs)*: aspirin, ibuprofen
     - Also inhibit prostaglandins via COX
     
-## Pain relief
+## Pain relief: Opioids
 
 :::: {.columns}
 ::: {.column width=50%}
-- *Opioids*
-    - Activate endogenous opioid systems
-    - multiple receptor types ($\delta$, $\kappa$, $\mu$,...)
+- Activate endogenous opioid systems
+- Multiple receptor types
+  - $\delta$, $\kappa$, $\mu$
 :::
 ::: {.column width=50%}
-![Figure 1 from @Benarroch2012-ek](http://www.neurology.org/content/79/8/807/F1.large.jpg)
+![Figure 1 from @Benarroch2012-ek](../include/img/benarroch-2012-fig-01.png)
 :::
 ::::
 
-## Pain relief
+## Pain relief: Opioids
 
 :::: {.columns}
 ::: {.column width=50%}
-- *Opioids*
-    - peripheral sensory neurons, amygdala, hypothalamus, PAG, spinal cord, cortex, medulla, pons,...
-    - brainstem opioid neurons provide *descending* inhibition of nociceptors
+- PNS: peripheral sensory neurons
+- CNS: amygdala, hypothalamus, PAG, spinal cord, cortex, medulla, pons,...
+- brainstem opioid neurons provide *descending* inhibition of nociceptors
 :::
 ::: {.column width=50%}
-![Figure 1 from @Benarroch2012-ek](http://www.neurology.org/content/79/8/807/F1.large.jpg)
+![Figure 1 from @Benarroch2012-ek](../include/img/benarroch-2012-fig-01.png)
 :::
 ::::
 
@@ -470,13 +468,14 @@ knitr::include_graphics("http://www.bristol.ac.uk/media-library/sites/synaptic/m
 
 ## Interim summary
 
-- Multiple receptor channels
+- Specific receptors (nociceptors) for pain
 - Highly interconnected CNS network
-- Multiple targets for modulation
+- Key nodes: PAG, amygdala, insula, nucleus accumbens, anterior cingulate
+- Some pain relievers target synthesis of prostaglandins
+- Endogenous opioid and cannabinoid receptors contribute
+- Experienced pain combination of physical and psychological factors
     
 # Wrap up
-
-## Main points
 
 ## Next time
 

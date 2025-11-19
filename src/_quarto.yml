@@ -11,6 +11,11 @@ project:
 
 website:
   title: "PSYCH 260.001"
+  announcement: 
+    content: "**Policy Change**: Exam 4 no longer required. You may drop any 1 of the 4 exams." 
+    position: below-navbar
+    icon: info-circle
+    dismissable: true
   sidebar:
     style: "docked"
     search: true
@@ -64,6 +69,8 @@ website:
             href: slides/wk-12-2025-11-13-sensory-systems.qmd
           - text: "Wk 13 • Tue Nov 18"
             href: slides/wk-13-2025-11-18-somatosensation.qmd
+          - text: "Wk 13 • Thu Nov 20"
+            href: slides/wk-13-2025-11-20-action-I.qmd
   repo-url: https://github.com/psu-psychology/psych-260-2025-fall
   repo-actions: [edit, issue]
   repo-subdir: src
@@ -100,5 +107,5 @@ format:
     date: today
     # html-math-method: mathjax
 
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
