@@ -297,7 +297,7 @@ flowchart TD
     + Release acetylcholine (ACh) onto skeletal muscle fiber
 :::
 ::: {.column width=50%}
-![](http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg)
+![](http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg){fig-align="right"}
 :::
 ::::
 
@@ -352,7 +352,7 @@ flowchart TD
     - Bind, move, unbind (repeat)
 :::
 ::: {.column width=50%}
-![](../include/img/muscle-fibers-biopsych.jpg)
+![](../include/img/muscle-fibers-biopsych.jpg){fig-align="right"}
 :::
 ::::
 
@@ -366,7 +366,7 @@ flowchart TD
 - Muscles often arranged in agonist/antagonist pairs
 :::
 ::: {.column width=50%}
-![](http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg)
+![](http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg){fig-align="right"}
 :::
 ::::
 
@@ -386,7 +386,7 @@ flowchart TD
     + Contain muscle spindles (sensory organs linked to Ia afferents)
 :::
 ::: {.column width=50%}
-![](../include/img/muscle-fiber-types.jpg)
+![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
 :::
 ::::
 
@@ -399,7 +399,7 @@ flowchart TD
     + Ennervated (contract) via alpha ($\alpha$) motor neurons
 :::
 ::: {.column width=50%}
-![](../include/img/muscle-fiber-types.jpg)
+![](../include/img/muscle-fiber-types.jpg){fig-align="right"}
 :::
 ::::
 
@@ -413,7 +413,7 @@ flowchart TD
     + Activates alpha ($\alpha$) motor neuron
 :::
 ::: {.column width=50%}
-![](../include/img/intrafusal-extrafusal-fibers.jpg)
+![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
 :::
 ::::
 
@@ -425,7 +425,7 @@ flowchart TD
 - Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
 :::
 ::: {.column width=50%}
-![](../include/img/intrafusal-extrafusal-fibers.jpg)
+![](../include/img/intrafusal-extrafusal-fibers.jpg){fig-align="right"}
 :::
 ::::
 
@@ -439,7 +439,7 @@ flowchart TD
 - Remember: Brain gets fast(est) sensory info from spindles
 :::
 ::: {.column width=50%}
-![](../include/img/stretch-reflex.jpg)
+![](../include/img/stretch-reflex.jpg){fig-align="right"}
 :::
 ::::
 
@@ -449,7 +449,7 @@ flowchart TD
 
 ## Interim summary
 
-- >650 skeletal muscles control voluntary human movement, balance/posture control
+- 650+ skeletal muscles control voluntary human movement, balance/posture control
 - Large diameter, thickly myelinated axons control skeletal muscles
 - Motor neurons release ACh onto nicotinic receptors (AChR) in motor endplate
 
