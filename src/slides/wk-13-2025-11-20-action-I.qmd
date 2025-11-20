@@ -16,6 +16,20 @@ fig-align: "center"
 
 - Exam 3 on Tuesday, December 2, 2025
 
+## In the news
+
+![@Fontanelli2025-yp](../include/img/fontanelli-2025-title.png)
+
+>Significant disparities persist in race, ethnicity, and age representation in neuromuscular disease clinical research, highlighting the need for more inclusive study designs.
+
+---
+
+![@Fontanelli2025-yp Figure 2](../include/img/fontanelli-2025-fig-02.png)
+
+---
+
+![@Fontanelli2025-yp Figure 3](../include/img/fontanelli-2025-fig-03.png)
+
 ## Today's topics
 
 - Warm up
@@ -23,6 +37,99 @@ fig-align: "center"
 - Exam 3 review
 
 # Warm up
+
+---
+
+### All of the statements about the science of perception are true, except:
+
+::: {.incremental}
+- A. Scientific psychology started by focusing on perception.
+- B. Psychophysics is the discipline most closely associated with it.
+- C. The relationship between physical properties (like brightness) and perceptual judgements (like magnitude) are often non-linear.
+- D. People can't report accurately or consistently about their perceptual experiences.
+:::
+
+---
+
+### All of the statements about the science of perception are true, except:
+
+- *A. Scientific psychology started by focusing on perception.*
+- *B. Psychophysics is the discipline most closely associated with the science of perception.*
+- *C. The relationship between physical properties (like brightness) and perceptual judgements (like magnitude) are often non-linear.*
+- **D. People can't report accurately or consistently about their perceptual experiences.**
+
+--- 
+
+### There are clearly defined maps on the surface of the cerebral cortex for many sensory channels with the exception of:
+
+::: {.incremental}
+- A. Vision
+- B. Olfaction/gustation (chemical senses)
+- C. Audition
+- D. Somatosensation
+:::
+
+--- 
+
+### There are clearly defined maps on the surface of the cerebral cortex for many sensory channels with the exception of:
+
+- ~~A. Vision~~
+- **B. Olfaction/gustation (chemical senses)**
+- ~~C. Audition~~
+- ~~D. Somatosensation~~
+
+---
+
+### "Minty"-tasting foods are also perceived as cool because:
+
+::: {.incremental}
+- A. The same receptor in the skin responds to menthol and cooler temperatures.
+- B. Separate receptors for menthol and cool temperatures activate the same regions of cortex.
+- C. Hot and cold receptors mix-up minty and spicy signals.
+- D. Most foods that use mint are served cold.
+:::
+
+---
+
+### "Minty"-tasting foods are also perceived as cool because:
+
+- A. **The same receptor in the skin responds to menthol and cooler temperatures.**
+- ~~B. Separate receptors for menthol and cool temperatures activate the same regions of cortex.~~
+- ~~C. Hot and cold receptors mix-up minty and spicy signals.~~
+- ~~D. Most foods that use mint are served cold.~~
+
+---
+
+### These areas of the skin have large numbers of cutaneous receptors:
+
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- A. Calf
+- B. Face
+- C. Fingertips
+- D. B and C.
+:::
+:::
+::: {.column width=50%}
+:::
+::::
+
+---
+
+### These areas of the skin have large numbers of cutaneous receptors:
+
+:::: {.columns}
+::: {.column width=50%}
+- ~~A. Calf~~
+- *B. Face*
+- *C. Fingertips*
+- **D. B and C.**
+:::
+::: {.column width=50%}
+![](../include/img/two-point-thresholds.jpg)
+:::
+::::
 
 # Action
 
@@ -67,15 +174,17 @@ flowchart TD
 :::
 ::::
 
-## Types of movements
+## Movement types 1
 
+::: {.incremental}
 - Locomotion
 - Reaching, grasping, manipulation
 - Facial expressions
 - Eye/head movements
-- Maintain posture, balance
+- Maintainance of posture, balance
+:::
     
-## Types of movements
+## Movement types 2
 
 ::: {.incremental}
 - Reflexes
@@ -320,10 +429,6 @@ flowchart TD
 :::
 ::::
 
----
-
-![](../include/img/stretch-reflex.jpg)
-
 ## Avoiding tremor
 
 :::: {.columns}
@@ -331,10 +436,10 @@ flowchart TD
 - Polysynaptic *inhibition* of antagonist muscle
 - Prevents/dampens tremor
 
-- Brain gets fast(est) sensory info from spindles
+- Remember: Brain gets fast(est) sensory info from spindles
 :::
 ::: {.column width=50%}
-![](../include/img/axon-size-speed-tradeoff.jpg)
+![](../include/img/stretch-reflex.jpg)
 :::
 ::::
 
@@ -347,6 +452,9 @@ flowchart TD
 - >650 skeletal muscles control voluntary human movement, balance/posture control
 - Large diameter, thickly myelinated axons control skeletal muscles
 - Motor neurons release ACh onto nicotinic receptors (AChR) in motor endplate
+
+## Interim summary
+
 - Depolarization of muscle fiber causes Ca++ release
   - Triggers actin & myosin proteins to cause muscle contraction 
 - Muscles are sensory organs AND force/movement producers
