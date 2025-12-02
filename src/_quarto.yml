@@ -12,7 +12,7 @@ project:
 website:
   title: "PSYCH 260.001"
   announcement: 
-    content: "**Policy Change**: Exam 4 no longer required. You may drop any 1 of the 4 exams." 
+    content: "**Exam 3 rescheduled to Thursday, December 4, 2025**" 
     position: below-navbar
     icon: info-circle
     dismissable: true
