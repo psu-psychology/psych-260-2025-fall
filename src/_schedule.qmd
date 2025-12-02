@@ -257,11 +257,11 @@ That said, you may find it interesting to learn and know about anyway.
 
 ### `{r} prettify_date(sched_df$class_day_1[15])` {-}
 
-*`{r} sched_df$class_1_theme[15]`*
+~~Exam 3~~ (rescheduled for Thursday)
 
 ### `{r} prettify_date(sched_df$class_day_2[15])` {-}
 
-*`{r} sched_df$class_2_theme[15]`*
+*Exam 3*
 
 ## `{r} sched_df$week[16]` {- #week-16}
 
