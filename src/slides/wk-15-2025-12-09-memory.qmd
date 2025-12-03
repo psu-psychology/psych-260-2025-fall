@@ -15,6 +15,7 @@ fig-align: "center"
 ## Announcements
 
 - Exam 4 (Final), 4:40-6:30 pm in 114 Steidle
+- 40 questions + bonus
 
 ## Today's topics
 
@@ -42,7 +43,7 @@ fig-align: "center"
     - Sensitization -> stronger response
 :::
 ::: {.column width=50%}
-![](https://www.researchgate.net/profile/James_Herman3/publication/256074938/figure/fig3/AS:216468764532738@1428621583098/Stress-habituation-and-facilitation-Repeated-exposure-to-the-same-stressor-results-in.png){fig-align="right" width="75%"}
+![](../include/img/sensitization-habitution.png){fig-align="right" width="75%"}
 :::
 ::::
 
@@ -56,7 +57,7 @@ fig-align: "center"
     
 :::
 ::: {.column width=50%}
-![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75)
+![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75){fig-align="right"}
 :::
 ::::
 
@@ -68,7 +69,7 @@ fig-align: "center"
   - Sequence, observational, episodic, semantic
 :::
 ::: {.column width=50%}
-![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75)
+![](https://images.squarespace-cdn.com/content/v1/5dd456adb1ab661ae7d7ad1c/1692626304496-QKY90XC9239FNJJXRP6S/Downward_Dog_Pose_%28Doga%29.jpg){fig-align="right"}
 :::
 ::::
 
@@ -76,19 +77,21 @@ fig-align: "center"
 
 ## Memory capacity of the human brain?
 
+::: {.fragment}
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=40%}
 - 1e12 neurons
 - 1e3 synapses/neuron
 - 1e15 synapses or 1.25e14 bytes
 - 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
 :::
-::: {.column width=50%}
+::: {.column width=60%}
 >"Entirety of a human's lived experience could fit on a flash drive."
 
 -- @Reber2010-bu
 :::
 ::::
+:::
 
 ## Computer memory
 
@@ -169,13 +172,13 @@ fig-align: "center"
 
 >"*When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.*" 
 
--- [@Hebb1949-se]
+-- @Hebb1949-se
 
 ::: {.fragment}
 
 >"*Neurons that fire together wire together.*"
 
--- [@Lowel1992-lk]
+-- @Lowel1992-lk
 
 :::
 
@@ -200,7 +203,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+![NMDA-R from @noauthor_undated-gp](http://pittmedneuro.com/img/glut1.jpg)
 :::
 ::: {.column width=50%}
 - *N-methyl-D-aspartate* receptor (NMDA-R)
@@ -214,7 +217,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+![NMDA-R from @noauthor_undated-gp](http://pittmedneuro.com/img/glut1.jpg)
 :::
 ::: {.column width=50%}
 - NMDA-R chemically-gated
@@ -229,7 +232,7 @@ fig-align: "center"
 
 :::: {.columns}
 ::: {.column width=50%}
-![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+![NMDA-R from @noauthor_undated-gp](http://pittmedneuro.com/img/glut1.jpg)
 :::
 ::: {.column width=50%}
 - AND Voltage-gated
@@ -263,17 +266,17 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 :::
 ::::
 
-## How does LTP (& Long-term depression or LTD) work?
+<!-- ## How does LTP (& Long-term depression or LTD) work? -->
 
-- Synapses can also be weakened via long-term depression (LTD)
-- NMDA receptor one molecular mechanism for implementing LTP, LTD & spike-timing-dependent plasticity
-- Ca++ entry triggers biochemical cascade
+<!-- - Synapses can also be weakened via long-term depression (LTD) -->
+<!-- - NMDA receptor one molecular mechanism for implementing LTP, LTD & spike-timing-dependent plasticity -->
+<!-- - Ca++ entry triggers biochemical cascade -->
 
-## How does LTP (& Long-term depression or LTD) work?
+<!-- ## How does LTP (& Long-term depression or LTD) work? -->
 
-- Existing (AMPA) glutamate receptors made to stay open longer
-- New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane
-- Change in quantity of glutamate released presynaptically
+<!-- - Existing (AMPA) glutamate receptors made to stay open longer -->
+<!-- - New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane -->
+<!-- - Change in quantity of glutamate released presynaptically -->
 
 ## NMDA-R clinical significance
 
@@ -393,7 +396,7 @@ knitr::include_graphics("../include/img/bmj-158-F1.large.jpg")
 knitr::include_graphics("../include/img/20150331-mouse-brain.jpg")
 ```
 
-#### AD Treatments
+## AD Treatments
     
 - Acetylcholinesterase (AChE) *inhibitors* (e.g. Aricept)
     - ACh a neuromodulator in the brain
@@ -403,7 +406,7 @@ knitr::include_graphics("../include/img/20150331-mouse-brain.jpg")
 - Drugs that address amyloid $\beta$ don't work especially well
 - Is AD the result of [disordered immune response] [@Jevtic2017-jt]?
 
-#### Hippocampus
+## Hippocampus
 
 ```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG"}
 knitr::include_graphics("../include/img/hippocampus-seahorse.jpg")
@@ -423,7 +426,7 @@ knitr::include_graphics("../include/img/hippocampus-seahorse.jpg")
 knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp")
 ```
 
-#### Cerebral cortex
+## Cerebral cortex
 
 Activated or deactivated during memory encoding...
 
@@ -491,34 +494,55 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 ---
 
-### 7. 
+### 7. This neurotransmitter is released by motor neurons onto skeletal muscle fibers.
+
+- A. Dopamine
+- B. Glutamate
+- C. Serotonin
+- D. Acetylcholine
 
 ---
 
-### 8.
+### 8. If you enjoyed dark meat from a Thanksgiving turkey, you may recall that this meat comes from muscles that are...
+
+- A. Slow-twitching & slow to fatigue
+- B. Fast-twitching & fast to fatigue
+- C. Not activated by alpha ($\alpha$) motor neurons
+- D. Medium-twitching & fast to fatigue
 
 ---
 
-### 9.
+### 9. Muscles have receptors that sense this property:
+
+- A. Rhythm
+- B. Temperature
+- C. Speed of contraction
+- D. Length or tension
 
 ---
 
-### 10.
+### 10. The myotatic/stretch reflex in a skeletal muscle fiber has ___ synapse(s).
+
+- One
+- Five
+- Ten
+- 650+
 
 ---
 
-### 11.
+### 11. True or False: Primary motor cortex located in the ______ lobe contains a topographical map of the body surface analogous to the somatosensory map.
+
+- A. True
+- B. False
 
 ---
 
-### 12.
+### 12. In addition to long-term potentiation (LTP) and exocytosis, Ca++ ion flow contributes to...
 
-
-# Point 2
-
-# Wrap up
-
-## Main points
+- A. Pressure signaling via $1\alpha$ efferents.
+- B. Muscle fiber contraction
+- C. Hyperpolarization of the nicotinic receptor
+- D. The therapeutic effects of lithium (Li)
 
 ## Next time
 
