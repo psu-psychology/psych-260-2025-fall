@@ -1,0 +1,541 @@
+---
+title: "Memory"
+subtitle: 2025-12-09
+fig-align: "center"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=5mlllRdIfqw width="100%" height="70%" >}}
+
+-- @Timvitkuske2014-wy
+
+## Announcements
+
+- Exam 4 (Final), 4:40-6:30 pm in 114 Steidle
+
+## Today's topics
+
+- What is learning? What is memory?
+- Biological bases of memory
+- Disorders of memory
+- Quiz 4
+
+# What is learning? What is memory?
+
+## What is learning?
+
+::: {.incremental}
+- Acquisition of new knowledge, skills, responses...
+- Change in existing knowledge, skills, responses...
+:::
+
+## Types of learning?
+
+:::: {.columns}
+::: {.column width=50%}
+- **Non-associative**
+    - Change in response to repeated encounters with same stimulus/event
+    - Habituation -> weaker response
+    - Sensitization -> stronger response
+:::
+::: {.column width=50%}
+![](https://www.researchgate.net/profile/James_Herman3/publication/256074938/figure/fig3/AS:216468764532738@1428621583098/Stress-habituation-and-facilitation-Repeated-exposure-to-the-same-stressor-results-in.png){fig-align="right" width="75%"}
+:::
+::::
+
+## Types of learning
+
+:::: {.columns}
+::: {.column width=50%}
+- **Associative**
+    - "Associates" or links two events/items with one another
+    - Classical & operant/instrumental conditioning
+    
+:::
+::: {.column width=50%}
+![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75)
+:::
+::::
+
+## Associative learning
+
+:::: {.columns}
+::: {.column width=50%}
+- Types
+  - Sequence, observational, episodic, semantic
+:::
+::: {.column width=50%}
+![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75)
+:::
+::::
+
+## What is memory?
+
+## Memory capacity of the human brain?
+
+:::: {.columns}
+::: {.column width=50%}
+- 1e12 neurons
+- 1e3 synapses/neuron
+- 1e15 synapses or 1.25e14 bytes
+- 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
+:::
+::: {.column width=50%}
+>"Entirety of a human's lived experience could fit on a flash drive."
+
+-- @Reber2010-bu
+:::
+::::
+
+## Computer memory
+
+::: {.incremental}
+- Random Access Memory (RAM), short-duration storage
+- Hard-disk/flash drive storage, long-term duration
+- Addressable (location '010101')
+- {text, sounds, images, video, data} all in binary [0,1] format
+    - `00110000` == 48 (the number)
+    - `00110000` == '0' (the character zero)
+- Write once, read many times
+
+:::
+
+## Brain memory
+
+::: {.incremental}
+- Computers have separate memory hardware
+    - brains store info everywhere
+- Computers have addressable memory
+    - brain memory??
+- Computer memory can be non-volatile
+    - brain memories fade
+- Computer memory is veridical
+    - brain memories are 'reconstructions'
+
+:::
+
+# Biological bases of memory
+
+## Types
+
+::: {.incremental}
+- Short vs. long-term
+    - Working memory ~ short-term information maintenance for guiding action
+- Explicit (declarative: semantic vs. episodic) vs. implicit (procedural)
+- Retrospective (from the past) vs. prospective (to be remembered)
+- Recognition (familiar or novel) vs. recall
+
+:::
+
+## Mechanism(s)
+
+>The idea that memory is stored as enduring changes in the brain dates back at least to the time of Plato and Aristotle (circa 350 BCE), but its scientific articulation emerged in the 20th century when Richard Semon introduced the term **“engram” to describe the neural substrate for storing and recalling memories**. 
+
+-- @Josselyn2020-xr
+
+## Mechanism(s)
+
+>Essentially, Semon proposed that **an experience activates a population of neurons that undergo persistent chemical and/or physical changes to become an engram**. Subsequent reactivation of the engram by cues available at the time of the experience induces memory retrieval. 
+
+-- @Josselyn2020-xr
+
+## Mechanism(s)
+
+- Changes in patterns of neural activity
+- Changes in connectivity
+    + New synapses
+    + Altered synapses (strengthened or weakened)
+    
+---
+
+![@squire_memory_2004](../include/img/squire-memory-systems.gif)
+
+## Donald Hebb
+
+:::: {.columns}
+::: {.column width=50%}
+- Canadian clinical neuropsychologist
+- Author of *The Organization of Behavior* (1949)
+:::
+::: {.column width=50%}
+![](https://iiif.library.ubc.ca/image/cdm.arphotos.1-0150362.0/full/800,/0/default.jpg?ma=3153600&lm=1707408032){width="60%" fig-align="right"}
+:::
+::::
+
+## Hebbian learning
+
+>"*When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.*" 
+
+-- [@Hebb1949-se]
+
+::: {.fragment}
+
+>"*Neurons that fire together wire together.*"
+
+-- [@Lowel1992-lk]
+
+:::
+
+## Implementing 'Hebbian' learning
+
+- Hebbian learning is associative
+- Neuron A active + Neuron B active => associates/links co-activity
+
+## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation)
+
+:::: {.columns}
+::: {.column width=50%}
+- Increase (potentiation) in synaptic strength based on recent co-activity
+- Change at synapse == physical basis of Hebbian learning
+:::
+::: {.column width=50%}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg)
+:::
+::::
+
+## 'Hebbian' learning via NMDA receptor (NMDA-R)
+
+:::: {.columns}
+::: {.column width=50%}
+![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+:::
+::: {.column width=50%}
+- *N-methyl-D-aspartate* receptor (NMDA-R)
+- 'Coincidence' detector
+    + Sending cell has released NT
+    + Receiving cell is/has been recently active
+:::
+::::
+
+## NMDA-R
+
+:::: {.columns}
+::: {.column width=50%}
+![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+:::
+::: {.column width=50%}
+- NMDA-R chemically-gated
+    + Ligand-gated
+        - Glutamate
+        - Glycine (co-factor/co-agonist)
+    + Sending cell active
+:::
+::::
+
+## NMDA-R
+
+:::: {.columns}
+::: {.column width=50%}
+![NMDA-R from [@pitt-medical-neurosci-glu]](http://pittmedneuro.com/img/glut1.jpg)
+:::
+::: {.column width=50%}
+- AND Voltage-gated
+    + Receiving cell depolarizes (EPSP or action potential)
+    + $Zn^{++}$ or $Mg^{++}$ ion 'plug' repelled under depolarization
+    + $Na^+$ & $Ca^{++}$ influx; $K^+$ outflux
+:::
+::::
+
+---
+
+```{r, out.width="75%", fig.cap='https://i2.wp.com/www.gatewaypsychiatric.com/wp-content/uploads/2015/02/NMDA-Receptor-and-Depression.jpg?ssl=1'}
+knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content/uploads/2015/02/NMDA-Receptor-and-Depression.jpg?ssl=1")
+```
+
+## NMDA-Rs contribute to associative learning
+
+- Associate (link)
+    + Concept A -> Concept B
+    + Neuron A -> Neuron B
+- I say Donald...you say...
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://ejunkieblog.com/wp-content/uploads/2019/06/23-jobs-donald-duck-has-tried_omd-feat-1-780x440-14405377491822828103.jpg)
+:::
+::: {.column width=50%}
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg)
+:::
+::::
+
+## How does LTP (& Long-term depression or LTD) work?
+
+- Synapses can also be weakened via long-term depression (LTD)
+- NMDA receptor one molecular mechanism for implementing LTP, LTD & spike-timing-dependent plasticity
+- Ca++ entry triggers biochemical cascade
+
+## How does LTP (& Long-term depression or LTD) work?
+
+- Existing (AMPA) glutamate receptors made to stay open longer
+- New AMPA glutamate receptors synthesized, inserted into postsynaptic membrane
+- Change in quantity of glutamate released presynaptically
+
+## NMDA-R clinical significance
+
+- *Memantine* (Alzheimer's Disease treatment) *blocks* NMDA-R
+    - Controls over-activation and $Ca^{++}$ excitotoxicity?
+- Implicated in effects of *phencylidine* (PCP)
+    - PCP can induce psychotic symptoms
+    - Link to glutamate hypothesis of schizophrenia
+
+## NMDA-R clinical significance
+
+- *Ketamine* is an NMDA-R antagonist
+    - anesthesia, sedation, pain relief
+    - short-term relief for depression
+- Linked to analgesic (pain-relieving) effects of nitrous oxide ($N_{2}O$) or 'laughing' gas
+- Ethanol inhibits [(Ron et al., 2011)](https://www.ncbi.nlm.nih.gov/pubmed/21204417)
+
+## Summary
+
+- Learning and memory involve changes in neural firing, circuitry
+    - And probably molecular changes inside neurons
+- Hebbian learning a type of associative learning
+- NMDA receptor as coincidence detector
+    + Molecular basis of one form of long-term potentiation (LTP)
+- Unlike computers, brains store different types of information stored in different brain systems
+
+# Disorders of memory
+
+## Amnesia
+
+- Acquired loss of memory
+- ≠ normal forgetting
+- Note: computers don't forget
+
+- *Retrograde* ('backwards' in time)
+    + Damage to information acquired pre-injury
+    + Temporally graded
+- *Anterograde* ('forward' in time) 
+    + Damage to information acquired/experienced post-injury
+
+## [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html) (Henry G. Molaison)
+
+- Intractable/untreatable epilepsy
+- Bilateral resection of medial temporal lobe (1953)
+- Epilepsy now treatable
+- But, memory impaired
+- Lived until 2008
+
+```{r, fig.cap="https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg")
+# HM's brain
+```
+
+```{r, fig.cap="[@Grafe2019-mk]"}
+knitr::include_url("https://www.youtube.com/embed/aw6JmZuLhfA")
+```
+<!-- Brenda Milner on HM -->
+
+- Retrograde amnesia
+    + Can’t remember 10 yrs before operation
+    + Distant past better than more recent
+- Severe, global anterograde amnesia
+    + Impaired learning of new facts, events, people
+- But, skills (mirror learning) intact
+    
+>*Every day is alone in itself, whatever enjoyment I’ve had, and whatever sorrow I’ve had…Right now, I’m wondering, have I done or said anything amiss?  You see at this moment, everything looks clear to me, but what happened just before?  That’s what worries me.  It’s like waking from a dream.  I just don’t remember.*
+>
+>-- HM
+
+#### Other causes of amnesia
+
+- Disease 
+    + Alzheimer’s, herpes virus
+- [Korsakoff’s syndrome](https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome)
+    + Result of severe alcoholism
+    + Impairs medial thalamus & mammillary bodies
+
+#### Patient NA
+
+- Fencing accident
+- Damage to medial thalamus
+- Anterograde + graded retrograde amnesia
+- Are thalamus & medial temporal region connected?
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1GfFopZSyj8" frameborder="0" allowfullscreen></iframe>
+
+#### Spared skills in amnesia
+
+- Skill-learning
+- Mirror-reading, writing
+- Short-term memory
+- “Cognitive” skills
+- Priming
+
+#### What does amnesia tell us?
+
+- Long-term memory for facts, events, people 
+- ≠ Short-term memory
+- ≠ Long-term memory for “skills”
+- Separate memory systems in the brain?
+
+### Alzheimer's Disease (AD)
+
+- Chronic, neurodegenerative disease affecting ~5 M Americans
+- Cognitive dysfunction (memory loss, language difficulties, planning, coordination)
+- Psychiatric symptoms and behavioral disturbances
+- Difficulties with daily living
+- [[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)
+
+```{r, fig.cap="[[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)"}
+knitr::include_graphics("../include/img/bmj-158-F1.large.jpg")
+```
+
+- Post-mortem exams show $\beta$ amyloid plaques and neurofibrillary tangles in hippocampus + other brain areas
+
+```{r, out.height="350px"}
+knitr::include_graphics("../include/img/20150331-mouse-brain.jpg")
+```
+
+#### AD Treatments
+    
+- Acetylcholinesterase (AChE) *inhibitors* (e.g. Aricept)
+    - ACh a neuromodulator in the brain
+    - Boost/prolong ACh levels
+- NMDA-R partial antagonists (e.g., Memantine)
+    - Slow/impede formation of disordered new memories to keep established ones intact?
+- Drugs that address amyloid $\beta$ don't work especially well
+- Is AD the result of [disordered immune response] [@Jevtic2017-jt]?
+
+#### Hippocampus
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG"}
+knitr::include_graphics("../include/img/hippocampus-seahorse.jpg")
+```
+
+- Dense in NMDA receptors
+- Linked to formation, storage, consolidation of long-term episodic or declarative memories
+- Thought to stores info for later transfer to cortex
+- In non-human animals
+    - Similar architecture to humans
+        - More known about mechanisms for *spatial* than *non-spatial* memory
+    + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
+    + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
+    + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp")
+```
+
+#### Cerebral cortex
+
+Activated or deactivated during memory encoding...
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig5_HTML.jpg?as=webp")
+```
+
+Deactivated in non-memory cognitive tasks but activated during memory retrieval.
+
+```{r, fig.cap="[@Dickerson2010-qh]"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig6_HTML.jpg?as=webp")
+```
+
+# Quiz 4
+
+---
+
+### 1. The NMDA receptor binds which neurotransmitter?
+
+- A. GABA 
+- B. Norepinephrine
+- C. Glutamate
+- D. Dopamine 
+
+---
+
+### 2. Which of the following statements about the NMDA receptor is FALSE?
+
+- A. It is ionotropic.
+- B. It is metabotropic.
+- C. It is voltage-gated.
+- D. It is found in one place in the CNS.
+
+---
+
+### 3. Unlike computers, biological memories are stored in patterns of neuronal activations and synaptic strengths distributed across areas of the nervous system. 
+
+- A. True
+- B. False
+
+---
+
+### 4. The entry of what ion into the postsynaptic cell through NMDA receptors triggers long-term potentiation (LTP)?
+
+- A. Cl- (chloride)
+- B. Ca++ (calcium)
+- C. Mg++ (magnesium)
+- D. K+ (potassium)
+
+---
+
+### 5. Who did not say this exactly but is credited with the idea that 'neurons that fire together wire together.' 
+
+- A. William James  
+- B. Henry Molaison 
+- C. Donald Hebb 
+- D. Brenda Milner 
+
+---
+
+### 6. True or False: Patient HM was largely unimpaired in his abilities to perform the mirror drawing task. 
+
+- A. True  
+- B. False  
+
+---
+
+### 7. 
+
+---
+
+### 8.
+
+---
+
+### 9.
+
+---
+
+### 10.
+
+---
+
+### 11.
+
+---
+
+### 12.
+
+
+# Point 2
+
+# Wrap up
+
+## Main points
+
+## Next time
+
+- Frontiers in neuroscience
+- Exam 4 review
+- The Cerebral Sympony
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

@@ -1,22 +1,94 @@
 ---
-title: "TITLE"
-subtitle: 2025-08-26
+title: "Memory"
+subtitle: 2025-12-09
 fig-align: "center"
 ---
 
 # Prelude
 
+---
+
+{{< video https://www.youtube.com/watch?v=5mlllRdIfqw width="100%" height="70%" >}}
+
+-- @Timvitkuske2014-wy
+
 ## Announcements
 
 ## Today's topics
 
-- Warm up
-- Point 1
-- Point 2
+- Memory
+- Quiz 4
 
-# Warm up
+# Memory
 
-# Point 1
+# Quiz 4
+
+---
+
+### 1. NMDA receptor binds which neurotransmitter?
+
+- A. GABA 
+- B. Norepinephrine
+- C. Glutamate
+- D. Dopamine 
+
+---
+
+### 2. Which of the following statements about the NMDA receptor is FALSE?
+
+- A. It is ionotropic.
+- B. It is metabotropic.
+- C. It is voltage-gated.
+- D. It binds glutamate.
+
+---
+
+### 3. Unlike computers, biological memories are stored in patterns of neuronal activations and synaptic strengths distributed across areas of the nervous system. 
+
+- A. True
+- B. False
+
+---
+
+### 4. The entry of what ion into the postsynaptic cell through NMDA receptors triggers long-term potentiation (LTP)?
+
+- A. Cl- (chloride)
+- B. Ca++ (calcium)
+- C. Mg++ (magnesium)
+- D. K+ (potassium)
+
+---
+
+### 5.
+
+---
+
+### 6.
+
+---
+
+### 7.
+
+---
+
+### 8.
+
+---
+
+### 9.
+
+---
+
+### 10.
+
+---
+
+### 11.
+
+---
+
+### 12.
+
 
 # Point 2
 
