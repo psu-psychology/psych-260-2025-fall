@@ -12,7 +12,7 @@ project:
 website:
   title: "PSYCH 260.001"
   announcement: 
-    content: "**Exam 3 rescheduled to Thursday, December 4, 2025**" 
+    content: "Please complete the end-of-semester [course evaluations](https://rateteaching.psu.edu/" 
     position: below-navbar
     icon: info-circle
     dismissable: true
