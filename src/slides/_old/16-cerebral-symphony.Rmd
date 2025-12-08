@@ -1,0 +1,154 @@
+# The Cerebral Symphony
+
+## Exam 4 Review {-}
+
+### History {-}
+
+- Descartes thought `____` about the `____`
+- Fluid from the cerebral ventricles was once thought to `____`
+
+### Methods {-}
+
+- Single unit recordings have `____` spatial and `____` temporal resolution.
+- EEG has`____` spatial and `____` temporal resolution.
+- Single unit recordings measure `____`; EEG measures `____`.
+
+### Anatomy {-}
+
+- Directional terms, slices
+    + In the human forebrain `____` and superior overlap.
+- Gross anatomy
+    + The `____` means "little brain" in Latin; it's located adjacent to `_____`.
+    + The `____` and `____` in the midbrain release dopamine
+    + The `____` controls endocrine and ANS activity.
+    + The insula is located deep inside the `____`.
+    + Forebrain/midbrain/hindbrain
+    + ventricles/CSF, meninges, blood supply
+    + Gyri/sulci
+    + lobes, insula/insular cortex
+    + gray/white matter
+    
+### Cellular anatomy {-}
+
+- Neurons receive most of their input on the `____` and `____`.
+- Gray matter is made of `____`; white matter is made of `____`.
+    
+### Neurophysiology {-}
+
+- Resting potential
+    + In neuron at rest, `____` inside is greater than outside; What force(s) `____` push [Na+] inward?
+- Ca++ influx is involved in `____`, `____`, and `____`.
+- EPSP/IPSPs are `____` than action potentials
+- Nodes of Ranvier contain lots of `____`-gated channels
+- The *absolute refractory period* occurs when voltage-gated Na+ channels `____`
+- Action potential phases, causes, components
+- Synaptic transmission
+    + EPSPs, IPSPs
+- Synaptic plasticity, LTP, NMDA receptors
+
+### Neurochemistry {-}
+
+- 'Big Three' -- Glu, GABA, ACh
+- Neuromodulators -- DA, NE, 5-HT
+- Hormones
+    + Oxytocin, vasopressin are released from `____`.
+- Can we readily measure neurotransmitter levels in the brain?
+- Midbrain structures that release dopamine are `_______` and `_______`.
+
+### Evolution and development {-}
+
+- There is a "mammalian" brain plan (True/False)
+
+### Disorder and disease {-}
+
+- Structural changes in the brain associated with major depressive disorder and schizophrenia.
+- `_____` as a new, fast-acting treatment for depression.
+- True or False: There exist convenient tests for monoamine neurotransmitter levels equivalent to the blood test available for Lithium.
+
+### Emotion {-}
+
+- The `____` lobe contains the amygdala
+- Pleasure/reward systems, key brain areas and neurotransmitter(s)
+- Fear, stress in behavior and brain
+    + Acute vs. chronic stress
+
+### Perception and Action {-}
+
+- Sensory fibers enter the (dorsal/ventral) spinal cord. Motor fibers exit from the (dorsal/ventral) spinal cord.
+- Parietal lobe contains `____` cortex
+- Photoreceptor cells release more neurotransmitter in (darkness/light), this is called the `____` `_____`.
+- Can't see reddish-green because long ("red") and medium ("green") cones `____`
+- Areas of cortex devoted to moving fingers, tongue are (large/small)
+- Most retinal ganglion cells project to the `____`
+- Sound direction is signaled by `____`
+- Minty flavors taste `cool' because...
+- Topographic maps: somatosensation, audition, vision
+- Sensory fibers enter the `______` part of the spinal cord; motor fibers exit from the `______` part.
+- Perceiving what vs. where: vision, somatosensation
+- Functional segregation: examples of
+- Receptive fields: how size varies with perceptual sensitivity 
+
+### Memory {-}
+
+- Long-term Potentiation (LTP) involves neuron A's connection to neuron B `____`
+- NMDA receptor opens when sending cell `____` and receiving cell `____`.
+- Amnesia
+    + `____` is impaired; `____` is spared.
+- NMDA receptors and Hebbian learning
+
+## Frontiers in neuroscience {-}
+
+### Beyond the connectome {-}
+
+```{r, echo=FALSE, out.width="800px", fig.align='center', fig.cap='[[@Bargmann2012-yg]](http://dx.doi.org/10.1002/bies.201100185)'}
+knitr::include_graphics("https://onlinelibrary.wiley.com/cms/asset/ec4b5eb3-cd44-4372-9cab-f512989d74a0/mfig002.jpg")
+```
+
+### Brain dynamics {-}
+
+```{r, echo=FALSE, out.width="800px", fig.align='center', fig.cap='[[@Breakspear2017-gk]](http://dx.doi.org/10.1038/nn.4497)'}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4497/MediaObjects/41593_2017_Article_BFnn4497_Fig3_HTML.jpg?as=webp")
+```
+
+### Brain/gut connection {-}
+
+```{r, echo=FALSE, out.width="800px", fig.align='center', fig.cap='[[@Furness2012-dy]](http://dx.doi.org/10.1038/nrgastro.2012.32)'}
+knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrgastro.2012.32/MediaObjects/41575_2012_Article_BFnrgastro201232_Fig1_HTML.jpg?as=webp")
+```
+
+### Glia {-}
+
+```{r, echo=FALSE, out.width="800px", fig.align='center', fig.cap='[[@De_Pitta2019-ca]](https://doi.org/10.1007/978-3-030-00817-8_1)'}
+knitr::include_graphics("https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-00817-8_1/MediaObjects/332457_1_En_1_Fig1_HTML.png")
+```
+
+## Careers in neuroscience {-}
+
+### Job prospects {-}
+
+>"*Employment in healthcare occupations is projected to grow 15 percent from 2019 to 2029, much faster than the average for all occupations, adding about 2.4 million new jobs. Healthcare occupations are projected to add more jobs than any of the other occupational groups. This projected growth is mainly due to an aging population, leading to greater demand for healthcare services.*"
+
+[U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/healthcare/home.htm#:~:text=Employment%20in%20healthcare%20occupations%20is,of%20the%20other%20occupational%20groups.)
+
+---
+
+- [Best jobs in health care](https://money.usnews.com/careers/best-jobs/rankings/best-healthcare-jobs)
+- [Careers in neuroscience from indeed.com](https://www.indeed.com/career-advice/finding-a-job/careers-in-neuroscience)
+- B.A./B.S. vs. M.S. vs. Ph.D. vs. M.D.
+- Job experience before grad school good
+- Start networking, keep in touch
+
+### Interviewing {-}
+
+- Getting an interview
+  - Show initiative & impact
+- During interview
+  - Come prepared -- why this job? why this organization?
+  - Dress professionally
+  - Be engaged, ask questions
+  
+### The Cerebral Symphony {-}
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljGMhDSSGFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## References {-}
