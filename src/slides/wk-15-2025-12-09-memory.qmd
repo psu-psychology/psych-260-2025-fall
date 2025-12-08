@@ -50,14 +50,28 @@ fig-align: "center"
 ## Types of learning
 
 :::: {.columns}
-::: {.column width=50%}
+::: {.column width=60%}
 - **Associative**
     - "Associates" or links two events/items with one another
-    - Classical & operant/instrumental conditioning
+    - Classical conditioning
+      - Link event with physiological response
     
 :::
-::: {.column width=50%}
-![](https://fiveable.me/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstatic.prod.fiveable.me%2Fsearch-images%252F%2522Associative_learning_in_neuroscience%253A_classical_conditioning_and_operant_conditioning_visual_examples_and_diagrams%2522-xovif0rym92iydf2abpg.jpe.jpg&w=3840&q=75){fig-align="right"}
+::: {.column width=40%}
+![](https://www.verywellmind.com/thmb/s4abq5cmOM8bSYVLdWgdtfUrsoM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2794861-classical-vs-operant-conditioning-5afc42a343a10300370da76f.png){fig-align="right"}
+:::
+::::
+
+## Types of learning
+
+:::: {.columns}
+::: {.column width=60%}
+- Operant/instrumental conditioning
+  - Link behaviors with external events (rewards/punishments)
+    
+:::
+::: {.column width=40%}
+![](https://www.verywellmind.com/thmb/s4abq5cmOM8bSYVLdWgdtfUrsoM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2794861-classical-vs-operant-conditioning-5afc42a343a10300370da76f.png){fig-align="right"}
 :::
 ::::
 
@@ -66,14 +80,33 @@ fig-align: "center"
 :::: {.columns}
 ::: {.column width=50%}
 - Types
-  - Sequence, observational, episodic, semantic
+  - Observational/imitative
+  
 :::
 ::: {.column width=50%}
-![](https://images.squarespace-cdn.com/content/v1/5dd456adb1ab661ae7d7ad1c/1692626304496-QKY90XC9239FNJJXRP6S/Downward_Dog_Pose_%28Doga%29.jpg){fig-align="right"}
+![](../include/img/lola-ellie.jpeg){fig-align="right" width="70%"}
 :::
 ::::
 
-## What is memory?
+## Associative learning
+
+:::: {.columns}
+::: {.column width=50%}
+- Types
+  - Sequence
+    - A, B, C, D, ...
+  - Episodic
+    - Mom's 85th
+  - Semantic
+    - Thanksgiving is a holiday celebrated in Canada and the U.S...
+  
+:::
+::: {.column width=50%}
+![](../include/img/moms-85th.jpeg){fig-align="right" width="70%"}
+:::
+::::
+
+# What is memory?
 
 ## Memory capacity of the human brain?
 
@@ -106,17 +139,17 @@ fig-align: "center"
 
 :::
 
-## Brain memory
+## Computers vs. brains
 
 ::: {.incremental}
 - Computers have separate memory hardware
-    - brains store info everywhere
+    - *brains store info everywhere*
 - Computers have addressable memory
-    - brain memory??
+    - *brain memory??*
 - Computer memory can be non-volatile
-    - brain memories fade
+    - *brain memories fade*
 - Computer memory is veridical
-    - brain memories are 'reconstructions'
+    - *brain memories are 'reconstructions'*
 
 :::
 
@@ -125,19 +158,35 @@ fig-align: "center"
 ## Types
 
 ::: {.incremental}
-- Short vs. long-term
-    - Working memory ~ short-term information maintenance for guiding action
-- Explicit (declarative: semantic vs. episodic) vs. implicit (procedural)
-- Retrospective (from the past) vs. prospective (to be remembered)
-- Recognition (familiar or novel) vs. recall
+- *Short-term* vs. *long-term*
+    - *Working memory* ~ short-term information maintenance for guiding action
+- *Explicit* (declarative: semantic vs. episodic; 'knowing that') vs. *implicit* (procedural or 'knowing how')
 
 :::
 
+## Types
+
+::: {.incremental}
+- *Retrospective* (from the past) vs. *prospective* (to be remembered)
+- How tested or revealed? 
+  - *Recognition* vs.
+  - *Recall*:
+
+:::
+
+## A taxonomy
+
+![@squire_memory_2004](../include/img/squire-memory-systems.gif)
+
 ## Mechanism(s)
+
+::: {.fragment}
 
 >The idea that memory is stored as enduring changes in the brain dates back at least to the time of Plato and Aristotle (circa 350 BCE), but its scientific articulation emerged in the 20th century when Richard Semon introduced the term **“engram” to describe the neural substrate for storing and recalling memories**. 
 
 -- @Josselyn2020-xr
+
+:::
 
 ## Mechanism(s)
 
@@ -145,23 +194,20 @@ fig-align: "center"
 
 -- @Josselyn2020-xr
 
-## Mechanism(s)
+## Neural substrates (engrams) consist of
 
-- Changes in patterns of neural activity
-- Changes in connectivity
+- Changes in *patterns of neural activity*
+- Changes in *connectivity*
     + New synapses
     + Altered synapses (strengthened or weakened)
     
----
-
-![@squire_memory_2004](../include/img/squire-memory-systems.gif)
 
 ## Donald Hebb
 
 :::: {.columns}
 ::: {.column width=50%}
 - Canadian clinical neuropsychologist
-- Author of *The Organization of Behavior* (1949)
+- Author of *The Organization of Behavior* [-@Hebb1949-se]
 :::
 ::: {.column width=50%}
 ![](https://iiif.library.ubc.ca/image/cdm.arphotos.1-0150362.0/full/800,/0/default.jpg?ma=3153600&lm=1707408032){width="60%" fig-align="right"}
@@ -174,24 +220,39 @@ fig-align: "center"
 
 -- @Hebb1949-se
 
-::: {.fragment}
+## Hebbian learning
 
 >"*Neurons that fire together wire together.*"
 
 -- @Lowel1992-lk
 
+## Hebbian learning is *associative*
+
+- Neuron A active & 
+- Neuron B active $\rightarrow$ 
+
+```{mermaid}
+flowchart LR
+  A --> B
+```
+
+::: {.fragment}
+
+- Strengthen link (synapse) between them
+
+```{mermaid}
+flowchart LR
+  A ==> B
+```
+
 :::
 
-## Implementing 'Hebbian' learning
-
-- Hebbian learning is associative
-- Neuron A active + Neuron B active => associates/links co-activity
-
-## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation)
+## How synapses strengthen
 
 :::: {.columns}
 ::: {.column width=50%}
-- Increase (potentiation) in synaptic strength based on recent co-activity
+- [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation)
+- Make more potent (stengthen) synapse based on recent co-activity
 - Change at synapse == physical basis of Hebbian learning
 :::
 ::: {.column width=50%}
@@ -199,7 +260,7 @@ fig-align: "center"
 :::
 ::::
 
-## 'Hebbian' learning via NMDA receptor (NMDA-R)
+## Hebbian learning mechanism
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -220,11 +281,11 @@ fig-align: "center"
 ![NMDA-R from @noauthor_undated-gp](http://pittmedneuro.com/img/glut1.jpg)
 :::
 ::: {.column width=50%}
-- NMDA-R chemically-gated
-    + Ligand-gated
-        - Glutamate
-        - Glycine (co-factor/co-agonist)
-    + Sending cell active
+- *Chemically*-gated
+    - Binds glutamate
+      - When nearby neuron releases
+    - Binds glycine (co-factor/co-agonist)
+    - So, *ligand-gated*
 :::
 ::::
 
@@ -235,8 +296,8 @@ fig-align: "center"
 ![NMDA-R from @noauthor_undated-gp](http://pittmedneuro.com/img/glut1.jpg)
 :::
 ::: {.column width=50%}
-- AND Voltage-gated
-    + Receiving cell depolarizes (EPSP or action potential)
+- *Voltage*-gated
+    + Receiving cell depolarizes (EPSP)
     + $Zn^{++}$ or $Mg^{++}$ ion 'plug' repelled under depolarization
     + $Na^+$ & $Ca^{++}$ influx; $K^+$ outflux
 :::
@@ -248,12 +309,39 @@ fig-align: "center"
 knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content/uploads/2015/02/NMDA-Receptor-and-Depression.jpg?ssl=1")
 ```
 
-## NMDA-Rs contribute to associative learning
+## Schematic
 
-- Associate (link)
+```{mermaid}
+flowchart LR
+  A -->|Glu| B
+```
+
+```{mermaid}
+flowchart LR
+  A -->|Glu| C[AMPA-R]
+  A -->|Glu| B[NMDA-R]
+  C --> |generates EPSP| B
+  B --> |Ca++ enters| D:::hidden
+  
+  %% Clickable links
+  click C "https://en.wikipedia.org/wiki/AMPA_receptor"
+  click B "https://en.wikipedia.org/wiki/NMDA_receptor"
+```
+
+::: {.incremental}
+- Ca++ entry strengthens synapse
+- Modulate existing AMPA-R; synthesize new AMPA-R 
+:::
+
+## NMDA-Rs & associative learning
+
+::: {.incremental}
+- Receptors associate (link)
     + Concept A -> Concept B
     + Neuron A -> Neuron B
 - I say Donald...you say...
+
+:::
 
 ---
 
@@ -280,36 +368,51 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 
 ## NMDA-R clinical significance
 
-- *Memantine* (Alzheimer's Disease treatment) *blocks* NMDA-R
-    - Controls over-activation and $Ca^{++}$ excitotoxicity?
-- Implicated in effects of *phencylidine* (PCP)
-    - PCP can induce psychotic symptoms
-    - Link to glutamate hypothesis of schizophrenia
+::: {.incremental}
+
+- *Memantine* 
+  - Alzheimer's Disease treatment
+  - NMDA-R antagonist
+- *Phencylidine* (PCP)
+  - Dissociative anesthetic, may induce hallucinations
+  - Glutamate hypothesis of schizophrenia
+  - NMDA-R antgonist  
+:::
 
 ## NMDA-R clinical significance
 
-- *Ketamine* is an NMDA-R antagonist
-    - anesthesia, sedation, pain relief
-    - short-term relief for depression
-- Linked to analgesic (pain-relieving) effects of nitrous oxide ($N_{2}O$) or 'laughing' gas
-- Ethanol inhibits [(Ron et al., 2011)](https://www.ncbi.nlm.nih.gov/pubmed/21204417)
+- *Ketamine*
+  - anesthesia, sedation, pain relief
+  - short-term, fast acting relief for depression
+  - NMDA-R antagonist
+- *Ethanol* also influences [@Ron2011-dh]
 
 ## Summary
 
 - Learning and memory involve changes in neural firing, circuitry
     - And probably molecular changes inside neurons
 - Hebbian learning a type of associative learning
-- NMDA receptor as coincidence detector
+
+## Summary
+
+- NMDA-R is coincidence detector
     + Molecular basis of one form of long-term potentiation (LTP)
 - Unlike computers, brains store different types of information stored in different brain systems
 
 # Disorders of memory
 
+---
+
+- Amnesia
+- Alzheimer's Disease
+
 ## Amnesia
 
-- Acquired loss of memory
+- *Acquired* loss of memory
 - ≠ normal forgetting
 - Note: computers don't forget
+
+## Types
 
 - *Retrograde* ('backwards' in time)
     + Damage to information acquired pre-injury
@@ -317,53 +420,64 @@ knitr::include_graphics("https://i2.wp.com/www.gatewaypsychiatric.com/wp-content
 - *Anterograde* ('forward' in time) 
     + Damage to information acquired/experienced post-injury
 
-## [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html) (Henry G. Molaison)
+## [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html)^[Henry G. Molaison was identified with his permission after his death in 2008.]
 
+:::: {.columns}
+::: {.column width=50%}
 - Intractable/untreatable epilepsy
 - Bilateral resection of medial temporal lobe (1953)
 - Epilepsy now treatable
 - But, memory impaired
-- Lived until 2008
+:::
+::: {.column width=50%}
+![](https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg)
+:::
+::::
 
-```{r, fig.cap="https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg", echo=FALSE, fig.align='center'}
-knitr::include_graphics("https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg")
-# HM's brain
-```
+---
 
-```{r, fig.cap="[@Grafe2019-mk]"}
-knitr::include_url("https://www.youtube.com/embed/aw6JmZuLhfA")
-```
-<!-- Brenda Milner on HM -->
+{{< video https://www.youtube.com/embed/aw6JmZuLhfA width="100%" height="70%" >}}
 
-- Retrograde amnesia
-    + Can’t remember 10 yrs before operation
+-- @Grafe2019-mk
+
+## HM
+
+- [*Retrograde amnesia*](https://en.wikipedia.org/wiki/Retrograde_amnesia)^['backward' in time]
+    + Couldn’t remember 10 yrs before operation
     + Distant past better than more recent
-- Severe, global anterograde amnesia
+- Severe, global [*anterograde amnesia*](https://en.wikipedia.org/wiki/Anterograde_amnesia)^['forward' in time]
     + Impaired learning of new facts, events, people
 - But, skills (mirror learning) intact
+
+---
     
 >*Every day is alone in itself, whatever enjoyment I’ve had, and whatever sorrow I’ve had…Right now, I’m wondering, have I done or said anything amiss?  You see at this moment, everything looks clear to me, but what happened just before?  That’s what worries me.  It’s like waking from a dream.  I just don’t remember.*
->
->-- HM
 
-#### Other causes of amnesia
+-- HM
+
+## Other causes of amnesia
 
 - Disease 
     + Alzheimer’s, herpes virus
 - [Korsakoff’s syndrome](https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome)
     + Result of severe alcoholism
     + Impairs medial thalamus & mammillary bodies
+- Brain injury
 
-#### Patient NA
+## Patient NA
 
 - Fencing accident
 - Damage to medial thalamus
 - Anterograde + graded retrograde amnesia
 - Are thalamus & medial temporal region connected?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1GfFopZSyj8" frameborder="0" allowfullscreen></iframe>
+---
 
-#### Spared skills in amnesia
+{{< video https://www.youtube.com/embed/1GfFopZSyj8 width="100%" height="70%" >}}
+
+-- @Anagnostaras2014-nr
+
+## Spared skills in amnesia
 
 - Skill-learning
 - Mirror-reading, writing
@@ -371,74 +485,106 @@ knitr::include_url("https://www.youtube.com/embed/aw6JmZuLhfA")
 - “Cognitive” skills
 - Priming
 
-#### What does amnesia tell us?
+## What does amnesia tell us?
 
-- Long-term memory for facts, events, people 
-- ≠ Short-term memory
-- ≠ Long-term memory for “skills”
-- Separate memory systems in the brain?
+- Long-term memory for facts & people (semantic), events (episodic) 
+  - ≠ Short-term memory
+  - ≠ Long-term memory for “skills”
 
-### Alzheimer's Disease (AD)
+## Multiple types of memory
 
-- Chronic, neurodegenerative disease affecting ~5 M Americans
+![@squire_memory_2004](../include/img/squire-memory-systems.gif)
+
+## Alzheimer's Disease (AD)
+
+- Chronic, neurodegenerative disease affecting ~6.7 M Americans
 - Cognitive dysfunction (memory loss, language difficulties, planning, coordination)
 - Psychiatric symptoms and behavioral disturbances
 - Difficulties with daily living
-- [[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)
+- [@burns_alzheimers_2009](http://doi.org/10.1136/bmj.b158)
 
-```{r, fig.cap="[[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)"}
-knitr::include_graphics("../include/img/bmj-158-F1.large.jpg")
-```
+---
 
+![@burns_alzheimers_2009](../include/img/bmj-158-F1.large.jpg)
+
+## In the brain
+
+:::: {.columns}
+::: {.column width=50%}
 - Post-mortem exams show $\beta$ amyloid plaques and neurofibrillary tangles in hippocampus + other brain areas
-
-```{r, out.height="350px"}
-knitr::include_graphics("../include/img/20150331-mouse-brain.jpg")
-```
+:::
+::: {.column width=50%}
+![](../include/img/20150331-mouse-brain.jpg)
+:::
+::::
 
 ## AD Treatments
     
+- Drugs that address amyloid $\beta$ don't work especially well
 - Acetylcholinesterase (AChE) *inhibitors* (e.g. Aricept)
     - ACh a neuromodulator in the brain
-    - Boost/prolong ACh levels
+    - AChE inhibitors boost/prolong ACh levels
+    
+## AD Treatments
+
 - NMDA-R partial antagonists (e.g., Memantine)
     - Slow/impede formation of disordered new memories to keep established ones intact?
-- Drugs that address amyloid $\beta$ don't work especially well
-- Is AD the result of [disordered immune response] [@Jevtic2017-jt]?
+- Is AD the result of disordered immune response? [@Jevtic2017-jt]
 
-## Hippocampus
+<!-- ## Hippocampus -->
 
-```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG"}
-knitr::include_graphics("../include/img/hippocampus-seahorse.jpg")
-```
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - Dense in NMDA receptors -->
+<!-- - Linked to formation, storage, consolidation of long-term episodic or declarative memories -->
+<!-- - Thought to stores info for later transfer to cortex -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![Wikipedia](../include/img/hippocampus-seahorse.jpg) -->
+<!-- ::: -->
+<!-- :::: -->
 
-- Dense in NMDA receptors
-- Linked to formation, storage, consolidation of long-term episodic or declarative memories
-- Thought to stores info for later transfer to cortex
-- In non-human animals
-    - Similar architecture to humans
-        - More known about mechanisms for *spatial* than *non-spatial* memory
-    + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
-    + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
-    + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
+<!-- ## Hippocampus -->
 
-```{r, fig.cap="[@Dickerson2010-qh]"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp")
-```
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- - In non-human animals -->
+<!--     - Similar architecture to humans -->
+<!--         - More known about mechanisms for *spatial* than *non-spatial* memory -->
+<!--     + [Place cells](https://en.wikipedia.org/wiki/Place_cell) -->
+<!--     + [Grid cells](http://www.scholarpedia.org/article/Grid_cells) -->
+<!--     + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells) -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- ![@Dickerson2010-qh Figure 2](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig2_HTML.jpg?as=webp) -->
+<!-- ::: -->
+<!-- :::: -->
 
-## Cerebral cortex
+<!-- ## Cerebral cortex -->
 
-Activated or deactivated during memory encoding...
+<!-- Activated or deactivated during memory encoding... -->
 
-```{r, fig.cap="[@Dickerson2010-qh]"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig5_HTML.jpg?as=webp")
-```
+<!-- ```{r, fig.cap="[@Dickerson2010-qh]"} -->
+<!-- knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig5_HTML.jpg?as=webp") -->
+<!-- ``` -->
 
-Deactivated in non-memory cognitive tasks but activated during memory retrieval.
+<!-- Deactivated in non-memory cognitive tasks but activated during memory retrieval. -->
 
-```{r, fig.cap="[@Dickerson2010-qh]"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig6_HTML.jpg?as=webp")
-```
+<!-- ```{r, fig.cap="[@Dickerson2010-qh]"} -->
+<!-- knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnpp.2009.126/MediaObjects/41386_2010_Article_BFnpp2009126_Fig6_HTML.jpg?as=webp") -->
+<!-- ``` -->
+
+## Alzheimer's Disease (AD)
+
+:::: {.columns}
+::: {.column width=40%}
+- AD numbers expected to increase everywhere over next 25+ years [@GBD-2019-Dementia-Forecasting-Collaborators2022-gp]
+- 80-100% in U.S.
+:::
+::: {.column width=60%}
+![@GBD-2019-Dementia-Forecasting-Collaborators2022-gp Figure 3. Percentage change between 2019 and 2050 in all-age number of individuals with dementia by country.](https://ars.els-cdn.com/content/image/1-s2.0-S2468266721002498-gr3_lrg.jpg)
+:::
+::::
 
 # Quiz 4
 
@@ -521,16 +667,16 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 ---
 
-### 10. The myotatic/stretch reflex in a skeletal muscle fiber has ___ synapse(s).
+### 10. The myotatic/stretch reflex is called *monosynaptic* because...
 
-- One
-- Five
-- Ten
-- 650+
+- It involves a single synapse from stretch receptor to muscle fiber
+- It involves multiple synapses from stretch receptors onto cortical neurons
+- Only one synapse is needed to activate an entire muscle
+- A motor neuron exiting the spinal cord only makes one synapse.
 
 ---
 
-### 11. True or False: Primary motor cortex located in the ______ lobe contains a topographical map of the body surface analogous to the somatosensory map.
+### 11. True or False: Primary motor cortex contains a topographical map of the body surface analogous to the somatosensory map.
 
 - A. True
 - B. False
@@ -539,10 +685,10 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 ### 12. In addition to long-term potentiation (LTP) and exocytosis, Ca++ ion flow contributes to...
 
-- A. Pressure signaling via $1\alpha$ efferents.
+- A. Pressure signaling via $I_\alpha$ efferents.
 - B. Muscle fiber contraction
-- C. Hyperpolarization of the nicotinic receptor
-- D. The therapeutic effects of lithium (Li)
+- C. Hyperpolarization of the nicotinic GABA receptor
+- D. The therapeutic effects of lithium (Li) in MDD
 
 ## Next time
 

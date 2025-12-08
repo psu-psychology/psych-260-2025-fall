@@ -11665,14 +11665,14 @@
     "href": "slides/wk-15-2025-12-09-memory.html#types-of-learning-1",
     "title": "Memory",
     "section": "Types of learning",
-    "text": "Types of learning\n\n\n\nAssociative\n\n“Associates” or links two events/items with one another\nClassical & operant/instrumental conditioning"
+    "text": "Types of learning\n\n\n\nAssociative\n\n“Associates” or links two events/items with one another\nClassical conditioning\n\nLink event with physiological response"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#associative-learning",
     "href": "slides/wk-15-2025-12-09-memory.html#associative-learning",
     "title": "Memory",
     "section": "Associative learning",
-    "text": "Associative learning\n\n\n\nTypes\n\nSequence, observational, episodic, semantic"
+    "text": "Associative learning\n\n\n\nTypes\n\nObservational/imitative"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#what-is-memory",
@@ -11707,14 +11707,14 @@
     "href": "slides/wk-15-2025-12-09-memory.html#types",
     "title": "Memory",
     "section": "Types",
-    "text": "Types\n\nShort vs. long-term\n\nWorking memory ~ short-term information maintenance for guiding action\n\nExplicit (declarative: semantic vs. episodic) vs. implicit (procedural)\nRetrospective (from the past) vs. prospective (to be remembered)\nRecognition (familiar or novel) vs. recall"
+    "text": "Types\n\nShort-term vs. long-term\n\nWorking memory ~ short-term information maintenance for guiding action\n\nExplicit (declarative: semantic vs. episodic; ‘knowing that’) vs. implicit (procedural or ‘knowing how’)"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#mechanisms",
     "href": "slides/wk-15-2025-12-09-memory.html#mechanisms",
     "title": "Memory",
     "section": "Mechanism(s)",
-    "text": "Mechanism(s)\n\nThe idea that memory is stored as enduring changes in the brain dates back at least to the time of Plato and Aristotle (circa 350 BCE), but its scientific articulation emerged in the 20th century when Richard Semon introduced the term “engram” to describe the neural substrate for storing and recalling memories.\n\n– Josselyn & Tonegawa (2020)"
+    "text": "Mechanism(s)\n\n\nThe idea that memory is stored as enduring changes in the brain dates back at least to the time of Plato and Aristotle (circa 350 BCE), but its scientific articulation emerged in the 20th century when Richard Semon introduced the term “engram” to describe the neural substrate for storing and recalling memories.\n\n– Josselyn & Tonegawa (2020)"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#mechanisms-1",
@@ -11742,14 +11742,14 @@
     "href": "slides/wk-15-2025-12-09-memory.html#hebbian-learning",
     "title": "Memory",
     "section": "Hebbian learning",
-    "text": "Hebbian learning\n\n“When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.”\n\n– Hebb (1949)\n\n\n“Neurons that fire together wire together.”\n\n– Löwel & Singer (1992)"
+    "text": "Hebbian learning\n\n“When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.”\n\n– Hebb (1949)"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#implementing-hebbian-learning",
     "href": "slides/wk-15-2025-12-09-memory.html#implementing-hebbian-learning",
     "title": "Memory",
-    "section": "Implementing ‘Hebbian’ learning",
-    "text": "Implementing ‘Hebbian’ learning\n\nHebbian learning is associative\nNeuron A active + Neuron B active =&gt; associates/links co-activity"
+    "section": "Implementing Hebbian learning",
+    "text": "Implementing Hebbian learning\n\nHebbian learning is associative\nNeuron A active + Neuron B active =&gt; associates/links co-activity"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#long-term-potentiation-ltp",
@@ -11770,14 +11770,14 @@
     "href": "slides/wk-15-2025-12-09-memory.html#nmda-r",
     "title": "Memory",
     "section": "NMDA-R",
-    "text": "NMDA-R\n\n\n\n\n\nNMDA-R from “Pitt medical neuroscience” (n.d.)\n\n\n\n\nNMDA-R chemically-gated\n\nLigand-gated\n\nGlutamate\nGlycine (co-factor/co-agonist)\n\nSending cell active"
+    "text": "NMDA-R\n\n\n\n\n\nNMDA-R from “Pitt medical neuroscience” (n.d.)\n\n\n\n\nChemically-gated\n\nBinds glutamate\n\nWhen nearby neuron releases\n\nBinds glycine (co-factor/co-agonist)\nSo, ligand-gated"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#nmda-r-1",
     "href": "slides/wk-15-2025-12-09-memory.html#nmda-r-1",
     "title": "Memory",
     "section": "NMDA-R",
-    "text": "NMDA-R\n\n\n\n\n\nNMDA-R from “Pitt medical neuroscience” (n.d.)\n\n\n\n\nAND Voltage-gated\n\nReceiving cell depolarizes (EPSP or action potential)\n\\(Zn^{++}\\) or \\(Mg^{++}\\) ion ‘plug’ repelled under depolarization\n\\(Na^+\\) & \\(Ca^{++}\\) influx; \\(K^+\\) outflux"
+    "text": "NMDA-R\n\n\n\n\n\nNMDA-R from “Pitt medical neuroscience” (n.d.)\n\n\n\n\nVoltage-gated\n\nReceiving cell depolarizes (EPSP)\n\\(Zn^{++}\\) or \\(Mg^{++}\\) ion ‘plug’ repelled under depolarization\n\\(Na^+\\) & \\(Ca^{++}\\) influx; \\(K^+\\) outflux"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#nmda-rs-contribute-to-associative-learning",
@@ -11791,49 +11791,49 @@
     "href": "slides/wk-15-2025-12-09-memory.html#nmda-r-clinical-significance",
     "title": "Memory",
     "section": "NMDA-R clinical significance",
-    "text": "NMDA-R clinical significance\n\nMemantine (Alzheimer’s Disease treatment) blocks NMDA-R\n\nControls over-activation and \\(Ca^{++}\\) excitotoxicity?\n\nImplicated in effects of phencylidine (PCP)\n\nPCP can induce psychotic symptoms\nLink to glutamate hypothesis of schizophrenia"
+    "text": "NMDA-R clinical significance\n\nMemantine\n\nAlzheimer’s Disease treatment\nNMDA-R antagonist\n\nPhencylidine (PCP)\n\nDissociative anesthetic, may induce hallucinations\nGlutamate hypothesis of schizophrenia\nNMDA-R antgonist"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#nmda-r-clinical-significance-1",
     "href": "slides/wk-15-2025-12-09-memory.html#nmda-r-clinical-significance-1",
     "title": "Memory",
     "section": "NMDA-R clinical significance",
-    "text": "NMDA-R clinical significance\n\nKetamine is an NMDA-R antagonist\n\nanesthesia, sedation, pain relief\nshort-term relief for depression\n\nLinked to analgesic (pain-relieving) effects of nitrous oxide (\\(N_{2}O\\)) or ‘laughing’ gas\nEthanol inhibits (Ron et al., 2011)"
+    "text": "NMDA-R clinical significance\n\nKetamine\n\nanesthesia, sedation, pain relief\nshort-term, fast acting relief for depression\nNMDA-R antagonist\n\nEthanol also influences (Ron & Wang, 2011)"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#summary",
     "href": "slides/wk-15-2025-12-09-memory.html#summary",
     "title": "Memory",
     "section": "Summary",
-    "text": "Summary\n\nLearning and memory involve changes in neural firing, circuitry\n\nAnd probably molecular changes inside neurons\n\nHebbian learning a type of associative learning\nNMDA receptor as coincidence detector\n\nMolecular basis of one form of long-term potentiation (LTP)\n\nUnlike computers, brains store different types of information stored in different brain systems"
+    "text": "Summary\n\nLearning and memory involve changes in neural firing, circuitry\n\nAnd probably molecular changes inside neurons\n\nHebbian learning a type of associative learning"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#amnesia",
     "href": "slides/wk-15-2025-12-09-memory.html#amnesia",
     "title": "Memory",
     "section": "Amnesia",
-    "text": "Amnesia\n\nAcquired loss of memory\n≠ normal forgetting\nNote: computers don’t forget\nRetrograde (‘backwards’ in time)\n\nDamage to information acquired pre-injury\nTemporally graded\n\nAnterograde (‘forward’ in time)\n\nDamage to information acquired/experienced post-injury"
+    "text": "Amnesia\n\nAcquired loss of memory\n≠ normal forgetting\nNote: computers don’t forget"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#patient-hm-henry-g.-molaison",
     "href": "slides/wk-15-2025-12-09-memory.html#patient-hm-henry-g.-molaison",
     "title": "Memory",
     "section": "Patient HM (Henry G. Molaison)",
-    "text": "Patient HM (Henry G. Molaison)\n\nIntractable/untreatable epilepsy\nBilateral resection of medial temporal lobe (1953)\nEpilepsy now treatable\nBut, memory impaired\nLived until 2008\n\n\n\n\n\n\nhttps://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg\n\n\n\n\n\n\n\n\n\n\nRetrograde amnesia\n\nCan’t remember 10 yrs before operation\nDistant past better than more recent\n\nSevere, global anterograde amnesia\n\nImpaired learning of new facts, events, people\n\nBut, skills (mirror learning) intact\n\n\nEvery day is alone in itself, whatever enjoyment I’ve had, and whatever sorrow I’ve had…Right now, I’m wondering, have I done or said anything amiss? You see at this moment, everything looks clear to me, but what happened just before? That’s what worries me. It’s like waking from a dream. I just don’t remember.\n– HM\n\nOther causes of amnesia\n\nDisease\n\nAlzheimer’s, herpes virus\n\nKorsakoff’s syndrome\n\nResult of severe alcoholism\nImpairs medial thalamus & mammillary bodies\n\n\nPatient NA\n\nFencing accident\nDamage to medial thalamus\nAnterograde + graded retrograde amnesia\nAre thalamus & medial temporal region connected?\n\n\n\nSpared skills in amnesia\n\nSkill-learning\nMirror-reading, writing\nShort-term memory\n“Cognitive” skills\nPriming\n\nWhat does amnesia tell us?\n\nLong-term memory for facts, events, people\n≠ Short-term memory\n≠ Long-term memory for “skills”\nSeparate memory systems in the brain?\n\nAlzheimer’s Disease (AD)\n\nChronic, neurodegenerative disease affecting ~5 M Americans\nCognitive dysfunction (memory loss, language difficulties, planning, coordination)\nPsychiatric symptoms and behavioral disturbances\nDifficulties with daily living\n(Burns & Iliffe, 2009)\n\n\n\n\n\n\n(Burns & Iliffe, 2009)\n\n\n\n\n\nPost-mortem exams show \\(\\beta\\) amyloid plaques and neurofibrillary tangles in hippocampus + other brain areas"
+    "text": "Patient HM (Henry G. Molaison)\n\n\n\nIntractable/untreatable epilepsy\nBilateral resection of medial temporal lobe (1953)\nEpilepsy now treatable\nBut, memory impaired\nLived until 2008"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#ad-treatments",
     "href": "slides/wk-15-2025-12-09-memory.html#ad-treatments",
     "title": "Memory",
     "section": "AD Treatments",
-    "text": "AD Treatments\n\nAcetylcholinesterase (AChE) inhibitors (e.g. Aricept)\n\nACh a neuromodulator in the brain\nBoost/prolong ACh levels\n\nNMDA-R partial antagonists (e.g., Memantine)\n\nSlow/impede formation of disordered new memories to keep established ones intact?\n\nDrugs that address amyloid \\(\\beta\\) don’t work especially well\nIs AD the result of [disordered immune response] (Jevtic, Sengar, Salter, & McLaurin, 2017)?"
+    "text": "AD Treatments\n\nDrugs that address amyloid \\(\\beta\\) don’t work especially well\nAcetylcholinesterase (AChE) inhibitors (e.g. Aricept)\n\nACh a neuromodulator in the brain\nAChE inhibitors boost/prolong ACh levels"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#hippocampus",
     "href": "slides/wk-15-2025-12-09-memory.html#hippocampus",
     "title": "Memory",
     "section": "Hippocampus",
-    "text": "Hippocampus\n\n\n\n\n\nhttps://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG\n\n\n\n\n\nDense in NMDA receptors\nLinked to formation, storage, consolidation of long-term episodic or declarative memories\nThought to stores info for later transfer to cortex\nIn non-human animals\n\nSimilar architecture to humans\n\nMore known about mechanisms for spatial than non-spatial memory\n\nPlace cells\nGrid cells\nHead-direction cells\n\n\n\n\n\n\n\n(Dickerson & Eichenbaum, 2010)"
+    "text": "Hippocampus\n\n\n\nDense in NMDA receptors\nLinked to formation, storage, consolidation of long-term episodic or declarative memories\nThought to stores info for later transfer to cortex\n\n\n\n\n\nWikipedia"
   },
   {
     "objectID": "slides/wk-15-2025-12-09-memory.html#cerebral-cortex",
@@ -11861,7 +11861,7 @@
     "href": "slides/wk-15-2025-12-09-memory.html#references",
     "title": "Memory",
     "section": "References",
-    "text": "References\n\n\n\n\nBurns, A., & Iliffe, S. (2009). Alzheimer’s disease. BMJ, 338, b158. https://doi.org/10.1136/bmj.b158\n\n\nDickerson, B. C., & Eichenbaum, H. (2010). The episodic memory system: Neurocircuitry and disorders. Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 35, 86–104. https://doi.org/10.1038/npp.2009.126\n\n\nHebb, D. O. (1949). The organization of behavior; a neuropsychological theory (Vol. 335). Oxford, England: Wiley The organization of behavior; a neuropsychological theory. Retrieved from https://psycnet.apa.org/fulltext/1950-02200-000.pdf\n\n\nJevtic, S., Sengar, A. S., Salter, M. W., & McLaurin, J. (2017). The role of the immune system in alzheimer disease: Etiology and treatment. Ageing Research Reviews, 40, 84–94. https://doi.org/10.1016/j.arr.2017.08.005\n\n\nJosselyn, S. A., & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. Science. https://doi.org/10.1126/science.aaw4325\n\n\nLöwel, S., & Singer, W. (1992). Selection of intrinsic horizontal connections in the visual cortex by correlated neuronal activity. Science, 255, 209–212. https://doi.org/10.1126/science.1372754\n\n\nPitt medical neuroscience. (n.d.). Retrieved April 19, 2023, from http://pittmedneuro.com/glutamate.html\n\n\nReber, P. (2010, May 1). What is the memory capacity of the human brain? Retrieved December 3, 2025, from https://www.scientificamerican.com/article/what-is-the-memory-capacity/\n\n\nSquire, L. R. (2004). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171–177. https://doi.org/10.1016/j.nlm.2004.06.005\n\n\ntimvitkuske. (2014, May). Betty buckley - memory (1983 tony awards). Youtube. Retrieved from https://www.youtube.com/watch?v=5mlllRdIfqw"
+    "text": "References\n\n\n\n\nAnagnostaras, S. (2014). Larry Squire’s amnesic Patient NA. Youtube. Retrieved from https://www.youtube.com/watch?v=1GfFopZSyj8\n\n\nBurns, A., & Iliffe, S. (2009). Alzheimer’s disease. BMJ, 338, b158. https://doi.org/10.1136/bmj.b158\n\n\nGBD 2019 Dementia Forecasting Collaborators. (2022). Estimation of the global prevalence of dementia in 2019 and forecasted prevalence in 2050: An analysis for the global burden of disease study 2019. The Lancet. Public Health, 7, e105–e125. https://doi.org/10.1016/S2468-2667(21)00249-8\n\n\nGrafe, L. (2019). Brenda milner on HM. Youtube. Retrieved from https://www.youtube.com/watch?v=aw6JmZuLhfA\n\n\nHebb, D. O. (1949). The organization of behavior; A neuropsychological theory (Vol. 335). Oxford, England: Wiley. Retrieved from https://psycnet.apa.org/fulltext/1950-02200-000.pdf\n\n\nJevtic, S., Sengar, A. S., Salter, M. W., & McLaurin, J. (2017). The role of the immune system in Alzheimer disease: Etiology and treatment. Ageing Research Reviews, 40, 84–94. https://doi.org/10.1016/j.arr.2017.08.005\n\n\nJosselyn, S. A., & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. Science. https://doi.org/10.1126/science.aaw4325\n\n\nLöwel, S., & Singer, W. (1992). Selection of intrinsic horizontal connections in the visual cortex by correlated neuronal activity. Science, 255, 209–212. https://doi.org/10.1126/science.1372754\n\n\nPitt medical neuroscience. (n.d.). Retrieved April 19, 2023, from http://pittmedneuro.com/glutamate.html\n\n\nReber, P. (2010, May 1). What is the memory capacity of the human brain? Retrieved December 3, 2025, from https://www.scientificamerican.com/article/what-is-the-memory-capacity/\n\n\nRon, D., & Wang, J. (2011). The NMDA receptor and alcohol addiction. In A. M. Van Dongen (Ed.), Biology of the NMDA receptor. Boca Raton (FL): CRC Press/Taylor & Francis. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/21204417\n\n\nSquire, L. R. (2004). Memory systems of the brain: A brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171–177. https://doi.org/10.1016/j.nlm.2004.06.005\n\n\ntimvitkuske. (2014, May). Betty buckley - memory (1983 tony awards). Youtube. Retrieved from https://www.youtube.com/watch?v=5mlllRdIfqw"
   },
   {
     "objectID": "evaluation.html",
@@ -11912,5 +11912,194 @@
     "crumbs": [
       "Policies"
     ]
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-mechanism",
+    "href": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-mechanism",
+    "title": "Memory",
+    "section": "Hebbian learning mechanism",
+    "text": "Hebbian learning mechanism\n\n\n\n\n\nNMDA-R from “Pitt medical neuroscience” (n.d.)\n\n\n\n\nN-methyl-D-aspartate receptor (NMDA-R)\n‘Coincidence’ detector\n\nSending cell has released NT\nReceiving cell is/has been recently active"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-is-associative",
+    "href": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-is-associative",
+    "title": "Memory",
+    "section": "Hebbian learning is associative",
+    "text": "Hebbian learning is associative\n\nNeuron A active &\nNeuron B active \\(\\rightarrow\\)\n\n\n\n\n\n\nflowchart LR\n  A --&gt; B\n\n\n\n\n\n\n\n\nStrengthen link (synapse) between them\n\n\n\n\n\n\nflowchart LR\n  A ==&gt; B"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#computers-vs.-brains",
+    "href": "slides/wk-15-2025-12-09-memory.html#computers-vs.-brains",
+    "title": "Memory",
+    "section": "Computers vs. brains",
+    "text": "Computers vs. brains\n\nComputers have separate memory hardware\n\nbrains store info everywhere\n\nComputers have addressable memory\n\nbrain memory??\n\nComputer memory can be non-volatile\n\nbrain memories fade\n\nComputer memory is veridical\n\nbrain memories are ‘reconstructions’"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#types-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#types-1",
+    "title": "Memory",
+    "section": "Types",
+    "text": "Types\n\nRetrospective (from the past) vs. prospective (to be remembered)\nHow tested or revealed?\n\nRecognition vs.\nRecall:"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#a-taxonomy",
+    "href": "slides/wk-15-2025-12-09-memory.html#a-taxonomy",
+    "title": "Memory",
+    "section": "A taxonomy",
+    "text": "A taxonomy\n\nSquire (2004)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#summary-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#summary-1",
+    "title": "Memory",
+    "section": "Summary",
+    "text": "Summary\n\nNMDA-R is coincidence detector\n\nMolecular basis of one form of long-term potentiation (LTP)\n\nUnlike computers, brains store different types of information stored in different brain systems"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#types-2",
+    "href": "slides/wk-15-2025-12-09-memory.html#types-2",
+    "title": "Memory",
+    "section": "Types",
+    "text": "Types\n\nRetrograde (‘backwards’ in time)\n\nDamage to information acquired pre-injury\nTemporally graded\n\nAnterograde (‘forward’ in time)\n\nDamage to information acquired/experienced post-injury"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#patient-hm",
+    "href": "slides/wk-15-2025-12-09-memory.html#patient-hm",
+    "title": "Memory",
+    "section": "Patient HM1",
+    "text": "Patient HM1\n\n\n\nIntractable/untreatable epilepsy\nBilateral resection of medial temporal lobe (1953)\nEpilepsy now treatable\nBut, memory impaired\n\n\n\n\nHenry G. Molaison was identified with his permission after his death in 2008."
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#hm",
+    "href": "slides/wk-15-2025-12-09-memory.html#hm",
+    "title": "Memory",
+    "section": "HM",
+    "text": "HM\n\nRetrograde amnesia1\n\nCouldn’t remember 10 yrs before operation\nDistant past better than more recent\n\nSevere, global anterograde amnesia2\n\nImpaired learning of new facts, events, people\n\nBut, skills (mirror learning) intact\n\n‘backward’ in time‘forward’ in time"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#other-causes-of-amnesia",
+    "href": "slides/wk-15-2025-12-09-memory.html#other-causes-of-amnesia",
+    "title": "Memory",
+    "section": "Other causes of amnesia",
+    "text": "Other causes of amnesia\n\nDisease\n\nAlzheimer’s, herpes virus\n\nKorsakoff’s syndrome\n\nResult of severe alcoholism\nImpairs medial thalamus & mammillary bodies\n\nBrain injury"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#patient-na",
+    "href": "slides/wk-15-2025-12-09-memory.html#patient-na",
+    "title": "Memory",
+    "section": "Patient NA",
+    "text": "Patient NA\n\nFencing accident\nDamage to medial thalamus\nAnterograde + graded retrograde amnesia\nAre thalamus & medial temporal region connected?"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#spared-skills-in-amnesia",
+    "href": "slides/wk-15-2025-12-09-memory.html#spared-skills-in-amnesia",
+    "title": "Memory",
+    "section": "Spared skills in amnesia",
+    "text": "Spared skills in amnesia\n\nSkill-learning\nMirror-reading, writing\nShort-term memory\n“Cognitive” skills\nPriming"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#what-does-amnesia-tell-us",
+    "href": "slides/wk-15-2025-12-09-memory.html#what-does-amnesia-tell-us",
+    "title": "Memory",
+    "section": "What does amnesia tell us?",
+    "text": "What does amnesia tell us?\n\nLong-term memory for facts & people (semantic), events (episodic)\n\n≠ Short-term memory\n≠ Long-term memory for “skills”"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#alzheimers-disease-ad",
+    "href": "slides/wk-15-2025-12-09-memory.html#alzheimers-disease-ad",
+    "title": "Memory",
+    "section": "Alzheimer’s Disease (AD)",
+    "text": "Alzheimer’s Disease (AD)\n\nChronic, neurodegenerative disease affecting ~6.7 M Americans\nCognitive dysfunction (memory loss, language difficulties, planning, coordination)\nPsychiatric symptoms and behavioral disturbances\nDifficulties with daily living\nBurns & Iliffe (2009)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#in-the-brain",
+    "href": "slides/wk-15-2025-12-09-memory.html#in-the-brain",
+    "title": "Memory",
+    "section": "In the brain",
+    "text": "In the brain\n\n\n\nPost-mortem exams show \\(\\beta\\) amyloid plaques and neurofibrillary tangles in hippocampus + other brain areas"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#ad-treatments-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#ad-treatments-1",
+    "title": "Memory",
+    "section": "AD Treatments",
+    "text": "AD Treatments\n\nNMDA-R partial antagonists (e.g., Memantine)\n\nSlow/impede formation of disordered new memories to keep established ones intact?\n\nIs AD the result of disordered immune response? (Jevtic, Sengar, Salter, & McLaurin, 2017)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#hippocampus-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#hippocampus-1",
+    "title": "Memory",
+    "section": "Hippocampus",
+    "text": "Hippocampus\n\n\n\nIn non-human animals\n\nSimilar architecture to humans\n\nMore known about mechanisms for spatial than non-spatial memory\n\nPlace cells\nGrid cells\nHead-direction cells\n\n\n\n\n\n\nDickerson & Eichenbaum (2010) Figure 2"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#types-of-learning-2",
+    "href": "slides/wk-15-2025-12-09-memory.html#types-of-learning-2",
+    "title": "Memory",
+    "section": "Types of learning",
+    "text": "Types of learning\n\n\n\nOperant/instrumental conditioning\n\nLink behaviors with external events (rewards/punishments)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#associative-learning-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#associative-learning-1",
+    "title": "Memory",
+    "section": "Associative learning",
+    "text": "Associative learning\n\n\n\nTypes\n\nSequence\n\nA, B, C, D, …\n\nEpisodic\n\nMom’s 85th\n\nSemantic\n\nThanksgiving is a holiday celebrated in Canada and the U.S…"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#neural-substrates-engrams-consist-of",
+    "href": "slides/wk-15-2025-12-09-memory.html#neural-substrates-engrams-consist-of",
+    "title": "Memory",
+    "section": "Neural substrates (engrams) consist of",
+    "text": "Neural substrates (engrams) consist of\n\nChanges in patterns of neural activity\nChanges in connectivity\n\nNew synapses\nAltered synapses (strengthened or weakened)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#hebbian-learning-1",
+    "title": "Memory",
+    "section": "Hebbian learning",
+    "text": "Hebbian learning\n\n“Neurons that fire together wire together.”\n\n– Löwel & Singer (1992)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#how-synapses-strengthen",
+    "href": "slides/wk-15-2025-12-09-memory.html#how-synapses-strengthen",
+    "title": "Memory",
+    "section": "How synapses strengthen",
+    "text": "How synapses strengthen\n\n\n\nLong-term potentiation (LTP)\nMake more potent (stengthen) synapse based on recent co-activity\nChange at synapse == physical basis of Hebbian learning"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#schematic",
+    "href": "slides/wk-15-2025-12-09-memory.html#schematic",
+    "title": "Memory",
+    "section": "Schematic",
+    "text": "Schematic\n\n\n\n\n\nflowchart LR\n  A --&gt;|Glu| B\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A --&gt;|Glu| C[AMPA-R]\n  A --&gt;|Glu| B[NMDA-R]\n  C --&gt; |generates EPSP| B\n  B --&gt; |Ca++ enters| D:::hidden\n  \n  %% Clickable links\n  click C \"https://en.wikipedia.org/wiki/AMPA_receptor\"\n  click B \"https://en.wikipedia.org/wiki/NMDA_receptor\"\n\n\n\n\n\n\n\nCa++ entry strengthens synapse\nModulate existing AMPA-R; synthesize new AMPA-R"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#nmda-rs-associative-learning",
+    "href": "slides/wk-15-2025-12-09-memory.html#nmda-rs-associative-learning",
+    "title": "Memory",
+    "section": "NMDA-Rs & associative learning",
+    "text": "NMDA-Rs & associative learning\n\nReceptors associate (link)\n\nConcept A -&gt; Concept B\nNeuron A -&gt; Neuron B\n\nI say Donald…you say…"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#multiple-types-of-memory",
+    "href": "slides/wk-15-2025-12-09-memory.html#multiple-types-of-memory",
+    "title": "Memory",
+    "section": "Multiple types of memory",
+    "text": "Multiple types of memory\n\nSquire (2004)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#symptoms",
+    "href": "slides/wk-15-2025-12-09-memory.html#symptoms",
+    "title": "Memory",
+    "section": "Symptoms",
+    "text": "Symptoms\n\nCognitive dysfunction (memory loss, language difficulties, planning, coordination)\nPsychiatric symptoms and behavioral disturbances\nDifficulties with daily living\nBurns & Iliffe (2009)"
+  },
+  {
+    "objectID": "slides/wk-15-2025-12-09-memory.html#alzheimers-disease-ad-1",
+    "href": "slides/wk-15-2025-12-09-memory.html#alzheimers-disease-ad-1",
+    "title": "Memory",
+    "section": "Alzheimer’s Disease (AD)",
+    "text": "Alzheimer’s Disease (AD)\n\n\n\nAD numbers expected to increase everywhere over next 25+ years (GBD 2019 Dementia Forecasting Collaborators, 2022)\n80-100% in U.S.\n\n\n\n\n\nGBD 2019 Dementia Forecasting Collaborators (2022) Figure 3. Percentage change between 2019 and 2050 in all-age number of individuals with dementia by country."
   }
 ]
