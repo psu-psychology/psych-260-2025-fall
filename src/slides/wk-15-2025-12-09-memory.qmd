@@ -604,7 +604,7 @@ flowchart LR
 - A. It is ionotropic.
 - B. It is metabotropic.
 - C. It is voltage-gated.
-- D. It is found in one place in the CNS.
+- D. It is found in multiple places in the CNS, especially in the hippocampus.
 
 ---
 
@@ -669,10 +669,10 @@ flowchart LR
 
 ### 10. The myotatic/stretch reflex is called *monosynaptic* because...
 
-- It involves a single synapse from stretch receptor to muscle fiber
-- It involves multiple synapses from stretch receptors onto cortical neurons
-- Only one synapse is needed to activate an entire muscle
-- A motor neuron exiting the spinal cord only makes one synapse.
+- A. It involves a single synapse from stretch receptor to muscle fiber
+- B. It involves multiple synapses from stretch receptors onto cortical neurons
+- C. Only one synapse is needed to activate an entire muscle
+- D. A motor neuron exiting the spinal cord only makes one synapse.
 
 ---
 

@@ -40,7 +40,7 @@ fig-align: "center"
 ## Anatomy
 
 - Directional terms, slices
-    + In the human forebrain `____` and superior overlap.
+    + In the human forebrain `____` and superior are analogous.
 - Gross anatomy
     + The `____` means "little brain" in Latin; it's located adjacent to `_____`.
     + The `____` and `____` in the midbrain release dopamine
@@ -80,7 +80,7 @@ fig-align: "center"
 ## Neurochemistry
 
 - 'Big Three' -- Glu, GABA, ACh
-- Neuromodulators -- DA, NE, 5-HT
+- Neuromodulators -- DA, NE, 5-HT, factors that distinguish neuromodulators from other NTs
 - Hormones
     + Oxytocin, vasopressin are released from `____`.
 - Can we readily measure neurotransmitter levels in the brain?
@@ -96,12 +96,22 @@ fig-align: "center"
 - `_____` as a new, fast-acting treatment for depression.
 - True or False: There exist convenient tests for monoamine neurotransmitter levels equivalent to the blood test available for Lithium.
 
+## Disorder and disease
+
+- Evidence that serotonin deficits are common in MDD
+
 ## Emotion
 
 - The `____` lobe contains the amygdala
 - Pleasure/reward systems, key brain areas and neurotransmitter(s)
 - Fear, stress in behavior and brain
     + Acute vs. chronic stress
+    
+## Emotion
+
+- How does the threat conditioning task induce fear or stress in non-human animals?
+- Difference between *homeostatic* and *allostatic* mechanisms.
+- Steps in the cortisol release pathway
 
 ## Perception and Action
 
@@ -114,15 +124,17 @@ fig-align: "center"
 - Minty flavors taste `cool' because...
 - Topographic maps: somatosensation, audition, vision, action
 - Sensory fibers enter the `______` part of the spinal cord; motor fibers exit from the `______` part.
-- Perceiving what vs. where: vision, somatosensation
-- Functional segregation: examples of
+
+## Perception and action
+
+- What does the vestibulo-ocular reflex do?
 - Receptive fields: how size varies with perceptual sensitivity 
 
 ## Memory
 
 - Long-term Potentiation (LTP) involves neuron A's connection to neuron B `____`
 - NMDA receptor opens when sending cell `____` and receiving cell `____`.
-- Amnesia
+- In anterograde amnesia
     + `____` is impaired; `____` is spared.
 - NMDA receptors and Hebbian learning
 

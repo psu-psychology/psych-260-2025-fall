@@ -248,6 +248,8 @@ That said, you may find it interesting to learn and know about anyway.
 *`{r} sched_df$class_2_theme[13]`*
 
 - *Read*: MM pp 148-157
+- *Slides*:  | [html](sliwk-13-2025-11-20-action-I.qmd) |
+
 
 ## `{r} sched_df$week[14]` {- #week-14}
 
@@ -268,10 +270,12 @@ That said, you may find it interesting to learn and know about anyway.
 ### `{r} prettify_date(sched_df$class_day_1[16])` {-}
 
 *`{r} sched_df$class_1_theme[16]`*
+- *Slides*:  | [html](slides/wk-15-2025-12-09-memory.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[16])` {-}
 
 *`{r} sched_df$class_2_theme[16]`*
+- *Slides*:  | [html](slides/wk-15-2025-12-11-cerebral-symphony.qmd) |
 
 ## `{r} sched_df$week[17]` {- #finals-week}
 
