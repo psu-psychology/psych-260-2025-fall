@@ -1,10 +1,16 @@
 ---
-title: "Memory"
-subtitle: 2025-12-09
+title: "The Cerebral Symphony"
+subtitle: 2025-12-11
 fig-align: "center"
 ---
 
 # Prelude
+
+---
+
+{{< video https://www.youtube.com/watch?v=7qWbcosJdtU height="70%" width="100%" >}}
+
+@Rlzee2010-ll
 
 ## Announcements
 
