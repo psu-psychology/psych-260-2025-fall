@@ -21,6 +21,7 @@ fig-align: "center"
 
 - Exam 4 review
 - Frontiers in neuroscience
+- Careers in neuroscience
 - The Cerebral Symphony
 
 # Exam 4 Review
@@ -155,13 +156,19 @@ fig-align: "center"
 
 [U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/healthcare/home.htm#:~:text=Employment%20in%20healthcare%20occupations%20is,of%20the%20other%20occupational%20groups.)
 
----
+## Kinds of jobs
 
 - [Best jobs in health care](https://money.usnews.com/careers/best-jobs/rankings/best-healthcare-jobs)
 - [Careers in neuroscience from indeed.com](https://www.indeed.com/career-advice/finding-a-job/careers-in-neuroscience)
+
+## Improve your prospects
+
+- College is only the end of the beginning
+- Acquire skills
 - B.A./B.S. vs. M.S. vs. Ph.D. vs. M.D.
-- Job experience before grad school good
-- Start networking, keep in touch
+- Post-bac job experience
+- Keep networking, keep in touch
+- Don't despair
 
 ## Interviewing
 
