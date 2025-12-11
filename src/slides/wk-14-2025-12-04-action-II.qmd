@@ -1,0 +1,111 @@
+---
+title: "Action II"
+subtitle: 2025-12-04
+fig-align: "center"
+---
+
+# Prelude
+
+# Disorders of movement
+
+## Parkinson's Disease
+
+{{< video https://www.youtube.com/embed/CqEwPqUO1Bw width="100%" height="70%" >}}
+
+## Parkinson's Disease
+
+- Symptoms
+    - Slow, absent movement, resting tremor
+    - Cognitive deficits, depression
+- Biological correlates
+    - DA neurons in substantia nigra degenerate, effect basal ganglia
+    - Autoimmune disorder? [@Garretti2019-sr]
+
+## Parkinson's Disease
+
+:::: {.columns}
+::: {.column width=50%}
+- Treatments
+    + DA agonists
+      + Levodopa (L-Dopa), DA precursor    
+    + But, DA agonists linked to impulse control disorders in ~1/7 patients [@Ramirez-Zamora2016-rl]
+:::
+::: {.column width=50%}
+![](https://scienceofparkinsons.com/wp-content/uploads/2016/10/dopa3pic-668d0.png)
+:::
+::::
+
+
+## Parkinson's Disease
+
+:::: {.columns}
+::: {.column width=50%}
+- Deep brain stimulation
+:::
+::: {.column width=50%}
+![https://mayfieldclinic.com/pe-dbs.htm](https://dbmmu5j6lxew.cloudfront.net/pe-dbs_fig1.jpg)
+:::
+::::
+
+## Huntington's Disease
+
+![Woody Guthrie](http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg)
+
+## Huntington's Disease
+
+- Formerly Huntington’s Chorea
+    + "Chorea" from Greek for "dance"
+    + “Dance-like” pattern of involuntary movements
+    - Cognitive decline
+
+---
+
+{{< video https://www.youtube.com/embed/HBLrY_nXU_U width="100%" height="70%" >}}
+
+## Causes
+
+- Genetic + environmental influences
+    - Gene fragment (CAG) duplication
+    - High levels of *huntingtin* protein accumulate in basal ganglia
+    - People with familial risk may want to consider genetic testing
+- No effective treatment
+    - Promising gene therapy trial halted recently [@Kwon2021-bj]
+    
+---
+
+![@Gallagher2025-xb](../include/img/huntingtons-treatment.png)
+
+## Amyotrophic Lateral Sclerosis (ALS; Lou Gehrig's Disease)
+
+:::: {.columns}
+::: {.column width=50%}
+- Most common motor neuron disease
+- Most cases have no known cause
+- No cure
+:::
+::: {.column width=50%}
+![Stephen Hawking | Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg)
+:::
+::::
+
+---
+
+![@the-original2003-aw](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ALS_Affected_neurons_and_muscles.png/2560px-ALS_Affected_neurons_and_muscles.png)
+
+```{r, fig.cap="Wikipedia: https://commons.wikimedia.org/wiki/File:UMN_vs_LMN.png#/media/File:UMN_vs_LMN.png"}
+knitr::include_graphics("https://commons.wikimedia.org/wiki/File:UMN_vs_LMN.png#/media/File:UMN_vs_LMN.png")
+```
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE), version `r Sys.getenv("RSTUDIO_VER")`.
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/psu-psychology/psych-260-2025-fall) and served by GitHub pages: 
+<https://psu-psychology.github.io/psych-260-2025-fall/>
+
+## References

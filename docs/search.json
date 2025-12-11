@@ -154,7 +154,7 @@
     "href": "schedule.html#week-15",
     "title": "Schedule",
     "section": "Week 14",
-    "text": "Week 14\n\nTue, Dec 2, 2025\nExam 3 (rescheduled for Thursday)\n\n\nThu, Dec 4, 2025\nExam 3",
+    "text": "Week 14\n\nTue, Dec 2, 2025\nExam 3 (rescheduled for Thursday)\n\n\nThu, Dec 4, 2025\nExam 3\n\n\n\n\n\n\nNote\n\n\n\nSlides and material for the following topic are provide here for students’ reference.\nAction II\n\nSlides: | html |",
     "crumbs": [
       "Schedule"
     ]
@@ -164,7 +164,7 @@
     "href": "schedule.html#week-16",
     "title": "Schedule",
     "section": "Week 15",
-    "text": "Week 15\n\nTue, Dec 9, 2025\nMemory; Quiz 4 - Slides: | html |\n\n\nFri, Dec 12, 2025\nFrontiers in neuroscience; Exam 4 review; The Cerebral Sympony - Slides: | html |",
+    "text": "Week 15\n\nTue, Dec 9, 2025\nMemory; Quiz 4\n\nSlides: | html |\n\n\n\nFri, Dec 12, 2025\nFrontiers in neuroscience; Exam 4 review; The Cerebral Sympony\n\nSlides: | html |",
     "crumbs": [
       "Schedule"
     ]
@@ -12546,5 +12546,75 @@
     "crumbs": [
       "Policies"
     ]
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease",
+    "href": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease",
+    "title": "Action II",
+    "section": "Parkinson’s Disease",
+    "text": "Parkinson’s Disease"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-1",
+    "href": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-1",
+    "title": "Action II",
+    "section": "Parkinson’s Disease",
+    "text": "Parkinson’s Disease\n\nSymptoms\n\nSlow, absent movement, resting tremor\nCognitive deficits, depression\n\nBiological correlates\n\nDA neurons in substantia nigra degenerate, effect basal ganglia\nAutoimmune disorder? (Garretti, Agalliu, Lindestam Arlehamn, Sette, & Sulzer, 2019)"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#huntingtons-disease",
+    "href": "slides/wk-14-2025-12-04-action-II.html#huntingtons-disease",
+    "title": "Action II",
+    "section": "Huntington’s Disease",
+    "text": "Huntington’s Disease\n\nWoody Guthrie"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#causes",
+    "href": "slides/wk-14-2025-12-04-action-II.html#causes",
+    "title": "Action II",
+    "section": "Causes",
+    "text": "Causes\n\nGenetic + environmental influences\n\nGene fragment (CAG) duplication\nHigh levels of huntingtin protein accumulate in basal ganglia\nPeople with familial risk may want to consider genetic testing\n\nNo effective treatment\n\nPromising gene therapy trial halted recently (Kwon, 2021)"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#amyotrophic-lateral-sclerosis-als-lou-gehrigs-disease",
+    "href": "slides/wk-14-2025-12-04-action-II.html#amyotrophic-lateral-sclerosis-als-lou-gehrigs-disease",
+    "title": "Action II",
+    "section": "Amyotrophic Lateral Sclerosis (ALS; Lou Gehrig’s Disease)",
+    "text": "Amyotrophic Lateral Sclerosis (ALS; Lou Gehrig’s Disease)\n\n\n\nMost common motor neuron disease\nMost cases have no known cause\nNo cure\n\n\n\n\n\nStephen Hawking | Wikipedia"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#about",
+    "href": "slides/wk-14-2025-12-04-action-II.html#about",
+    "title": "Action II",
+    "section": "About",
+    "text": "About\nThis talk was produced using Quarto, using the RStudio Integrated Development Environment (IDE), version 2025.9.2.418.\nThe source files are in R and R Markdown, then rendered to HTML using the revealJS framework. The HTML slides are hosted in a GitHub repo and served by GitHub pages: https://psu-psychology.github.io/psych-260-2025-fall/"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#references",
+    "href": "slides/wk-14-2025-12-04-action-II.html#references",
+    "title": "Action II",
+    "section": "References",
+    "text": "References\n\n\n\n\nGallagher, J. (2025, September 24). Huntington’s disease successfully treated for first time. BBC News. BBC News. Retrieved from https://www.bbc.com/news/articles/cevz13xkxpro\n\n\nGarretti, F., Agalliu, D., Lindestam Arlehamn, C. S., Sette, A., & Sulzer, D. (2019). Autoimmunity in parkinson’s disease: The role of α-synuclein-specific T cells. Frontiers in Immunology, 10, 303. https://doi.org/10.3389/fimmu.2019.00303\n\n\nKwon, D. (2021). Failure of genetic therapies for huntington’s devastates community. Nature, 593, 180. https://doi.org/10.1038/d41586-021-01177-7\n\n\nRamirez-Zamora, A., Gee, L., Boyd, J., & Biller, J. (2016). Treatment of impulse control disorders in parkinson’s disease: Practical considerations and future directions. Expert Rev. Neurother., 16(4), 389–399. https://doi.org/10.1586/14737175.2016.1158103\n\n\nWikipedia. (2003, January 28). Amyotrophic lateral sclerosis (ALS): A rare neurodegenerative disease with amyotrophy and progressive paralysis. Retrieved December 11, 2025, from https://en.wikipedia.org/wiki/ALS"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-2",
+    "href": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-2",
+    "title": "Action II",
+    "section": "Parkinson’s Disease",
+    "text": "Parkinson’s Disease\n\n\n\nTreatments\n\nDA agonists\n\nLevodopa (L-Dopa), DA precursor\n\n\nBut, DA agonists linked to impulse control disorders in ~1/7 patients (Ramirez-Zamora, Gee, Boyd, & Biller, 2016)"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-3",
+    "href": "slides/wk-14-2025-12-04-action-II.html#parkinsons-disease-3",
+    "title": "Action II",
+    "section": "Parkinson’s Disease",
+    "text": "Parkinson’s Disease\n\n\n\nDeep brain stimulation\n\n\n\n\n\nhttps://mayfieldclinic.com/pe-dbs.htm"
+  },
+  {
+    "objectID": "slides/wk-14-2025-12-04-action-II.html#huntingtons-disease-1",
+    "href": "slides/wk-14-2025-12-04-action-II.html#huntingtons-disease-1",
+    "title": "Action II",
+    "section": "Huntington’s Disease",
+    "text": "Huntington’s Disease\n\nFormerly Huntington’s Chorea\n\n“Chorea” from Greek for “dance”\n“Dance-like” pattern of involuntary movements\nCognitive decline"
   }
 ]

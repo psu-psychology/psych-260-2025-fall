@@ -265,16 +265,27 @@ That said, you may find it interesting to learn and know about anyway.
 
 *Exam 3*
 
+::: {.callout-note}
+Slides and material for the following topic are provide here for students' reference.
+
+*Action II*
+
+- *Slides*:  | [html](slides/wk-15-2025-11-04-action-II.qmd) |
+
+:::
+
 ## `{r} sched_df$week[16]` {- #week-16}
 
 ### `{r} prettify_date(sched_df$class_day_1[16])` {-}
 
 *`{r} sched_df$class_1_theme[16]`*
+
 - *Slides*:  | [html](slides/wk-15-2025-12-09-memory.qmd) |
 
 ### `{r} prettify_date(sched_df$class_day_2[16])` {-}
 
 *`{r} sched_df$class_2_theme[16]`*
+
 - *Slides*:  | [html](slides/wk-15-2025-12-11-cerebral-symphony.qmd) |
 
 ## `{r} sched_df$week[17]` {- #finals-week}

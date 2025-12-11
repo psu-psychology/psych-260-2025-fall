@@ -1,0 +1,16 @@
+p {
+  font-size: 1.2em;
+}
+
+figcaption {
+  margin: auto;
+  text-align: center;
+}
+
+.green_assigned {
+  color: green;
+}
+
+.orange_due {
+  color: orange;
+}
