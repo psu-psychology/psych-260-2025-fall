@@ -10,7 +10,7 @@ fig-align: "center"
 
 {{< video https://www.youtube.com/watch?v=7qWbcosJdtU height="70%" width="100%" >}}
 
-@Rlzee2010-ll
+-- @Rlzee2010-ll
 
 ## Announcements
 
@@ -19,6 +19,7 @@ fig-align: "center"
 
 ## Today's topics
 
+- Jore Adegboyo presentation
 - Exam 4 review
 - Frontiers in neuroscience
 - Careers in neuroscience
@@ -80,6 +81,9 @@ fig-align: "center"
 - 'Big Three' -- Glu, GABA, ACh
   - Which neurotransmitter is bound at the majority of synapses in the CNS?
 - What factors distinguish neuromodulators (DA, NE, 5-HT, etc.) from other NTs?
+
+## Neurochemistry
+
 - Hormones
     + Oxytocin, vasopressin are released from `____`.
 - Can we readily measure neurotransmitter levels in the brain?
@@ -148,6 +152,17 @@ fig-align: "center"
 
 ![@Breakspear2017-gk Figure 3](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4497/MediaObjects/41593_2017_Article_BFnn4497_Fig3_HTML.jpg?as=webp)
 
+## Brain/behavior dynamics via AI
+
+:::: {.columns}
+::: {.column width=50%}
+![@Mathis2025-dq](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41583-025-00996-1/MediaObjects/41583_2025_996_Fig2_HTML.png?as=webp){width="80%"}
+:::
+::: {.column width=50%}
+![@Mathis2025-dq](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41583-025-00996-1/MediaObjects/41583_2025_996_Fig3_HTML.png?as=webp){width="70%" fig-align="right"}
+:::
+::::
+
 ## Brain/gut connection
 
 ![@Furness2012-dy](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrgastro.2012.32/MediaObjects/41575_2012_Article_BFnrgastro201232_Fig1_HTML.jpg?as=webp)
@@ -177,10 +192,14 @@ fig-align: "center"
 
 - College is only the end of the beginning
 - Acquire skills
-- B.A./B.S. vs. M.S. vs. Ph.D. vs. M.D.
-- Post-bac job experience
+- B.A./B.S. vs. M.S. vs. Ph.D. vs. Psy.D. vs. M.D.
+- Post-bacc job experience
 - Keep networking, keep in touch
 - Don't despair
+
+---
+
+![@Unknown2025-xp](../include/img/pennsylvania-population.png)
 
 ## Interviewing
 
@@ -191,7 +210,9 @@ fig-align: "center"
   - Dress professionally
   - Be engaged, ask questions
   
-## The Cerebral Symphony
+# The Cerebral Symphony
+
+---
 
 {{< video https://www.youtube.com/watch?v=ljGMhDSSGFU width="100%" height="70%" >}}
 
