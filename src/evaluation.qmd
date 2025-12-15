@@ -17,7 +17,7 @@ This page is under construction.
 
 | Component | Description                                  | Points |
 |-----------|----------------------------------------------|--------:|
-| Exams     | There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. ~~You must take the final, but ~~you may choose to drop (or not take) one of the ~~other three~~ exams. | 120 |
+| Exams     | There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. ~~You must take the final, but~~You may choose to drop (or not take) one of the ~~other three~~ exams. | 120 |
 | Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
 | | **TOTAL POINTS POSSIBLE** | 150 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.| |

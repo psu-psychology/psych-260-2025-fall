@@ -42,7 +42,7 @@ A _single_ human nervous system contains more neurons than there are stars in ma
 
 ---
 
-Given the immense scale and astonishing complexity of the nervous system, it is a natural question to ask whether it is even possible for the human mind to understand its own workings in any sort of satisfying or meaningful way. Are we forever limited to seeing the barest glimpses, here and there only shadows, falling well short of any real understanding?  
+Given the immense scale and astonishing complexity of the nervous system, it is a natural question to ask whether it is even possible for the human mind to understand its own workings in any sort of satisfying way. Are we forever limited to seeing the barest glimpses, here and there only shadows, falling well short of any real understanding?  
 
 ---
 
@@ -100,13 +100,13 @@ Not only was he in great demand to give live performances, but he was incredibly
 ---
 
 In all ways, Beethoven's future looked bright. 
-Beethoven had long suffered a list of maladies-- diarrhea, abdominal pain, respiratory illness, and what we moderns would call depression. He was also known for self-medicating with ample quantities of alcohol.
+Beethoven had long suffered a list of maladies--diarrhea, abdominal pain, respiratory illness, and what we moderns would call depression. He was also known for self-medicating with ample quantities of alcohol.
 But, slowly, at first imperceptibly, and then, later more noticeably, his life began to change in the cruelest possible way. 
 
 
 ---
 
-Beethoven began to lose the mental faculty more important to a musician than any other single ability. 
+Beethoven began to lose the mental faculty more important to a musician than any other. 
 Can any of us imagine? 
 How could a person faced with such obstacles find the courage to go on? 
 A person whose entire existence derives from the world of sound...going...deaf.
@@ -175,7 +175,7 @@ Imagine for a moment that you are in the audience of that concert hall. Imagine 
 
 ---
 
-Imagine watching a desperate Beethoven trying desperately (and failing miserably) to keep the time.
+Imagine watching Beethoven trying desperately (and failing miserably) to keep the time.
 
 And imagine hearing a symphony that the composer himself had *never* actually heard, and would never *ever* hear, except in the chamber hall of his own imagination.
 
@@ -207,7 +207,8 @@ How does the triumph of this legendary musical figure over adversity help us bet
 What Beethoven's contemporaries saw as quirks of artistic temperament might in modern times be seen--and treated--as symptoms of mental illness. 
 On top of his deafness, was Beethoven bipolar, schizophrenic, or dissociative?
 We can never know. 
-We do know from a post-mortem autopsy that he died of liver failure due to alcohol poisoning, and he may have been a victim of lead poisoning, as well.
+We do know from a post-mortem autopsy that he died of liver failure due to alcohol poisoning.
+He may have been a victim of lead poisoning, as well.
 
 ---
 
@@ -242,7 +243,7 @@ Hasn't this course at times seemed to you like Beethoven's 9th symphony seemed t
 
 Maybe that sense of confusion has led you to doubt that it is even possible for a person, *any* person to ever hear clearly the notes of the mental score?
 
-Perhaps the task of understanding our own mind *is* beyond human ability. Perhaps we neuroscientists are engaged in a fruitless and impossible pursuit, destined for eternal ignorance and frustration.
+Perhaps understanding our own mind *is* beyond human ability. Perhaps we neuroscientists are engaged in a fruitless and impossible pursuit, destined for eternal ignorance and frustration.
 
 ---
 
