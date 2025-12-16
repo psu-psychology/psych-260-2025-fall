@@ -1,0 +1,92 @@
+---
+title: "Quiz 1"
+format: html
+---
+
+## Part I: Main (10 points)
+
+### 1.	The image represents what type of slice?
+
+:::: {.columns}
+::: {.column width=50%}
+**A.	Sagittal** </br>
+B.	Horizontal </br>
+C.	Coronal </br>
+D.	Axial
+:::
+::: {.column width=50%}
+![](../include/img/quiz-01.png){fig-align="right" width="60%"}
+:::
+::::
+
+### 2.	All of the following structures can be seen in the figure EXCEPT
+
+A. Cerebellum</br>
+B. Corpus callosum</br>
+**C. Lateral ventricles**</br>
+D. Cerebral cortex
+
+### 3.	The figure illustrates which imaging model?
+
+A. CT</br>
+B. PET</br>
+C. Magnetoencephalography (MEG)</br>
+**D. MRI**
+
+### 4.	In the mid-1600s, reflexes and animal minds were thought of as __________.
+
+A. Human minds </br>
+**B. Machines** </br>
+C. Early computers </br>
+D. Artificial intelligence
+
+### 5.	Descartes thought that this structure was the place where the soul influenced the human body’s voluntary movements.
+
+A. The pons </br>
+B. The pituitary gland </br>
+**C. The pineal gland** </br>
+D. The reflexive complex
+
+### 6.	The tongue is _______________ with respect to the nose.
+
+**A. Ventral** </br>
+B. Superior </br>
+C. Dorsal </br>
+D. Medial
+
+### 7.	Which of the following is NOT MRI-related?
+
+A. Diffusion Tensor Imaging (DTI) </br>
+B. Voxel-based Morphometry (VBM) </br>
+**C. Computed Tomography (CT)** </br>
+D. Magnetic Resonance (MR) spectroscopy
+
+### 8.	What is single/multi-unit recording most commonly used in?
+
+A. Humans</br>
+**B. Animals**</br>
+C. Both </br>
+D. Neither 
+
+### 9.	Electroencephalography (EEG) has ______ temporal resolution than functional MRI, but ______ spatial resolution.
+
+A. better; similar</br>
+**B. better; worse**</br>
+C. worse; better</br>
+D. worse; similar
+
+### 10.	Which of these landmarks separates the frontal lobe from the parietal lobe?
+
+A. Lateral fissure</br>
+B. Longitudinal fissure</br>
+C. Anterior cingulate gyrus</br>
+**D. Central sulcus**
+
+Part II: Bonus
+
+### 11. Which brain structure means “little brain”?
+
+A. Tectum </br>
+B. Hippocampus </br>
+C. Cerebrum </br>
+**D. Cerebellum**

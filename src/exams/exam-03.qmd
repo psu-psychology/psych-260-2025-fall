@@ -1,0 +1,288 @@
+---
+title: "Exam 03"
+format: html
+---
+
+
+## A. Main (40 points)
+
+Answer the following questions.
+
+
+### 1) One counterintuitive feature of human brain development in childhood and adolescence is that there is considerable loss of both _______ and _______.
+
+A. White matter; CSF</br>
+**B. neurons; synapses**</br>
+C. BOLD responses; glutamate-releasing neurons</br>
+D. Metabolic efficiency; EEG amplitudes
+
+### 2) Brain imaging evidence suggests that emotions activate a distributed network of brain areas, not specific locations in the brain.
+
+**A. True**</br>
+B. False.
+
+### 3) Plutchik’s biological approach to emotion focuses on an emotion’s                     and______.
+
+A. subjective feelings; facial expressions</br>
+**B. arousal;  valence (positive/negative)**</br>
+C. intensity; subjective feelings</br>
+D. influence on reproduction; link to defense behavior</br>
+
+### 4) The serotonin (or monoamine) hypothesis of depression suggests that
+
+**A. lowered levels are a major cause of the disorder**</br>
+B. increased  levels are a major cause of the disorder</br>
+C. lower ACh levels exacerbate the disorder’s positive symptoms</br>
+D. higher DA levels are linked to the disorder’s positive symptoms
+
+### 5) Within an animal group, e.g., mammals, large species tend to have _______ brains.
+
+**A. larger**</br>
+B. smaller</br>
+C. less metabolically active</br>
+D. more quickly developing
+
+### 6) Brain circuits that control some behaviors and physiological responses associated with different emotions appear similar in humans and non-human animals.
+
+**A. True**</br>
+B. False.
+
+### 7) All of the following are common treatments for bipolar disorder EXCEPT: 
+
+A. Lithium</br>
+B. Anticonvulsants</br> 
+C. Antipsychotics</br>
+**D. Dopamine agonists**
+
+### 8) The neurotransmitter __________ is released by motor neurons onto muscle fibers in the PNS:
+
+A. Glutamate</br> 
+B. Dopamine</br>
+**C. Acetylcholine**</br>
+D. Melatonin
+
+### 9) There are two main locations in the ventral midbrain where neurons that release dopamine can be found, the ______ and the ________.   
+
+A. Pons; Cerebellum</br>
+B. Thalamus; Hypothalamus</br>
+C. Superior Colliculus; Inferior Colliculus</br>
+**D. Ventral Tegmental Area (VTA); Substantia Nigra**
+
+### 10) Which of the following are not examples of questions that interoceptive sensory systems provide information about?
+
+**A. Where is that tiger moving and how fast?**</br>
+B. Am I hot or cold?</br>
+C. Am I hungry or thirsty?</br>
+D. Am I tired or full of energy?
+
+### 11) Which of the following events must occur for neurotransmitter to be released from an axon’s presynaptic terminal?
+
+A. Voltage-gated K+ channels must open to permit K+ to enter the cell.</br>
+**B. Voltage-gated Ca++ channels must open to permit Ca++ to enter the cell.**</br>
+C. Neurotransmitters must diffuse through the cytoplasm to the presynaptic membrane.</br>
+D. None of the above.
+
+### 12) In comparison to other animal groups that have similar body sizes, the human brain is __________.
+
+**A. larger**</br>
+B. smaller</br>
+C. the same size</br>
+D. less dense</br>
+
+For the next three (3) questions match the correct label to the letters in the figure below.
+
+:::: {.columns}
+::: {.column width=50%}
+### 13) Third Ventricle
+
+### 14) Lateral Ventricle
+
+### 15) Fourth Ventricle
+:::
+::: {.column width=50%}
+![](../include/img/exam-03-fig-01.jpg)
+:::
+::::
+
+### 16) Receptors in the skin provide information about all of the following object properties EXCEPT:
+
+A. Texture</br>
+B. Temperature</br>
+**C. Color**</br>
+D. Shape
+
+### 17) Room-temperature foods with capsaicin “taste” spicy and “feel” hot because ________.
+
+**A. Receptors in your mouth respond both to chemical cues and increases in temperature.**</br>
+B. Receptors in your mouth don’t distinguish between chemical properties.</br>
+C. Painful stimuli can trigger thermal receptors.</br>
+D. Taste and touch sensations are completely isolated from one another.
+
+### 18) Diffusion Tensor Imaging (DTI) is a/an ________ MRI method that provides information about ________.
+
+A. functional; how neurotransmitters diffuse across the synaptic cleft</br>
+B. functional; the blood oxygen-level dependent (BOLD) response</br>
+**C. structural; connectivity between brain areas**</br>
+D. structural; the branching structure of neuronal dendrites
+
+### 19) Schizophrenia is characterized by which of the following brain abnormalities?
+
+A. Increased size of ventricles</br>
+B. Reduced hippocampal volume</br>
+C. White matter disruptions</br> 
+**D. All of the above**
+
+### 20) Why might the dopamine (DA) hypothesis not provide a comprehensive explanation for schizophrenia?
+
+A. Changes in DA levels have not been shown to disturb memory function.</br>
+B. The hypothesis cannot explain the strong developmental origins of the disease.</br> 
+**C. Some drugs increase DA levels but reduce schizophrenia-like symptoms.**</br> 
+D. DA antagonists only relieve the negative symptoms of schizophrenia.
+
+### 21) More recent theories about schizophrenia point to a disturbance in _______, one of the _______ common neurotransmitters released in the CNS.
+
+A. endorphins; least</br>
+B. norepinephrine; most</br>
+C. CO; least</br>
+**D. glutamate; most**
+
+### 22) Information about painful stimulation projects to the brain via neurons that are ______ myelinated, ______ in diameter, and ______.
+
+A. Thickly; large; fast</br> 
+B. Thickly; small in; fast</br>
+**C. Thinly; small in; relatively slow**</br>
+D. Thickly; large; relatively slow</br>
+
+### 23) Touch receptors enervating the skin on the ______ have especially small receptive fields.
+
+**A. Face**</br> 
+B. Calf</br>
+C. Neck</br>
+D. Back
+
+### 24) Perceptual sensitivity (detecting sensations of small magnitude) is NOT related to which of the following?
+
+A. Receptor density</br>
+**B. Speed of propagation**</br>
+C. The psychophysical just-noticeable difference (JND).</br>
+D. Size of the cortical area.
+
+### 25) In response to a typical, acute environmental stressor, cortisol levels ______.
+
+A. involve activation of the SAM axis</br>
+B. rise, fall below baseline levels, then return</br>
+C. rise and stay elevated</br>
+**D. rise then return to baseline levels after a short period**
+
+### 26) The ________ is the region of the thalamus that responds to and relays somatosensory information to the cerebral cortex.
+
+A. Nucleus accumbens</br>
+**B. Ventral posterior lateral nucleus**</br>
+C. Ventral striatum</br>
+D. Suprachiasmatic nucleus
+
+:::: {.columns}
+::: {.column width=50%}
+
+Indicate the letter of the lobe that corresponds to the location of each sensory or motor cortical area.
+
+### 27) Location of the primary somatosensory cortex (S1).
+
+### 28) Location of the primary auditory cortex (A1).
+
+### 29) Location of the primary motor cortex (M1).
+
+### 30) Location of the primary visual cortex (V1).
+:::
+::: {.column width=50%}
+![](../include/img/exam-03-fig-02.jpg)
+:::
+::::
+
+Select the best answer for the following questions.
+
+### 31) ______ in the cerebral cortex continues well into a human being’s third decade.
+
+A. Growth in thickness</br>
+B. Net increases in synaptic density</br>
+**C. Myelination**</br>
+D. Large-scale generation of new neurons
+
+### 32) The _______ of your smartphone is analogous to the pressure receptors in your skin.
+
+A. accelerometer</br>
+B. cellular radio</br>
+**C. touch screen**</br>
+D. GPS transmitter
+
+### 33) Recent large-scale meta-analyses have _________ .
+
+A. Reinforced the association between serotonin dysfunction and depression.</br>
+B. Called into question similarities between bipolar disorder and schizophrenia.</br>
+C. Reinforced the link between dopamine dysfunction and bipolar disorder.</br>
+**D. Called into question the relationship between serotonin and depression**.
+
+### 34) Milner and Olds discovered that electrical stimulation of the medial forebrain bundle connecting the VTA and the nucleus accumbens caused experimental animals to __________.
+
+**A. change their behavior in order to seek out ever more frequent stimulation**</br>
+B. hippocampus; amygdala</br>
+C. temporal cortex; striatum</br>
+D. hypothalamus; pituitary
+
+### 35) Serotonin/Norepinephrine reuptake inhibitors (SNRIs) act on presynaptic __________ and cause extracellular levels of these __________ to be increased.
+
+A. metabotropic receptors; hormones</br>
+B. ion pumps; amino acids</br>
+**C. transporters; monoamines**
+D. Ionotropic receptors; indolamines
+
+### 36) Even in adult humans, cells adjacent to the cerebral ventricles retain the ability to _______.          .
+
+A. abolish BOLD responses</br>
+**B. generate new neurons and glia**</br>
+C. release hormones and neurotransmitters into the pituitary gland</br>
+D. force potassium ions to switch their electrical charge
+
+### 37) Deep brain stimulation is one promising therapy for _______ and _______.
+
+**A. Major depressive disorder; Parkinson’s Disease**</br>
+B. Schizophrenia; panic disorder</br>
+C. Bipolar disorder; drug addiction</br>
+D. Insomnia; ADHD
+
+### 38) Electroconvulsive Therapy (ECT) can be effective in treating ________.
+
+A. Alcohol Use Disorder</br>
+B. Parkinson’s Disease</br>
+C. Epilepsy</br>
+**D. Major depressive disorder**
+
+### 39) An acute stressor is one that ________.
+
+**A. lasts only a short period of time**</br>
+B. is especially intense and long-lived</br>
+C. rarely triggers the HPA axis</br>
+D. overstimulates cortisol receptors in the spinal cord.
+
+### 40) Lesions of the ________ block fear conditioning in experimental animals.
+
+A. hippocampus</br>
+B. cerebral cortex</br> 
+**C. amygdala**</br>
+D. striatum
+
+## Section B. Bonus Questions
+
+### 41) Which of these is NOT true about individuals with schizophrenia?
+
+A. The genetic disposition for getting the disorder is just under 50% for monozygotic twins.</br>
+**B. The majority have a mild form that resolves.**</br>
+C. They show decreased cortical thickness in adolescence.</br>
+D. They can exhibit delusional thoughts, hallucinations, mood issues, and behavioral abnormalities.
+
+### 42) The projection from the _______to the _______is a major pathway in the brain’s ‘reward’ system.
+
+**A. Ventral tegmental area (VTA); nucleus accumbens/ventral striatum**</br>
+B. Substantia nigra; striatum</br>
+C. Ventral tegmental area (VTA); amygdala</br>
+D. Hypothalamus; adrenal medulla.

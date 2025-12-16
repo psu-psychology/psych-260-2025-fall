@@ -1,0 +1,90 @@
+---
+title: "Quiz 3"
+format: html
+---
+
+## Part I: Main (10 points)
+
+### 1. People with major depressive disorder (MDD) and schizophrenia often have _________- brain volumes compared with healthy controls.
+
+**A. Smaller**</br>
+B. Larger</br>
+C. Equivalent</br>
+D. Larger left hemisphere than right hemisphere
+
+### 2. Which of these areas is NOT usually involved in the brain’s reward system?
+
+A. Ventral tegmental area</br> 
+**B. Posterior pituitary**</br>
+C. Nucleus Accumbens</br>
+D. Amygdala
+
+### 3. Atypical antipsychotic medications tend to increase levels of dopamine in some brain regions. This _____ the dopamine (DA) hypothesis of schizophrenia which posits that _____ levels of dopamine are related to positive symptoms of the disorder.
+
+A. supports; tonic</br>
+B. has no relevance for; varying</br>
+**C. undermines; higher**</br>
+D. supports; lower
+
+### 4. This structure controls both autonomic and endocrine output from the CNS.
+
+**A. Hypothalamus**</br>
+B. Nucleus Accumbens</br>
+C. Amygdala</br>
+D. Hippocampus
+
+### 5. The monoamine hypothesis of depression holds that ______ levels of monoamines are associated with ______.                            .
+A. increased; Parkinson’s</br>
+B. reduced; bipolar disorder</br>
+C. increased; schizophrenia</br>
+**D. reduced; depression**
+
+### 6. The human brain has more neurons in the ______ than other comparable species.
+
+**A. Cerebral cortex**</br>
+B. Spinal cord</br>
+C. Cerebellum</br>
+D. HPA axis
+
+### 7. Autonomic nervous system measures show distinct patterns that clearly distinguish among emotions.
+
+A. True</br>
+**B. False**
+
+### 8. Bipolar disorder is commonly treated with all of the following drugs EXCEPT: 
+
+A. lithium</br>
+B. anti-convulsants</br>
+C. anti-psychotics</br>
+**D. monoamine agonists**
+
+### 9. There are endogenous receptor sites in the CNS for many substances that have psychological/neurological effects, and the CNS itself produces and releases substances that bind to these receptors.
+
+**A. True**</br>
+B. False
+
+### 10. A biological approach to emotion highlights all the following dimensions EXCEPT:
+
+A. Behaviors</br>
+**B. Social influences on affective state**</br>
+C. Subjective feelings</br>
+D. Physiological responses
+
+## Part II: Bonus
+
+### 11. The vast majority of people with major depressive disorder respond to drug therapy alone.
+
+A. True</br>
+**B. False**
+
+### 12. Clinicians can readily measure monoamine levels in the CNS in order to diagnose or treat depression or schizophrenia.
+
+A. True</br>
+**B. False**
+
+### 13. Milner and Olds found that electrical stimulation of a pathway from the ventral tegmental area (VTA) to the ventral striatum/nucleus accumbens elicted strong feelings of _____.
+
+A. pain</br>
+**B. pleasure**</br>
+C. anger</br>
+D. fear

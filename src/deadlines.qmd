@@ -4,11 +4,11 @@ title: "Deadlines"
 
 | Date      | What's due/happening |
 |-----------|----------------------|
-| [Thu Sep 11](schedule.qmd#thu-sep-11-2025)   | Quiz 1 |
+| [Thu Sep 11](schedule.qmd#thu-sep-11-2025) | [Quiz 1](exams/quiz-01.qmd) |
 | [Thu Sep 25](schedule.qmd#thu-sep-25-2025) | Exam 1 |
-| [Tue Oct 14](schedule.qmd#tue-oct-14-2025)  | Quiz 2 |
-| [Thu Oct 23](schedule.qmd#thu-oct-23-2025)  | Exam 2 |
-| [Tue Nov 11](schedule.qmd#tue-nov-11-2025)  | Quiz 3 |
-| [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | Exam 3 |
-| [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | Quiz 4 |
+| [Tue Oct 14](schedule.qmd#tue-oct-14-2025) | [Quiz 2](exams/quiz-02.qmd) |
+| [Thu Oct 23](schedule.qmd#thu-oct-23-2025) | Exam 2 |
+| [Tue Nov 11](schedule.qmd#tue-nov-11-2025) | [Quiz 3](exams/quiz-03.qmd) |
+| [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | [Exam 3](exams/exam-03.qmd) |
+| [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | [Quiz 4](slides/wk-15-2025-12-09-memory.qmd#/quiz-4) |
 | [Tue Dec 16](schedule.qmd#tue-dec-16-2025) | Exam 4 |

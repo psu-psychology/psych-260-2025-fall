@@ -1,0 +1,112 @@
+---
+title: "Quiz 2"
+format: html
+---
+
+## Part I: Main (10 points)
+
+### 1. The ventral tegmental area (VTA) and substantia nigra release dopamine onto targets across the CNS; these structures are located in the __________.
+
+A. cerebral cortex</br>
+**B. midbrain**</br>
+C. cerebellum</br>
+D. hypothalamus
+
+### 2. A reuptake inhibitor has what effect on neurotransmitters? 
+
+A. Reduces extracellular levels.</br>
+B. Accelerates their reuptake.</br>
+**C. Increases extracellular levels.**</br>
+D. Causes neurotransmitters to bind to ionotropic receptors.
+
+### 3. Botilinum toxin (BoTox) causes muscle paralysis by impeding the normal function of which neurotransmitter system?
+
+A. Glutamate</br>
+B. GABA</br>
+C. Dopamine</br>
+**D. Acetylcholine**
+
+### 4. __________ is the most commonly released excitatory neurotransmitter in the CNS. In so doing, it typically binds to a/an __________ receptor.
+
+A. GABA; ionotropic</br>
+B. ACh; metabotropic</br>
+**C. Glutamate; ionotropic**</br>
+D. Dopamine; metabotropic
+
+### 5. Which of these hormones is released directly into the blood stream by projections from the hypothalamus into the posterior pituitary? 
+
+**A. Oxytocin**</br>
+B. Cortisol</br>
+C. Melatonin</br>
+D. Norepinephrine
+
+### 6. Which of these acts as both a neurotransmitter and a hormone? 
+
+A. Dopamine</br>
+B. Glutamate</br>
+C. Acetylcholine</br>
+D. **Melatonin**
+
+### 7. __________  receptors contain both chemical (ligand) binding sites and an ion channel. 
+
+A. Metabotropic</br>
+B. Serotonin</br>
+C. Glutamate</br>
+D. **Ionotropic**
+
+### 8. The inward flow of __________ ions across the neural membrane creates an __________.
+
+A. **Cl-; IPSP**</br>
+B. K+; IPSP</br>
+C. Glutamate; EPSP</br>
+d. GABA; EPSP
+
+### 9. True or False? The sympathetic/adrenal medullary (SAM) system and the hypothalamic/pituitary/adrenal (HPA) system are both involved in responses to threat or challenge.
+
+A. **True**</br>
+B. False
+
+### 10. When the action potential arrives at the axon terminal, __________ open and the influx of __________ triggers exocytosis.
+
+A. voltage-gated Na+ channels; Na+</br>
+B. **voltage-gated Ca++ channels; Ca++**</br>
+C. metabotropic channels; K+</br>
+d. transporters; Ca++
+ 
+Part II: Bonus (5 points)
+
+### 11. With one exception, the monoamine neurotransmitters bind to __________ receptors.
+
+A. ionotropic</br>
+B. voltage-gated</br>
+C. nicotinic</br>
+d. **metabotropic**
+
+### 12. You are examining an axosomatic synapse and based on where it connects guess that it is __________  and involves the release of __________.
+
+A. inhibitory; glutamate</br> 
+B. **inhibitory; GABA**</br>
+C. excitatory; adenosine</br>
+d. excitatory; glycine
+
+### 13. Which of the following statements is *incorrect*?
+
+A. Primary motor cortex (M1) is in the frontal lobe.</br>
+B. Primary visual cortex (V1) is in the occipital lobe.</br>
+C. Primary auditory cortex (A1) is in the temporal lobe.</br>
+**D. Primary somatosensory cortex (S1) is in the insula.**
+
+### 14. Which of the following structures are *not* part of the meninges?
+
+A. Dura mater.</br>
+B. Pia mater.</br>
+**C. Cerebrospinal Fluid (CSF)**</br>
+D. Arachnoid membrane.
+
+### 15. During the falling phase of the action potential, ____________ ions ___________. 
+
+**A. K+; ﬂow out**</br>
+B. Na+; ﬂow out</br>
+C. K+; ﬂow in</br>
+D. Na+; ﬂow in
+
