@@ -8,7 +8,6 @@ format: html
 
 Answer the following questions.
 
-
 ### 1) One counterintuitive feature of human brain development in childhood and adolescence is that there is considerable loss of both _______ and _______.
 
 A. White matter; CSF</br>

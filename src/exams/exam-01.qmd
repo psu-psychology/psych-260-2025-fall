@@ -1,0 +1,326 @@
+---
+title: "Exam 1"
+format: html
+---
+
+## A. Main (40 points)
+
+Questions 1-7 refer to @fig-side-view.
+
+:::: {.columns}
+::: {.column width=50%}
+### 1. Identify structure #1 
+
+**A. Frontal lobe.**</br>
+B. Parietal lobe.</br>
+C. Occipital lobe.</br>
+D. Temporal lobe.
+
+### 2. Identify structure #2
+
+A. Frontal lobe.</br>
+B. Parietal lobe.</br>
+C. Occipital lobe.</br>
+**D. Temporal lobe.**
+
+### 3. Identify structure #3
+
+A. 4th ventricle.</br>
+B. Medulla oblongata.</br> 
+C. Cerebellum.</br>
+**D. Pons.**
+
+### 4. Identify structure #4
+
+A. 4th ventricle.</br>
+**B. Medulla oblongata.**</br>
+C. Cerebellum.</br>
+D. Pons.
+
+### 5. Identify structure #5
+
+A. 4th ventricle.</br> 
+B. Medulla oblongata.</br> 
+**C. Cerebellum.**</br> 
+D. Pons.
+
+### 6. Identify structure #6
+
+A. Frontal lobe.</br> 
+B. Parietal lobe.</br> 
+**C. Occipital lobe.**</br>
+D. Temporal lobe.
+
+### 7. Identify structure #7
+
+A. Frontal lobe.</br> 
+**B. Parietal lobe.**</br> 
+C. Occipital lobe.</br> 
+D. Temporal lobe.
+:::
+::: {.column width=50%}
+![](../include/img/exam-01-fig-01.png){#fig-side-view}
+:::
+::::
+
+Questions 8-10 refer to the @fig-mri.
+
+:::: {.columns}
+::: {.column width=50%}
+### 8. What plane of section is represented in the left panel? 
+
+A. Coronal.</br> 
+B. Sagittal.</br> 
+**C. Axial/horizontal.**</br> 
+D. Dorsal.
+
+### 9. What plane of section is represented in the middle panel? 
+
+A. Coronal.</br> 
+**B. Sagittal.**</br>
+C. Axial/horizontal.</br> 
+D. Dorsal.
+
+### 10. These images are examples of what structural imaging technique? 
+
+**A. Magnetic resonance imaging (MRI)**</br>
+B. Positron Emission Tomography (PET)</br>
+C. Single unit recording</br>
+D. Computed Axial Tomography (CAT)
+:::
+::: {.column width=50%}
+![](../include/img/exam-01-fig-02.png){#fig-mri}
+:::
+::::
+
+### 11. Which tissues provide external structural support and protection for the CNS?
+
+A. Astrocytes</br>
+**B. Meninges**</br> 
+C. 4th ventricle</br>
+D. Circle of Willis
+
+### 12. The thalamus serves this function, among others.
+
+A. Metabolic, physical support of neurons</br>
+**B. Sensory relay**</br>
+C. Preparation for action</br>
+D. Memory storage and retrieval</br>
+e. CNS protection
+
+### 13. Primary auditory cortex (A1) is found in the_______________.
+
+**A. Temporal lobe**</br> 
+B. Frontal lobe</br> 
+C. Hypothalamus</br>
+D. Basal ganglia</br> 
+e. Parietal lobe
+
+### 14. Which of the following statements about neurons is incorrect? 
+
+**A. Neurons have very short lives.**</br> 
+B. Neurons can extend over long distances.</br> 
+C. Neurons are among the family of cells that have negative resting potentials.</br> 
+D. Neurons use both electrical and chemical mechanisms to communicate.
+
+### 15. Primary motor cortex is found in the ______________. 
+
+A. Temporal lobe</br>
+**B. Frontal lobe**</br> 
+C. Hypothalamus</br> 
+D. Basal ganglia</br> 
+e. Parietal lobe
+
+### 16. Your grandmother has a stroke. The neurologist chooses an X-ray-based structural brain imaging method that gives satisfactory, but not especially detailed spatial resolution. What method is that? 
+
+**A. Computed tomography (CT)**</br>
+B. Functional magnetic resonance imaging (fMRI)</br>
+C. Positron Emission Tomography (PET)</br>
+D. Anterograde tract tracers
+
+### 17. These fluid-filled structures were once thought critical for sending signals from the brain to the body. 
+
+A. Basal ganglia.</br>
+B. Synaptic vesicles.</br>
+C. Cauda equina.</br>
+**D. Cerebral ventricles**.
+
+### 18. The ______________ plays a role in biologically crucial behaviors, including those associated with ingestion (eating and drinking) and reproduction: 
+
+A. Temporal lobe.</br>
+B. Frontal lobe.</br>
+**C. Hypothalamus.**</br> 
+D. Basal ganglia.</br>
+e. Parietal lobe.
+
+### 19. What maintains the intracellular (inside)/extracellular (outside) concentration differences of K+ and Na+ ions? 
+
+A. The myelin sheath.</br>
+B. The force of diﬀusion.</br>
+**C. Action of the Na+/K+ pump (ATPase).**</br>
+D. Ion ﬂow through passive/leak channels.
+
+### 20. The tough, canvas-like tissue that surrounds and protects the __________ is called __________:
+
+A. white matter; cerebrospinal ﬂuid (CSF).</br> 
+B. gray matter; myelin.</br> 
+**C. central nervous system (CNS); dura mater.**</br>
+D. cerebral ventricles; endothelial cells.
+
+### 21. Which of the following is a commonly available, X-ray based, and relatively inexpensive whole brain structural imaging technique that can be used to diagnose brain injury or disease? 
+
+A. Functional MRI.</br> 
+B. Electroencephalography (EEG).</br> 
+C. Hemodynamic response imaging.</br> 
+**D. Computed Tomography (CT)**.
+
+### 22. How many neurons are there in the human brain? 
+
+**A. About 86 billion.**</br> 
+B. About 86 million.</br> 
+C. About the same number of seconds as in the average lifetime.</br> 
+D. It can’t be estimated.
+
+### 23. This type of glial cell provides neurons in the peripheral nervous system (PNS) with a myelin sheath: 
+
+**A. Schwann cells.**</br> 
+B. Oligodendrocytes.</br> 
+C. Microglia.</br> 
+D. Purkinje cells.
+
+### 24. The hippocampus plays a central role in __________. 
+
+A. Sexual behavior.</br> 
+B. Metabolic, physical support of neurons.</br> 
+C. Sensory relay processing.</br> 
+**D. Memory storage and retrieval.**</br> 
+e. CNS protection.
+
+### 25. The sympathetic branch of the autonomic nervous system is crucial for:
+
+A. Sleep.</br> 
+B. Metabolic, physical support of neurons.</br> 
+C. Sensory relay.</br> 
+**D. Preparation for action.**</br> 
+e. Memory storage and retrieval.
+
+### 26. Sodium (Na+) is highly concentrated _____________ the neuron. This means that the force of diffusion acting alone will push Na+ _____________. 
+
+A. inside; inward.</br>
+**B. outside; inward.**</br> 
+C. inside; outward.</br> 
+D. outside; outward.
+
+### 27. You’re having trouble sleeping, so your physician orders a sleep study using polysomnography. You spend a night in the hospital with electrodes on your scalp while the clinicians record patterns of electrical activity. This is an example use case of _____________. 
+
+**A. Electroencephalograpy (EEG).**</br>
+B. Multi-unit recording.</br>
+C. Transcranial magnetic stimulation.</br>
+D. Optical imaging.
+
+### 28. _____________ , a type of glial cell, help regulate local blood oxygen levels in response to neuronal activity. These cells thus contribute to the signal measured by _____________. 
+
+A. Oligodendrocytes; MEG.</br> 
+B. Schwann cells; structural MRI.</br>
+**C. Astrocytes; functional MRI.**</br> 
+D. Microglia; structural and functional MRI.
+
+### 29. Which ventral midbrain region is one of the main sites for neurons that release neuromodulators (e.g., dopamine, norepinephrine, and serotonin)? 
+
+A. Basal ganglia.</br> 
+B. Lateral geniculate nucleus.</br> 
+**C. Tegmentum.**</br> 
+D. Tectum.
+
+### 30. The hypothalamus is NOT responsible for which of the following functions? 
+
+A. Fleeing.</br> 
+B. Feeding.</br>
+C. Fighting.</br>
+**D. Falling.**
+
+### 31. Which of the following marks the medial boundary of the frontal lobe(s)? 
+
+A. Lateral ﬁssure.</br> 
+**B. Longitudinal ﬁssure.**</br> 
+C. Central sulcus.</br> 
+D. Inferior temporal gyrus.
+
+### 32. Nodes of Ranvier, or gaps in the myelination of an axon, serve which purpose? 
+
+**A. Increase the speed of propagation.**</br> 
+B. Allow space in the axon for neurotransmitter release.</br> 
+C. Provide structural support to the neuron.</br> 
+D. Combine input from diﬀerent dendrites
+
+### 33. Descartes thought that this midbrain structure was the place where the soul interacted with the body to create movement by inﬂating the muscles. 
+
+A. Pons.</br> 
+B. Cerebral aqueduct.</br> 
+**C. Pineal gland.**</br> 
+D. Superior colliculus.
+
+### 34. When a neuron’s membrane potential is “at rest,” which of the following ions are more heavily concentrated inside of the cell? 
+
+A. Na+ and Cl-.</br>
+**B. K+ and A-.**</br>
+C. Na+ and K+.</br>
+D. Cl- and A-.
+
+### 35. When a neuron’s membrane potential reaches the threshold for an action potential, ___________. 
+
+A. voltage-gated K+ channels close.</br> 
+B. voltage-gated Na+ channels close and inactivate.</br> 
+C. the Na/K pump works even harder to keep the concentration balance.</br> 
+**D. voltage-gated Na+ channels open.**
+
+### 36. This part of the cell functions as the neuron’s “antennae” by serving as the primary place for receiving input. 
+
+A. Axon.</br> 
+B. Soma.</br> 
+**C. Dendrites.**</br> 
+D. Terminal Buttons.
+
+### 37. During the falling phase of the action potential, ___________ channels _____________. 
+
+A. Ligand-gated K+; close.</br> 
+B. Voltage-gated Na+; close.</br>
+C. Voltage-gated Na+; open.</br> 
+**D. Voltage-gated K+; remain open.**
+
+### 38. The speed of electrical signaling via action potentials is ____________ the speed of chemical signaling via diffusion. 
+
+**A. much faster than.**</br> 
+B. much slower than.</br> 
+C. about the same speed as.</br> 
+D. slightly slower than.
+
+### 39. During the absolute refractory period, a neuron will ___________. 
+
+A. ﬁre again in response to an especially strong input.</br>
+B. produce an action potential that is twice the normal size.</br>
+C. open voltage-gated Ca++ channels.</br>
+**D. not ﬁre no matter the strength of the input**.
+
+### 40. All of the following ions move across the neuronal membrane at different times EXCEPT: 
+
+A. Na+.</br>
+B. K+.</br>
+C. Cl-.</br> 
+**D. Organic anions (A-)**.
+
+## B. Bonus (2 points)
+
+### 41. During the rising phase of the action potential, ____________ ions ___________. 
+
+A. K+; ﬂow out.</br> 
+B. Na+; ﬂow out.</br> 
+C. K+; ﬂow in.</br> 
+**D. Na+; ﬂow in**.
+
+### 42. A toxin found in Japanese pufferﬁsh blocks voltage-gated Na+ channels. Applying such a toxin to neurons would have what effect? 
+
+A. Slower falling phase of the action potential.</br> 
+B. Increasing the concentration of Na+ inside the cell.</br> 
+C. K+ ions would accelerate their ﬂow to compensate.</br> 
+**D. Action potentials would be abolished**.

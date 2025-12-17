@@ -1,0 +1,352 @@
+---
+title: "Exam 2"
+format: html
+---
+
+## A. Main (40 points)
+
+Answer the following questions. 
+
+### 1. True or False. The primate cerebellum is larger in volume than the cerebral cortex but contains fewer nerve cells than the cerebral cortex.
+
+A. True</br>
+**B. False**
+
+### 2. Influx of _____ ions into the presynaptic terminal triggers the release of neurotransmitters by means of _____ 
+
+A. Na+; ion transportation.</br>
+B. Cl-; inhibitory postsynaptic potential enhancement.</br>
+**C. Ca++; exocytosis.**</br>
+D. K+; Na+/K+ pump activity. 
+
+### 3. This branch of the autonomic nervous system is activated in parallel with the HPA axis during responses to threat or challenge.
+
+**A. sympathetic branch.**</br>
+B. parasymphonic branch </br>
+C. vagal branch.</br>
+D. adrenergic branch.</br> 
+
+Match the hormone to its function. 
+
+### 4. Oxytocin
+
+A. Stress response; increases blood in glucose; anti-inflammatory effect.</br> 
+**B. Uterine contraction; milk release; bonding.**</br> 
+C. Regulates seasonal changes; sexual maturation.</br>
+D. Blood vessel constriction; antidiuretic hormone.
+ 
+### 5. Cortisol 
+
+**A. Stress response; increases in blood glucose; anti-inflammatory effect.**</br> 
+B. Uterine contraction; milk release; bonding.</br>
+C. Regulates seasonal changes; sexual maturation.</br> 
+D. Blood vessel constriction; antidiuretic hormone. 
+
+### 6. Melatonin
+
+A. Stress response; increases in blood glucose; anti-inflammatory effect.</br>
+B. Uterine contraction; milk release; bonding.</br>
+**C. Regulates seasonal changes, circadian rhythm.**</br> 
+D. Blood vessel constriction; antidiuretic hormone. 
+
+Answer the following questions.
+
+### 7. Botulinum toxin (botox) blocks the release of acetylcholine (ACh) from presynaptic terminals. In large quantities, this can be _____ because it _____. 
+
+A. good; speeds the conduction of action potentials</br> 
+**B. bad; blocks communication to muscle fibers**</br>
+C. good; accelerates K+ flow</br>
+D. bad; affects the size and number of presynaptic IPSPs 
+
+### 8. _____ is a kind of _____ brain imaging method used to study axon fiber (white matter) tracts. 
+
+A. Structural MRI; structural</br>
+B. Positron Emission Tomography (PET); functional</br>
+C. Magnetoencephalography; functional</br>
+**D. Diffusion tensor imaging (DTI); structural**
+
+### 9. The enzyme AChE contributes to the _____ of _____. 
+
+**A. Breakdown and inactivation; acetylcholine**</br>
+B. Breakdown and inactivation; dopamine, norepinephrine, and epinephrine</br>
+C. Postsynaptic reuptake; serotonin</br>
+D. Increase in monoamine levels; GABA-releasing neuron 
+
+### 10. This neurotransmitter is released by motor neurons onto skeletal muscle. 
+
+A. GABA</br> 
+B. Serotonin</br> 
+**C. Acetylcholine**</br> 
+D. Glutamate
+
+### 11. Selective serotonin reuptake inhibitors (SSRIs) like Prozac act to _____ neurotransmitter concentrations. 
+
+A. reduce</br>
+B. eliminate</br>
+**C. increase**</br> 
+D. recycle
+
+Please put in their proper order the steps that lead to synaptic communication between neurons. Begin with the presynaptic cell. 
+
+### 12. Step 1 
+
+A. Voltage-gated Ca++ channels open.</br>
+**B. Action potential propagates down the axon to the axon terminal.**</br> 
+C. Ca++ entry initiates exocytosis of neurotransmitter.</br> 
+D. Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.</br> 
+E. Neurotransmitter diffuses across the synaptic cleft. 
+
+### 13. Step 2 
+
+**A. Voltage-gated Ca++ channels open.**</br> 
+B. Action potential propagates down the axon to the axon terminal.</br> 
+C. Ca++ initiates exocytosis of neurotransmitter.</br> 
+D. Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.</br> 
+E. Neurotransmitter diffuses across synaptic cleft. 
+
+### 14. Step 3 
+
+A. Voltage-gated Ca++ channels open.</br> 
+B. Action potential propagates down the axon to the axon terminal.</br> 
+**C. Ca++ initiates exocytosis of neurotransmitter.**</br> 
+D. Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.</br> 
+E. Neurotransmitter diffuses across synaptic cleft. 
+
+### 15. Step 4 
+
+A. Voltage-gated Ca++ channels open.</br> 
+B. Action potential propagates down the axon to the axon terminal.</br> 
+C. Ca++ initiates exocytosis of neurotransmitter.</br> 
+D. Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.</br>
+**E. Neurotransmitter diffuses across synaptic cleft.** 
+
+### 16. Step 5 
+
+A. Voltage-gated Ca++ channels open.</br> 
+B. Action potential propagates down the axon to the axon terminal.</br> 
+C. Ca++ initiates exocytosis of neurotransmitter.</br> 
+**D. Ligand-gated receptors bind neurotransmitter and activate channels in the post- synaptic cell.**</br> 
+E. Neurotransmitter diffuses across synaptic cleft. 
+
+Answer the following questions. 
+
+### 17. The meso-limbo-cortical projection from the _____ in the midbrain releases the neurotransmitter _____. It is part of the brain’s ‘reward’ circuit. 
+
+**A. ventral tegmental area; dopamine**</br> 
+B. raphe nucleus; NE</br>
+C. superior colliculus; glutamate</br>
+D. thalamus; GABA
+
+### 18. The central sulcus divides the _____. 
+
+A. left hemisphere from the right</br>
+**B. frontal lobe from the parietal lobe**</br>
+C. frontal lobe from the occipital lobe</br>
+D. corpus callosum from the anterior commissure
+
+### 19. This glial cell type produces myelin in the peripheral nervous system. 
+
+A. Pyramidal cells.</br> 
+**B. Schwann cells.**</br> 
+C. Oligodendrocytes</br>
+D. Microglia. 
+
+### 20. _____ receptors contain their own ion channel; _____ do not.
+
+**A. Ionotropic; metabotropic**</br>
+B. Metabotropic; ionotropic</br>
+C. GABA; glutamate</br>
+D. Dopamine; serotonin
+
+### 21. _____ is the primary excitatory neurotransmitter in the CNS; _____ is the primary neurotransmitter of CNS output. 
+
+A. GABA; glutamate.</br> 
+B. Glutamate; GABA.</br> 
+**C. Glutamate; acetylcholine.**</br> 
+D. Acetylcholine; glutamate. 
+
+### 22. Hormonal action _____ than neuronal action. 
+
+A. is faster-acting</br>
+B. is more specific in its effects</br>
+**C. is slower-acting**</br>
+D. involves greater voluntary control
+
+### 23. Opening a channel permeable to Na+ in a neuron at its resting potential would have a/an _____ effect.
+
+**A. Excitatory**</br> 
+B. Inhibitory</br>
+C. Modulatory</br>
+D. Ca++ activating
+
+Match the endocrine structure with the function. 
+
+### 24. Hypothalamus
+
+A. Regulates digestive processes via dopamine release.</br>
+B. Responds to adrenocorticotropic hormone (ACTH) by releasing cortisol.</br> 
+C. Releases NE and epinephrine.</br>
+**D. Controls hormone secretions into and by the pituitary**
+
+### 25. Pineal gland 
+
+**A. Regulates circadian rhythms via melatonin release.**</br>
+B. Responds to adrenocorticotropic hormone (ACTH) by releasing cortisol.</br>
+C. Releases NE and epinephrine.</br>
+D. Controls hormone secretions into and by the pituitary. 
+
+Answer the following questions. 
+
+### 26. Glucocorticoid hormones (e.g., cortisol) serve all the following functions EXCEPT: 
+
+**A. Stimulating uterine and vaginal contractions during childbirth.**</br>
+B. Increasing glucose levels.</br>
+C. Inhibiting inflammation.</br>
+D. Suppressing immune responses.
+
+### 27. Animals with complex nervous systems emerged _____. 
+
+A. about 4.5 billion years ago.</br> 
+B. about 13.7 billion years ago.</br> 
+**C. 500-600 million years ago.**</br> 
+D. within the last 10,000 years. 
+
+### 28. Gap junctions support _____ between cells.
+ 
+**A. direct electrical coupling**</br> 
+B. chemical communication</br> 
+C. slow communication</br>
+D. hormonal signaling 
+
+### 29. The release of glutamate onto an ionotropic receptor on a neuron’s dendrite produces an _____. 
+
+A. inhibitory postsynaptic potential (IPSP)</br>
+B. electrochemical postsynaptic potential (EPSP)</br>
+C. inwardly-driven postsynaptic potential (IPSP)</br>
+**D. excitatory postsynaptic potential (EPSP)**
+
+### 30. Both Parkinson’s Disease and schizophrenia have been linked to disturbances in _____ neurotransmitter systems. 
+
+**A. dopamine**</br>
+B. GABA</br> 
+C. acetylcholine</br> 
+D. serotonin
+
+### 31. True or False. There are many details about how evolution occurred that are not yet well established. 
+
+**A. True.**</br> 
+B. False. 
+
+### 32. The human _____ has about 16 billion neurons, _____ than any other animal, including animals with larger brains.
+ 
+A. cerebellum; fewer</br>
+B. cerebral cortex; fewer</br> 
+**C. cerebral cortex; more**</br> 
+D. cerebellum; more 
+
+### 33. All of the following are characteristics of the vertebrate central nervous system EXCEPT. 
+
+**A. radial symmetry.**</br>
+B. segmentation.</br> 
+C. encephalization.</br> 
+D. identifiable forebrain, midbrain, and hindbrain components. 
+
+### 34. Brain mass _____ body mass in vertebrates. 
+
+**A. increases with**</br>
+B. decreases with</br>
+C. has no relationship to</br>
+D. can't be measured like</br> 
+
+Match the Roman numeral in the figures below, to the process and structures in the hormonal action cycle the figure depicts.
+
+:::: {.columns}
+::: {.column width=50%}
+### 35. I 
+
+A. Posterior pituitary receives impulses from hypothalamus.</br> 
+**B. Sensory nerve impulses project to the brain.**</br> 
+C. Release of oxytocin into blood stream.</br> 
+D. Hypothalamus responds to sensory input. 
+
+### 36. II 
+
+A. Posterior pituitary receives impulses from hypothalamus.</br>
+B. Sensory nerve impulses project to the brain.</br>
+C. Release of oxytocin into blood stream.</br>
+**D. Hypothalamus responds to sensory input.**
+
+### 37. III 
+
+**A. Posterior pituitary receives impulses from hypothalamus.**</br> 
+B. Sensory nerve impulses project to the brain.</br>
+C. Release of oxytocin into blood stream.</br> 
+D. Hypothalamus responds to sensory input. 
+
+### 38. IV 
+
+A. Posterior pituitary receives impulses from hypothalamus.</br>
+B. Sensory nerve impulses project to the brain.</br> 
+**C. Release of oxytocin into blood stream.**</br> 
+D. Hypothalamus responds to sensory input. 
+
+:::
+::: {.column width=50%}
+![](../include/img/exam-02-fig-01.png)
+:::
+::::
+ 
+
+Answer the following questions.
+
+### 39. Which of the following statements are inconsistent with the theory of evolution.
+
+A. Organisms existed in the distant past that no longer exist today.</br>
+B. Organisms differ in the extent to which they survive and reproduce successfully.</br>
+**C. The history of life on Earth is too short for new species to have evolved.**</br>
+D. Offspring inherit many traits from their parents. 
+
+### 40. All of these animals except _____, have relatively large brains for their body sizes and correspondingly high cognitive capacities.
+
+A. chimpanzees.</br> 
+**B. mice.**</br>
+C. humans.</br>
+D. corvids (crows and ravens).</br>
+
+## B. Bonus (5 points)
+
+41. The hippocampus is located deep within which lobe of the cerebral cortex? 
+
+**A. Temporal.**</br> 
+B. Frontal.</br>
+C. Parietal.</br>
+D. Occipital.</br>
+
+42. Histamine is one of the _____ group of neurotransmitters. It is released by the _____. 
+
+A. monoamine; hippocampus</br>
+**B. monoamine; hypothalamus**</br>
+C. amino acid; midbrain</br>
+D. peptide; amygdala</br>
+
+43. The 10th cranial (Xth) or vagus nerve connects to the _____ branch of the autonomic nervous system. Its neurons tend to slow heart rate and activate digestion when stimulated. 
+
+**A. parasympathetic**</br>
+B. sympathetic</br>
+C. enteric</br>
+D. somatic 
+
+44. Corticotropin Releasing Hormone (CRH) is released by the hypothalamus into the _____, the first step in the multi-step process leading to the release of cortisol into the blood stream by the adrenal cortex.   
+
+A. amygdala</br>
+B. cerebrospinal fluid (CSF)</br>
+**C. anterior pituitary**</br>
+D. adrenal medulla</br>
+
+45. The neural tube forms at about _____ post-conception in human embryos. This is commonly considered the starting point for the development of the nervous system.
+
+A. 37 weeks</br>
+B. 6 months</br>
+**C. 3-4 weeks**</br>
+D. 2 years
+

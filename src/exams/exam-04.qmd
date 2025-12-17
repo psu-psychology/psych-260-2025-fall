@@ -1,0 +1,314 @@
+---
+title: "Exam 4"
+format: html
+---
+
+## A.	Main (40 points)
+
+Answer the following questions.
+
+### 1)	Rene Descartes thought that the _____ was important in controlling movements of the body. A modern view is that it is important for releasing the hormone _____ that contributes to circadian rhythms.
+
+A. pineal gland; CRH</br>
+**B. pineal gland; melotonin**</br>
+C. pituitary gland; oxytocin</br>
+D. suprachiasmatic nucleus; melotonin
+
+### 2)	The ____ that fills the cerebral ventricles was once thought to ____.
+
+A. Cortical blood fluid; be important for brain communication</br>
+B. CSF or corticospinal fluid; cause the BOLD response</br>
+**C. CSF or cerebrospinal fluid; inflate the muscles**</br>
+D. Calcium-influx fluid; cause muscles to relax
+
+### 3)	Single unit recordings have ____ spatial resolution than ____.
+
+**A. more precise; fMRI**</br>
+B. less precise; fMRI</br>
+C. more precise; genetic measures</br>
+D. less precise; EEG
+
+### 4)	In depression and schizophrenia there is evidence for ______ cerebral ventricles and thus _____ in the volume of brain tissue.
+
+**A. enlarged; reductions**</br>
+B. enlarged; enlargements</br>
+C. reduced; increases</br>
+D. misshapen; enlargements
+
+### 5)	_______ is/are a new treatment for depression that appears to ______ than existing therapies.
+
+A. SSRIs; work more quickly</br>
+**B. ketamine; work more quickly**</br>
+C. Aricept; work more slowly</br>
+D. tricyclics; have fewer side effects
+
+### 6)	In considering directions in the human forebrain the terms ____ and superior are analogous to one another.
+
+A. ventral</br>
+B. anterior</br>
+**C. dorsal**</br>
+D. rostral
+
+### 7)	The ____ means "little brain" in Latin; it's adjacent to _____.
+
+A. thalamus; cerebral aqueduct</br>
+B. pons; thalamus</br>
+**C. cerebellum; 4th ventricle**</br>
+D. cerebrum; brainstem
+
+### 8)	Two structures in the midbrain release the neurotransmitter dopamine, the ____ and ____.
+
+**A. substantia nigra; ventral tegmental area (VTA)**</br>
+B. superior colliculus; inferior colliculus</br>
+C. anterior cingulate cortex; locus coeruleus</br>
+D. raphe nucleus; optic tectum
+
+### 9)	The ____ controls endocrine and autonomic nervous system (ANS) activity.
+
+A. hippocampus</br>
+B. adrenal gland</br>
+**C. hypothalamus**</br>
+D. posterior pituitary
+    
+### 10)	The insula is located deep inside the ____.
+
+A. occipital lobe</br>
+B. parietal lobe</br>
+C. central sulcus</br>
+**D. lateral fissure**
+    
+### 11)	Neurons receive most of their input on the ____ and ____.
+
+A. axon terminals; nodes of Ranvier</br>
+**B. dendrites; soma**</br>
+C. presynaptic terminal; axon hillock</br>
+D. nodes of Ranvier; axon initial segment
+
+### 12)	Gray matter is mostly made of ____; white matter is made of ____.
+
+**A. cell bodies and dendrites; myelinated axons**</br>
+B. myelinated axons; cell bodies and dendrites</br>
+C. nodes of Ranvier; dendrites</br>
+D. microglia; astrocytes
+    
+### 13)	In neuron at its resting potential, ____ inside is greater than outside.
+
+A. [Cl-]</br>
+B. [Ca++]</br>
+C. [Na+]</br>
+**D. [K+]**
+
+### 14)	The influx of calcium (Ca++) ions occurs in all the following EXCEPT:
+
+**A. A neuron's absolute refractory period.**</br>
+B. The release of neurotransmitter from the axon terminal.</br>
+C. Long-term potentiation (LTP) due to the opening of an NMDA receptor.</br>
+D. Muscle fiber contraction.
+
+### 15)	When an AMPA receptor on a dendritic spine binds glutamate, Na+ ions flow into the postsynaptic terminal creating a/an _____ that is _____ in amplitude than an action potential.
+
+A. inhibitory postsynaptic potential (IPSP); larger</br>
+B. modulatory postsynaptic potential (MPSP); smaller</br>
+**C. excitatory postsynaptic potential (EPSP); smaller**</br>
+D. excitatory postsynpatic potential (EPSP); much larger
+
+### 16)	Nodes of Ranvier contain lots of ____-gated channels that help regenerate the action potential.
+
+A. Voltage-gated Ca++</br>
+B. Ligand-gated Na+</br>
+C. Ligand-gated Cl-</br>
+**D. Voltage-gated Na+**
+
+### 17)	A neuron's absolute refractory period occurs when voltage-gated Na+ channels ____.
+
+**A. Close and inactivate**</br>
+B. Open and remain active</br>
+C. Open and close repeatedly</br>
+D. Close and quickly reset
+
+### 18)	You're asked to make a $1M bet on what neurotransmitter is released at one of the brain's 10 trillion synapses chosen at random. What neurotransmitter do you guess?
+
+A. Serotonin (5-HT)</br>
+B. Dopamine</br>
+C. GABA</br>
+**D. Glutamate**
+
+### 19)	Neurotransmitters that act as neuromodulators tend to have all the following characteristics EXCEPT:
+
+A. release from a small number of focal locations in the brain stem</br>
+B. projection patterns across the CNS</br>
+C. reliance on metabotropic receptors</br>
+**D. very short duration effects**
+
+### 20)	Oxytocin and vasopressin are released from the ____ via the ____ into the bloodstream.
+
+A. hippocampus; hypothalamus</br>
+**B. hypothalamus; posterior pituitary**</br>
+C. hypothalamus; mammillary bodies</br>
+D. hydrocephalus; anterior pituitary
+
+### 21)	Lithium prescribed for treating some forms of bipolar disorder can be measured via a simple blood test. This is ________ the tests available for assessing circulating levels of neurotransmitters thought to be affected in some forms of mental illness.
+
+**A. unlike**</br>
+B. like
+
+### 22)	True or False: Mammals share a broadly similar brain organization.
+
+**A. True**</br>
+B. False
+
+### 23)	The ____ lobe contains the amygdala.
+
+A. Occipital</br>
+B. Parietal</br>
+C. Insular</br>
+**D. Temporal**
+
+### 24)	This neurotransmitter is often released into the nucleus accumbens when animals detect differences between the "reward" they expect to receive and that which actually occurs.
+
+A. Serotonin (5-HT)</br>
+**B. Dopamine**</br>
+C. Acetylcholine (ACh)</br>
+D. Hypocretin
+
+### 25)	In the spinal cord, sensory fibers enter from the back or _____ side while motor fibers exit from the belly or _____ side.
+
+A. ventral; dorsal</br>
+B. rostral; caudal</br>
+**C. dorsal; ventral**</br>
+D. medial; lateral
+
+### 26)	Primary auditory cortex (AI/A1) is in the ______ gyrus of the _____ lobe.
+
+A. postcentral; parietal</br>
+B. precentral; frontal</br>
+C. cingulate; occipital</br>
+**D. angular; temporal**
+
+### 27)	In class, we demonstrated that the vestibulo-ocular reflex (VOR) is critical for ________.
+
+A. maintaining a sense of balance</br>
+**B. keeping the eyes fixated when the head moves**</br>
+C. maintaining muscle tension</br>
+D. using the fingers to determine an object’s shape
+
+### 28)	Even though SSRIs are widely prescribed to treat major depressive disorder…
+
+**A. there is little evidence that serotonin deficits are common in MDD.**</br>
+B. there is stronger evidence that dopamine excess is common in MDD.</br>
+C. they don’t alleviate MDD symptoms in very many people.</br>
+D. lithium may be a better option for treating MDD.
+
+### 29)	To induce fear or stress-like emotional states in non-human animals, the threat conditioning task pairs a tone with a _____.
+
+A. flashing lights</br>
+B. cage movement</br>
+C. loud noise</br>
+**D. a painful shock**
+
+### 30)	Homeostatic mechanisms help maintain _______; allostatic mechanisms help _____.
+
+A. a variable internal environment; maintain a stable internal environment</br>
+**B. a stable internal environment; adapt to changing external conditions**</br>
+C. heart rate and respiration rates; blood oxygen and hormonal levels</br>
+D. shape/form
+
+### 31)	Which of the following are not involved in the cortisol (CORT) release pathway:
+
+A. hypothalamus release of CRH</br>
+B. anterior pituitary release of ACTH</br>
+C. adrenal cortex responding to ACTH</br>
+**D. posterior pituitary release of melatonin**
+
+### 32)	The rat can detect fine differences in the texture of surfaces using its whiskers alone. Based on this, you predict that the rat somatosensory cortex devoted to processing information from the whiskers is ______.
+
+**A. large**</br>
+B. small</br>
+C. located in the temporal lobe</br>
+D. smaller than the visual cortex 
+
+### 33)	Menthol activates receptors that also respond to ____ temperatures. This helps account for why ______.
+
+A. hot; spicy foods seem hot</br>
+**B. cool; minty flavors seem cool**</br>
+C. mid-range; some foods are bland</br>
+D. cool; super-cooled surfaces can burn
+
+### 34)	In anterograde amnesia, there is an impairment in the ability to _______.
+
+**A. store new facts and events that happen after some surgery or accident**</br>
+B. learn how to carry-out novel perceptual/motor tasks like 'mirror-writing'</br>
+C. recall events that occurred long ago</br>
+D. carry on conversations
+
+### 35)	The NMDA receptor opens when the sending cell _____ and the receiving cell _____.
+
+A. releases Ca+; binds Mg++ ions</br>
+B. binds glutamate; initiates an IPSP</br>
+**C. releases glutamate; depolarizes**</br>
+D. hyperpolarizes; also hyperpolarizes
+
+### 36)	Long-term Potentiation (LTP) occurs when the connection between neuron A and neuron B is ____.
+
+A. made permanent</br>
+B. reduced in importance</br>
+C. reset at its default level</br>
+**D. made stronger**
+
+### 37)	The posterior pituitary releases the hormone _______ in response to a signal from the _____.
+
+**A. vasopressin; hypothalamus**</br>
+B. cortisol; anterior pituitary</br>
+C. cortisol; hypothalamus</br>
+D. oxytocin; pineal gland 
+
+### 38)	The signal from a muscle's stretch receptor fiber makes a _______ contact in the ________ with the alpha motor neuron that ennervates the same muscle. 
+
+**A. monosynaptic; spinal cord**</br>
+B. polysynaptic; dorsal root ganglion</br>
+C. polysynaptic; motor cortex</br>
+D. monosynaptic; thalamus
+
+### 39)	Both Parkinson's Disease and Huntington's Disease cause disruption in the ________.
+
+A. parietal cortex</br>
+B. hindbrain</br>
+**C. basal ganglia**</br>
+D. dermatomes
+
+### 40)	Primary motor cortex (MI/M1) in the _____ lobe has a large area devoted to activating movement in the ______.
+
+A. occipital; eyes</br>
+B. temporal; fingers</br>
+**C. frontal; lips and tongue**</br>
+C. frontal; shoulders and hips
+
+## B. Bonus (4 points)
+
+### 41)	Dr. Gilmore's final lecture on the Cerebral Symphony focused on what artist?
+
+A. Stephen Sondheim</br>
+**B. Beethoven**</br>
+C. Mozart</br>
+D. Picasso
+
+### 42)	The first animals with nervous systems emerged about ______ years ago.
+
+A. 100,000</br>
+B. 50 million</br>
+C. 10,000</br>
+**D. 500 million**
+
+### 43)	The release of GABA typically causes a/an ______ in the receiving cell by opening a channel for _____.
+
+A. EPSP; Na+</br>
+**B. IPSP; Cl-**</br>
+C. EPSP; Ca++</br>
+D. action potential; K+
+
+### 44)	This neuroscience method can be used to study nervous system structure AND function.
+
+A. single-unit recordings</br>
+**B. magnetic resonance imaging (MRI)**</br>
+C. CT/CAT</br>
+D. EEG/MEG
