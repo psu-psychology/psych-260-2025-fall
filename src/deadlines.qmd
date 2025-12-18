@@ -11,4 +11,4 @@ title: "Deadlines"
 | [Tue Nov 11](schedule.qmd#tue-nov-11-2025) | Quiz 3 | [Key](exams/quiz-03.qmd) | [Scores](exams/img/quiz-02-hist.jpg)
 | [Tue Dec 02](schedule.qmd#tue-dec-2-2025) | Exam 3 | [Key](exams/exam-03.qmd) | [Scores](exams/img/exam-03-hist.jpg)
 | [Tue Dec 09](schedule.qmd#tue-dec-9-2025) | Quiz 4 | [Questions](slides/wk-15-2025-12-09-memory.qmd#/quiz-4) | [Scores](exams/img/quiz-04-hist.jpg) |
-| [Tue Dec 16](schedule.qmd#tue-dec-16-2025) | Exam 4 | [Key](exams/exam-04.qmd) | [Scores]() | 
+| [Tue Dec 16](schedule.qmd#tue-dec-16-2025) | Exam 4 | [Key](exams/exam-04.qmd) | [Scores](exams/img/exam-04-hist.jpg) | 
