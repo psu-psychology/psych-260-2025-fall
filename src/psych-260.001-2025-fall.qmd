@@ -1,0 +1,14 @@
+---
+title: "PSYCH 260.001"
+subtitle: "Fall 2025"
+date: last-modified
+format: pdf
+bibliography:
+  - include/bib/psych-260.bib
+---
+
+{{< include _index.qmd >}}
+
+{{< include _schedule.qmd >}}
+
+## References

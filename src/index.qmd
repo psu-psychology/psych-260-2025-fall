@@ -6,5 +6,10 @@ title: "PSYCH 260.001"
 
 {{< include _about.qmd >}}
 
+## Syllabus
+
+This website constitutes the most complete and up-to-date version of materials related to this course.
+A [PDF](psych-260.001-2025-fall.qmd) version is also available.
+
 ## References
 
