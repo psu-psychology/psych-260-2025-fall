@@ -420,7 +420,7 @@ flowchart LR
 - *Anterograde* ('forward' in time) 
     + Damage to information acquired/experienced post-injury
 
-## [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html)^[Henry G. Molaison was identified with his permission after his death in 2008.]
+## Patient HM^[Henry G. Molaison was identified with his permission after his death in 2008.]
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -428,6 +428,32 @@ flowchart LR
 - Bilateral resection of medial temporal lobe (1953)
 - Epilepsy now treatable
 - But, memory impaired
+:::
+::: {.column width=50%}
+![](https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg)
+:::
+::::
+
+## Patient HM
+
+:::: {.columns}
+::: {.column width=50%}
+- [*Retrograde amnesia*](https://en.wikipedia.org/wiki/Retrograde_amnesia)^['backward' in time]
+    + Couldn’t remember 10 yrs before operation
+    + Distant past better than more recent
+:::
+::: {.column width=50%}
+![](https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg)
+:::
+::::
+
+## Patient HM
+
+:::: {.columns}
+::: {.column width=50%}
+- Severe, global [*anterograde amnesia*](https://en.wikipedia.org/wiki/Anterograde_amnesia)^['forward' in time]
+    + Impaired learning of new facts, events, people
+- But, skills (mirror learning) intact
 :::
 ::: {.column width=50%}
 ![](https://www.pbs.org/wgbh/nova/media/images/corkin-hm-memory-08.width-800.jpg)
@@ -442,12 +468,7 @@ flowchart LR
 
 ## HM
 
-- [*Retrograde amnesia*](https://en.wikipedia.org/wiki/Retrograde_amnesia)^['backward' in time]
-    + Couldn’t remember 10 yrs before operation
-    + Distant past better than more recent
-- Severe, global [*anterograde amnesia*](https://en.wikipedia.org/wiki/Anterograde_amnesia)^['forward' in time]
-    + Impaired learning of new facts, events, people
-- But, skills (mirror learning) intact
+
 
 ---
     

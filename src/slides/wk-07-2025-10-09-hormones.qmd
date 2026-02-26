@@ -359,7 +359,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Hypothalamus ->
 - Posterior pituitary
     + *Oxytocin*
-    + *Arginine Vasopressin (AVP, vasopressin)*, also known as anti-diurectic hormone (ADH)
+    + *Arginine Vasopressin (AVP, vasopressin)*, also known as anti-diuretic hormone (ADH)
 
 :::
 ::: {.column width=50%}
@@ -402,7 +402,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 :::: {.columns}
 ::: {.column width=60%}
 - Neural response
-  + Sympathatic NS activation of heart, lungs, etc.
+  + Sympathetic NS activation of heart, lungs, etc.
   + Sympathetic Adrenal Medullary (SAM) axis (also system or response)
     + Releases NE and Epi into bloodstream
 :::
